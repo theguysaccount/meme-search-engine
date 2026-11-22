@@ -1,0 +1,658 @@
+{
+ "about": "Descriptions written before reading the catalog text, keyed by Imgflip template id. tests/js/eval.test.mjs measures how often the right template comes first or in the top 3. showcase: the self-test and example chips use these. Add a query whenever a real description fails.",
+ "queries": [
+  {
+   "id": "181913649",
+   "imgflip_name": "Drake Hotline Bling",
+   "q": "rapper in orange jacket saying no to one thing and yes to another"
+  },
+  {
+   "id": "181913649",
+   "imgflip_name": "Drake Hotline Bling",
+   "q": "guy rejecting then approving"
+  },
+  {
+   "id": "87743020",
+   "imgflip_name": "Two Buttons",
+   "q": "guy sweating choosing between two red buttons"
+  },
+  {
+   "id": "112126428",
+   "imgflip_name": "Distracted Boyfriend",
+   "q": "guy looking back at another girl"
+  },
+  {
+   "id": "112126428",
+   "imgflip_name": "Distracted Boyfriend",
+   "q": "man checking out woman in red dress while his girlfriend is mad"
+  },
+  {
+   "id": "124822590",
+   "imgflip_name": "Left Exit 12 Off Ramp",
+   "q": "car swerving onto the highway exit ramp"
+  },
+  {
+   "id": "129242436",
+   "imgflip_name": "Change My Mind",
+   "q": "guy sitting at a table outside with a sign"
+  },
+  {
+   "id": "438680",
+   "imgflip_name": "Batman Slapping Robin",
+   "q": "batman slaps robin"
+  },
+  {
+   "id": "217743513",
+   "imgflip_name": "UNO Draw 25 Cards",
+   "q": "uno card do this or draw 25"
+  },
+  {
+   "id": "131087935",
+   "imgflip_name": "Running Away Balloon",
+   "q": "person reaching for a balloon while someone holds them back"
+  },
+  {
+   "id": "4087833",
+   "imgflip_name": "Waiting Skeleton",
+   "q": "skeleton sitting on a bench waiting forever"
+  },
+  {
+   "id": "61579",
+   "imgflip_name": "One Does Not Simply",
+   "q": "lord of the rings guy one does not simply"
+  },
+  {
+   "id": "93895088",
+   "imgflip_name": "Expanding Brain",
+   "q": "brain getting bigger and glowing"
+  },
+  {
+   "id": "102156234",
+   "imgflip_name": "Mocking Spongebob",
+   "q": "spongebob bent over like a chicken mocking someone"
+  },
+  {
+   "id": "97984",
+   "imgflip_name": "Disaster Girl",
+   "q": "little girl smiling in front of a burning house"
+  },
+  {
+   "id": "91538330",
+   "imgflip_name": "X, X Everywhere",
+   "q": "buzz lightyear showing woody something everywhere"
+  },
+  {
+   "id": "1035805",
+   "imgflip_name": "Boardroom Meeting Suggestion",
+   "q": "guy gets thrown out the window in a meeting"
+  },
+  {
+   "id": "188390779",
+   "imgflip_name": "Woman Yelling At Cat",
+   "q": "woman yelling at a cat at the dinner table"
+  },
+  {
+   "id": "131940431",
+   "imgflip_name": "Gru's Plan",
+   "q": "villain presenting his plan on a board and the last step goes wrong"
+  },
+  {
+   "id": "101470",
+   "imgflip_name": "Ancient Aliens",
+   "q": "guy with crazy hair saying it was aliens"
+  },
+  {
+   "id": "247375501",
+   "imgflip_name": "Buff Doge vs. Cheems",
+   "q": "muscular dog next to a small weak dog"
+  },
+  {
+   "id": "222403160",
+   "imgflip_name": "Bernie I Am Once Again Asking For Your Support",
+   "q": "old politician in a parka asking for support again"
+  },
+  {
+   "id": "89370399",
+   "imgflip_name": "Roll Safe Think About It",
+   "q": "guy tapping his head like he has a smart idea"
+  },
+  {
+   "id": "61520",
+   "imgflip_name": "Futurama Fry",
+   "q": "squinting cartoon guy not sure if"
+  },
+  {
+   "id": "119139145",
+   "imgflip_name": "Blank Nut Button",
+   "q": "hand smashing a big blue button"
+  },
+  {
+   "id": "178591752",
+   "imgflip_name": "Tuxedo Winnie The Pooh",
+   "q": "fancy winnie the pooh in a tuxedo"
+  },
+  {
+   "id": "135256802",
+   "imgflip_name": "Epic Handshake",
+   "q": "two muscular arms clasping hands"
+  },
+  {
+   "id": "80707627",
+   "imgflip_name": "Sad Pablo Escobar",
+   "q": "man waiting alone looking sad in three pictures"
+  },
+  {
+   "id": "114585149",
+   "imgflip_name": "Inhaling Seagull",
+   "q": "seagull taking a deep breath before screaming"
+  },
+  {
+   "id": "252600902",
+   "imgflip_name": "Always Has Been",
+   "q": "astronaut pointing a gun at another astronaut looking at earth"
+  },
+  {
+   "id": "5496396",
+   "imgflip_name": "Leonardo Dicaprio Cheers",
+   "q": "leonardo dicaprio raising his glass in a toast"
+  },
+  {
+   "id": "155067746",
+   "imgflip_name": "Surprised Pikachu",
+   "q": "pikachu with its mouth open in shock"
+  },
+  {
+   "id": "27813981",
+   "imgflip_name": "Hide the Pain Harold",
+   "q": "old man smiling but you can tell he is in pain"
+  },
+  {
+   "id": "100777631",
+   "imgflip_name": "Is This A Pigeon",
+   "q": "anime guy pointing at a butterfly asking what it is"
+  },
+  {
+   "id": "123999232",
+   "imgflip_name": "The Scroll Of Truth",
+   "q": "guy reads a scroll and throws it away angry"
+  },
+  {
+   "id": "124055727",
+   "imgflip_name": "Y'all Got Any More Of That",
+   "q": "dave chappelle asking if you got any more"
+  },
+  {
+   "id": "161865971",
+   "imgflip_name": "Marked Safe From",
+   "q": "facebook check in marked safe from"
+  },
+  {
+   "id": "148909805",
+   "imgflip_name": "Monkey Puppet",
+   "q": "puppet monkey looking away awkwardly"
+  },
+  {
+   "id": "21735",
+   "imgflip_name": "The Rock Driving",
+   "q": "the rock driving and turning to look at the passenger"
+  },
+  {
+   "id": "28251713",
+   "imgflip_name": "Oprah You Get A",
+   "q": "talk show host yelling everybody gets one"
+  },
+  {
+   "id": "226297822",
+   "imgflip_name": "Panik Kalm Panik",
+   "q": "panic calm panic"
+  },
+  {
+   "id": "180190441",
+   "imgflip_name": "They're The Same Picture",
+   "q": "office lady saying they're the same picture"
+  },
+  {
+   "id": "134797956",
+   "imgflip_name": "American Chopper Argument",
+   "q": "two guys arguing and throwing a chair"
+  },
+  {
+   "id": "110163934",
+   "imgflip_name": "I Bet He's Thinking About Other Women",
+   "q": "couple in bed and she thinks he is thinking about other women"
+  },
+  {
+   "id": "84341851",
+   "imgflip_name": "Evil Kermit",
+   "q": "kermit talking to a hooded dark version of himself"
+  },
+  {
+   "id": "55311130",
+   "imgflip_name": "This Is Fine",
+   "q": "dog sitting in a room on fire drinking coffee"
+  },
+  {
+   "id": "322841258",
+   "imgflip_name": "Anakin Padme 4 Panel",
+   "q": "star wars couple in a meadow for the better right"
+  },
+  {
+   "id": "79132341",
+   "imgflip_name": "Bike Fall",
+   "q": "guy puts a stick in his own bike wheel and falls"
+  },
+  {
+   "id": "135678846",
+   "imgflip_name": "Who Killed Hannibal",
+   "q": "guy shoots someone then asks who would do this"
+  },
+  {
+   "id": "309868304",
+   "imgflip_name": "Trade Offer",
+   "q": "man in suit offering a trade deal i receive you receive"
+  },
+  {
+   "id": "195515965",
+   "imgflip_name": "Clown Applying Makeup",
+   "q": "person putting on clown makeup step by step"
+  },
+  {
+   "id": "259237855",
+   "imgflip_name": "Laughing Leo",
+   "q": "leonardo dicaprio laughing in a chair"
+  },
+  {
+   "id": "99683372",
+   "imgflip_name": "Sleeping Shaq",
+   "q": "basketball player sleeping then wide awake"
+  },
+  {
+   "id": "252758727",
+   "imgflip_name": "Mother Ignoring Kid Drowning In A Pool",
+   "q": "mom ignores kid drowning in the pool"
+  },
+  {
+   "id": "166969924",
+   "imgflip_name": "Flex Tape",
+   "q": "guy fixing a leak with tape"
+  },
+  {
+   "id": "163573",
+   "imgflip_name": "Imagination Spongebob",
+   "q": "spongebob making a rainbow with his hands"
+  },
+  {
+   "id": "177682295",
+   "imgflip_name": "You Guys are Getting Paid",
+   "q": "guy shocked that you guys are getting paid"
+  },
+  {
+   "id": "119215120",
+   "imgflip_name": "Types of Headaches meme",
+   "q": "types of headaches chart"
+  },
+  {
+   "id": "67452763",
+   "imgflip_name": "Squidward window",
+   "q": "squidward looking out the window"
+  },
+  {
+   "id": "104893621",
+   "imgflip_name": "Grim Reaper Knocking Door",
+   "q": "grim reaper knocking on doors"
+  },
+  {
+   "id": "145139900",
+   "imgflip_name": "Scooby doo mask reveal",
+   "q": "pulling the mask off the villain to reveal who it really is"
+  },
+  {
+   "id": "247113703",
+   "imgflip_name": "A train hitting a school bus",
+   "q": "train crashing into a school bus"
+  },
+  {
+   "id": "224514655",
+   "imgflip_name": "Anime Girl Hiding from Terminator",
+   "q": "girl hiding under a table from a robot"
+  },
+  {
+   "id": "110133729",
+   "imgflip_name": "spiderman pointing at spiderman",
+   "q": "two spidermen pointing at each other"
+  },
+  {
+   "id": "162372564",
+   "imgflip_name": "Domino Effect",
+   "q": "tiny domino knocking over a giant domino"
+  },
+  {
+   "id": "133946291",
+   "imgflip_name": "You know, I'm something of a scientist myself",
+   "q": "willem dafoe saying he is something of a scientist himself"
+  },
+  {
+   "id": "371619279",
+   "imgflip_name": "Megamind no bitches",
+   "q": "megamind asking no"
+  },
+  {
+   "id": "61556",
+   "imgflip_name": "Grandma Finds The Internet",
+   "q": "old lady using a computer for the first time"
+  },
+  {
+   "id": "342785297",
+   "imgflip_name": "Gus Fring we are not the same",
+   "q": "we are not the same"
+  },
+  {
+   "id": "249257686",
+   "imgflip_name": "Bugs bunny communist",
+   "q": "bugs bunny in a soviet hat saying our"
+  },
+  {
+   "id": "505705955",
+   "imgflip_name": "Absolute Cinema",
+   "q": "man with both hands raised saying absolute cinema"
+  },
+  {
+   "id": "427308417",
+   "imgflip_name": "0 days without (Lenny, Simpsons)",
+   "q": "zero days without an accident sign"
+  },
+  {
+   "id": "533936279",
+   "imgflip_name": "Bell Curve",
+   "q": "iq bell curve where the dumb and smart guys agree"
+  },
+  {
+   "id": "354700819",
+   "imgflip_name": "Two guys on a bus",
+   "q": "two guys on a bus one sad at the window one happy"
+  },
+  {
+   "id": "206151308",
+   "imgflip_name": "Spider Man Triple",
+   "q": "three spidermen pointing at each other"
+  },
+  {
+   "id": "137501417",
+   "imgflip_name": "Friendship ended",
+   "q": "friendship ended with him now he is my best friend"
+  },
+  {
+   "id": "187102311",
+   "imgflip_name": "Three-headed Dragon",
+   "q": "three headed dragon with one goofy head"
+  },
+  {
+   "id": "61585",
+   "imgflip_name": "Bad Luck Brian",
+   "q": "nerdy kid school photo with braces"
+  },
+  {
+   "id": "101956210",
+   "imgflip_name": "Whisper and Goosebumps",
+   "q": "guy whispers in someone's ear and they get goosebumps"
+  },
+  {
+   "id": "72525473",
+   "imgflip_name": "say the line bart! simpsons",
+   "q": "say the line bart"
+  },
+  {
+   "id": "92084495",
+   "imgflip_name": "Charlie Conspiracy (Always Sunny in Philidelphia)",
+   "q": "guy explaining a conspiracy with a board full of red string"
+  },
+  {
+   "id": "284929871",
+   "imgflip_name": "They don't know",
+   "q": "guy standing in the corner at a party thinking they don't know"
+  },
+  {
+   "id": "77045868",
+   "imgflip_name": "Pawn Stars Best I Can Do",
+   "q": "pawn shop guy saying best i can do"
+  },
+  {
+   "id": "8072285",
+   "imgflip_name": "Doge",
+   "q": "shiba inu dog with side eye and colorful text"
+  },
+  {
+   "id": "61544",
+   "imgflip_name": "Success Kid",
+   "q": "baby on the beach clenching a fist of sand"
+  },
+  {
+   "id": "405658",
+   "imgflip_name": "Grumpy Cat",
+   "q": "cat with a permanent frown"
+  },
+  {
+   "id": "61527",
+   "imgflip_name": "Y U No",
+   "q": "stick figure with arms up asking why you no"
+  },
+  {
+   "id": "100947",
+   "imgflip_name": "Matrix Morpheus",
+   "q": "morpheus asking what if i told you"
+  },
+  {
+   "id": "61516",
+   "imgflip_name": "Philosoraptor",
+   "q": "dinosaur thinking with claw on its chin"
+  },
+  {
+   "id": "1509839",
+   "imgflip_name": "Captain Picard Facepalm",
+   "q": "star trek captain face palm"
+  },
+  {
+   "id": "61546",
+   "imgflip_name": "Brace Yourselves X is Coming",
+   "q": "game of thrones guy saying brace yourselves"
+  },
+  {
+   "id": "132769734",
+   "imgflip_name": "Hard To Swallow Pills",
+   "q": "hand holding a bottle of hard to swallow pills"
+  },
+  {
+   "id": "196652226",
+   "imgflip_name": "Spongebob Ight Imma Head Out",
+   "q": "spongebob getting up from his chair to leave"
+  },
+  {
+   "id": "16464531",
+   "imgflip_name": "But That's None Of My Business",
+   "q": "kermit sipping tea none of my business"
+  },
+  {
+   "id": "61582",
+   "imgflip_name": "Creepy Condescending Wonka",
+   "q": "willy wonka with a condescending smile"
+  },
+  {
+   "id": "101716",
+   "imgflip_name": "Yo Dawg Heard You",
+   "q": "xzibit yo dawg i heard you like"
+  },
+  {
+   "id": "61580",
+   "imgflip_name": "Too Damn High",
+   "q": "the rent is too damn high guy"
+  },
+  {
+   "id": "460541",
+   "imgflip_name": "Jack Sparrow Being Chased",
+   "q": "pirate running away from a crowd"
+  },
+  {
+   "id": "195389",
+   "imgflip_name": "Sparta Leonidas",
+   "q": "this is sparta"
+  },
+  {
+   "id": "444501",
+   "imgflip_name": "Maury Lie Detector",
+   "q": "talk show lie detector results"
+  },
+  {
+   "id": "176908",
+   "imgflip_name": "Shut Up And Take My Money Fry",
+   "q": "fry holding cash shut up and take my money"
+  },
+  {
+   "id": "1232104",
+   "imgflip_name": "Pepperidge Farm Remembers",
+   "q": "old man saying pepperidge farm remembers"
+  },
+  {
+   "id": "61583",
+   "imgflip_name": "Conspiracy Keanu",
+   "q": "keanu reeves amazed face what if"
+  },
+  {
+   "id": "142921050",
+   "imgflip_name": "Car Salesman Slaps Roof Of Car",
+   "q": "salesman slapping the roof of a car"
+  },
+  {
+   "id": "197671929",
+   "imgflip_name": "Kombucha Girl",
+   "q": "woman trying a drink and making a disgusted then unsure face"
+  },
+  {
+   "id": "190327839",
+   "imgflip_name": "Giga Chad",
+   "q": "black and white photo of a man with a huge chiseled jaw"
+  },
+  {
+   "id": "100952",
+   "imgflip_name": "Overly Attached Girlfriend",
+   "q": "girl with creepy wide eyes and a big smile"
+  },
+  {
+   "id": "100948",
+   "imgflip_name": "Sudden Clarity Clarence",
+   "q": "guy at a party with a sudden realization"
+  },
+  {
+   "id": "93160967",
+   "imgflip_name": "Skinner Out Of Touch",
+   "q": "principal skinner asking am i out of touch"
+  },
+  {
+   "id": "145699196",
+   "imgflip_name": "Don't make me tap the sign",
+   "q": "guy tapping a sign"
+  },
+  {
+   "id": "146291180",
+   "imgflip_name": "thanos what did it cost",
+   "q": "thanos what did it cost everything"
+  },
+  {
+   "id": "7761261",
+   "imgflip_name": "Unpopular Opinion Puffin",
+   "q": "puffin with an unpopular opinion"
+  },
+  {
+   "id": "74191766",
+   "imgflip_name": "Arthur Fist",
+   "q": "cartoon aardvark clenching his fist"
+  },
+  {
+   "id": "13036679",
+   "imgflip_name": "Heavy Breathing Cat",
+   "q": "cat breathing heavily"
+  },
+  {
+   "id": "16350739",
+   "imgflip_name": "Michael Jackson Popcorn",
+   "q": "michael jackson eating popcorn in a theater"
+  },
+  {
+   "id": "237495615",
+   "imgflip_name": "Coffin Dance",
+   "q": "pallbearers dancing with a coffin"
+  },
+  {
+   "id": "186821996",
+   "imgflip_name": "stonks",
+   "q": "man in suit with stock chart arrow going up"
+  },
+  {
+   "id": "562391530",
+   "imgflip_name": "Chill guy",
+   "q": "dog in a sweater with hands in his pockets"
+  },
+  {
+   "id": "373996592",
+   "imgflip_name": "Bateman walking",
+   "q": "american psycho guy walking with headphones"
+  },
+  {
+   "id": "42003405",
+   "imgflip_name": "Crying cat",
+   "q": "cat with tears in its eyes"
+  },
+  {
+   "id": "47169131",
+   "imgflip_name": "Wolverine Remember",
+   "q": "wolverine holding a photo and remembering"
+  },
+  {
+   "id": "96633334",
+   "imgflip_name": "Guess I'll die",
+   "q": "guy shrugging guess i'll die"
+  },
+  {
+   "id": "188789496",
+   "imgflip_name": "Moe throws Barney",
+   "q": "bartender throwing a guy out of the bar"
+  }
+ ],
+ "showcase": [
+  {
+   "id": "112126428",
+   "q": "guy looking back at another girl"
+  },
+  {
+   "id": "55311130",
+   "q": "dog sitting in a room on fire drinking coffee"
+  },
+  {
+   "id": "87743020",
+   "q": "guy sweating choosing between two red buttons"
+  },
+  {
+   "id": "188390779",
+   "q": "woman yelling at a cat at the dinner table"
+  },
+  {
+   "id": "97984",
+   "q": "little girl smiling in front of a burning house"
+  },
+  {
+   "id": "27813981",
+   "q": "old man smiling but you can tell he is in pain"
+  },
+  {
+   "id": "155067746",
+   "q": "pikachu with its mouth open in shock"
+  },
+  {
+   "id": "93895088",
+   "q": "brain getting bigger and glowing"
+  }
+ ],
+ "typo": {
+  "id": "112126428",
+  "q": "distracted boyfreind"
+ }
+}

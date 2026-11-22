@@ -1,0 +1,31 @@
+name: Removal request
+description: You own the rights to an image or are pictured in one, and want this site to stop showing or describing it.
+title: "Removal: "
+labels: ["removal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This site hosts no images: pictures load from Imgflip. A removal here switches the page to text only, or takes it down.
+        No proof is needed and there's no argument. To have the image removed from where it is hosted, use Imgflip's own form: https://imgflip.com/image-removal-request
+        Please don't put private contact details in this public issue.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: https://theguysaccount.github.io/meme-search-engine/meme/...
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: What should happen
+      options:
+        - Stop showing the picture (keep a text description)
+        - Remove the page entirely
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Your connection to the image (optional)

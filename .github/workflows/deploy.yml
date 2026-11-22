@@ -1,0 +1,112 @@
+# Refresh this week's templates from Imgflip (scheduled and manual runs), test, build, drive the built site in
+# headless Chrome, save the refreshed data, deploy to GitHub Pages, smoke-test the live site, ping IndexNow.
+# Fails safe: an Imgflip outage keeps the last good data (warning only); any failed test or check stops the
+# run before anything is committed or deployed, so the last good site stays live.
+name: Refresh and deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Pull fresh data from Imgflip first"
+        type: boolean
+        default: true
+  schedule:
+    - cron: "43 6 * * 1"    # Mondays 06:43 UTC
+    - cron: "17 15 * * 4"   # Thursdays 15:17 UTC (a second chance if Monday's run is skipped)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+env:
+  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  EMBED_IMAGES: ${{ vars.EMBED_IMAGES || '1' }}
+  GOATCOUNTER_URL: ${{ vars.GOATCOUNTER_URL }}
+  SPONSOR_URL: ${{ vars.SPONSOR_URL }}
+  SPONSOR_LABEL: ${{ vars.SPONSOR_LABEL }}
+  GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Install Pillow (share cards)
+        run: python3 -m pip install --quiet "pillow==11.3.0"
+      - name: Pull this week's templates from Imgflip
+        id: refresh
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: python3 pipeline/refresh.py
+      - name: Unit tests
+        run: |
+          python3 -m unittest discover -s tests -v
+          node --test tests/js/
+      - name: Build
+        run: REQUIRE_OG=1 python3 pipeline/build.py
+      - name: Drive the built site in headless Chrome
+        run: scripts/e2e.sh
+      - name: Save the refreshed data
+        if: steps.refresh.outcome == 'success'
+        run: |
+          git add data/imgflip.json data/trending.json
+          if git diff --cached --quiet; then echo "no data change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Imgflip templates for $(date -u +%F) [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet origin main && git push --quiet origin HEAD:main && exit 0
+            sleep $((attempt * 10))
+          done
+          echo "::warning::could not push the refreshed data; the site still deploys with it, and the next run refreshes again"
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - uses: actions/upload-artifact@v7
+        with:
+          name: urls
+          path: dist/urls.txt
+          retention-days: 7
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  after-deploy:
+    needs: deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
+        with:
+          name: urls
+      - name: Smoke-test the live site
+        run: |
+          for attempt in 1 2 3; do
+            scripts/e2e.sh "$SITE_URL/" && exit 0
+            sleep 60
+          done
+          exit 1
+      - name: Tell search engines (IndexNow)
+        run: python3 scripts/indexnow.py urls.txt

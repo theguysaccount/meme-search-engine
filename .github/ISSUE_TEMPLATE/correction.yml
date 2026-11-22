@@ -1,0 +1,20 @@
+name: Correction
+description: A template page has the wrong name, description, origin or example.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The address of the page with the mistake.
+      placeholder: https://theguysaccount.github.io/meme-search-engine/meme/...
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong, and what's right
+      description: If you can, add a link that shows the right answer.
+    validations:
+      required: true
