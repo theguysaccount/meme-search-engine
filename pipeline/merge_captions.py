@@ -84,13 +84,23 @@ def main():
                 return options[0]
         return None
 
-    def canonical(tid, seen=()):
-        if entries[tid][1].get("exclude"):
-            return tid
-        other = target_of(tid)
-        if not other or other in seen:
-            return tid
-        return canonical(other, seen + (tid,))
+    order = {item["id"]: i for i, (item, _) in enumerate(pairs)}
+
+    def canonical(tid):
+        """Follow variant_of links to the template that gets the page. If two uploads point at each other (a cycle),
+        the one listed first (the more popular upload) gets the page and the rest become its versions."""
+        chain = [tid]
+        while True:
+            cur = chain[-1]
+            if entries[cur][1].get("exclude"):
+                return cur
+            nxt = target_of(cur)
+            if not nxt:
+                return cur
+            if nxt in chain:
+                cycle = chain[chain.index(nxt):]
+                return min(cycle, key=lambda x: order[x])
+            chain.append(nxt)
 
     new_files, variants, skipped, blocked = {}, [], [], []
     rank = {"low": 0, "medium": 1, "high": 2}

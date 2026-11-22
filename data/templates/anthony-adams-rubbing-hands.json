@@ -1,0 +1,60 @@
+{
+ "slug": "anthony-adams-rubbing-hands",
+ "name": "Anthony Adams Rubbing Hands",
+ "aka": [
+  "Black Guy Hiding Behind Tree"
+ ],
+ "look": "A photo of a smiling Black man with a goatee in a bright yellow blazer leaning out from behind a thick tree trunk on the left. He rubs his hands together with a sly, eager look against a soft, sunny, out-of-focus outdoor background.",
+ "text": [],
+ "use": "Shows sly, scheming anticipation. The caption names an opportunity someone is quietly waiting to pounce on, like free food, fresh gossip, or a friend's mistake they can tease them about.",
+ "slots": [
+  "the opportunity being waited for (caption above the picture)"
+ ],
+ "examples": [
+  [
+   "When my friend says \"I'm not hungry\" and then orders fries"
+  ],
+  [
+   "Me hearing my coworkers whisper about drama when I have nothing planned tonight"
+  ]
+ ],
+ "describe": [
+  "man in yellow suit peeking out from behind a tree",
+  "guy rubbing his hands together behind a tree scheming",
+  "black man in a yellow blazer peeking around a tree trunk",
+  "sneaky dude lurking behind a tree waiting excitedly",
+  "person in bright yellow jacket plotting something rubbing hands"
+ ],
+ "tags": [
+  "yellow suit",
+  "tree",
+  "rubbing hands",
+  "scheming",
+  "sneaky",
+  "anticipation",
+  "peeking"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of former NFL player Anthony Adams peeking from behind a tree in a yellow blazer.",
+ "people": "public",
+ "imgflip": {
+  "id": "195710097",
+  "code": "38iqvl",
+  "image": "38iqvl.png",
+  "width": 933,
+  "height": 1023,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "196595107",
+   "name": "Anthony Adams Rubbing Hands"
+  }
+ ],
+ "rank_all_time": 197,
+ "sure": "high",
+ "added": "2026-11-22"
+}

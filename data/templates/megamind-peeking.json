@@ -1,0 +1,62 @@
+{
+ "slug": "megamind-peeking",
+ "name": "Megamind Peeking",
+ "aka": [
+  "Megamind No Bitches"
+ ],
+ "look": "A low-angle close-up of Megamind, the blue-skinned alien with a huge bald head, peering down into the frame with wide green eyes, raised brows and a slight pout. The dim background shows dark metal walls and spikes.",
+ "text": [],
+ "use": "Megamind peers down skeptically, usually under a caption in the form \"No [thing]?\" that mocks someone for lacking something. It also works as a curious or judgmental peek at any situation.",
+ "slots": [
+  "top caption: 'No [thing]?' or the question he is asking",
+  "bottom caption: optional follow-up"
+ ],
+ "examples": [
+  [
+   "No snacks in the house?",
+   "On a Friday night?"
+  ],
+  [
+   "No backup of your files?",
+   "Bold strategy"
+  ]
+ ],
+ "describe": [
+  "blue alien with a big head peeking down at the camera",
+  "megamind staring with raised eyebrows from above",
+  "megamind close up looking skeptical",
+  "blue cartoon villain face leaning into the frame",
+  "megamind face used for no blank question memes"
+ ],
+ "tags": [
+  "megamind",
+  "dreamworks",
+  "skeptical",
+  "peeking",
+  "blue alien",
+  "close-up"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Megamind",
+ "origin": "A close-up of the title character from the 2010 DreamWorks animated film Megamind.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "370867422",
+  "code": "64sz4u",
+  "image": "64sz4u.png",
+  "width": 540,
+  "height": 540,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "371619279",
+   "name": "Megamind no bitches"
+  }
+ ],
+ "rank_all_time": 78,
+ "sure": "high",
+ "added": "2026-11-22"
+}
