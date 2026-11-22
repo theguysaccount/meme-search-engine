@@ -6,7 +6,6 @@ name: Weekly self-test
 on:
   schedule:
     - cron: "29 11 * * 6"   # Saturdays 11:29 UTC
-    - cron: "23 */2 22,23 11 *"   # TEMPORARY (Nov 22-23 only): proves the schedule trigger on a new repo; remove after the first scheduled run
   workflow_dispatch:
 
 permissions:

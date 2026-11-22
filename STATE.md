@@ -6,7 +6,8 @@
   (tinder-for-memes and others under theguysaccount), and the CDP screenshot script (idea-locator-prophet-fund).
 - Works now: describe-a-meme search over the catalog, a page per template, trending page (weekly from Imgflip),
   browse pages, A to Z list, JSON API, embeddable search box, text share cards, sitemap, IndexNow.
-- Runs by itself: refresh and deploy twice a week, weekly self-test with a stale-data check and keep-alive.
+- Runs by itself: refresh and deploy twice a week, weekly self-test with a stale-data check and keep-alive. The
+  scheduled trigger is proven: the self-test's first scheduled run passed on 2026-11-22 (run 45051936579).
 - Needs a human: content routine for new templates, domain, sponsor, analytics, Search Console (OPERATIONS.md keys).
 - Known gaps: templates that are new on Imgflip appear by name only until the routine describes them; 7 animated
   templates without a still image and 4 low-confidence entries were not published.
