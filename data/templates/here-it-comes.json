@@ -1,0 +1,56 @@
+{
+ "slug": "here-it-comes",
+ "name": "Here It Comes",
+ "aka": [],
+ "look": "A selfie of a man with short dark hair in a dark T-shirt screaming at the camera, eyes squinted and mouth wide open, while a tall brown dust devil spins across a flat red desert behind him under a blue sky.",
+ "text": [],
+ "use": "The swirling dust storm is something big and unstoppable heading your way, and the screaming man is you as it arrives. Labels name the incoming disaster and the person panicking.",
+ "slots": [
+  "label on the dust devil (what is coming)",
+  "label on the screaming man (who is about to get hit)"
+ ],
+ "examples": [
+  [
+   "Finals week",
+   "Me, who hasn't opened the textbook"
+  ],
+  [
+   "My credit card bill after the holidays",
+   "Me"
+  ]
+ ],
+ "describe": [
+  "guy screaming in a selfie with a tornado behind him",
+  "man yelling at the camera as a dust storm spins in the desert",
+  "dude taking a selfie in front of a whirlwind in the outback",
+  "screaming man with a dust devil coming right at him",
+  "terrified selfie with a twister over red dirt"
+ ],
+ "tags": [
+  "selfie",
+  "screaming",
+  "tornado",
+  "dust devil",
+  "desert",
+  "panic",
+  "disaster"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "170049790",
+  "code": "2t8r9a",
+  "image": "2t8r9a.png",
+  "width": 851,
+  "height": 471,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 266,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

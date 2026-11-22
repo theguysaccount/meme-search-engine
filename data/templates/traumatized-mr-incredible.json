@@ -1,0 +1,60 @@
+{
+ "slug": "traumatized-mr-incredible",
+ "name": "Traumatized Mr. Incredible",
+ "aka": [
+  "Mr. Incredible Becoming Uncanny",
+  "Normal and Dark Mr. Incredible"
+ ],
+ "look": "Two panels side by side. Left: a 3D render of Mr. Incredible in full color, smiling contentedly against a gray background. Right: the same face in grainy black and white with deep shadowed eyes and a strained, haunted grin.",
+ "text": [],
+ "use": "Contrasts innocence with disturbing knowledge. The left side is people who don't know a fact and the right side is people who do, so the caption pairs a harmless topic with its creepy or depressing truth.",
+ "slots": [
+  "people who don't know (left, smiling)",
+  "people who know the unsettling truth (right, haunted)"
+ ],
+ "examples": [
+  [
+   "People who don't know how hot dogs are made",
+   "People who know how hot dogs are made"
+  ]
+ ],
+ "describe": [
+  "mr incredible happy on one side and creepy dark on the other",
+  "cartoon dad smiling then a black and white traumatized face",
+  "pixar superhero normal next to a haunted uncanny version",
+  "smiling animated man beside a scary shadowy copy of himself",
+  "people who know vs people who don't with mr incredible"
+ ],
+ "tags": [
+  "the incredibles",
+  "uncanny",
+  "creepy",
+  "knowledge",
+  "black and white",
+  "pixar",
+  "contrast"
+ ],
+ "kind": "render",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "The Incredibles",
+ "origin": "Uses Mr. Incredible from Pixar's The Incredibles films, with the right side edited to look haunted.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "340157305",
+  "code": "5mir21",
+  "image": "5mir21.jpg",
+  "width": 1600,
+  "height": 900,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "336492590",
+   "name": "Normal and dark mr.incredibles"
+  }
+ ],
+ "rank_all_time": 306,
+ "sure": "high",
+ "added": "2026-11-22"
+}

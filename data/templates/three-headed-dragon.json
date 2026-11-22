@@ -1,0 +1,62 @@
+{
+ "slug": "three-headed-dragon",
+ "name": "Three-Headed Dragon",
+ "aka": [],
+ "look": "A drawing of a three-headed golden dragon, like King Ghidorah, against a dark stormy blue sky. The left and middle heads glare with red eyes and bared fangs, while the right head looks goofy with googly eyes and its tongue sticking out.",
+ "text": [],
+ "use": "Compares three related things where two are serious, competent or intimidating and the third is silly, clueless or embarrassing. Each head gets a label, with the derpy right head as the odd one out.",
+ "slots": [
+  "top caption: the group or topic (optional)",
+  "label on the left head",
+  "label on the middle head",
+  "label on the goofy right head"
+ ],
+ "examples": [
+  [
+   "Breakfast foods",
+   "Pancakes",
+   "Waffles",
+   "Cereal eaten straight from the box at 3 pm"
+  ],
+  [
+   "Game controller buttons",
+   "Jump",
+   "Attack",
+   "The one I keep pressing by accident"
+  ]
+ ],
+ "describe": [
+  "three headed dragon with one derpy head",
+  "two angry dragon heads and one goofy one sticking its tongue out",
+  "gold dragon with three heads and the right one looks dumb",
+  "monster with three heads where one is not like the others",
+  "king ghidorah drawing with a silly googly eyed head"
+ ],
+ "tags": [
+  "dragon",
+  "three heads",
+  "derp",
+  "king ghidorah",
+  "odd one out",
+  "drawing",
+  "comparison"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "187102311",
+  "code": "33e92f",
+  "image": "33e92f.jpg",
+  "width": 680,
+  "height": 544,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 118,
+ "sure": "high",
+ "added": "2026-11-22"
+}

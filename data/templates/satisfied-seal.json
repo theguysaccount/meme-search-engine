@@ -1,0 +1,56 @@
+{
+ "slug": "satisfied-seal",
+ "name": "Satisfied Seal",
+ "aka": [],
+ "look": "A close-up photo of a gray, speckled seal with its eyes squeezed shut and the corners of its mouth turned up in a blissful, contented smile, long white whiskers fanning out against a pale background.",
+ "text": [],
+ "use": "Expresses deep, smug satisfaction. The caption describes a small, perfect moment or something going exactly right, and the seal's blissful smile shows how good it feels.",
+ "slots": [
+  "the satisfying situation (top)",
+  "the payoff (bottom)"
+ ],
+ "examples": [
+  [
+   "Peeled off the screen protector",
+   "In one piece with no bubbles"
+  ],
+  [
+   "Found money in my old jeans",
+   "Didn't even have to do laundry for it"
+  ]
+ ],
+ "describe": [
+  "happy seal with its eyes closed smiling",
+  "seal looking very pleased with itself",
+  "close up of a smug, content seal face",
+  "gray seal with whiskers grinning blissfully",
+  "seal that feels very satisfied"
+ ],
+ "tags": [
+  "seal",
+  "satisfied",
+  "content",
+  "smug",
+  "animal",
+  "smile",
+  "close up"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "23909796",
+  "code": "e8gx0",
+  "image": "e8gx0.jpg",
+  "width": 620,
+  "height": 412,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 184,
+ "sure": "high",
+ "added": "2026-11-22"
+}

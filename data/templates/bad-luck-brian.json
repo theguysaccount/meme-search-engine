@@ -1,0 +1,56 @@
+{
+ "slug": "bad-luck-brian",
+ "name": "Bad Luck Brian",
+ "aka": [],
+ "look": "A school picture-day portrait of a teenage boy with short strawberry-blond hair and braces, grinning widely in a red plaid sweater vest over a light blue polo shirt against a mottled purple backdrop.",
+ "text": [],
+ "use": "The top line sets up an ordinary situation and the bottom line delivers the most unlucky outcome possible, often absurdly unfortunate.",
+ "slots": [
+  "the ordinary setup (top)",
+  "the unlucky outcome (bottom)"
+ ],
+ "examples": [
+  [
+   "Gets the window seat",
+   "Seat has no window"
+  ],
+  [
+   "Finally gets a snow day",
+   "It's on a Saturday"
+  ]
+ ],
+ "describe": [
+  "cheesy school photo of a kid with braces in a plaid vest",
+  "teen boy yearbook picture with a goofy smile",
+  "red haired kid with braces grinning in a sweater vest",
+  "unlucky looking boy school portrait with a purple background",
+  "kid with a big smile and a red plaid sweater vest"
+ ],
+ "tags": [
+  "school photo",
+  "yearbook",
+  "braces",
+  "sweater vest",
+  "bad luck",
+  "teenager",
+  "advice animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A school yearbook photo that became a meme in 2012.",
+ "people": "private",
+ "imgflip": {
+  "id": "61585",
+  "code": "1bip",
+  "image": "1bip.jpg",
+  "width": 475,
+  "height": 562,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 42,
+ "sure": "high",
+ "added": "2026-11-22"
+}

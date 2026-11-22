@@ -1,0 +1,56 @@
+{
+ "slug": "back-in-my-day",
+ "name": "Back In My Day",
+ "aka": [],
+ "look": "An elderly man in a black top hat, round wire-rimmed glasses, a gray scarf and a paisley cravat scowls and wags his index finger at the camera, as if scolding someone, against a plain beige wall.",
+ "text": [],
+ "use": "A grumpy old-timer lectures about how things were harder or better in the past. The top caption starts 'Back in my day' and the bottom describes the exaggerated hardship or old-fashioned way of doing things.",
+ "slots": [
+  "top caption: usually 'Back in my day'",
+  "bottom caption: how things used to be done"
+ ],
+ "examples": [
+  [
+   "Back in my day",
+   "we waited a whole week for the next episode"
+  ],
+  [
+   "Back in my day",
+   "we memorized our friends' phone numbers"
+  ]
+ ],
+ "describe": [
+  "angry old man in a top hat wagging his finger",
+  "grumpy grandpa with glasses scolding the camera",
+  "old guy in a scarf and top hat lecturing",
+  "elderly man pointing his finger telling kids how it used to be",
+  "cranky old timer in old fashioned clothes shaking his finger"
+ ],
+ "tags": [
+  "old man",
+  "top hat",
+  "scolding",
+  "grumpy",
+  "nostalgia",
+  "finger wag",
+  "glasses"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "718432",
+  "code": "fecg",
+  "image": "fecg.jpg",
+  "width": 259,
+  "height": 310,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 128,
+ "sure": "high",
+ "added": "2026-11-22"
+}

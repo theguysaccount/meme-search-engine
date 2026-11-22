@@ -1,0 +1,61 @@
+{
+ "slug": "bad-pun-dog",
+ "name": "Bad Pun Dog",
+ "aka": [
+  "Pun Dog"
+ ],
+ "look": "Three photos stacked vertically of a gray and white husky lying on a bed with a gray plush toy. Top: it looks calmly at the camera. Middle: it starts to grin. Bottom: a close-up of it laughing with its mouth wide open.",
+ "text": [],
+ "use": "A three-step pun delivery. The first panel sets up a question or innocent statement, the second builds anticipation, and the third lands a groan-worthy pun while the husky cracks up at its own joke.",
+ "slots": [
+  "top panel: the setup",
+  "middle panel: the lead-in",
+  "bottom panel: the pun"
+ ],
+ "examples": [
+  [
+   "Why did my wifi and I break up?",
+   "We just didn't have",
+   "a connection"
+  ],
+  [
+   "My vacuum cleaner quit on me",
+   "It said the job",
+   "really sucked"
+  ]
+ ],
+ "describe": [
+  "husky dog laughing with a stuffed toy in three panels",
+  "grey and white husky grinning more and more on a bed",
+  "dog telling a joke and cracking up at the end",
+  "smiling husky holding a plush animal",
+  "three pictures of a happy husky with its mouth open"
+ ],
+ "tags": [
+  "husky",
+  "dog",
+  "puns",
+  "laughing",
+  "stuffed toy",
+  "three panel",
+  "jokes"
+ ],
+ "kind": "photo",
+ "format": "panels",
+ "panels": 3,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "12403754",
+  "code": "7dusq",
+  "image": "7dusq.jpg",
+  "width": 575,
+  "height": 1200,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 106,
+ "sure": "high",
+ "added": "2026-11-22"
+}

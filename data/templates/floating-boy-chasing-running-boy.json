@@ -1,0 +1,56 @@
+{
+ "slug": "floating-boy-chasing-running-boy",
+ "name": "Floating Boy Chasing Running Boy",
+ "aka": [],
+ "look": "A photo in a school hallway with a black and white checkered floor. A young man with glasses, in a gray and navy shirt, runs toward the camera on the right, while behind him on the left a tall figure dressed in black floats in midair, legs dangling, as if gliding after him.",
+ "text": [],
+ "use": "The running boy is someone trying to get away, and the floating boy is the thing relentlessly chasing them, such as a deadline, an embarrassing memory or a responsibility. Labels go on each figure.",
+ "slots": [
+  "label on the floating boy (what is chasing)",
+  "label on the running boy (who is fleeing)"
+ ],
+ "examples": [
+  [
+   "The thing I said in seventh grade",
+   "Me trying to fall asleep"
+  ],
+  [
+   "The song I heard once this morning",
+   "My brain all day"
+  ]
+ ],
+ "describe": [
+  "guy floating in the air chasing a kid down a school hallway",
+  "levitating person following someone who is running away",
+  "creepy hovering dude behind a scared guy in glasses",
+  "boy speed walking away from someone gliding after him",
+  "school corridor with checkered floor and someone hovering"
+ ],
+ "tags": [
+  "hallway",
+  "floating",
+  "chase",
+  "running",
+  "school",
+  "creepy",
+  "fleeing"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "160187182",
+  "code": "2ndd7y",
+  "image": "2ndd7y.jpg",
+  "width": 640,
+  "height": 632,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 258,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "arthur-fist",
+ "name": "Arthur Fist",
+ "aka": [
+  "Arthur's Fist"
+ ],
+ "look": "A close-up cartoon frame of Arthur's tan hand clenched into a tight fist, poking out of the ribbed cuff of his yellow sweater against his blue jeans. A pinkish-red house with a window shows in the background.",
+ "text": [],
+ "use": "Expresses quiet, bottled-up rage. The caption describes an infuriating moment where you can't react, like a slow walker blocking the hallway or someone spoiling a show, and the clenched fist shows the anger.",
+ "slots": [
+  "the infuriating situation (caption above)"
+ ],
+ "examples": [
+  [
+   "When someone tells me to calm down while I'm completely calm"
+  ],
+  [
+   "When the group chat plans everything while I'm in the shower"
+  ]
+ ],
+ "describe": [
+  "cartoon aardvark hand clenched into a tight fist",
+  "close up of a kid in a yellow sweater squeezing his fist in anger",
+  "angry cartoon fist holding in rage",
+  "pbs kids cartoon fist clench",
+  "hand balled up into a fist holding back anger"
+ ],
+ "tags": [
+  "arthur",
+  "fist",
+  "anger",
+  "frustration",
+  "cartoon",
+  "pbs",
+  "yellow sweater"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Arthur",
+ "origin": "A frame from the PBS cartoon Arthur showing the title character clenching his fist.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "74191766",
+  "code": "1866qe",
+  "image": "1866qe.jpg",
+  "width": 583,
+  "height": 328,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 216,
+ "sure": "high",
+ "added": "2026-11-22"
+}

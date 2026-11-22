@@ -1,0 +1,59 @@
+{
+ "slug": "but-thats-none-of-my-business",
+ "name": "But That's None Of My Business",
+ "aka": [
+  "Kermit Sipping Tea",
+  "Kermit Tea"
+ ],
+ "look": "Kermit the Frog, shown in profile, raises a clear glass cup of amber tea to his mouth and sips. A Lipton tea bag tag hangs over the rim, and a softly lit, blurred window frame is behind him.",
+ "text": [],
+ "use": "Points out someone else's questionable behavior in a petty, passive-aggressive way. The top caption makes the judgmental observation and the bottom caption adds \"But that's none of my business\" while Kermit sips his tea.",
+ "slots": [
+  "top caption: the judgmental observation",
+  "bottom caption: 'But that's none of my business'"
+ ],
+ "examples": [
+  [
+   "Says he's on a diet, orders the large fries",
+   "But that's none of my business"
+  ],
+  [
+   "Texts 'on my way' while still in bed",
+   "But that's none of my business"
+  ]
+ ],
+ "describe": [
+  "kermit the frog drinking lipton tea",
+  "frog puppet sipping from a glass cup with a tea bag",
+  "muppet frog drinking tea while judging someone",
+  "green frog sipping tea smugly after a petty comment",
+  "kermit in profile taking a sip from his cup"
+ ],
+ "tags": [
+  "kermit",
+  "tea",
+  "sipping tea",
+  "passive aggressive",
+  "judging",
+  "muppets",
+  "petty"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Muppets",
+ "origin": "A still of Kermit the Frog sipping tea from a Lipton commercial.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "16464531",
+  "code": "9sw43",
+  "image": "9sw43.jpg",
+  "width": 600,
+  "height": 600,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 66,
+ "sure": "high",
+ "added": "2026-11-22"
+}

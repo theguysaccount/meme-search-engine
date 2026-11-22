@@ -1,0 +1,58 @@
+{
+ "slug": "ron-burgundy",
+ "name": "Ron Burgundy",
+ "aka": [],
+ "look": "A film still of Will Ferrell as Ron Burgundy, a mustached anchorman in a brown suit and striped tie, sitting at a news desk holding papers and staring into the camera. Behind him is a blue backdrop repeating the Channel 4 News Team logo.",
+ "text": [
+  "Channel 4 News Team"
+ ],
+ "use": "Ron delivers the caption as breaking news with total anchorman confidence. Captions are absurd headlines, smug announcements or riffs on his famous lines like 'I'm kind of a big deal' and 'Stay classy'.",
+ "slots": [
+  "top caption: the setup or headline",
+  "bottom caption: the punchline or sign-off"
+ ],
+ "examples": [
+  [
+   "Breaking news",
+   "Local man finally replies to an email from three weeks ago"
+  ],
+  [
+   "I don't know how to put this",
+   "But I'm kind of a big deal at trivia night"
+  ]
+ ],
+ "describe": [
+  "anchorman sitting at the news desk with papers",
+  "will ferrell with a mustache reading the news",
+  "news anchor in a brown suit with channel 4 logo background",
+  "70s newscaster staring into the camera",
+  "mustached tv anchorman delivering breaking news"
+ ],
+ "tags": [
+  "anchorman",
+  "will ferrell",
+  "news",
+  "news anchor",
+  "mustache",
+  "comedy",
+  "70s"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Anchorman",
+ "origin": "Will Ferrell as news anchor Ron Burgundy in the 2004 comedy Anchorman: The Legend of Ron Burgundy.",
+ "people": "actor",
+ "imgflip": {
+  "id": "1232147",
+  "code": "qeqb",
+  "image": "qeqb.jpg",
+  "width": 500,
+  "height": 332,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 479,
+ "sure": "high",
+ "added": "2026-11-22"
+}

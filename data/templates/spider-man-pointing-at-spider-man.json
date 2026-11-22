@@ -1,0 +1,66 @@
+{
+ "slug": "spider-man-pointing-at-spider-man",
+ "name": "Spider-Man Pointing at Spider-Man",
+ "aka": [
+  "Spiderman Pointing at Spiderman",
+  "Spider-Man Pointing"
+ ],
+ "look": "A still from the 1960s Spider-Man cartoon. Two identical Spider-Men in red and blue suits face each other and point accusingly. The left one stands in front of a white van marked NYPD, the right one beside stacked wooden crates and a red wall.",
+ "text": [
+  "NYPD"
+ ],
+ "use": "Two people or things that are really the same accuse or recognize each other. Each Spider-Man gets a label, usually exposing hypocrisy or a funny resemblance between two sides.",
+ "slots": [
+  "label on the left Spider-Man",
+  "label on the right Spider-Man"
+ ],
+ "examples": [
+  [
+   "Cats knocking things off tables",
+   "Toddlers knocking things off tables"
+  ],
+  [
+   "Me telling my friend to go to bed at 3 am",
+   "My friend telling me to go to bed at 3 am"
+  ]
+ ],
+ "describe": [
+  "two spidermen pointing at each other",
+  "spider man points at another spider man who points back",
+  "identical superheroes accusing each other by a police van",
+  "old cartoon of two spider men pointing fingers",
+  "same hero pointing at his double next to an nypd truck"
+ ],
+ "tags": [
+  "spider-man",
+  "pointing",
+  "hypocrisy",
+  "identical",
+  "cartoon",
+  "1960s",
+  "accusation"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "From 'Double Identity', an episode of the 1967 Spider-Man animated series, where an impostor in a Spider-Man suit meets the real one.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "110133729",
+  "code": "1tkjq9",
+  "image": "1tkjq9.jpg",
+  "width": 800,
+  "height": 450,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "103123450",
+   "name": "Spider Man Double"
+  }
+ ],
+ "rank_all_time": 104,
+ "sure": "high",
+ "added": "2026-11-22"
+}

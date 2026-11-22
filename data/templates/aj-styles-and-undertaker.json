@@ -1,0 +1,63 @@
+{
+ "slug": "aj-styles-and-undertaker",
+ "name": "AJ Styles and Undertaker",
+ "aka": [
+  "AJ Styles & Undertaker"
+ ],
+ "look": "A dim, smoky wrestling still. AJ Styles, with long hair and a beard, grins and laughs in the foreground, seemingly unaware that The Undertaker, pale and stone-faced in black, looms right behind him. A WWE logo sits in the corner.",
+ "text": [],
+ "use": "Someone is laughing and carefree, not noticing the doom standing right behind them. AJ Styles is labeled as the oblivious person and the Undertaker as the consequence or threat about to catch up.",
+ "slots": [
+  "label on AJ Styles: the carefree, oblivious one",
+  "label on the Undertaker: the danger looming behind"
+ ],
+ "examples": [
+  [
+   "Me enjoying my Sunday",
+   "Monday"
+  ],
+  [
+   "Me ordering a third coffee",
+   "My heart rate at 3 pm"
+  ]
+ ],
+ "describe": [
+  "wrestler laughing while the undertaker stands behind him",
+  "guy smiling not knowing someone scary is right behind him",
+  "long haired wrestler grinning with a creepy man in the smoke",
+  "undertaker lurking behind a happy wrestler",
+  "wwe guy laughing with danger right over his shoulder"
+ ],
+ "tags": [
+  "wwe",
+  "wrestling",
+  "undertaker",
+  "aj styles",
+  "oblivious",
+  "danger",
+  "smoke"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "WWE",
+ "origin": "A still from a WWE broadcast featuring wrestlers AJ Styles and The Undertaker.",
+ "people": "public",
+ "imgflip": {
+  "id": "234202281",
+  "code": "3vfrmx",
+  "image": "3vfrmx.jpg",
+  "width": 933,
+  "height": 525,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "257745141",
+   "name": "undertaker"
+  }
+ ],
+ "rank_all_time": 129,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "success-kid",
+ "name": "Success Kid",
+ "aka": [
+  "I Hate Sandcastles"
+ ],
+ "look": "A baby with light brown hair and a green and white shirt holds up a clenched fist in front of his chest with a smug, determined frown. The photo is set on a blue and purple pinwheel background.",
+ "text": [],
+ "use": "Celebrates a small win or lucky break. The top caption sets up an everyday situation and the bottom caption reveals the minor victory, with the baby's clenched fist working as a triumphant fist pump.",
+ "slots": [
+  "top caption: the everyday setup",
+  "bottom caption: the small win"
+ ],
+ "examples": [
+  [
+   "Microwave timer at 0:01",
+   "Opened the door before the beep"
+  ],
+  [
+   "Got to the bus stop late",
+   "Bus was even later"
+  ]
+ ],
+ "describe": [
+  "baby clenching his fist with a determined face",
+  "toddler fist pump on a blue background",
+  "little kid in a green shirt making a victory fist",
+  "smug baby squeezing his fist like he just won",
+  "proud baby with a clenched hand celebrating"
+ ],
+ "tags": [
+  "baby",
+  "fist pump",
+  "victory",
+  "determination",
+  "advice animal",
+  "green shirt"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A 2007 photo, taken by the boy's mother, of her baby son on a beach clutching a fistful of sand.",
+ "people": "private",
+ "imgflip": {
+  "id": "61544",
+  "code": "1bhk",
+  "image": "1bhk.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "341570",
+   "name": "Success Kid Original"
+  }
+ ],
+ "rank_all_time": 60,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "gravestone",
+ "name": "Gravestone",
+ "aka": [
+  "Tombstone",
+  "Blank Headstone"
+ ],
+ "look": "A photo of a blank gray granite headstone in a cemetery, with a rounded top, thin engraved border lines and carved flowers in the upper corners. Behind it are a red brick path, grass, a stone wall and a black iron gate.",
+ "text": [],
+ "use": "A blank tombstone for mock epitaphs. The stone gets a here-lies or rest-in-peace message for something that died or was given up on, such as a hobby, a diet, motivation, a phone battery or an old trend.",
+ "slots": [
+  "what died, written as the name on the stone",
+  "dates or a short farewell line underneath"
+ ],
+ "examples": [
+  [
+   "Here lies my New Year's resolution",
+   "Jan 1 to Jan 3. Gone too soon"
+  ],
+  [
+   "My phone charger cable",
+   "Bent one too many times"
+  ]
+ ],
+ "describe": [
+  "blank tombstone in a cemetery to write on",
+  "empty gray headstone with flower carvings in the corners",
+  "rest in peace grave template with nothing written",
+  "plain grave marker photo for writing a funny epitaph",
+  "here lies stone in a graveyard"
+ ],
+ "tags": [
+  "gravestone",
+  "tombstone",
+  "cemetery",
+  "rip",
+  "epitaph",
+  "blank",
+  "stone"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "39982879",
+  "code": "nsyzj",
+  "image": "nsyzj.jpg",
+  "width": 833,
+  "height": 576,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 440,
+ "sure": "high",
+ "added": "2026-11-22"
+}

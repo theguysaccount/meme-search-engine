@@ -1,0 +1,56 @@
+{
+ "slug": "presidential-alert",
+ "name": "Presidential Alert",
+ "aka": [],
+ "look": "A close-up photo of a hand holding an iPhone. A pop-up notification titled \"Presidential Alert\" covers the home screen, with an empty white message area and a light blue \"Dismiss\" button below it. App icons such as Maps, Weather and FaceTime show around the edges.",
+ "text": [
+  "Presidential Alert",
+  "Dismiss"
+ ],
+ "use": "The blank message area holds an urgent, official-sounding announcement about something trivial or personal, as if a small everyday event deserved a nationwide emergency broadcast to every phone.",
+ "slots": [
+  "the alert message, in the blank space under \"Presidential Alert\""
+ ],
+ "examples": [
+  [
+   "Your mom just used your full name. Please return home immediately."
+  ],
+  [
+   "The pizza rolls have been in the oven for 45 minutes. Someone check on them."
+  ]
+ ],
+ "describe": [
+  "phone pop up that says presidential alert with a dismiss button",
+  "hand holding an iphone with an emergency alert notification",
+  "official government warning message on a cell phone screen",
+  "blank alert box on top of the iphone home screen",
+  "urgent text notification you can only dismiss"
+ ],
+ "tags": [
+  "phone",
+  "notification",
+  "iphone",
+  "alert",
+  "emergency",
+  "announcement",
+  "screen"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Parodies the \"Presidential Alert\" phone notification from the first nationwide US Wireless Emergency Alert test in 2018.",
+ "people": "none",
+ "imgflip": {
+  "id": "157978092",
+  "code": "2m20oc",
+  "image": "2m20oc.jpg",
+  "width": 920,
+  "height": 534,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 241,
+ "sure": "high",
+ "added": "2026-11-22"
+}

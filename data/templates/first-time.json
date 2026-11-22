@@ -1,0 +1,56 @@
+{
+ "slug": "first-time",
+ "name": "First Time?",
+ "aka": [
+  "James Franco First Time"
+ ],
+ "look": "A film still of James Franco as a scruffy cowboy with a thick rope noose around his neck, smiling wryly over his shoulder under a pale sky beside a wooden gallows post. An older man with white hair sits at left. The subtitle reads \"-First time?\"",
+ "text": [
+  "-First time?"
+ ],
+ "use": "A seasoned veteran calmly teases a panicking newcomer. The caption sets up something stressful that someone is going through for the first time, and the unbothered cowboy, who has clearly been here before, asks \"First time?\"",
+ "slots": [
+  "the stressful situation and the panicking newcomer (caption above)",
+  "the calm veteran (the smiling cowboy)"
+ ],
+ "examples": [
+  [
+   "When the new hire panics because the printer jammed again",
+   "Me, eight years at this office"
+  ]
+ ],
+ "describe": [
+  "guy with a noose around his neck smiling and asking first time",
+  "james franco about to be hanged smirking",
+  "cowboy on the gallows calmly talking to a scared man",
+  "man with a rope around his neck looking unbothered",
+  "western movie hanging scene with a relaxed smile"
+ ],
+ "tags": [
+  "western",
+  "movie scene",
+  "veteran",
+  "calm",
+  "experience",
+  "subtitle",
+  "cowboy"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Ballad of Buster Scruggs",
+ "origin": "From the Coen brothers' 2018 Netflix anthology film The Ballad of Buster Scruggs, where James Franco's cowboy, about to be hanged, asks a crying man \"First time?\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "163080720",
+  "code": "2p3dw0",
+  "image": "2p3dw0.jpg",
+  "width": 1427,
+  "height": 890,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 316,
+ "sure": "high",
+ "added": "2026-11-22"
+}

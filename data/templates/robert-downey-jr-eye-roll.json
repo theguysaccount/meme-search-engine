@@ -1,0 +1,58 @@
+{
+ "slug": "robert-downey-jr-eye-roll",
+ "name": "Robert Downey Jr. Eye Roll",
+ "aka": [
+  "Face You Make Robert Downey Jr"
+ ],
+ "look": "Robert Downey Jr., in a dark suit jacket, dark shirt and polka-dot tie, stands with his arms crossed and rolls his eyes up toward the ceiling with pursed lips. The picture has a warm mauve tint and a plain dim background.",
+ "text": [],
+ "use": "A reaction to something annoying, obvious or tiresome. The caption usually starts 'The face you make when' or 'When someone says' and names the eye-roll-worthy moment.",
+ "slots": [
+  "top caption: the setup, often 'The face you make when'",
+  "bottom caption: the annoying moment"
+ ],
+ "examples": [
+  [
+   "The face you make when",
+   "your coworker hits reply-all to say thanks"
+  ],
+  [
+   "When someone says",
+   "'I'm not a morning person' at 2 in the afternoon"
+  ]
+ ],
+ "describe": [
+  "robert downey jr rolling his eyes with arms crossed",
+  "iron man actor eye roll in a suit and polka dot tie",
+  "man in a suit crosses his arms and looks up annoyed",
+  "guy rolling eyes at the ceiling totally unimpressed",
+  "annoyed celebrity eye roll reaction pic"
+ ],
+ "tags": [
+  "robert downey jr",
+  "eye roll",
+  "annoyed",
+  "arms crossed",
+  "suit",
+  "reaction",
+  "celebrity"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "9440985",
+  "code": "5mcpl",
+  "image": "5mcpl.jpg",
+  "width": 460,
+  "height": 523,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 101,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

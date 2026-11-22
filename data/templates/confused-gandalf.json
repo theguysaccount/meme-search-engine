@@ -1,0 +1,58 @@
+{
+ "slug": "confused-gandalf",
+ "name": "Confused Gandalf",
+ "aka": [
+  "I Have No Memory of This Place"
+ ],
+ "look": "Three stacked stills of Gandalf, played by Ian McKellen, in a dark cave. In the top two he holds up a glowing staff and peers around under his gray hat, and the bottom close-up shows his face scrunched in bewilderment.",
+ "text": [],
+ "use": "For being completely lost or blanking on something you should know. Captions describe a familiar place, task or memory that suddenly makes no sense, like your own old code or the reason you walked into a room.",
+ "slots": [
+  "the setup (caption at top)",
+  "the confused punchline (caption at bottom)"
+ ],
+ "examples": [
+  [
+   "Me opening code I wrote last month",
+   "I have no memory of this place"
+  ],
+  [
+   "Walks into the kitchen with purpose",
+   "Forgets why immediately"
+  ]
+ ],
+ "describe": [
+  "wizard looking around confused in a dark cave",
+  "old wizard with gray hat and glowing staff lost",
+  "lord of the rings wizard doesnt remember where he is",
+  "three panels of a bearded wizard squinting puzzled",
+  "gray wizard peering into the darkness bewildered"
+ ],
+ "tags": [
+  "gandalf",
+  "lotr",
+  "wizard",
+  "confused",
+  "lost",
+  "cave",
+  "three panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "The Lord of the Rings",
+ "origin": "Gandalf in the Mines of Moria in The Lord of the Rings: The Fellowship of the Ring (2001), when he admits he has no memory of the place.",
+ "people": "actor",
+ "imgflip": {
+  "id": "673439",
+  "code": "efmn",
+  "image": "efmn.jpg",
+  "width": 500,
+  "height": 607,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 208,
+ "sure": "high",
+ "added": "2026-11-22"
+}

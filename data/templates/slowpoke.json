@@ -1,0 +1,55 @@
+{
+ "slug": "slowpoke",
+ "name": "Slowpoke",
+ "aka": [],
+ "look": "The pink Pokémon Slowpoke, a sleepy-looking creature with a cream-colored snout, wide blank eyes and an open, dopey grin, stands on all fours with its curled pink tail raised behind it. The background is a pink and magenta pinwheel.",
+ "text": [],
+ "use": "Mocks someone who is late to the news. The top text opens like a big announcement and the bottom reveals something everyone has known for ages, as if it just happened.",
+ "slots": [
+  "the excited announcement (top text)",
+  "the very old news (bottom text)"
+ ],
+ "examples": [
+  [
+   "Guys, huge news",
+   "Pluto isn't a planet anymore"
+  ],
+  [
+   "Just found this cool new website",
+   "It's called YouTube"
+  ]
+ ],
+ "describe": [
+  "pink pokemon with a dopey face on a pink background",
+  "slow pink creature with an open mouth and blank stare",
+  "derpy pink hippo looking cartoon for people late to the news",
+  "sleepy pink animal with a curly tail on a pinwheel background",
+  "meme for someone who just found out about old news"
+ ],
+ "tags": [
+  "pokemon",
+  "pink",
+  "late reaction",
+  "old news",
+  "slow",
+  "advice animal"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Pokémon",
+ "origin": "Slowpoke is a Pokémon from the 1996 Game Boy games Pokémon Red and Green; the meme casts it as someone hearing news far too late.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61530",
+  "code": "1bh6",
+  "image": "1bh6.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 385,
+ "sure": "high",
+ "added": "2026-11-22"
+}

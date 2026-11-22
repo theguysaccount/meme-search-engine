@@ -1,0 +1,58 @@
+{
+ "slug": "bilbo-why-shouldnt-i-keep-it",
+ "name": "Bilbo Why Shouldn't I Keep It",
+ "aka": [
+  "After All, Why Not? Why Shouldn't I Keep It?"
+ ],
+ "look": "Two stacked close-ups from The Lord of the Rings: Ian Holm as an elderly Bilbo Baggins, with curly gray hair and a red waistcoat, looks down at a small gold ring between his fingers. Top: he smiles softly. Bottom: he purses his lips into a stubborn, possessive frown.",
+ "text": [],
+ "use": "For clinging to something you should probably give up. The top shows the thing or the excuse, and the bottom is Bilbo's possessive turn, often captioned 'why shouldn't I keep it?', for hoarding, borrowing forever or holding a grudge.",
+ "slots": [
+  "top panel: the thing you're tempted to keep, or 'after all, why not?'",
+  "bottom panel: the stubborn decision, like 'why shouldn't I keep it?'"
+ ],
+ "examples": [
+  [
+   "Me after borrowing my sister's hoodie",
+   "Why shouldn't I keep it?"
+  ],
+  [
+   "The pen I borrowed in the meeting",
+   "After all, why not? Why shouldn't I keep it?"
+  ]
+ ],
+ "describe": [
+  "old hobbit smiling then frowning at the ring in his hand",
+  "bilbo staring at the ring and deciding to keep it",
+  "old man with curly gray hair looking at a ring possessively",
+  "lord of the rings hobbit getting greedy over a gold ring",
+  "elderly man smiles at something in his fingers then pouts stubbornly"
+ ],
+ "tags": [
+  "lotr",
+  "bilbo",
+  "ring",
+  "possessive",
+  "greed",
+  "two panels",
+  "hobbit"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Lord of the Rings",
+ "origin": "Ian Holm as Bilbo Baggins in The Lord of the Rings: The Fellowship of the Ring (2001), unwilling to give up the Ring.",
+ "people": "actor",
+ "imgflip": {
+  "id": "256635436",
+  "code": "48sl64",
+  "image": "48sl64.jpg",
+  "width": 500,
+  "height": 499,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 358,
+ "sure": "high",
+ "added": "2026-11-22"
+}

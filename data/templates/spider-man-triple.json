@@ -1,0 +1,61 @@
+{
+ "slug": "spider-man-triple",
+ "name": "Spider-Man Triple",
+ "aka": [
+  "Three Spider-Men Pointing"
+ ],
+ "look": "A redrawn take on the 1960s cartoon pointing scene with three Spider-Men pointing at one another. Their suits resemble the Tobey Maguire, Andrew Garfield and Tom Holland film versions, standing between a white van with an open door and wooden crates by a red wall.",
+ "text": [],
+ "use": "Three people or things that are basically the same accuse or recognize one another. Each Spider-Man gets a label, often three versions of the same thing or three groups guilty of the same habit.",
+ "slots": [
+  "label on the left Spider-Man",
+  "label on the middle Spider-Man",
+  "label on the right Spider-Man"
+ ],
+ "examples": [
+  [
+   "People who say 'almost there'",
+   "People who say 'on my way'",
+   "People who say 'five minutes'"
+  ],
+  [
+   "Cats at 3 am",
+   "Toddlers at 3 am",
+   "Me at 3 am"
+  ]
+ ],
+ "describe": [
+  "three spidermen pointing at each other",
+  "spider man pointing meme but with three spider men",
+  "tobey andrew and tom spider-man pointing at one another",
+  "three superheroes in different suits accusing each other",
+  "cartoon of three identical heroes all pointing fingers"
+ ],
+ "tags": [
+  "spider-man",
+  "pointing",
+  "three",
+  "identical",
+  "hypocrisy",
+  "multiverse",
+  "cartoon"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "A fan redraw of the 1967 Spider-Man cartoon pointing scene, adding a third Spider-Man.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "206151308",
+  "code": "3eqjd8",
+  "image": "3eqjd8.jpg",
+  "width": 600,
+  "height": 551,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 132,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

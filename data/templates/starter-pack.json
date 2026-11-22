@@ -1,0 +1,67 @@
+{
+ "slug": "starter-pack",
+ "name": "Starter Pack",
+ "aka": [
+  "Blank Starter Pack"
+ ],
+ "look": "A plain white square divided by a thick black cross: a horizontal line runs edge to edge and a shorter vertical line crosses it in the middle, leaving four empty sections for pictures.",
+ "text": [],
+ "use": "A title reading \"The ___ Starter Pack\" goes on top, and each section gets a picture or label of an item, outfit or habit that sums up a stereotype of some kind of person, place or hobby.",
+ "slots": [
+  "title: The ___ Starter Pack",
+  "top left item",
+  "top right item",
+  "bottom left item",
+  "bottom right item"
+ ],
+ "examples": [
+  [
+   "The first day of a new diet starter pack",
+   "A sad desk salad",
+   "A giant water bottle",
+   "A calorie counting app",
+   "Pizza by 9 p.m."
+  ],
+  [
+   "The group project starter pack",
+   "One person doing everything",
+   "A group chat nobody reads",
+   "A shared doc with 40 comments",
+   "A midnight deadline"
+  ]
+ ],
+ "describe": [
+  "blank template split into four boxes for a stereotype collage",
+  "white square with a black cross dividing it into quarters",
+  "empty grid for pictures of things a type of person always has",
+  "collage of typical items that define a stereotype with a title",
+  "four section layout for listing the essentials of a group"
+ ],
+ "tags": [
+  "starter pack",
+  "grid",
+  "collage",
+  "stereotype",
+  "blank",
+  "template",
+  "four panel"
+ ],
+ "kind": "graphic",
+ "format": "other",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "79367954",
+  "code": "1b94pe",
+  "image": "1b94pe.jpg",
+  "width": 941,
+  "height": 960,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 271,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "say-that-again-i-dare-you",
+ "name": "Say That Again I Dare You",
+ "aka": [
+  "Say What Again"
+ ],
+ "look": "A still from Pulp Fiction. Samuel L. Jackson as Jules Winnfield, with curly hair and sideburns, in a black suit, white shirt and thin black tie, aims a silver pistol at someone off-screen with a cold, intense glare.",
+ "text": [],
+ "use": "A threatening dare not to repeat something annoying. The caption follows Jules's line, 'Say [word] again, I dare you,' aimed at an overused phrase, mispronunciation or bad opinion.",
+ "slots": [
+  "top caption: 'Say [the annoying thing] again'",
+  "bottom caption: usually 'I dare you'"
+ ],
+ "examples": [
+  [
+   "Say 'per my last email' again",
+   "I dare you"
+  ],
+  [
+   "Say 'it's just a quick question' one more time",
+   "I double dare you"
+  ]
+ ],
+ "describe": [
+  "samuel l jackson pointing a gun in pulp fiction",
+  "man in a black suit aiming a pistol and daring you",
+  "jules threatening someone with a handgun",
+  "guy with curly hair and sideburns holding a gun",
+  "angry hitman in a suit pointing a gun at someone off screen"
+ ],
+ "tags": [
+  "pulp fiction",
+  "samuel l jackson",
+  "gun",
+  "threat",
+  "dare",
+  "angry",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Pulp Fiction",
+ "origin": "From Pulp Fiction (1994), where Jules Winnfield dares a terrified man to say 'what' one more time.",
+ "people": "actor",
+ "imgflip": {
+  "id": "124212",
+  "code": "2nuc",
+  "image": "2nuc.jpg",
+  "width": 393,
+  "height": 330,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 133,
+ "sure": "high",
+ "added": "2026-11-22"
+}

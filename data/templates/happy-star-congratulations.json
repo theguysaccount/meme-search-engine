@@ -1,0 +1,63 @@
+{
+ "slug": "happy-star-congratulations",
+ "name": "Happy Star Congratulations",
+ "aka": [],
+ "look": "A children's award certificate on a blue, star-speckled background. Big yellow letters say \"Congratulations\" above blank \"Presented to\" and \"for\" lines. A grinning yellow star with a red nose trails a streak reading \"You did it!\" in purple, with \"Date\" and \"Signed\" lines below.",
+ "text": [
+  "Congratulations",
+  "Presented to",
+  "for",
+  "You did it!",
+  "Date",
+  "Signed"
+ ],
+ "use": "A mock award handed out sarcastically for a tiny, obvious or questionable achievement. The \"Presented to\" line names the winner and the \"for\" line names the unimpressive accomplishment, like replying to an email.",
+ "slots": [
+  "who gets the award (on the \"Presented to\" line)",
+  "the tiny achievement (on the \"for\" line)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "Drinking one glass of water today"
+  ],
+  [
+   "My little brother",
+   "Closing the fridge door for once"
+  ]
+ ],
+ "describe": [
+  "kids award certificate with a smiling yellow star",
+  "congratulations you did it certificate with blank lines",
+  "cartoon star with red nose on a blue reward certificate",
+  "sarcastic certificate for doing the bare minimum",
+  "school prize certificate presented to blank for blank"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "congratulations",
+  "star",
+  "sarcastic",
+  "achievement",
+  "kids"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A printable children's award certificate featuring a smiling cartoon star.",
+ "people": "none",
+ "imgflip": {
+  "id": "1464444",
+  "code": "vdz0",
+  "image": "vdz0.jpg",
+  "width": 450,
+  "height": 292,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 203,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

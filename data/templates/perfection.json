@@ -1,0 +1,60 @@
+{
+ "slug": "perfection",
+ "name": "Perfection",
+ "aka": [
+  "Michael Fassbender Perfection"
+ ],
+ "look": "Three stacked movie stills on the right with white space at left for captions. Michael Fassbender, in a black turtleneck in a dim room with tall windows, looks up and gazes ahead, his expression turning more impressed and approving in each panel.",
+ "text": [],
+ "use": "The captions on the left build something up step by step, and his growing approval peaks at the final step, often a ridiculous combination he finds perfect.",
+ "slots": [
+  "first part (left of the top still)",
+  "second part (left of the middle still)",
+  "the final touch (left of the bottom still)"
+ ],
+ "examples": [
+  [
+   "Pizza",
+   "With pineapple",
+   "And hot honey"
+  ],
+  [
+   "Waking up at noon",
+   "Eating breakfast at 2 p.m.",
+   "Calling it brunch"
+  ]
+ ],
+ "describe": [
+  "man in a black turtleneck slowly nodding in approval three panels",
+  "guy looking more and more impressed in a dark room",
+  "michael fassbender approving nod meme",
+  "three stills of an actor getting more satisfied",
+  "magneto actor looking pleased in a black sweater"
+ ],
+ "tags": [
+  "approval",
+  "satisfied",
+  "movie",
+  "three panels",
+  "turtleneck",
+  "escalation"
+ ],
+ "kind": "screenshot",
+ "format": "ladder",
+ "panels": 3,
+ "franchise": null,
+ "origin": "",
+ "people": "actor",
+ "imgflip": {
+  "id": "112850687",
+  "code": "1v6s5b",
+  "image": "1v6s5b.jpg",
+  "width": 1534,
+  "height": 1440,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 419,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

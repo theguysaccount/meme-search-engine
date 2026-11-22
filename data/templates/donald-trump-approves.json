@@ -1,0 +1,57 @@
+{
+ "slug": "donald-trump-approves",
+ "name": "Donald Trump Approves",
+ "aka": [
+  "Trump Approves"
+ ],
+ "look": "Photo of Donald Trump in a dark suit, white shirt and pink tie, with a closed-mouth, satisfied smile and squinting eyes. Behind him is a white press backdrop with a Miss Universe logo and the colorful NBC peacock.",
+ "text": [],
+ "use": "A smug, pleased reaction that signals approval. The caption names something the poster is happy about, often a small win or a decision that went their way.",
+ "slots": [
+  "the thing being approved of (top text)",
+  "the verdict, like \"I approve\" (bottom text)"
+ ],
+ "examples": [
+  [
+   "Pizza delivered ten minutes early",
+   "Approved"
+  ],
+  [
+   "Group project partner actually did their part",
+   "I approve"
+  ]
+ ],
+ "describe": [
+  "trump smiling smugly with his eyes squinted",
+  "blond man in a suit and pink tie looking satisfied",
+  "smug grin in front of a miss universe backdrop",
+  "businessman with a pleased closed mouth smile",
+  "president looking proud and approving"
+ ],
+ "tags": [
+  "politician",
+  "smug",
+  "approval",
+  "smile",
+  "satisfied",
+  "suit"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A Getty Images press photo of Donald Trump in front of a Miss Universe backdrop.",
+ "people": "public",
+ "imgflip": {
+  "id": "40115543",
+  "code": "nvtcn",
+  "image": "nvtcn.jpg",
+  "width": 463,
+  "height": 317,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 390,
+ "sure": "high",
+ "added": "2026-11-22"
+}

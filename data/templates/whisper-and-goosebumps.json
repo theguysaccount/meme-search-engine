@@ -1,0 +1,56 @@
+{
+ "slug": "whisper-and-goosebumps",
+ "name": "Whisper and Goosebumps",
+ "aka": [],
+ "look": "Two close-up stock photos stacked vertically. Top: a person's lips whisper into someone's ear. Bottom: a stretch of tan skin covered in goosebumps, with fine hairs standing up against a dark blue background.",
+ "text": [],
+ "use": "Something said quietly that gives the listener chills. The top panel holds the whispered words, and the goosebumps below show the thrilled or creeped-out reaction to hearing them.",
+ "slots": [
+  "top panel: the whispered words",
+  "bottom panel: who gets the chills"
+ ],
+ "examples": [
+  [
+   "'The meeting has been canceled'",
+   "Every employee"
+  ],
+  [
+   "'Free refills'",
+   "Me"
+  ]
+ ],
+ "describe": [
+  "someone whispering in an ear then goosebumps on skin",
+  "close up of lips whispering and arm hair standing up",
+  "two pictures of a whisper and skin getting chills",
+  "mouth next to an ear and a goosebumps arm",
+  "whispered words make a person's arm hair rise"
+ ],
+ "tags": [
+  "whisper",
+  "goosebumps",
+  "ear",
+  "chills",
+  "close-up",
+  "stock photo",
+  "two panel"
+ ],
+ "kind": "photo",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "101956210",
+  "code": "1op9wy",
+  "image": "1op9wy.jpg",
+  "width": 600,
+  "height": 600,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 108,
+ "sure": "high",
+ "added": "2026-11-22"
+}

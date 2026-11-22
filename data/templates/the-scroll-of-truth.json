@@ -1,0 +1,59 @@
+{
+ "slug": "the-scroll-of-truth",
+ "name": "The Scroll of Truth",
+ "aka": [
+  "Scroll of Truth"
+ ],
+ "look": "A four-panel comic in a 2x2 grid. A green explorer in a brown wide-brimmed hat opens a chest in a crystal cave, joyfully holds up a glowing scroll, shows the scroll's blank face, then angrily hurls it away beside a stormy sea.",
+ "text": [
+  "I'VE FINALLY FOUND IT... AFTER 15 YEARS",
+  "THE SCROLL OF TRUTH!",
+  "NYEHHH!"
+ ],
+ "use": "The blank scroll holds an uncomfortable truth, and the explorer, who searched for years to find it, throws it away in disgust because he does not want to hear it.",
+ "slots": [
+  "the uncomfortable truth (on the open scroll, third panel)"
+ ],
+ "examples": [
+  [
+   "You can't fix your sleep schedule by staying up late to fix it"
+  ],
+  [
+   "The quick question is never quick"
+  ]
+ ],
+ "describe": [
+  "comic guy finds a scroll in a cave then throws it away",
+  "explorer reads a truth on a scroll and tosses it angrily",
+  "four panel comic about finding something after 15 years",
+  "green man in a hat opens a treasure chest and finds a glowing scroll",
+  "cartoon adventurer rejects an uncomfortable truth he searched for"
+ ],
+ "tags": [
+  "scroll",
+  "truth",
+  "denial",
+  "treasure chest",
+  "cave",
+  "comic",
+  "four panels"
+ ],
+ "kind": "comic",
+ "format": "sign",
+ "panels": 4,
+ "franchise": null,
+ "origin": "A four-panel webcomic signed Robotatertot Comics.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "123999232",
+  "code": "21tqf4",
+  "image": "21tqf4.jpg",
+  "width": 1280,
+  "height": 1236,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 34,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "confused-math-lady",
+ "name": "Confused Math Lady",
+ "aka": [
+  "Math Lady",
+  "Confused Lady",
+  "Nazaré Confusa"
+ ],
+ "look": "Four frames in a 2x2 grid of Brazilian actress Renata Sorrah, a blonde woman squinting in confusion as her eyes dart around. Math formulas, a cone diagram, a trigonometry table and triangles are layered over her, as if she is struggling with a hard calculation.",
+ "text": [
+  "V = 1/3 πr² · h",
+  "sin",
+  "cos",
+  "tan",
+  "y = ax² + bx + c",
+  "(x1, x2) = -b ± √Δ / 2a"
+ ],
+ "use": "A reaction to something confusing or that doesn't add up. The caption describes a baffling situation, and the puzzled stare and floating equations show someone trying hard to make sense of it.",
+ "slots": [
+  "the confusing situation (top)",
+  "the attempt to make sense of it (bottom)"
+ ],
+ "examples": [
+  [
+   "Me trying to figure out",
+   "Why the 2-minute noodles took 15 minutes"
+  ],
+  [
+   "When the group chat says see you at 8ish",
+   "Is that 7:50 or 9:30?"
+  ]
+ ],
+ "describe": [
+  "confused blonde woman with math equations floating around her",
+  "lady trying to do math with formulas everywhere",
+  "woman squinting with geometry and algebra overlaid",
+  "puzzled woman calculating with triangles and equations",
+  "brazilian soap opera woman confused by math"
+ ],
+ "tags": [
+  "confused",
+  "math",
+  "equations",
+  "thinking",
+  "calculating",
+  "telenovela"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 4,
+ "franchise": "Senhora do Destino",
+ "origin": "Renata Sorrah as the villain Nazaré Tedesco in the Brazilian telenovela Senhora do Destino, with math graphics edited over the frames.",
+ "people": "actor",
+ "imgflip": {
+  "id": "80996545",
+  "code": "1c81c1",
+  "image": "1c81c1.jpg",
+  "width": 681,
+  "height": 445,
+  "boxes": null,
+  "name": "Math lady/Confused lady"
+ },
+ "variants": [
+  {
+   "id": "92828109",
+   "name": "Calculating meme"
+  }
+ ],
+ "rank_all_time": 155,
+ "sure": "high",
+ "added": "2026-11-22"
+}

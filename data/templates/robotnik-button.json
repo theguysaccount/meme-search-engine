@@ -1,0 +1,58 @@
+{
+ "slug": "robotnik-button",
+ "name": "Robotnik Button",
+ "aka": [],
+ "look": "Two stacked panels. Top: a drawn cartoon hand reaches for a blue button, next to a red button, on a pale blue control panel. Bottom: Jim Carrey as Dr. Robotnik, in a red flight suit with goggles on his head and a big mustache, gleefully slams a red button with his gloved fist.",
+ "text": [],
+ "use": "The blue button is the sensible choice and the red one the reckless one. Instead of the calm hand pressing blue, Robotnik happily smashes red, showing someone gleefully picking the bad option.",
+ "slots": [
+  "the sensible option (blue button, top)",
+  "the reckless option (red button, top)",
+  "who picks it (Robotnik, bottom)"
+ ],
+ "examples": [
+  [
+   "Go to sleep early",
+   "Watch one more episode",
+   "Me at 1 a.m."
+  ],
+  [
+   "Save money",
+   "Buy another hoodie",
+   "Me on payday"
+  ]
+ ],
+ "describe": [
+  "villain gleefully smashing the red button instead of the blue one",
+  "jim carrey with a mustache happily pressing a big red button",
+  "cartoon hand picks the blue button then the mustache guy slams red",
+  "red button blue button choice dr eggman movie",
+  "evil scientist in a red suit hitting a red button"
+ ],
+ "tags": [
+  "button",
+  "choice",
+  "chaos",
+  "villain",
+  "sonic",
+  "red button"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Sonic the Hedgehog",
+ "origin": "The bottom still is Jim Carrey as Dr. Robotnik in the film Sonic the Hedgehog (2020).",
+ "people": "actor",
+ "imgflip": {
+  "id": "243879998",
+  "code": "41770e",
+  "image": "41770e.jpg",
+  "width": 640,
+  "height": 743,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 433,
+ "sure": "high",
+ "added": "2026-11-22"
+}

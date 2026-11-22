@@ -1,0 +1,63 @@
+{
+ "slug": "condescending-wonka",
+ "name": "Condescending Wonka",
+ "aka": [
+  "Creepy Condescending Wonka",
+  "Creepy Wonka"
+ ],
+ "look": "Gene Wilder as Willy Wonka rests his head on one hand and gives a smug, knowing half-smile. He wears a brown top hat, a purple velvet coat, a large tan bow tie and a pink floral waistcoat.",
+ "text": [],
+ "use": "Sarcastic, patronizing replies to someone's naive or self-important claim. The top caption usually starts with \"Oh, you...\" and repeats what they said, and the bottom caption mocks it, often with \"Tell me more about...\"",
+ "slots": [
+  "top caption: 'Oh, you...' plus their naive claim",
+  "bottom caption: the sarcastic follow-up"
+ ],
+ "examples": [
+  [
+   "Oh, you just started running?",
+   "Please, tell me more about your 5K"
+  ],
+  [
+   "Oh, you'll start your diet on Monday?",
+   "Which Monday, exactly?"
+  ]
+ ],
+ "describe": [
+  "willy wonka smirking with his head resting on his hand",
+  "gene wilder in a purple coat and top hat looking smug",
+  "man in a top hat leaning on his hand smiling sarcastically",
+  "smug chocolate factory owner saying tell me more",
+  "patronizing smile from wonka in a bow tie"
+ ],
+ "tags": [
+  "willy wonka",
+  "gene wilder",
+  "sarcasm",
+  "smug",
+  "top hat",
+  "purple coat"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Willy Wonka & the Chocolate Factory",
+ "origin": "Gene Wilder as Willy Wonka in the 1971 film Willy Wonka & the Chocolate Factory.",
+ "people": "actor",
+ "imgflip": {
+  "id": "61582",
+  "code": "1bim",
+  "image": "1bim.jpg",
+  "width": 550,
+  "height": 545,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "18672402",
+   "name": "Willy Wonka Blank"
+  }
+ ],
+ "rank_all_time": 68,
+ "sure": "high",
+ "added": "2026-11-22"
+}

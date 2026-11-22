@@ -1,0 +1,59 @@
+{
+ "slug": "inception",
+ "name": "Inception",
+ "aka": [],
+ "look": "Three stacked stills from Inception. Top: Leonardo DiCaprio in a suit talks to a man seen from behind across a dim bar table. Middle: Cillian Murphy, in a gray suit, answers earnestly. Bottom: DiCaprio squints and purses his lips, unconvinced.",
+ "text": [],
+ "use": "A three-beat conversation. DiCaprio says or asks something, the other man replies with an obvious lie, a naive idea or a weak excuse, and DiCaprio's skeptical squint in the last panel shows he isn't buying it.",
+ "slots": [
+  "what DiCaprio says (top panel)",
+  "the other man's reply (middle panel)",
+  "DiCaprio's skeptical reaction (bottom panel)"
+ ],
+ "examples": [
+  [
+   "Did you study for the exam?",
+   "I watched a video about studying",
+   "Interesting."
+  ],
+  [
+   "Why is there frosting on your face?",
+   "I don't know what cake you're talking about",
+   "I never said cake."
+  ]
+ ],
+ "describe": [
+  "leonardo dicaprio squinting suspiciously at a guy in a bar",
+  "three panel movie conversation ending with a skeptical squint",
+  "man in suit says something and the other guy squints doubting him",
+  "dicaprio smirk and squint not buying the excuse",
+  "two men in suits talking at a bar table in a dream movie"
+ ],
+ "tags": [
+  "inception",
+  "leonardo dicaprio",
+  "cillian murphy",
+  "conversation",
+  "skeptical",
+  "squint",
+  "three panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Inception",
+ "origin": "Three stills from Christopher Nolan's Inception (2010), with Leonardo DiCaprio and Cillian Murphy talking at a bar.",
+ "people": "actor",
+ "imgflip": {
+  "id": "156892",
+  "code": "3d24",
+  "image": "3d24.jpg",
+  "width": 410,
+  "height": 668,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 221,
+ "sure": "high",
+ "added": "2026-11-22"
+}

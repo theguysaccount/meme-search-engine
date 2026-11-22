@@ -1,0 +1,55 @@
+{
+ "slug": "fernanfloo-dresses-up",
+ "name": "Fernanfloo Dresses Up",
+ "aka": [],
+ "look": "Two photos side by side under a white caption space. Left: a slim young man with dark hair in a gray graphic hoodie and plaid pajama pants stands awkwardly by a wooden wardrobe. Right: the same man, hair neatly styled, poses confidently in a black suit and tie in a bright apartment.",
+ "text": [],
+ "use": "Compares a sloppy, everyday version of something with a polished, upgraded one. The left photo gets the basic or casual version and the right the fancy one.",
+ "slots": [
+  "the basic, casual version (above the left photo)",
+  "the fancy, upgraded version (above the right photo)"
+ ],
+ "examples": [
+  [
+   "Water",
+   "Sparkling water"
+  ],
+  [
+   "Me on a normal day",
+   "Me when I have to call customer service"
+  ]
+ ],
+ "describe": [
+  "guy in a hoodie and pajama pants then the same guy in a suit",
+  "skinny dude casual vs dressed up in a black suit",
+  "before and after glow up from pajamas to a suit",
+  "youtuber in sweatpants next to him in a tuxedo",
+  "two photos of a guy one sloppy and one classy"
+ ],
+ "tags": [
+  "youtuber",
+  "glow up",
+  "casual vs formal",
+  "suit",
+  "pajamas",
+  "comparison"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 2,
+ "franchise": null,
+ "origin": "Named after the Salvadoran YouTuber Fernanfloo, shown casual and then dressed up in a suit.",
+ "people": "public",
+ "imgflip": {
+  "id": "306195515",
+  "code": "52atyz",
+  "image": "52atyz.png",
+  "width": 680,
+  "height": 668,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 426,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

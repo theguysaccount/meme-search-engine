@@ -1,0 +1,52 @@
+{
+ "slug": "jordan-peele-sweating",
+ "name": "Jordan Peele Sweating",
+ "aka": [
+  "Sweating Bullets",
+  "Sweating Jordan Peele"
+ ],
+ "look": "A close-up of Jordan Peele with sweat streaming down his forehead and cheeks. He wears a dark shirt and stares off to the side with a tense, worried look, with blurry red curtains behind him.",
+ "text": [],
+ "use": "A reaction for intense nervousness under pressure. The caption describes a tense moment, like being asked a question you can't answer or almost getting caught, and the sweating face shows the panic held inside.",
+ "slots": [
+  "the nerve-racking situation (caption above)"
+ ],
+ "examples": [
+  [
+   "When the self-checkout says \"please wait for assistance\""
+  ]
+ ],
+ "describe": [
+  "man sweating a lot and looking nervous",
+  "guy drenched in sweat staring to the side",
+  "dude with sweat pouring down his face under pressure",
+  "jordan peele dripping sweat with a nervous face",
+  "close up of a nervous sweaty man in a dark shirt"
+ ],
+ "tags": [
+  "sweating",
+  "nervous",
+  "anxiety",
+  "pressure",
+  "close-up",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A still of comedian Jordan Peele drenched in sweat, widely shared as a GIF for nervous moments.",
+ "people": "actor",
+ "imgflip": {
+  "id": "28416438",
+  "code": "gx29i",
+  "image": "gx29i.jpg",
+  "width": 600,
+  "height": 336,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 301,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

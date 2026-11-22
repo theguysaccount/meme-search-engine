@@ -1,0 +1,58 @@
+{
+ "slug": "spider-man-desk",
+ "name": "Spider-Man Desk",
+ "aka": [
+  "Spiderman Computer Desk"
+ ],
+ "look": "A frame from the 1960s Spider-Man cartoon. Spider-Man sits behind a big wooden office desk with a black desk phone and papers, in a plain teal room with a blue armchair, while a framed portrait of Spider-Man himself hangs on the wall.",
+ "text": [],
+ "use": "Used for office and work jokes: Spider-Man sits at his desk as a boss, an employee or someone waiting by the phone, with a caption about work, being busy or pretending to be important.",
+ "slots": [
+  "the work situation (caption above)",
+  "the punchline (caption below)"
+ ],
+ "examples": [
+  [
+   "Me at work at 4:59 PM",
+   "Looking busy since 9 AM"
+  ],
+  [
+   "Being self-employed",
+   "Hanging a portrait of my boss in the office"
+  ]
+ ],
+ "describe": [
+  "spiderman sitting at an office desk with a phone",
+  "old cartoon spider-man behind a desk with his own portrait on the wall",
+  "60s spiderman working at a desk in a teal room",
+  "superhero sitting at a wooden desk like a boss",
+  "spider-man office meme with a blue armchair"
+ ],
+ "tags": [
+  "spider-man",
+  "desk",
+  "office",
+  "work",
+  "boss",
+  "1960s",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "A frame from the 1960s Spider-Man cartoon of Spider-Man sitting at an office desk.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "1366993",
+  "code": "tas1",
+  "image": "tas1.jpg",
+  "width": 469,
+  "height": 359,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 240,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

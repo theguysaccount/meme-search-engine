@@ -1,0 +1,57 @@
+{
+ "slug": "who-would-win",
+ "name": "Who Would Win?",
+ "aka": [],
+ "look": "A plain white graphic with the bold black heading \"WHO WOULD WIN?\" at the top. A horizontal line runs under the heading and a vertical line drops down the middle, splitting the space into two empty columns.",
+ "text": [
+  "WHO WOULD WIN?"
+ ],
+ "use": "Pits two contenders against each other. The left side shows something big, powerful or elaborate and the right side something tiny or silly, and the joke is that the small one obviously wins.",
+ "slots": [
+  "left column: the impressive, powerful contender",
+  "right column: the small or silly contender that wins anyway"
+ ],
+ "examples": [
+  [
+   "A $2,000 gaming PC with liquid cooling",
+   "One cable that isn't plugged in"
+  ],
+  [
+   "My eight-step morning routine",
+   "One snooze button"
+  ]
+ ],
+ "describe": [
+  "blank chart with two columns for a matchup",
+  "bold heading asking which side would win over two empty columns",
+  "t chart comparing two fighters",
+  "versus template with a line down the middle",
+  "white template pitting a big thing against a tiny thing"
+ ],
+ "tags": [
+  "versus",
+  "matchup",
+  "t-chart",
+  "comparison",
+  "blank template",
+  "text"
+ ],
+ "kind": "graphic",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "101910402",
+  "code": "1ooaki",
+  "image": "1ooaki.jpg",
+  "width": 802,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 82,
+ "sure": "high",
+ "added": "2026-11-22"
+}

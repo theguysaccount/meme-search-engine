@@ -1,0 +1,65 @@
+{
+ "slug": "inhaling-seagull",
+ "name": "Inhaling Seagull",
+ "aka": [
+  "Screaming Seagull",
+  "Seagull Inhaling"
+ ],
+ "look": "Four stacked frames of a white seagull perched on a green awning. It stands calmly, then tilts its head back to take a breath, then rears back even further, and in the last frame, tinted bright red, it screams with its beak wide open.",
+ "text": [],
+ "use": "The first three frames build up slowly, as if drawing a long breath, and the fourth red frame delivers the loud, explosive punchline, usually a word or phrase being screamed.",
+ "slots": [
+  "the setup (first frame)",
+  "the build up (second frame)",
+  "more build up (third frame)",
+  "the explosive scream (red fourth frame)"
+ ],
+ "examples": [
+  [
+   "Me at the store spotting a dog",
+   "Stay calm",
+   "Act natural",
+   "PUPPY!"
+  ],
+  [
+   "The waiter: Enjoy your meal",
+   "Me:",
+   "*deep breath*",
+   "YOU TOO!"
+  ]
+ ],
+ "describe": [
+  "seagull taking a deep breath then screaming",
+  "bird breathing in step by step then yelling in a red flash",
+  "four panel gull leaning back before a loud scream",
+  "white bird rears back and shrieks with a red background",
+  "seagull winding up for a big yell"
+ ],
+ "tags": [
+  "seagull",
+  "bird",
+  "scream",
+  "build up",
+  "deep breath",
+  "red",
+  "four panels"
+ ],
+ "kind": "photo",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "114585149",
+  "code": "1w7ygt",
+  "image": "1w7ygt.jpg",
+  "width": 1269,
+  "height": 2825,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 28,
+ "sure": "high",
+ "added": "2026-11-22"
+}

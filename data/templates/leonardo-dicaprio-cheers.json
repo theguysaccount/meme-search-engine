@@ -1,0 +1,59 @@
+{
+ "slug": "leonardo-dicaprio-cheers",
+ "name": "Leonardo DiCaprio Cheers",
+ "aka": [
+  "Gatsby Toast",
+  "DiCaprio Toast"
+ ],
+ "look": "A film still of Leonardo DiCaprio as Jay Gatsby, in a black tuxedo and bow tie with slicked-back hair, raising a champagne coupe toward the viewer with a knowing smile as fireworks sparkle behind him.",
+ "text": [],
+ "use": "A toast to someone or something that deserves recognition, with the top text naming who is being saluted and the bottom giving the reason, like a respectful well done.",
+ "slots": [
+  "who or what is being toasted (top)",
+  "the reason (bottom)"
+ ],
+ "examples": [
+  [
+   "To the person who refilled the printer paper",
+   "You are the real hero"
+  ],
+  [
+   "Here's to the friend who says text me when you get home",
+   "and actually waits up"
+  ]
+ ],
+ "describe": [
+  "leo dicaprio raising a glass of champagne",
+  "man in a tuxedo toasting with a drink and fireworks behind him",
+  "great gatsby guy saying cheers",
+  "actor holding up a champagne glass with a smirk",
+  "classy man in a bow tie making a toast to you"
+ ],
+ "tags": [
+  "toast",
+  "champagne",
+  "cheers",
+  "tuxedo",
+  "celebration",
+  "great gatsby",
+  "fireworks"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Great Gatsby",
+ "origin": "Leonardo DiCaprio as Jay Gatsby raising a toast in the 2013 film The Great Gatsby.",
+ "people": "actor",
+ "imgflip": {
+  "id": "5496396",
+  "code": "39t1o",
+  "image": "39t1o.jpg",
+  "width": 600,
+  "height": 400,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 29,
+ "sure": "high",
+ "added": "2026-11-22"
+}

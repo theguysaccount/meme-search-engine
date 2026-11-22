@@ -1,0 +1,58 @@
+{
+ "slug": "car-salesman-slaps-roof-of-car",
+ "name": "Car Salesman Slaps Roof Of Car",
+ "aka": [
+  "Slaps Roof Of Car",
+  "This Bad Boy Can Fit So Much"
+ ],
+ "look": "A clean, simple illustration of a smiling car salesman in a black suit and tie showing off a silver car with an open-handed gesture. A customer in a white shirt stands beside him with a hand raised to his chin, thinking it over. Plain white background.",
+ "text": [],
+ "use": "A sales pitch for anything. The top caption reads like *slaps roof of* the thing being sold, and the bottom brags that this bad boy can fit so much of something absurd in it.",
+ "slots": [
+  "*slaps roof of* the thing being sold (top)",
+  "this bad boy can fit so much ___ in it (bottom)"
+ ],
+ "examples": [
+  [
+   "*slaps back of my phone*",
+   "This bad boy can fit so many screenshots I'll never look at again"
+  ],
+  [
+   "*slaps side of fridge*",
+   "This bad boy can fit so many leftovers nobody will eat"
+  ]
+ ],
+ "describe": [
+  "salesman hitting the top of a car",
+  "cartoon salesman in a suit showing a car to a customer",
+  "guy in a suit selling a car saying it can fit so much",
+  "drawing of a dealer bragging about a silver car",
+  "man in a suit pitching a car while a buyer thinks"
+ ],
+ "tags": [
+  "car",
+  "salesman",
+  "sales pitch",
+  "suit",
+  "customer",
+  "illustration"
+ ],
+ "kind": "drawing",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "142921050",
+  "code": "2d3al6",
+  "image": "2d3al6.jpg",
+  "width": 800,
+  "height": 450,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 162,
+ "sure": "high",
+ "added": "2026-11-22"
+}

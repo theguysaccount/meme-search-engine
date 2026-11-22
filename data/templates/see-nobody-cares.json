@@ -1,0 +1,58 @@
+{
+ "slug": "see-nobody-cares",
+ "name": "See Nobody Cares",
+ "aka": [
+  "See, Nobody Cares"
+ ],
+ "look": "Two stills from Jurassic Park at an outdoor cafe under thatched umbrellas. Top: Wayne Knight as Dennis Nedry, in glasses and a pink floral Hawaiian shirt, shouts with his arm raised beside a man in a red polo and straw hat. Bottom: Nedry smirks and gestures at the man.",
+ "text": [],
+ "use": "Proves nobody is paying attention. The top panel is a loud announcement, overshare or thing someone worried about, and the bottom panel is Nedry's smug follow-up, 'See, nobody cares.'",
+ "slots": [
+  "top panel: the loud announcement or worry",
+  "bottom panel: usually 'See, nobody cares'"
+ ],
+ "examples": [
+  [
+   "I'M ON DAY THREE OF MY JUICE CLEANSE!",
+   "See, nobody cares"
+  ],
+  [
+   "Hey everyone, I finally changed my profile picture!",
+   "See, nobody cares"
+  ]
+ ],
+ "describe": [
+  "jurassic park guy in a hawaiian shirt shouting at a cafe",
+  "nedry yelling across an outdoor restaurant then shrugging",
+  "man in glasses and a flowered shirt making a scene at lunch",
+  "two panel jurassic park scene proving no one is listening",
+  "guy in tropical shirt yells then says no one is paying attention"
+ ],
+ "tags": [
+  "jurassic park",
+  "dennis nedry",
+  "hawaiian shirt",
+  "indifference",
+  "cafe",
+  "movie",
+  "two panel"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Jurassic Park",
+ "origin": "From Jurassic Park (1993): Dennis Nedry loudly shouts his nervous contact's name across a cafe to prove nobody is listening.",
+ "people": "actor",
+ "imgflip": {
+  "id": "6531067",
+  "code": "3vzej",
+  "image": "3vzej.jpg",
+  "width": 620,
+  "height": 675,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 117,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "i-find-your-lack-of-faith-disturbing",
+ "name": "I Find Your Lack Of Faith Disturbing",
+ "aka": [
+  "Darth Vader",
+  "Darth Vader Force Choke"
+ ],
+ "look": "A still from Star Wars: Darth Vader, in his black helmet, mask and cape, stands in a gray room lit by white wall panels and raises one gloved hand with fingers pinched together in a Force choke gesture.",
+ "text": [],
+ "use": "Captions usually riff on Vader's line 'I find your lack of faith disturbing', swapping in something someone lacks, as a menacing scolding for not believing in, caring about or bringing something.",
+ "slots": [
+  "top caption: 'I find your lack of'",
+  "bottom caption: the missing thing, then 'disturbing'"
+ ],
+ "examples": [
+  [
+   "I find your lack of",
+   "coffee this morning disturbing"
+  ],
+  [
+   "I find your lack of",
+   "snacks at this meeting disturbing"
+  ]
+ ],
+ "describe": [
+  "star wars villain raising his hand to choke someone",
+  "villain in a black helmet pinching his fingers together",
+  "masked space villain holding up a menacing hand",
+  "sith lord in black armor choking someone with the force",
+  "dark helmet guy with a cape raising his hand in a gray room"
+ ],
+ "tags": [
+  "star wars",
+  "darth vader",
+  "force choke",
+  "villain",
+  "menacing",
+  "helmet",
+  "sci-fi"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Wars",
+ "origin": "Darth Vader from Star Wars, raising his hand in a Force choke, best known from his line 'I find your lack of faith disturbing.'",
+ "people": "actor",
+ "imgflip": {
+  "id": "6742540",
+  "code": "40iks",
+  "image": "40iks.jpg",
+  "width": 620,
+  "height": 396,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 354,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

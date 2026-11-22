@@ -1,0 +1,60 @@
+{
+ "slug": "stop-trying-to-make-fetch-happen",
+ "name": "Stop Trying To Make Fetch Happen",
+ "aka": [
+  "It's Not Going To Happen",
+  "Stop Trying To Make X Happen"
+ ],
+ "look": "A still from Mean Girls. Regina George (Rachel McAdams), with long blonde hair, gold hoop earrings, a pink collared shirt and a black cardigan, sits in a crowded school cafeteria and talks to someone off camera with a flat, unimpressed look.",
+ "text": [],
+ "use": "The caption tells someone to give up on a nickname, trend, idea or habit that nobody else wants, in the form \"Stop trying to make X happen\", followed by the flat verdict \"It's not going to happen.\"",
+ "slots": [
+  "top: stop trying to make this happen",
+  "bottom: it's not going to happen"
+ ],
+ "examples": [
+  [
+   "Stop trying to make 8 a.m. meetings happen",
+   "It's not going to happen"
+  ],
+  [
+   "Dad, stop trying to make \"cowabunga\" happen",
+   "It's not going to happen"
+  ]
+ ],
+ "describe": [
+  "blonde girl in the school cafeteria telling her friend to give up",
+  "regina george at the lunch table looking annoyed",
+  "popular high school girl with hoop earrings shutting down an idea",
+  "mean girls scene about a slang word that will never catch on",
+  "rachel mcadams unimpressed in a pink shirt and black cardigan"
+ ],
+ "tags": [
+  "mean girls",
+  "cafeteria",
+  "blonde",
+  "high school",
+  "dismissive",
+  "annoyed",
+  "movie quote"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Mean Girls",
+ "origin": "From the 2004 film Mean Girls, where Regina George tells Gretchen to stop trying to make \"fetch\" happen.",
+ "people": "actor",
+ "imgflip": {
+  "id": "10364354",
+  "code": "6656q",
+  "image": "6656q.jpg",
+  "width": 620,
+  "height": 348,
+  "boxes": null,
+  "name": "Its Not Going To Happen"
+ },
+ "variants": [],
+ "rank_all_time": 242,
+ "sure": "high",
+ "added": "2026-11-22"
+}

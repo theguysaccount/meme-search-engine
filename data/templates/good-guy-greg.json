@@ -1,0 +1,53 @@
+{
+ "slug": "good-guy-greg",
+ "name": "Good Guy Greg",
+ "aka": [
+  "GGG"
+ ],
+ "look": "A snapshot of a smiling young man with a buzz cut, in a navy blue zip-up top, with a hand-rolled cigarette dangling from his lips. He tilts his head with half-closed eyes in a beige room under a ceiling light.",
+ "text": [],
+ "use": "An advice-animal macro about a surprisingly decent person. The top line sets up a situation where someone could be selfish, and the bottom line reveals Greg doing the kind, generous thing instead.",
+ "slots": [
+  "the situation (top)",
+  "the unexpectedly kind thing Greg does (bottom)"
+ ],
+ "examples": [
+  [
+   "Borrows your car",
+   "Returns it washed with a full tank"
+  ]
+ ],
+ "describe": [
+  "smiling guy with a buzz cut and a cigarette in his mouth",
+  "friendly dude grinning with a joint between his lips",
+  "shaved head guy in a blue jacket smiling at the camera",
+  "nice guy meme with a buzzed head and a smirk",
+  "young man with a rolled cigarette smiling happily"
+ ],
+ "tags": [
+  "advice animal",
+  "nice guy",
+  "kindness",
+  "smiling",
+  "buzz cut",
+  "blue jacket"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "An advice-animal image macro, the friendly counterpart to Scumbag Steve.",
+ "people": "private",
+ "imgflip": {
+  "id": "61521",
+  "code": "1bgx",
+  "image": "1bgx.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 325,
+ "sure": "high",
+ "added": "2026-11-22"
+}

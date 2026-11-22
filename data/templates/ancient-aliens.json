@@ -1,0 +1,60 @@
+{
+ "slug": "ancient-aliens",
+ "name": "Ancient Aliens",
+ "aka": [
+  "Ancient Aliens Guy",
+  "Aliens Guy",
+  "History Channel Guy"
+ ],
+ "look": "A TV still of Giorgio A. Tsoukalos with wild, swept-up brown hair and stubble, wearing a brown suit and patterned tie, gesturing with both hands mid-explanation. A History channel logo sits in the lower right corner.",
+ "text": [],
+ "use": "The top line describes something mysterious or unexplained and the bottom line, usually just Aliens, offers a ridiculous explanation, poking fun at conspiracy-style reasoning.",
+ "slots": [
+  "the unexplained thing (top)",
+  "the absurd explanation, usually Aliens (bottom)"
+ ],
+ "examples": [
+  [
+   "I put my keys down a second ago and now they're gone",
+   "Aliens"
+  ],
+  [
+   "Who ate the last slice of pizza?",
+   "Aliens"
+  ]
+ ],
+ "describe": [
+  "guy with crazy hair saying it was aliens",
+  "history channel man with wild hair gesturing with his hands",
+  "tv host with big frizzy hair explaining a conspiracy",
+  "man in a brown suit with spiky hair talking about aliens",
+  "conspiracy theory guy with messy hair on a documentary show"
+ ],
+ "tags": [
+  "aliens",
+  "conspiracy",
+  "tv show",
+  "crazy hair",
+  "history channel",
+  "explanation",
+  "gesturing"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Ancient Aliens",
+ "origin": "Giorgio A. Tsoukalos speaking on the History channel series Ancient Aliens.",
+ "people": "public",
+ "imgflip": {
+  "id": "101470",
+  "code": "26am",
+  "image": "26am.jpg",
+  "width": 500,
+  "height": 436,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 18,
+ "sure": "high",
+ "added": "2026-11-22"
+}

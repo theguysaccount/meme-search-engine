@@ -1,0 +1,65 @@
+{
+ "slug": "the-most-interesting-man-in-the-world",
+ "name": "The Most Interesting Man in the World",
+ "aka": [
+  "I Don't Always",
+  "Dos Equis Guy",
+  "Stay Thirsty My Friends"
+ ],
+ "look": "An ad photo of actor Jonathan Goldsmith, with swept-back gray hair and a gray beard, in a black pinstriped jacket and white shirt, seated at a dark table with one arm across his chest and a green Dos Equis beer bottle beside him.",
+ "text": [],
+ "use": "The top line is I don't always X and the bottom is but when I do, I Y, a suave, self-assured statement about a habit that usually ends in something oddly specific or ridiculous.",
+ "slots": [
+  "I don't always... (top)",
+  "but when I do... (bottom)"
+ ],
+ "examples": [
+  [
+   "I don't always go to the gym",
+   "but when I do, I take a selfie and leave"
+  ],
+  [
+   "I don't always read the instructions",
+   "but when I do, it's after I've built it wrong"
+  ]
+ ],
+ "describe": [
+  "older man with a gray beard sitting with a beer bottle",
+  "classy gray haired guy at a table looking confident",
+  "beer commercial man in a pinstripe suit",
+  "distinguished bearded gentleman staring at the camera at a bar",
+  "suave old man in a black jacket with a green bottle"
+ ],
+ "tags": [
+  "beer",
+  "commercial",
+  "gray beard",
+  "suave",
+  "confident",
+  "older man",
+  "advertising"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Dos Equis",
+ "origin": "From a Dos Equis beer ad campaign starring actor Jonathan Goldsmith.",
+ "people": "actor",
+ "imgflip": {
+  "id": "61532",
+  "code": "1bh8",
+  "image": "1bh8.jpg",
+  "width": 550,
+  "height": 690,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "10760000",
+   "name": "i don't always"
+  }
+ ],
+ "rank_all_time": 40,
+ "sure": "high",
+ "added": "2026-11-22"
+}

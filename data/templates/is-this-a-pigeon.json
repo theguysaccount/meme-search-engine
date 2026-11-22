@@ -1,0 +1,70 @@
+{
+ "slug": "is-this-a-pigeon",
+ "name": "Is This a Pigeon",
+ "aka": [
+  "Anime Butterfly Meme",
+  "Is This a Butterfly"
+ ],
+ "look": "An anime still of a young man with dark hair and glasses, in a white jacket with a red collar, holding a book and gesturing with an open palm toward a yellow butterfly fluttering beside a window.",
+ "text": [],
+ "use": "The man, the butterfly and the question are all labeled: someone confidently misidentifies one thing as something else entirely, with the bottom caption asking Is this a...?",
+ "slots": [
+  "who is confused (the man)",
+  "the thing being misidentified (the butterfly)",
+  "the wrong guess, Is this a...? (bottom)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "A spreadsheet with two colors",
+   "Is this graphic design?"
+  ],
+  [
+   "My cat",
+   "An empty cardboard box",
+   "Is this a palace?"
+  ]
+ ],
+ "describe": [
+  "anime guy pointing at a butterfly asking what it is",
+  "cartoon man with glasses mistaking a butterfly for a bird",
+  "anime man gesturing at a yellow butterfly by a window",
+  "guy with glasses confidently misidentifying something",
+  "japanese cartoon character with a book and a butterfly"
+ ],
+ "tags": [
+  "anime",
+  "butterfly",
+  "misunderstanding",
+  "confusion",
+  "glasses",
+  "wrong guess"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "The Brave of Sun Fighbird",
+ "origin": "A still from the 1991 anime series The Brave of Sun Fighbird.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "100777631",
+  "code": "1o00in",
+  "image": "1o00in.jpg",
+  "width": 1587,
+  "height": 1425,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "142009471",
+   "name": "is this butterfly"
+  },
+  {
+   "id": "137635600",
+   "name": "Butterfly man"
+  }
+ ],
+ "rank_all_time": 32,
+ "sure": "high",
+ "added": "2026-11-22"
+}

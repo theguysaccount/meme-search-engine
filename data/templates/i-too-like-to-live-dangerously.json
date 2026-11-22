@@ -1,0 +1,56 @@
+{
+ "slug": "i-too-like-to-live-dangerously",
+ "name": "I Too Like To Live Dangerously",
+ "aka": [],
+ "look": "Movie still of Mike Myers as Austin Powers, with shaggy brown hair and thick black glasses, wearing a red velvet suit and a white lace ruffled shirt. He gives a sly, toothy smirk in a dim casino with people in formal wear behind him.",
+ "text": [],
+ "use": "Treats a tiny, harmless act as if it were daring. The top text describes the barely risky thing someone does and the bottom adds \"I too like to live dangerously.\"",
+ "slots": [
+  "the barely risky thing (top text)",
+  "I too like to live dangerously (bottom text)"
+ ],
+ "examples": [
+  [
+   "Uses the phone at 2% battery with no charger nearby",
+   "I too like to live dangerously"
+  ],
+  [
+   "Eats yogurt one day after the date on the lid",
+   "I too like to live dangerously"
+  ]
+ ],
+ "describe": [
+  "austin powers smirking in a red velvet suit",
+  "guy with glasses and a frilly shirt smiling slyly at a casino",
+  "sixties spy with bad teeth grinning at the card table",
+  "mike myers smug smile in a ruffled shirt about taking risks",
+  "nerdy man in a red suit and lace collar looking smug"
+ ],
+ "tags": [
+  "movie",
+  "spy",
+  "smirk",
+  "risk",
+  "casino",
+  "comedy",
+  "red suit"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Austin Powers",
+ "origin": "Mike Myers as Austin Powers in the casino scene of Austin Powers: International Man of Mystery (1997).",
+ "people": "actor",
+ "imgflip": {
+  "id": "646581",
+  "code": "duwl",
+  "image": "duwl.jpg",
+  "width": 480,
+  "height": 320,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 389,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "cool-cat-stroll",
+ "name": "Cool Cat Stroll",
+ "aka": [],
+ "look": "A photo of a gray tabby kitten walking upright on its hind legs across a parquet wood floor, one front paw raised and head tilted up as if strutting proudly, with a dark wooden table and a brick wall behind it.",
+ "text": [],
+ "use": "Shows someone strolling away smug and carefree. The caption describes a small personal victory or getting away with something, and the kitten's proud two-legged walk is the confident exit.",
+ "slots": [
+  "top caption: the situation",
+  "bottom caption: the smug follow-up"
+ ],
+ "examples": [
+  [
+   "Me walking out of the dentist",
+   "with zero cavities"
+  ],
+  [
+   "Me leaving the kitchen",
+   "after hiding the last cookie for later"
+  ]
+ ],
+ "describe": [
+  "kitten walking on two legs like a person",
+  "small cat strutting upright across a wooden floor",
+  "tabby kitten standing on its hind legs taking a walk",
+  "cat walking like a human with total confidence",
+  "little cat sashaying with one paw in the air"
+ ],
+ "tags": [
+  "cat",
+  "kitten",
+  "walking upright",
+  "strut",
+  "confident",
+  "cute",
+  "animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "99606",
+  "code": "24uu",
+  "image": "24uu.jpg",
+  "width": 330,
+  "height": 478,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 350,
+ "sure": "high",
+ "added": "2026-11-22"
+}

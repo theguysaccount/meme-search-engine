@@ -1,0 +1,73 @@
+{
+ "slug": "mother-ignoring-kid-drowning-in-a-pool",
+ "name": "Mother Ignoring Kid Drowning In A Pool",
+ "aka": [
+  "Drowning Kid in the Pool"
+ ],
+ "look": "Two stacked photos. Top: in an outdoor pool with palm trees behind, a smiling mother lifts a happy little girl in pigtails while a boy in the foreground struggles with only his panicked face above water. Bottom: a skeleton sits in a chair at the bottom of murky green water.",
+ "text": [],
+ "use": "Shows attention going to something new while older things are neglected. The mother is labeled as someone, the happy girl as the new favorite, the struggling boy as the neglected older thing, and the skeleton below as something forgotten long ago.",
+ "slots": [
+  "the mother: who is giving the attention",
+  "the happy girl: the new favorite",
+  "the struggling boy: what is being neglected",
+  "the skeleton underwater: what was forgotten long ago"
+ ],
+ "examples": [
+  [
+   "Me",
+   "My new hobby",
+   "The hobby I started last month",
+   "The guitar I bought three years ago"
+  ],
+  [
+   "Streaming services",
+   "A brand new show",
+   "The show they canceled after one season",
+   "The show I've waited six years to see continued"
+  ]
+ ],
+ "describe": [
+  "mom playing with her daughter while her son drowns in the pool",
+  "kid struggling in the water as his mother ignores him",
+  "woman holding a happy girl in a pool and a skeleton underwater below",
+  "skeleton sitting on a chair at the bottom of the pool",
+  "parent ignoring a sinking child while playing with another"
+ ],
+ "tags": [
+  "swimming pool",
+  "neglect",
+  "mother",
+  "drowning",
+  "skeleton",
+  "favoritism",
+  "two panel"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "252758727",
+  "code": "46hhvr",
+  "image": "46hhvr.jpg",
+  "width": 782,
+  "height": 1032,
+  "boxes": 4
+ },
+ "variants": [
+  {
+   "id": "138766447",
+   "name": "drowning kid in the pool"
+  },
+  {
+   "id": "252926078",
+   "name": "drowning kid + skeleton"
+  }
+ ],
+ "rank_all_time": 87,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "these-arent-the-droids-youre-looking-for",
+ "name": "These Aren't the Droids You're Looking For",
+ "aka": [
+  "These Aren't The Droids You Were Looking For",
+  "Jedi Mind Trick"
+ ],
+ "look": "A widescreen still from the original Star Wars. Obi-Wan Kenobi (Alec Guinness), in a brown hooded robe, calmly waves his fingers in a Jedi mind trick from a landspeeder, with R2-D2 and C-3PO behind him and the back of Luke's head in the foreground.",
+ "text": [],
+ "use": "Obi-Wan smoothly talks someone out of noticing something. Captions are a calm, hand-waving dismissal meant to make a person overlook a problem, usually in the form \"These aren't the ___ you're looking for.\"",
+ "slots": [
+  "top: the situation",
+  "bottom: these aren't the ___ you're looking for"
+ ],
+ "examples": [
+  [
+   "When mom asks who ate the last slice of cake",
+   "This isn't the crumb trail you're looking for"
+  ],
+  [
+   "Showing my boss the project timeline",
+   "These aren't the deadlines you're looking for"
+  ]
+ ],
+ "describe": [
+  "obi wan waving his hand to trick a guard",
+  "old jedi in a hood waving at a stormtrooper with droids behind him",
+  "alec guinness hand gesture telling someone to move along",
+  "star wars scene in the landspeeder with r2d2 and c3po",
+  "bearded man in a brown hood waving his fingers to control minds"
+ ],
+ "tags": [
+  "star wars",
+  "jedi",
+  "mind trick",
+  "hand wave",
+  "droids",
+  "obi-wan",
+  "persuasion"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Wars",
+ "origin": "From the original 1977 Star Wars, when Obi-Wan uses a Jedi mind trick on stormtroopers in Mos Eisley: \"These aren't the droids you're looking for.\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "1373425",
+  "code": "tfqp",
+  "image": "tfqp.jpg",
+  "width": 500,
+  "height": 218,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 286,
+ "sure": "high",
+ "added": "2026-11-22"
+}

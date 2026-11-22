@@ -1,0 +1,58 @@
+{
+ "slug": "jim-halpert-pointing-to-whiteboard",
+ "name": "Jim Halpert Pointing To Whiteboard",
+ "aka": [
+  "Jim Halpert Explains"
+ ],
+ "look": "Two stacked stills from The Office. Top: Jim Halpert (John Krasinski), in a light blue shirt and dark tie, points a marker at a blank whiteboard on an easel while looking at the camera. Bottom: he sits beside the blank whiteboard and gives the camera a small, knowing smile.",
+ "text": [],
+ "use": "Jim presents something on the whiteboard like a lesson, then looks at the camera with a smug smile. The top board sets up a point or plan, and the bottom board delivers the twist or conclusion he is quietly proud of.",
+ "slots": [
+  "top whiteboard: the point or plan",
+  "bottom whiteboard: the twist or conclusion"
+ ],
+ "examples": [
+  [
+   "If I never check my bank account",
+   "I can never be broke"
+  ],
+  [
+   "Breakfast is the most important meal of the day",
+   "So I'm having it three times today"
+  ]
+ ],
+ "describe": [
+  "jim from the office pointing at a blank whiteboard",
+  "john krasinski presenting on a whiteboard then smirking at the camera",
+  "office guy in a tie explaining something on an easel board",
+  "man points at a whiteboard then gives a smug look",
+  "two panel whiteboard presentation with a satisfied smile"
+ ],
+ "tags": [
+  "the office",
+  "jim halpert",
+  "whiteboard",
+  "explaining",
+  "presentation",
+  "smug",
+  "two panel"
+ ],
+ "kind": "screenshot",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "The Office (US)",
+ "origin": "Stills of John Krasinski as Jim Halpert from The Office (US).",
+ "people": "actor",
+ "imgflip": {
+  "id": "228097860",
+  "code": "3rsxfo",
+  "image": "3rsxfo.jpg",
+  "width": 676,
+  "height": 769,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 289,
+ "sure": "high",
+ "added": "2026-11-22"
+}

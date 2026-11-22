@@ -1,0 +1,56 @@
+{
+ "slug": "ill-have-you-know-spongebob",
+ "name": "I'll Have You Know Spongebob",
+ "aka": [],
+ "look": "A still from SpongeBob SquarePants: SpongeBob, with half-closed eyes and a smug, condescending expression, raises one index finger as if making a point, his mouth slightly open, against a blue sky with flower-shaped clouds.",
+ "text": [],
+ "use": "A smug correction or boast. The top usually starts with 'I'll have you know' and the bottom finishes with a proud claim that is actually unimpressive, or a know-it-all correction nobody asked for.",
+ "slots": [
+  "top caption: 'I'll have you know'",
+  "bottom caption: the unimpressive boast or correction"
+ ],
+ "examples": [
+  [
+   "I'll have you know",
+   "I only hit snooze four times today"
+  ],
+  [
+   "I'll have you know",
+   "I read the first page of the instructions"
+  ]
+ ],
+ "describe": [
+  "spongebob raising one finger with a smug look",
+  "smug sponge holding up his finger to make a point",
+  "spongebob with half closed eyes correcting someone",
+  "cartoon sponge with a condescending face and pointer finger up",
+  "spongebob about to say well actually"
+ ],
+ "tags": [
+  "spongebob",
+  "smug",
+  "finger raised",
+  "correction",
+  "condescending",
+  "boast",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "326093",
+  "code": "6zm5",
+  "image": "6zm5.jpg",
+  "width": 360,
+  "height": 316,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 370,
+ "sure": "high",
+ "added": "2026-11-22"
+}

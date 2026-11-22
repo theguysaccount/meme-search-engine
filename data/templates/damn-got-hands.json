@@ -1,0 +1,60 @@
+{
+ "slug": "damn-got-hands",
+ "name": "Damn Got Hands",
+ "aka": [
+  "Ok Ima Fight"
+ ],
+ "look": "Two crude 3D boxers on a pale lavender background. At top left a boxer in blue shorts and red gloves stands in a fighting stance under the words \"ok ima fight\". Below, a worn-out boxer sits on a stool drinking water beside \"damn\" and \"got hands\".",
+ "text": [
+  "ok ima fight",
+  "damn",
+  "got hands"
+ ],
+ "use": "Someone confidently takes on a challenge and gets humbled. The standing boxer is the challenger before the fight, and the slumped boxer on the stool is the same person afterward, admitting the opponent was much tougher than expected.",
+ "slots": [
+  "the challenge being taken on (caption above)",
+  "the challenger before, \"ok ima fight\" (top boxer)",
+  "the challenger after, \"damn, got hands\" (seated boxer)"
+ ],
+ "examples": [
+  [
+   "Me vs. the spicy wing challenge",
+   "Me before the first wing",
+   "Me after the first wing"
+  ]
+ ],
+ "describe": [
+  "cartoon boxer ready to fight then sitting down drinking water",
+  "3d boxing guys that say ok ima fight and damn got hands",
+  "boxer in a fighting stance and then resting on a stool",
+  "low poly fighter gets beat up and sits down",
+  "boxing animation where the guy realizes the other one can fight"
+ ],
+ "tags": [
+  "boxing",
+  "fight",
+  "defeat",
+  "3d render",
+  "humbled",
+  "lavender",
+  "sports"
+ ],
+ "kind": "render",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "293131641",
+  "code": "4uittl",
+  "image": "4uittl.png",
+  "width": 680,
+  "height": 660,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 315,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

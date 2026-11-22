@@ -1,0 +1,59 @@
+{
+ "slug": "yo-dawg",
+ "name": "Yo Dawg",
+ "aka": [
+  "Xzibit Yo Dawg",
+  "Yo Dawg I Heard You Like",
+  "Yo Dawg Heard You"
+ ],
+ "look": "Rapper Xzibit, with cornrows and a goatee, laughs with a wide toothy grin and squinted eyes. He wears a black T-shirt and a silver chain necklace in front of a mottled blue and gray photo backdrop.",
+ "text": [],
+ "use": "Jokes about recursion, or putting a thing inside the same kind of thing. The top caption reads \"Yo dawg, I heard you like X\" and the bottom finishes \"so I put an X in your X so you can Y while you Y.\"",
+ "slots": [
+  "top caption: 'Yo dawg, I heard you like...'",
+  "bottom caption: 'so I put a ... in your ... so you can ... while you ...'"
+ ],
+ "examples": [
+  [
+   "Yo dawg, I heard you like naps",
+   "So I scheduled a nap in your nap so you can rest while you rest"
+  ],
+  [
+   "Yo dawg, I heard you like meetings",
+   "So we booked a meeting to plan your meetings"
+  ]
+ ],
+ "describe": [
+  "rapper with cornrows laughing in a black t shirt",
+  "xzibit smiling big with a silver chain",
+  "pimp my ride host laughing at the camera",
+  "guy with braids and a goatee grinning",
+  "laughing man in front of a blue backdrop who heard you like something"
+ ],
+ "tags": [
+  "xzibit",
+  "rapper",
+  "laughing",
+  "recursion",
+  "pimp my ride",
+  "cornrows"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Based on rapper Xzibit, host of MTV's Pimp My Ride, a show that fitted cars with over-the-top extras.",
+ "people": "public",
+ "imgflip": {
+  "id": "101716",
+  "code": "26hg",
+  "image": "26hg.jpg",
+  "width": 500,
+  "height": 323,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 83,
+ "sure": "high",
+ "added": "2026-11-22"
+}

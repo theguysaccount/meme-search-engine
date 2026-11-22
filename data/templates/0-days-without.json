@@ -1,0 +1,62 @@
+{
+ "slug": "0-days-without",
+ "name": "0 Days Without",
+ "aka": [
+  "0 Days Without (Lenny, Simpsons)",
+  "Zero Days Without"
+ ],
+ "look": "A still from The Simpsons. Lenny, with dark swept-back hair and a green shirt, stands at a big sign reading '0 DAYS WITHOUT' followed by a blank space, swapping out a '0' number card for another '0' card.",
+ "text": [
+  "0 DAYS WITHOUT",
+  "0"
+ ],
+ "use": "Mocks something that keeps happening again and again. The blank on the sign is filled with the thing that just happened yet again, so the counter resets to zero before it can ever go up.",
+ "slots": [
+  "blank after 'DAYS WITHOUT' on the sign: the thing that keeps happening",
+  "label on Lenny (optional): who keeps resetting it"
+ ],
+ "examples": [
+  [
+   "losing my keys",
+   "Me"
+  ],
+  [
+   "someone hitting reply-all to the whole company",
+   "IT department"
+  ]
+ ],
+ "describe": [
+  "simpsons sign that says zero days without",
+  "lenny changing the number on a days without sign",
+  "guy flipping a 0 to another 0 on a safety counter",
+  "cartoon worker resetting the accident counter back to zero",
+  "simpsons days since last accident sign reset"
+ ],
+ "tags": [
+  "the simpsons",
+  "lenny",
+  "sign",
+  "zero days",
+  "counter",
+  "accident",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "The Simpsons",
+ "origin": "An edited still from The Simpsons of Lenny changing the number on a workplace safety sign.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "427308417",
+  "code": "72epa9",
+  "image": "72epa9.png",
+  "width": 619,
+  "height": 403,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 124,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "surprised-pikachu",
+ "name": "Surprised Pikachu",
+ "aka": [
+  "Shocked Pikachu",
+  "Pikachu Surprised Face"
+ ],
+ "look": "A blurry, low-resolution cartoon close-up of Pikachu staring straight ahead with wide eyes and a small open mouth in shocked surprise, against a green leafy background, under a wide white strip for captions.",
+ "text": [],
+ "use": "The caption describes someone doing something with an obvious consequence and then facing that exact consequence, with Pikachu's shocked face standing in for their clueless or fake surprise.",
+ "slots": [
+  "what someone does (first line)",
+  "the predictable consequence (second line)",
+  "who is surprised, often just Me: (third line, above Pikachu)"
+ ],
+ "examples": [
+  [
+   "Me: stays up until 4 a.m. watching videos",
+   "My alarm at 7 a.m.: rings",
+   "Me:"
+  ],
+  [
+   "Me: leaves a cup on the edge of the table",
+   "My cat: knocks it off",
+   "Me:"
+  ]
+ ],
+ "describe": [
+  "pikachu with its mouth open in shock",
+  "shocked yellow pokemon face",
+  "cartoon mouse looking stunned with wide eyes",
+  "pikachu gasping like it didn't see that coming",
+  "blurry yellow creature with an open mouth and red cheeks"
+ ],
+ "tags": [
+  "pikachu",
+  "pokemon",
+  "shocked",
+  "surprise",
+  "obvious consequences",
+  "cartoon",
+  "reaction"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Pokémon",
+ "origin": "A still from the Pokémon anime; it spread as a meme in 2018.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "155067746",
+  "code": "2kbn1e",
+  "image": "2kbn1e.jpg",
+  "width": 1893,
+  "height": 1892,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 30,
+ "sure": "high",
+ "added": "2026-11-22"
+}

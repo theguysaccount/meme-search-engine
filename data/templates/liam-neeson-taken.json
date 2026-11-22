@@ -1,0 +1,59 @@
+{
+ "slug": "liam-neeson-taken",
+ "name": "Liam Neeson Taken",
+ "aka": [
+  "I Will Find You",
+  "Particular Set of Skills"
+ ],
+ "look": "A dark film still of Liam Neeson in a black sweater holding a phone to his ear and speaking with a stern, intense stare. Thick black letterbox bars run across the top and bottom of the square image.",
+ "text": [],
+ "use": "Parodies the famous phone threat. The top caption starts like \"I don't know who you are...\" and the bottom ends with \"but I will find you, and I will...\" plus something harmless or petty, like thanking them.",
+ "slots": [
+  "the setup, often \"I don't know who you are\" (top)",
+  "the twist on \"I will find you\" (bottom)"
+ ],
+ "examples": [
+  [
+   "I don't know who you are, but you returned my lost wallet",
+   "I will find you, and I will bake you cookies"
+  ],
+  [
+   "To whoever ate my labeled lunch from the office fridge",
+   "I will find you, and I will label it louder"
+  ]
+ ],
+ "describe": [
+  "liam neeson on the phone looking serious in the dark",
+  "man in black making a threatening phone call movie scene",
+  "actor holding a cellphone to his ear with an intense stare",
+  "dad on the phone warning the kidnappers in an action movie",
+  "older man on a call making a calm serious threat"
+ ],
+ "tags": [
+  "liam neeson",
+  "taken",
+  "phone call",
+  "threat",
+  "serious",
+  "movie",
+  "dark"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Taken",
+ "origin": "Liam Neeson as Bryan Mills making his famous threatening phone call in the 2008 film Taken.",
+ "people": "actor",
+ "imgflip": {
+  "id": "228024",
+  "code": "4vy0",
+  "image": "4vy0.jpg",
+  "width": 300,
+  "height": 300,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 218,
+ "sure": "high",
+ "added": "2026-11-22"
+}

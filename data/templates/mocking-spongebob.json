@@ -1,0 +1,64 @@
+{
+ "slug": "mocking-spongebob",
+ "name": "Mocking SpongeBob",
+ "aka": [
+  "Spongemock",
+  "SpongeBob Chicken"
+ ],
+ "look": "A cartoon still of SpongeBob bent forward in a hunched, chicken-like pose, eyes pointing in different directions and mouth hanging open in a dopey expression. He wears his white Krusty Krab hat in a room with a blue wall and green floor.",
+ "text": [],
+ "use": "Someone's words are repeated back in alternating upper and lowercase letters to imitate a whiny, mocking voice, ridiculing the statement as dumb, smug or hypocritical.",
+ "slots": [
+  "the original statement (top)",
+  "the same words in mocking alternating caps (bottom)"
+ ],
+ "examples": [
+  [
+   "I'll just watch one episode",
+   "i'Ll JuSt WaTcH oNe EpIsOdE"
+  ],
+  [
+   "You should drink more water",
+   "yOu ShOuLd DrInK mOrE wAtEr"
+  ]
+ ],
+ "describe": [
+  "spongebob bent over like a chicken making a dumb face",
+  "sponge cartoon repeating what someone said in a silly voice",
+  "spongebob with weird eyes and mouth open hunched over",
+  "yellow cartoon character imitating someone sarcastically",
+  "text written in alternating capital letters with spongebob"
+ ],
+ "tags": [
+  "spongebob",
+  "mocking",
+  "sarcasm",
+  "alternating caps",
+  "cartoon",
+  "chicken pose",
+  "imitation"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "From the SpongeBob SquarePants episode Little Yellow Book, where SpongeBob acts like a chicken; the meme took off in 2017.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "102156234",
+  "code": "1otk96",
+  "image": "1otk96.jpg",
+  "width": 502,
+  "height": 353,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "102723630",
+   "name": "triggerpaul"
+  }
+ ],
+ "rank_all_time": 12,
+ "sure": "high",
+ "added": "2026-11-22"
+}

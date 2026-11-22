@@ -1,0 +1,55 @@
+{
+ "slug": "hold-fart",
+ "name": "Hold Fart",
+ "aka": [
+  "Guy Holding Fart"
+ ],
+ "look": "A photo of a teenage boy in a black hoodie sitting in a classroom, leaning forward with a tense, strained face and eyes cut to the side as if holding something in. A dark-haired girl sits beside him looking ahead, and a whiteboard fills the wall behind.",
+ "text": [],
+ "use": "Someone desperately holding back an urge where they must stay quiet or composed. The caption names what they are trying not to do, like laughing during a test, sneezing in a meeting or correcting someone.",
+ "slots": [
+  "the situation and the urge being held in (caption above)"
+ ],
+ "examples": [
+  [
+   "Me trying not to correct the teacher's spelling on the whiteboard"
+  ],
+  [
+   "When the exam room is silent and you remember a funny video"
+  ]
+ ],
+ "describe": [
+  "teen boy straining in class trying to hold in a fart",
+  "kid in black hoodie with a tense face next to a girl",
+  "guy holding it in during class with a strained look",
+  "student trying not to laugh in a quiet classroom",
+  "boy with clenched face and eyes looking sideways at school"
+ ],
+ "tags": [
+  "classroom",
+  "straining",
+  "holding it in",
+  "student",
+  "awkward",
+  "hoodie",
+  "tense"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "41022477",
+  "code": "of959",
+  "image": "of959.jpg",
+  "width": 599,
+  "height": 804,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 211,
+ "sure": "high",
+ "added": "2026-11-22"
+}

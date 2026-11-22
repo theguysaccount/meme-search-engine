@@ -1,0 +1,55 @@
+{
+ "slug": "the-world-if",
+ "name": "The World If",
+ "aka": [
+  "The Future World If"
+ ],
+ "look": "A bright CGI render of a utopian future city with sleek glass towers, domes and curved buildings under a blue sky full of flying cars. A silver pod vehicle sits by a pool, and in the foreground a person walks a small white dog along a curving white path.",
+ "text": [],
+ "use": "Imagines how advanced and perfect the world would be if one thing had gone differently. The caption reads \"The world if...\" followed by a wish, a missed chance or a petty change, like everyone returning shopping carts.",
+ "slots": [
+  "the change that would have made the world perfect (caption above, after \"The world if\")"
+ ],
+ "examples": [
+  [
+   "The world if everyone put their shopping carts back"
+  ],
+  [
+   "The world if group projects were graded separately"
+  ]
+ ],
+ "describe": [
+  "futuristic city with flying cars and glass towers",
+  "utopian sci fi city picture for how advanced we would be",
+  "perfect future world with a guy walking his dog",
+  "imagine if everyone did this advanced city of the future",
+  "cgi skyline with hover cars and green lawn"
+ ],
+ "tags": [
+  "future",
+  "utopia",
+  "city",
+  "flying cars",
+  "sci-fi",
+  "what if",
+  "3d render"
+ ],
+ "kind": "render",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A CGI illustration of a utopian future city, captioned \"the world if...\" to imagine a better timeline.",
+ "people": "models",
+ "imgflip": {
+  "id": "179137533",
+  "code": "2ynjel",
+  "image": "2ynjel.jpg",
+  "width": 800,
+  "height": 450,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 200,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

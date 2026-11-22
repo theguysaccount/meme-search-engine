@@ -1,0 +1,58 @@
+{
+ "slug": "jack-nicholson-the-shining-snow",
+ "name": "Jack Nicholson The Shining Snow",
+ "aka": [
+  "Frozen Jack Torrance"
+ ],
+ "look": "A film still of Jack Nicholson as Jack Torrance from The Shining, frozen solid and half buried in snow beside snow-covered hedges. Frost coats his hair, eyebrows and face, his eyes roll upward and his mouth hangs slightly open.",
+ "text": [],
+ "use": "Stands for being frozen to the bone or stuck waiting out in the cold. Captions describe freezing weather, an icy office, a cold shower or waiting outside far too long.",
+ "slots": [
+  "top caption: the cold situation",
+  "bottom caption: the punchline (optional)"
+ ],
+ "examples": [
+  [
+   "Me waiting for the bus in January",
+   "The app said 2 minutes, 40 minutes ago"
+  ],
+  [
+   "Me after my roommate set the thermostat to 60",
+   "Still waiting for summer"
+  ]
+ ],
+ "describe": [
+  "man frozen stiff at the end of a kubrick horror movie",
+  "man frozen solid with frost all over his face",
+  "guy covered in snow and ice staring upward",
+  "the shining ending frozen outside the hedge maze",
+  "freezing cold man iced over in winter"
+ ],
+ "tags": [
+  "the shining",
+  "frozen",
+  "snow",
+  "cold",
+  "winter",
+  "horror movie",
+  "jack nicholson"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Shining",
+ "origin": "Jack Nicholson as Jack Torrance frozen in the snow near the end of Stanley Kubrick's The Shining (1980).",
+ "people": "actor",
+ "imgflip": {
+  "id": "9106691",
+  "code": "5f6rn",
+  "image": "5f6rn.jpg",
+  "width": 620,
+  "height": 464,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 463,
+ "sure": "high",
+ "added": "2026-11-22"
+}

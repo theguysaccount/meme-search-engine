@@ -1,0 +1,59 @@
+{
+ "slug": "communist-bugs-bunny",
+ "name": "Communist Bugs Bunny",
+ "aka": [
+  "Bugs Bunny Communist",
+  "Our Bugs Bunny"
+ ],
+ "look": "Bugs Bunny, the gray cartoon rabbit, wears a smug half-lidded look and stretches one arm out to the side as if sharing something, while a large yellow hammer and sickle with a star glows behind him on an orange-red background.",
+ "text": [],
+ "use": "Bugs Bunny claims everything as shared property by saying 'our' instead of 'my'. The top caption quotes someone calling something theirs, and the bottom is Bugs's correction, usually just 'Our'.",
+ "slots": [
+  "top caption: someone claims something as theirs",
+  "bottom caption: Bugs's reply, usually 'Our'"
+ ],
+ "examples": [
+  [
+   "Little brother: 'Those are my fries'",
+   "Our fries"
+  ],
+  [
+   "Roommate: 'Don't touch my leftovers'",
+   "Our leftovers"
+  ]
+ ],
+ "describe": [
+  "bugs bunny with a hammer and sickle behind him",
+  "cartoon rabbit saying our instead of my",
+  "soviet bugs bunny with a smug face",
+  "bunny claiming everything belongs to everyone",
+  "looney tunes rabbit on a red background with a yellow symbol"
+ ],
+ "tags": [
+  "bugs bunny",
+  "communism",
+  "our",
+  "sharing",
+  "looney tunes",
+  "soviet",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Looney Tunes",
+ "origin": "An edited Bugs Bunny cartoon still with the Soviet hammer and sickle added behind him.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "249257686",
+  "code": "44eggm",
+  "image": "44eggm.png",
+  "width": 460,
+  "height": 284,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 125,
+ "sure": "high",
+ "added": "2026-11-22"
+}

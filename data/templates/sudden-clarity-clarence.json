@@ -1,0 +1,56 @@
+{
+ "slug": "sudden-clarity-clarence",
+ "name": "Sudden Clarity Clarence",
+ "aka": [],
+ "look": "A crowded photo at a concert or party. In the middle of the cheering crowd, a young man with curly light brown hair and a white T-shirt freezes with wide eyes and parted lips, as if struck by a sudden realization.",
+ "text": [],
+ "use": "Captures a moment of sudden insight, often an obvious or absurd one, arriving at an odd time. The top text sets up the situation and the bottom text is the realization.",
+ "slots": [
+  "top: the situation",
+  "bottom: the sudden realization"
+ ],
+ "examples": [
+  [
+   "If I go to bed now",
+   "I could wake up rested for once"
+  ],
+  [
+   "Wait, if I clean while I cook",
+   "There won't be a mountain of dishes after dinner"
+  ]
+ ],
+ "describe": [
+  "guy at a concert with a sudden realization face",
+  "young man with curly hair staring wide eyed in a party crowd",
+  "dude at a festival frozen in shock while everyone parties",
+  "shocked guy in a white t-shirt having an epiphany at a rave",
+  "curly haired kid realizes something in the middle of a crowd"
+ ],
+ "tags": [
+  "realization",
+  "epiphany",
+  "concert",
+  "crowd",
+  "shocked",
+  "party",
+  "advice animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "100948",
+  "code": "25w4",
+  "image": "25w4.jpg",
+  "width": 500,
+  "height": 272,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 284,
+ "sure": "high",
+ "added": "2026-11-22"
+}

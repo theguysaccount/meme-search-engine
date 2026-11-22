@@ -1,0 +1,53 @@
+{
+ "slug": "plague-doctor-gangstas-paradise",
+ "name": "Plague Doctor Gangsta's Paradise",
+ "aka": [],
+ "look": "A blurry phone video still of a person dressed as a plague doctor, in a long black hooded robe and mask, striding forward with a walking cane under an open picnic shelter, with a red building, a picnic table and green grass behind.",
+ "text": [],
+ "use": "A slow, menacing entrance. The caption sets up a moment, and the costumed figure is whoever shows up uninvited and ready to deal with it, like a parent who hears one cough or the IT guy arriving after you touched something.",
+ "slots": [
+  "caption saying who is arriving and when (top)"
+ ],
+ "examples": [
+  [
+   "The school nurse walking in after I mention a tiny headache"
+  ],
+  [
+   "The IT guy after I say I didn't touch anything"
+  ]
+ ],
+ "describe": [
+  "person in a black plague doctor costume walking with a cane",
+  "creepy figure in a dark robe and mask striding forward",
+  "someone in a hooded black outfit walking menacingly",
+  "costumed person with a cane walking under a park shelter",
+  "blurry video of a masked figure strutting toward the camera"
+ ],
+ "tags": [
+  "plague doctor",
+  "costume",
+  "walking",
+  "menacing",
+  "entrance",
+  "blurry",
+  "cane"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "286543019",
+  "code": "4qlm0b",
+  "image": null,
+  "width": 168,
+  "height": 250,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 339,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

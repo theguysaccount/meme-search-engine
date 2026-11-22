@@ -1,0 +1,55 @@
+{
+ "slug": "domino-effect",
+ "name": "Domino Effect",
+ "aka": [],
+ "look": "A man in a light blue polo shirt and khaki pants kneels on a black mat, about to flick a tiny white domino. It starts a row of dominoes that grow steadily larger, ending in a giant slab taller than him, in a hallway with a brick wall.",
+ "text": [],
+ "use": "Shows how something tiny sets off a huge consequence. The smallest domino gets the trivial first event, and the giant domino at the far end gets the massive outcome it eventually leads to.",
+ "slots": [
+  "the small first cause (tiny domino by the man's hand)",
+  "the huge eventual consequence (giant domino at the left)"
+ ],
+ "examples": [
+  [
+   "\"I'll just watch one video\"",
+   "Watching the sunrise"
+  ],
+  [
+   "Missing one gym day",
+   "Cancelling the membership"
+  ]
+ ],
+ "describe": [
+  "little domino starts a row of ever bigger dominoes",
+  "man flicking a small domino next to a giant one",
+  "dominoes growing in size from tiny to huge",
+  "guy kneeling to tip the smallest domino in a chain reaction",
+  "small thing leads to a huge thing with dominoes"
+ ],
+ "tags": [
+  "dominoes",
+  "chain reaction",
+  "consequences",
+  "escalation",
+  "cause and effect",
+  "physics"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A still from a domino chain reaction demonstration video, in which each domino is bigger than the one before it.",
+ "people": "private",
+ "imgflip": {
+  "id": "162372564",
+  "code": "2oo7h0",
+  "image": "2oo7h0.jpg",
+  "width": 820,
+  "height": 565,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 152,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "google-did-you-mean",
+ "name": "Google Did You Mean",
+ "aka": [
+  "Did You Mean?"
+ ],
+ "look": "A plain white mock-up of a Google search results page: the Google logo beside an empty search bar, tabs for All, Images, Videos, News, Maps and More, a line reading \"About 815,000 results (0.39 seconds)\", and a red \"Did you mean:\" followed by a blank.",
+ "text": [
+  "Google",
+  "All",
+  "Images",
+  "Videos",
+  "News",
+  "Maps",
+  "More",
+  "Settings",
+  "Tools",
+  "About 815,000 results (0.39 seconds)",
+  "Did you mean:"
+ ],
+ "use": "Search for one thing and Google \"corrects\" it to something else. Type a query in the search bar and put the joke suggestion after \"Did you mean:\", revealing what the searcher really wants or what something really is.",
+ "slots": [
+  "the search query (in the search bar)",
+  "the joke correction (after \"Did you mean:\")"
+ ],
+ "examples": [
+  [
+   "how to start eating healthy",
+   "how to order pizza without guilt"
+  ],
+  [
+   "quick 5 minute workout",
+   "quick 5 minute nap"
+  ]
+ ],
+ "describe": [
+  "search results page that says did you mean in red",
+  "search engine correcting what you typed",
+  "blank google search bar with a spelling suggestion",
+  "search results meme where google suggests something else",
+  "fake search result page with about 815000 results"
+ ],
+ "tags": [
+  "google",
+  "search",
+  "did you mean",
+  "web page",
+  "correction",
+  "internet",
+  "white"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "Google",
+ "origin": "A mock-up of a Google search results page with its \"Did you mean\" spelling suggestion.",
+ "people": "none",
+ "imgflip": {
+  "id": "265415745",
+  "code": "4e0s3l",
+  "image": "4e0s3l.jpg",
+  "width": 929,
+  "height": 318,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 224,
+ "sure": "high",
+ "added": "2026-11-22"
+}

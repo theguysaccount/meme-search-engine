@@ -1,0 +1,64 @@
+{
+ "slug": "grus-plan",
+ "name": "Gru's Plan",
+ "aka": [
+  "Gru Presentation"
+ ],
+ "look": "Four panels in a 2x2 grid of Gru from Despicable Me presenting at a flip chart with a blank pale blue sheet. He beams and raises a finger, then grins slyly, then leans in expectantly, and in the last panel turns back to the chart in confused alarm.",
+ "text": [],
+ "use": "Each flip chart sheet shows one step of a plan. The first two steps sound fine, the third reveals an obvious flaw, and the fourth repeats that flaw as Gru realizes what it means.",
+ "slots": [
+  "step one (first chart, top left)",
+  "step two (second chart, top right)",
+  "the step with the flaw (third chart, bottom left)",
+  "the same flaw again (fourth chart, bottom right)"
+ ],
+ "examples": [
+  [
+   "Buy a gym membership",
+   "Feel motivated",
+   "Never go",
+   "Never go"
+  ],
+  [
+   "Stay up all night to finish the project",
+   "Finish the project",
+   "Too tired to present it",
+   "Too tired to present it"
+  ]
+ ],
+ "describe": [
+  "despicable me villain presenting a plan on a flip chart",
+  "bald cartoon guy with a presentation board who realizes his plan is flawed",
+  "four panel animated villain explaining steps then looking confused",
+  "cartoon man pointing at an easel then doing a double take",
+  "minions movie guy giving a presentation that goes wrong"
+ ],
+ "tags": [
+  "despicable me",
+  "gru",
+  "plan",
+  "presentation",
+  "flip chart",
+  "realization",
+  "four panels"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Despicable Me",
+ "origin": "Stills of Gru presenting his plan in the 2010 animated film Despicable Me.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "131940431",
+  "code": "26jxvz",
+  "image": "26jxvz.jpg",
+  "width": 700,
+  "height": 449,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 17,
+ "sure": "high",
+ "added": "2026-11-22"
+}

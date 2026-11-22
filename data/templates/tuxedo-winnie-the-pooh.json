@@ -1,0 +1,59 @@
+{
+ "slug": "tuxedo-winnie-the-pooh",
+ "name": "Tuxedo Winnie The Pooh",
+ "aka": [
+  "Fancy Pooh",
+  "Tuxedo Pooh"
+ ],
+ "look": "Two stacked panels on the left with white space on the right for text. Top: Winnie the Pooh in his usual red shirt sits in a blue armchair with a plain, unimpressed look. Bottom: Pooh wears a black tuxedo and bow tie with a smug, refined smile.",
+ "text": [],
+ "use": "The top text names an ordinary or basic way of saying or doing something, and the bottom text gives a fancier, more sophisticated or pretentious version of the same thing.",
+ "slots": [
+  "the ordinary version (right of the top panel)",
+  "the fancy version (right of the bottom panel)"
+ ],
+ "examples": [
+  [
+   "Leftovers",
+   "Chef's encore"
+  ],
+  [
+   "Being late",
+   "Making an entrance"
+  ]
+ ],
+ "describe": [
+  "winnie the pooh in a tuxedo looking fancy",
+  "pooh bear normal then classy with a bow tie",
+  "cartoon bear in a red shirt then in a black suit",
+  "smug bear in a tux under a plain looking bear",
+  "yellow bear dressed up formal for the sophisticated version"
+ ],
+ "tags": [
+  "winnie the pooh",
+  "tuxedo",
+  "fancy",
+  "classy",
+  "sophisticated",
+  "cartoon bear",
+  "two panels"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "Winnie the Pooh",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "178591752",
+  "code": "2ybua0",
+  "image": "2ybua0.png",
+  "width": 800,
+  "height": 582,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 24,
+ "sure": "high",
+ "added": "2026-11-22"
+}

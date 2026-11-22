@@ -1,0 +1,63 @@
+{
+ "slug": "x-all-the-y",
+ "name": "X All The Y",
+ "aka": [
+  "All The Things",
+  "Clean All The Things"
+ ],
+ "look": "A crude drawing of a figure with a round white head, a blond tuft of hair and a huge open mouth yells while thrusting one fist in the air and holding a broom in the other hand. A spiky yellow burst sits behind the pink-shirted figure on a white background.",
+ "text": [],
+ "use": "Shouts an overenthusiastic plan to do something to everything. The caption follows the pattern \"[Verb] all the [things]!\" split between top and bottom, mocking over-ambitious or obsessive behavior.",
+ "slots": [
+  "top caption: the verb",
+  "bottom caption: 'all the' plus the things"
+ ],
+ "examples": [
+  [
+   "Buy",
+   "All the houseplants!"
+  ],
+  [
+   "Open",
+   "All the browser tabs!"
+  ]
+ ],
+ "describe": [
+  "stick figure yelling with fist in the air and a broom",
+  "crude drawing of a girl in a pink shirt shouting excitedly",
+  "cartoon person screaming with arm raised on a yellow burst",
+  "excited doodle holding a broom and cheering",
+  "ms paint style character with a wide open mouth"
+ ],
+ "tags": [
+  "stick figure",
+  "excitement",
+  "yelling",
+  "broom",
+  "yellow burst",
+  "blog comic"
+ ],
+ "kind": "drawing",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Hyperbole and a Half",
+ "origin": "Drawn by Allie Brosh for the 2010 Hyperbole and a Half blog post This Is Why I'll Never Be an Adult.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61533",
+  "code": "1bh9",
+  "image": "1bh9.jpg",
+  "width": 500,
+  "height": 355,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "68354308",
+   "name": "Do all the things"
+  }
+ ],
+ "rank_all_time": 69,
+ "sure": "high",
+ "added": "2026-11-22"
+}

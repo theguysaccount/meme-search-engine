@@ -1,0 +1,58 @@
+{
+ "slug": "batman-signal",
+ "name": "Batman Signal",
+ "aka": [
+  "Bat Signal"
+ ],
+ "look": "A blue-tinted night sky with clouds. A searchlight beam throws a blank oval of light onto the clouds at upper left, while Batman stands in silhouette atop a ledge of a dark building on the right, cape hanging.",
+ "text": [],
+ "use": "Summoning the one person who always answers a certain call. Something is placed in the empty light where the bat logo would be, and Batman is labeled as whoever comes running when that thing appears.",
+ "slots": [
+  "the summoning symbol or words, in the blank spotlight (top left)",
+  "who answers the call (Batman silhouette, right)"
+ ],
+ "examples": [
+  [
+   "Free pizza in the break room",
+   "Me"
+  ],
+  [
+   "Someone says \"quick question\" in the group chat",
+   "The friend who knows everything"
+  ]
+ ],
+ "describe": [
+  "bat signal in the sky with batman watching",
+  "spotlight shining an empty circle on the clouds at night",
+  "batman silhouette on a rooftop looking at the signal",
+  "blue night sky with a blank searchlight oval",
+  "dark knight standing on a building with a light in the clouds"
+ ],
+ "tags": [
+  "batman",
+  "superhero",
+  "spotlight",
+  "night sky",
+  "summoning",
+  "blue",
+  "silhouette"
+ ],
+ "kind": "screenshot",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "Batman",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "22138211",
+  "code": "d6hyb",
+  "image": "d6hyb.jpg",
+  "width": 620,
+  "height": 360,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 313,
+ "sure": "high",
+ "added": "2026-11-22"
+}

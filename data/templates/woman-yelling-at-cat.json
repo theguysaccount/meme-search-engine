@@ -1,0 +1,67 @@
+{
+ "slug": "woman-yelling-at-cat",
+ "name": "Woman Yelling At Cat",
+ "aka": [
+  "Lady Yelling at Cat"
+ ],
+ "look": "Two photos side by side under a white strip for captions. Left: a blonde woman screams and points while a dark-haired woman holds her back. Right: a white cat sits at a dinner table behind a plate of salad, looking back with a sour, confused face.",
+ "text": [],
+ "use": "The left caption is an angry accusation or complaint and the right caption is the cat's smug, oblivious or absurd reply, framing an argument between someone furious and someone completely unbothered.",
+ "slots": [
+  "the angry accusation (above the yelling woman, left)",
+  "the cat's unbothered reply (above the cat, right)"
+ ],
+ "examples": [
+  [
+   "You said you'd be ready in five minutes!",
+   "I said I'd be ready, not that I'd be fast"
+  ],
+  [
+   "Why is the couch covered in fur?",
+   "Interior design"
+  ]
+ ],
+ "describe": [
+  "blonde woman yelling and pointing at a white cat at a dinner table",
+  "crying lady pointing while a confused cat sits behind a salad",
+  "woman screaming at a cat who looks annoyed",
+  "angry woman held back by her friend and a cat sitting at a table",
+  "white cat at a dinner plate making a face at a shouting woman"
+ ],
+ "tags": [
+  "cat",
+  "argument",
+  "yelling",
+  "dinner table",
+  "reality tv",
+  "white cat",
+  "two panels"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "The Real Housewives of Beverly Hills",
+ "origin": "Pairs a scene of two Real Housewives of Beverly Hills cast members with a photo of a white cat named Smudge; the pairing spread in 2019.",
+ "people": "public",
+ "imgflip": {
+  "id": "188390779",
+  "code": "345v97",
+  "image": "345v97.jpg",
+  "width": 680,
+  "height": 438,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "187112276",
+   "name": "woman yelling at cat"
+  },
+  {
+   "id": "197052476",
+   "name": "Smudge the cat"
+  }
+ ],
+ "rank_all_time": 15,
+ "sure": "high",
+ "added": "2026-11-22"
+}

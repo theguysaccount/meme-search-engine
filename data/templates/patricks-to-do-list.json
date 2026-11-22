@@ -1,0 +1,57 @@
+{
+ "slug": "patricks-to-do-list",
+ "name": "Patrick's To-Do List",
+ "aka": [
+  "Patrick To Do List Actually Blank"
+ ],
+ "look": "A SpongeBob SquarePants close-up of Patrick's pink hands: one grips a sheet of pale blue paper while the other holds a yellow pencil to it. \"TO-DO LIST\" is handwritten and underlined across the top, and the rest of the page is empty.",
+ "text": [
+  "TO-DO LIST"
+ ],
+ "use": "The empty page gets filled with someone's to-do list, usually one lazy, absurd or brutally honest item that sums up their real priorities, or a list that undercuts the whole idea of being productive.",
+ "slots": [
+  "the items written on the list"
+ ],
+ "examples": [
+  [
+   "1. Wake up 2. Nap 3. Recover from the nap"
+  ],
+  [
+   "Buy a planner so I can start making to-do lists"
+  ]
+ ],
+ "describe": [
+  "patrick star writing on a blank list with a pencil",
+  "pink cartoon hand holding paper that says to do list",
+  "starfish hands with an empty checklist and a pencil",
+  "spongebob scene of someone about to write down their plans",
+  "handwritten to do list paper with nothing on it yet"
+ ],
+ "tags": [
+  "spongebob",
+  "patrick",
+  "to-do list",
+  "paper",
+  "pencil",
+  "plans",
+  "procrastination"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A close-up from the animated series SpongeBob SquarePants.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "247756783",
+  "code": "43iacv",
+  "image": "43iacv.jpg",
+  "width": 1000,
+  "height": 625,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 246,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

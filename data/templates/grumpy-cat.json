@@ -1,0 +1,56 @@
+{
+ "slug": "grumpy-cat",
+ "name": "Grumpy Cat",
+ "aka": [],
+ "look": "A cat with cream fur, a brown-gray masked face and blue eyes sits on someone's lap and stares at the camera. Its mouth curves down into a permanent frown, giving it a deeply displeased look.",
+ "text": [],
+ "use": "Grumpy, negative one-liners. The top caption sets up something cheerful or ordinary and the bottom caption shoots it down with a deadpan, pessimistic reply, often a flat \"No.\"",
+ "slots": [
+  "top caption: the cheerful setup",
+  "bottom caption: the grumpy put-down"
+ ],
+ "examples": [
+  [
+   "Happy Monday!",
+   "Those words don't belong together"
+  ],
+  [
+   "You should try something new today",
+   "I did. Hated it."
+  ]
+ ],
+ "describe": [
+  "cat with a permanent frown looking annoyed",
+  "frowning cat with blue eyes sitting on a lap",
+  "angry looking cat with a brown face and white fur",
+  "unimpressed kitty with a downturned mouth",
+  "fluffy cat that always looks mad"
+ ],
+ "tags": [
+  "cat",
+  "frown",
+  "grumpy",
+  "annoyed",
+  "pessimism",
+  "animal",
+  "advice animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Photos of a cat whose feline dwarfism gave her a permanent frown, first shared on Reddit in 2012.",
+ "people": "none",
+ "imgflip": {
+  "id": "405658",
+  "code": "8p0a",
+  "image": "8p0a.jpg",
+  "width": 500,
+  "height": 616,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 63,
+ "sure": "high",
+ "added": "2026-11-22"
+}

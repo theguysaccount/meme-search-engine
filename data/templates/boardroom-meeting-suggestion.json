@@ -1,0 +1,65 @@
+{
+ "slug": "boardroom-meeting-suggestion",
+ "name": "Boardroom Meeting Suggestion",
+ "aka": [
+  "Boardroom Suggestion",
+  "Meeting Suggestion"
+ ],
+ "look": "A comic in three tiers set in a boardroom. Top: a scowling boss asks his team a question. Middle: two employees answer and a relaxed guy in a light blue shirt offers a third idea. Bottom: the boss glares, the guy looks smug, and he is thrown out of the building's window.",
+ "text": [],
+ "use": "The boss asks how to solve a problem, two employees offer silly or useless ideas, and the third gives the obvious, honest or sensible answer, which gets him thrown out the window.",
+ "slots": [
+  "the boss's question (top speech balloon)",
+  "first employee's idea (middle left)",
+  "second employee's idea (middle center)",
+  "the sensible idea that gets him thrown out (middle right)"
+ ],
+ "examples": [
+  [
+   "How do we get people to read the onboarding docs?",
+   "Make them longer",
+   "Add a quiz at the end",
+   "Make them shorter"
+  ],
+  [
+   "How do we make our meetings more productive?",
+   "Schedule a follow-up meeting",
+   "Add more slides",
+   "Send an email instead"
+  ]
+ ],
+ "describe": [
+  "boss asks a question and the guy with the right answer gets thrown out the window",
+  "comic office meeting where an employee gets tossed out of the building",
+  "business meeting cartoon where three people give suggestions",
+  "angry boss throws a worker out the window for a good idea",
+  "corporate meeting comic with speech bubbles and a man flying out a window"
+ ],
+ "tags": [
+  "office",
+  "meeting",
+  "boss",
+  "suggestion",
+  "fired",
+  "comic",
+  "thrown out window"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 5,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "1035805",
+  "code": "m78d",
+  "image": "m78d.jpg",
+  "width": 500,
+  "height": 649,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 16,
+ "sure": "high",
+ "added": "2026-11-22"
+}

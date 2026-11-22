@@ -1,0 +1,53 @@
+{
+ "slug": "smiling-cat",
+ "name": "Smiling Cat",
+ "aka": [],
+ "look": "A close-up photo of a tabby-and-white cat leaning toward the camera with huge, round, dark eyes and a pink nose. The corners of its mouth turn up so it seems to be smiling sweetly. A cluttered room with a red curtain is blurred behind it.",
+ "text": [],
+ "use": "A wholesome or quietly smug reaction for when something pleasant happens or you feel pleased with yourself. The caption names the happy moment, like a compliment, payday or plans getting canceled.",
+ "slots": [
+  "the happy moment (caption above or below)"
+ ],
+ "examples": [
+  [
+   "When the plans I didn't want to go to get canceled"
+  ],
+  [
+   "Me when someone says my cooking tastes like a restaurant's"
+  ]
+ ],
+ "describe": [
+  "cat with big eyes smiling at the camera",
+  "happy tabby cat close up with a cute grin",
+  "kitty looking pleased with wide pupils and a smile",
+  "white and brown cat with a sweet satisfied face",
+  "close up cat face looking really happy"
+ ],
+ "tags": [
+  "cat",
+  "smiling",
+  "happy",
+  "cute",
+  "wholesome",
+  "close up",
+  "big eyes"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "17862622",
+  "code": "amuvy",
+  "image": "amuvy.jpg",
+  "width": 620,
+  "height": 620,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 215,
+ "sure": "high",
+ "added": "2026-11-22"
+}

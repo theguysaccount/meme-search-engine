@@ -1,0 +1,69 @@
+{
+ "slug": "vince-mcmahon-reaction",
+ "name": "Vince McMahon Reaction",
+ "aka": [
+  "Mr. McMahon Reaction",
+  "Vince McMahon Reaction With Glowing Eyes"
+ ],
+ "look": "Four stacked frames of WWE's Vince McMahon in a light suit, seated at a wrestling event, beside a blank white column for captions. He goes from mildly intrigued to wide-eyed, then gasping with his head thrown back, and finally a red-tinted face with glowing white eyes.",
+ "text": [],
+ "use": "An escalating reaction. Each caption on the left gets more impressive, exciting or outrageous, and the amazement grows to match, ending with the glowing-eyed explosion for the best or most absurd one.",
+ "slots": [
+  "something mildly interesting (first box)",
+  "something more impressive (second box)",
+  "something amazing (third box)",
+  "the mind-blowing final step (fourth box, glowing eyes)"
+ ],
+ "examples": [
+  [
+   "Pizza",
+   "Free pizza",
+   "Free pizza at work",
+   "Free pizza at work and the meeting is cancelled"
+  ],
+  [
+   "Friday",
+   "Friday off",
+   "A long weekend",
+   "A long weekend and it doesn't rain"
+  ]
+ ],
+ "describe": [
+  "wrestling boss getting more and more excited",
+  "old man in a suit reacting with growing shock",
+  "guy's eyes start glowing red in the last panel",
+  "vince mcmahon amazed reaction in four panels",
+  "businessman losing his mind in his seat at a wrestling show"
+ ],
+ "tags": [
+  "reaction",
+  "escalation",
+  "excited",
+  "shocked",
+  "wrestling",
+  "glowing eyes"
+ ],
+ "kind": "screenshot",
+ "format": "ladder",
+ "panels": 4,
+ "franchise": "WWE",
+ "origin": "Frames of WWE's Vince McMahon reacting from his seat at a wrestling event, with the last frame edited to glow red.",
+ "people": "public",
+ "imgflip": {
+  "id": "127634487",
+  "code": "23znef",
+  "image": "23znef.jpg",
+  "width": 622,
+  "height": 889,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "126882756",
+   "name": "Vince McMahon Reaction w/Glowing Eyes"
+  }
+ ],
+ "rank_all_time": 181,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "wake-up-babe",
+ "name": "Wake Up Babe",
+ "aka": [
+  "Wake Up Babe, New X Just Dropped"
+ ],
+ "look": "A watermarked stock photo of a bright bedroom: a smiling bearded man in a white T-shirt leans over a woman asleep on white pillows, gently waking her. Potted plants sit on the windowsill behind them.",
+ "text": [],
+ "use": "Announces something new with mock urgency, as if it's worth waking your partner for. The caption reads \"wake up babe, new ___ just dropped\", naming a fresh meme, update, product or bit of drama.",
+ "slots": [
+  "\"wake up babe\" (top)",
+  "what just dropped, \"new ___ just dropped\" (bottom)"
+ ],
+ "examples": [
+  [
+   "Wake up babe",
+   "New cereal flavor just dropped"
+  ]
+ ],
+ "describe": [
+  "man waking up his sleeping girlfriend in bed",
+  "guy leaning over a woman asleep on white pillows",
+  "husband gently waking his wife with exciting news",
+  "stock photo couple in bed with one asleep and one smiling",
+  "boyfriend wakes up girlfriend to tell her something new"
+ ],
+ "tags": [
+  "stock photo",
+  "couple",
+  "bed",
+  "waking up",
+  "announcement",
+  "white sheets",
+  "morning"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a man waking his sleeping partner, paired with the phrase \"wake up babe, new ___ just dropped\".",
+ "people": "models",
+ "imgflip": {
+  "id": "260755514",
+  "code": "4b8w8q",
+  "image": "4b8w8q.jpg",
+  "width": 1300,
+  "height": 731,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 324,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "crying-cat",
+ "name": "Crying Cat",
+ "aka": [
+  "Sad Crying Cat"
+ ],
+ "look": "A close-up photo of a white cat sitting beside a laptop, looking up at the camera with huge, glossy, tear-filled eyes and a quivering, sad expression. A ceiling light glows above it.",
+ "text": [],
+ "use": "A reaction for sadness, heartbreak or being emotionally wounded by something small. The caption names the disappointment, and the teary cat shows someone holding back tears or crying over it.",
+ "slots": [
+  "the sad or disappointing thing (caption above)"
+ ],
+ "examples": [
+  [
+   "When you drop your last cookie and the dog gets to it first"
+  ]
+ ],
+ "describe": [
+  "white cat with big watery eyes about to cry",
+  "sad kitten with tears in its eyes",
+  "cat crying next to a laptop",
+  "teary eyed white cat looking up sadly",
+  "kitty with huge sad shiny eyes"
+ ],
+ "tags": [
+  "cat",
+  "crying",
+  "sad",
+  "tears",
+  "white cat",
+  "reaction",
+  "laptop"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of a white cat, edited to make its eyes look huge and full of tears.",
+ "people": "none",
+ "imgflip": {
+  "id": "42003405",
+  "code": "p0a19",
+  "image": "p0a19.jpg",
+  "width": 300,
+  "height": 300,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 330,
+ "sure": "high",
+ "added": "2026-11-22"
+}

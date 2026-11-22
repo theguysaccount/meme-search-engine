@@ -1,0 +1,58 @@
+{
+ "slug": "i-guarantee-it",
+ "name": "I Guarantee It",
+ "aka": [
+  "You're Going To Like The Way You Look"
+ ],
+ "look": "Still from a TV commercial: Men's Wearhouse founder George Zimmer, a gray-haired man with a full white beard in a dark suit, smiles warmly as he speaks toward the camera. A bright window and a blurred figure are behind him.",
+ "text": [],
+ "use": "Echoes his ad slogan \"You're going to like the way you look. I guarantee it.\" The top text makes a confident promise, often a sarcastic or obviously false one, and the bottom says \"I guarantee it.\"",
+ "slots": [
+  "the promise (top text)",
+  "I guarantee it (bottom text)"
+ ],
+ "examples": [
+  [
+   "You're going to like the way this pizza tastes at 3 a.m.",
+   "I guarantee it"
+  ],
+  [
+   "You're going to regret that last text to the group chat",
+   "I guarantee it"
+  ]
+ ],
+ "describe": [
+  "old man with a white beard smiling in a suit commercial",
+  "bearded guy from the suit store ads",
+  "suit company founder promising you will like how you look",
+  "gray bearded businessman smiling warmly at the camera",
+  "mens clothing tv ad guy making a promise"
+ ],
+ "tags": [
+  "commercial",
+  "beard",
+  "businessman",
+  "promise",
+  "smile",
+  "suit",
+  "tv ad"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Men's Wearhouse",
+ "origin": "Men's Wearhouse founder George Zimmer in one of the chain's TV ads, which ended with his line \"I guarantee it.\"",
+ "people": "public",
+ "imgflip": {
+  "id": "10672255",
+  "code": "6cqrj",
+  "image": "6cqrj.jpg",
+  "width": 620,
+  "height": 367,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 391,
+ "sure": "high",
+ "added": "2026-11-22"
+}

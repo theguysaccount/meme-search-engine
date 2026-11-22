@@ -1,0 +1,58 @@
+{
+ "slug": "put-it-somewhere-else-patrick",
+ "name": "Put It Somewhere Else Patrick",
+ "aka": [
+  "Push It Somewhere Else Patrick"
+ ],
+ "look": "Two panels stacked vertically from SpongeBob SquarePants. In both, Patrick Star stands in front of a crowd of fish townspeople, including one in a police cap, and thrusts both arms forward to the left as if shoving something away, mouth open mid-sentence.",
+ "text": [],
+ "use": "Patrick's big idea for any problem is to shove it somewhere else. The top panel names the problem and the bottom panel gives his lazy fix of simply moving it, mocking solutions that relocate trouble instead of solving it.",
+ "slots": [
+  "top panel: the problem, often 'Why don't we take...'",
+  "bottom panel: where it gets pushed"
+ ],
+ "examples": [
+  [
+   "Why don't we take all the dirty dishes",
+   "and push them into my roommate's room?"
+  ],
+  [
+   "What if we took this bug",
+   "and moved it to next sprint?"
+  ]
+ ],
+ "describe": [
+  "patrick star pushing something away in front of a crowd of fish",
+  "two panel spongebob with patrick shoving with both arms",
+  "pink starfish suggests we just move the problem away",
+  "patrick making a pushing motion in front of a worried crowd",
+  "starfish holding his arms out like moving a heavy object"
+ ],
+ "tags": [
+  "spongebob",
+  "patrick star",
+  "pushing",
+  "crowd",
+  "bad idea",
+  "two panel",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "Two stills of Patrick Star from the animated series SpongeBob SquarePants.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61581",
+  "code": "1bil",
+  "image": "1bil.jpg",
+  "width": 343,
+  "height": 604,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 99,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

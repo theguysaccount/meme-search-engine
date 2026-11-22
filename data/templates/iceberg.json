@@ -1,0 +1,59 @@
+{
+ "slug": "iceberg",
+ "name": "Iceberg",
+ "aka": [
+  "Tip Of The Iceberg",
+  "Iceberg Chart"
+ ],
+ "look": "A photo of an iceberg in calm ocean water, split at the waterline. Above, a small white peak sits under a blue sky with wispy clouds. Below the surface, a far larger glowing blue mass of ice reaches down into the dark blue depths.",
+ "text": [],
+ "use": "Contrasts the small part everyone sees with the huge hidden part underneath. The tip gets the surface-level or well-known thing and the underwater bulk gets the obscure, deeper or hidden stuff, sometimes as layered tiers of ever more niche lore.",
+ "slots": [
+  "the small visible part, on the white tip above the water",
+  "the huge hidden part, on the underwater ice (often several items going deeper)"
+ ],
+ "examples": [
+  [
+   "The one song everyone knows by the band",
+   "47 albums, three side projects and a polka phase"
+  ],
+  [
+   "Fixing one small bug",
+   "Rewriting half the codebase"
+  ]
+ ],
+ "describe": [
+  "iceberg with a small top above water and a huge part below",
+  "giant chunk of ice hidden under the ocean surface",
+  "ice mountain peak sticking out of the sea",
+  "underwater view of a big blue iceberg",
+  "chart that goes deeper into obscure stuff below the water"
+ ],
+ "tags": [
+  "iceberg",
+  "ocean",
+  "hidden",
+  "depth",
+  "tiers",
+  "underwater",
+  "blue"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "68277995",
+  "code": "14nfmz",
+  "image": "14nfmz.jpg",
+  "width": 1280,
+  "height": 1944,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 446,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "all-my-homies-hate",
+ "name": "All My Homies Hate",
+ "aka": [
+  "All My Homies Hate X"
+ ],
+ "look": "A sepia-toned photo of six young men in puffer jackets, hoodies and beanies, one in a ski mask, posing together on the sidewalk outside a store with shelves of bottles, several of them making hand signs at the camera.",
+ "text": [],
+ "use": "Rallies the whole crew against one thing. The top caption bluntly rejects something, usually with a curse, and the bottom says 'All my homies hate' it. Remixes add 'All my homies love' for a favored alternative.",
+ "slots": [
+  "top caption: the thing being rejected",
+  "bottom caption: 'All my homies hate...' the same thing"
+ ],
+ "examples": [
+  [
+   "Down with group projects",
+   "All my homies hate group projects"
+  ],
+  [
+   "Forget the 8 am meeting",
+   "All my homies hate the 8 am meeting"
+  ]
+ ],
+ "describe": [
+  "group of guys in winter jackets posing outside a liquor store",
+  "six friends in hoodies and beanies standing together on the sidewalk",
+  "crew of dudes in puffer coats making hand signs",
+  "sepia photo of a squad of friends in front of a shop",
+  "group photo of friends who all hate the same thing"
+ ],
+ "tags": [
+  "friends",
+  "group photo",
+  "squad",
+  "hate",
+  "winter jackets",
+  "sepia",
+  "sidewalk"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "216523697",
+  "code": "3kwur5",
+  "image": "3kwur5.jpg",
+  "width": 680,
+  "height": 615,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 116,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "math-is-math",
+ "name": "Math Is Math",
+ "aka": [
+  "Mr. Incredible Mad",
+  "Why Would They Change Math"
+ ],
+ "look": "A widescreen still from Incredibles 2. Mr. Incredible (Bob Parr), in a blue-gray shirt, leans over a desk littered with crumpled paper, shouting with one fist raised and his glasses in the other hand, while Dash sits at right with a book. An orange sunset window glows behind.",
+ "text": [],
+ "use": "Angry disbelief at a pointless change to something that should stay simple. The caption follows his rant, \"Why would they change math? Math is math!\", swapping in whatever got needlessly changed.",
+ "slots": [
+  "the pointless change (top)",
+  "the outburst, \"___ is ___!\" (bottom)"
+ ],
+ "examples": [
+  [
+   "Why would they move the cereal aisle?",
+   "Cereal is cereal!"
+  ]
+ ],
+ "describe": [
+  "mr incredible yelling at his son over homework",
+  "angry cartoon dad shouting with his fist in the air at a desk",
+  "superhero dad loses it helping with math homework",
+  "bob parr screaming with crumpled papers and a sunset behind",
+  "furious animated father yelling at a kid with a book"
+ ],
+ "tags": [
+  "the incredibles",
+  "angry",
+  "yelling",
+  "homework",
+  "math",
+  "pixar",
+  "frustration"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Incredibles",
+ "origin": "From Pixar's Incredibles 2 (2018), where Bob Parr yells \"Math is math!\" while struggling to help Dash with new-style math homework.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "167754325",
+  "code": "2rvk2d",
+  "image": "2rvk2d.png",
+  "width": 1130,
+  "height": 534,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "197846899",
+   "name": "Mr incredible mad"
+  }
+ ],
+ "rank_all_time": 331,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "i-bet-hes-thinking-about-other-women",
+ "name": "I Bet He's Thinking About Other Women",
+ "aka": [],
+ "look": "A stock photo of a couple in bed under cream sheets. The woman on the left lies with her arms crossed, glancing at him with a suspicious, annoyed look, while the man on the right, in a gray T-shirt, faces away, staring into space lost in thought.",
+ "text": [],
+ "use": "The woman's caption is I bet he's thinking about other women, and the man's caption reveals that he is actually obsessing over something completely unrelated, usually trivial, random or nerdy.",
+ "slots": [
+  "what she suspects, usually I bet he's thinking about other women (left)",
+  "what he is really thinking about (right)"
+ ],
+ "examples": [
+  [
+   "I bet he's thinking about other women",
+   "Why do we park on driveways and drive on parkways?"
+  ],
+  [
+   "I bet he's thinking about other women",
+   "If I had a pet crab, what would I name it?"
+  ]
+ ],
+ "describe": [
+  "couple in bed, woman suspicious and man staring into space",
+  "girlfriend suspects he's dreaming about someone else",
+  "woman with arms crossed looking at her boyfriend in bed",
+  "guy lying awake thinking about something random while she's annoyed",
+  "husband and wife in bed facing away from each other"
+ ],
+ "tags": [
+  "stock photo",
+  "couple",
+  "bed",
+  "suspicious",
+  "overthinking",
+  "relationship",
+  "random thoughts"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a couple in bed.",
+ "people": "models",
+ "imgflip": {
+  "id": "110163934",
+  "code": "1tl71a",
+  "image": "1tl71a.jpg",
+  "width": 1654,
+  "height": 930,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 46,
+ "sure": "high",
+ "added": "2026-11-22"
+}

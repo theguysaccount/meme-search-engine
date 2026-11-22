@@ -1,0 +1,58 @@
+{
+ "slug": "first-world-problems",
+ "name": "First World Problems",
+ "aka": [
+  "First World Problems Lady"
+ ],
+ "look": "A close-up stock photo of a woman with dark hair and her eyes closed, pressing a hand to her forehead in distress as a tear rolls down her cheek, against a pale background.",
+ "text": [],
+ "use": "The captions describe a trivial inconvenience of comfortable modern life, like a straw too small for a smoothie or a phone at 99 percent, presented with exaggerated anguish.",
+ "slots": [
+  "the comfortable situation (top)",
+  "the tiny inconvenience (bottom)"
+ ],
+ "examples": [
+  [
+   "Ordered a smoothie",
+   "The straw is too small for the smoothie"
+  ],
+  [
+   "My headphones are wireless",
+   "and I keep forgetting to charge them"
+  ]
+ ],
+ "describe": [
+  "woman crying with her hand on her forehead",
+  "sad lady in tears over a tiny problem",
+  "crying woman holding her head in distress",
+  "dark haired woman with a tear running down her cheek",
+  "girl crying dramatically about a small inconvenience"
+ ],
+ "tags": [
+  "crying",
+  "stock photo",
+  "sad",
+  "trivial problems",
+  "complaining",
+  "tears",
+  "drama"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a woman crying.",
+ "people": "models",
+ "imgflip": {
+  "id": "61539",
+  "code": "1bhf",
+  "image": "1bhf.jpg",
+  "width": 552,
+  "height": 367,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 47,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "absolute-cinema",
+ "name": "Absolute Cinema",
+ "aka": [
+  "Martin Scorsese Absolute Cinema"
+ ],
+ "look": "A black-and-white photo of director Martin Scorsese sitting in a white armchair in front of a dark background. He wears a tweed jacket over a dark shirt and holds both hands up beside his head, palms open and fingers spread, with a serious expression.",
+ "text": [],
+ "use": "Praises something as a masterpiece, sincerely or ironically. The caption names an epic scene, a perfect moment or something very ordinary, and the raised hands deliver the verdict: absolute cinema.",
+ "slots": [
+  "the moment being praised (top)",
+  "absolute cinema (bottom)"
+ ],
+ "examples": [
+  [
+   "The toast landing butter side up",
+   "Absolute cinema"
+  ],
+  [
+   "My cat knocking a glass off the table while making eye contact",
+   "Absolute cinema"
+  ]
+ ],
+ "describe": [
+  "old director with both hands raised in black and white",
+  "martin scorsese holding his hands up in a chair",
+  "man in an armchair raising his palms like it's a masterpiece",
+  "black and white photo of a filmmaker with hands in the air",
+  "elderly man with white hair and open hands praising a movie"
+ ],
+ "tags": [
+  "director",
+  "masterpiece",
+  "hands up",
+  "black and white",
+  "movies",
+  "praise"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A black-and-white portrait of film director Martin Scorsese raising both hands.",
+ "people": "public",
+ "imgflip": {
+  "id": "505705955",
+  "code": "8d317n",
+  "image": "8d317n.png",
+  "width": 936,
+  "height": 725,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 168,
+ "sure": "high",
+ "added": "2026-11-22"
+}

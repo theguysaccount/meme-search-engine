@@ -1,0 +1,55 @@
+{
+ "slug": "guess-ill-die",
+ "name": "Guess I'll Die",
+ "aka": [],
+ "look": "A stock photo of an older man with white hair and a short white beard in a red turtleneck sweater. He shrugs with both palms turned up, eyebrows raised and mouth flat, against a plain white background.",
+ "text": [],
+ "use": "Someone hits a problem whose only fix is something they won't or can't do, and shrugs it off with deadpan resignation. The top caption sets up the problem and the bottom usually reads \"guess I'll die\".",
+ "slots": [
+  "the problem with an unwelcome fix (top)",
+  "the shrugging give-up line, usually \"guess I'll die\" (bottom)"
+ ],
+ "examples": [
+  [
+   "The only cure is drinking more water, but I hate the taste of water",
+   "Guess I'll die"
+  ],
+  [
+   "The pizza place is closed and I never learned to cook",
+   "Guess I'll die"
+  ]
+ ],
+ "describe": [
+  "old man shrugging in a red sweater",
+  "elderly guy with a white beard holding his palms up",
+  "grandpa in a red turtleneck shrugs like oh well",
+  "senior man with gray hair shrugging on a white background",
+  "old dude with hands out and a blank face giving up"
+ ],
+ "tags": [
+  "stock photo",
+  "old man",
+  "shrug",
+  "resignation",
+  "red sweater",
+  "giving up"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a shrugging older man, paired with the deadpan phrase \"guess I'll die\".",
+ "people": "models",
+ "imgflip": {
+  "id": "96633334",
+  "code": "1lj6ra",
+  "image": "1lj6ra.jpg",
+  "width": 384,
+  "height": 313,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 290,
+ "sure": "high",
+ "added": "2026-11-22"
+}

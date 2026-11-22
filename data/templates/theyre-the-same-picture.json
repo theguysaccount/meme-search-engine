@@ -1,0 +1,65 @@
+{
+ "slug": "theyre-the-same-picture",
+ "name": "They're the Same Picture",
+ "aka": [
+  "Corporate Needs You to Find the Differences",
+  "Pam Same Picture"
+ ],
+ "look": "Two stacked stills from The Office. Top: hands hold up two blank sheets of paper above a yellow subtitle asking to find the differences between this picture and this picture. Bottom: Pam Beesly, in a pink cardigan, replies flatly that they're the same picture.",
+ "text": [
+  "Corporate needs you to find the differences between this picture and this picture.",
+  "They're the same picture."
+ ],
+ "use": "The two sheets show two things that are supposedly different, often something and its obvious copy or rebrand, and Pam's deadpan reply points out that they are basically identical.",
+ "slots": [
+  "the first thing (left sheet of paper)",
+  "the supposedly different thing (right sheet of paper)",
+  "who sees through it (on Pam)"
+ ],
+ "examples": [
+  [
+   "Leftover pizza",
+   "Breakfast",
+   "Me at 8 a.m."
+  ],
+  [
+   "Napping",
+   "Grandpa resting his eyes",
+   "Me"
+  ]
+ ],
+ "describe": [
+  "the office pam saying there's no difference between two pictures",
+  "woman in a pink cardigan looking at two identical papers",
+  "corporate needs you to find the differences between this picture",
+  "office lady deadpans that two things are the same thing",
+  "two blank sheets held up then a woman shrugs them off"
+ ],
+ "tags": [
+  "the office",
+  "pam",
+  "same thing",
+  "comparison",
+  "deadpan",
+  "corporate",
+  "subtitles"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "The Office (US)",
+ "origin": "Stills of Jenna Fischer as Pam Beesly in the US version of The Office.",
+ "people": "actor",
+ "imgflip": {
+  "id": "180190441",
+  "code": "2za3u1",
+  "image": "2za3u1.jpg",
+  "width": 1363,
+  "height": 1524,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 44,
+ "sure": "high",
+ "added": "2026-11-22"
+}

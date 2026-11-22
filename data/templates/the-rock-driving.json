@@ -1,0 +1,58 @@
+{
+ "slug": "the-rock-driving",
+ "name": "The Rock Driving",
+ "aka": [
+  "Dwayne Johnson Driving"
+ ],
+ "look": "Three stacked film stills inside a taxi. Top: Dwayne Johnson, at the wheel, turns to ask something, with an empty speech box beside him. Middle: a blonde girl in the back seat answers, with her own speech box. Bottom: Johnson whips around to stare back at her in alarm.",
+ "text": [],
+ "use": "The driver asks an ordinary question, the passenger gives a weird, creepy or alarming answer, and his wide-eyed turn in the last panel is the reaction.",
+ "slots": [
+  "the driver's question (top speech box)",
+  "the passenger's alarming answer (middle speech box)"
+ ],
+ "examples": [
+  [
+   "What do you want to be when you grow up?",
+   "Your replacement"
+  ],
+  [
+   "You remembered the house keys, right?",
+   "What house keys?"
+  ]
+ ],
+ "describe": [
+  "the rock at the wheel turns around shocked at the girl in the back seat",
+  "taxi driver asks a question and is stunned by the passenger's answer",
+  "bald man driving looks back at a blonde girl in alarm",
+  "dwayne johnson in a cab with a kid saying something weird",
+  "three panel car conversation ending in a shocked double take"
+ ],
+ "tags": [
+  "dwayne johnson",
+  "car",
+  "conversation",
+  "shocked",
+  "double take",
+  "taxi",
+  "three panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Race to Witch Mountain",
+ "origin": "Stills of Dwayne Johnson and AnnaSophia Robb in the 2009 Disney film Race to Witch Mountain.",
+ "people": "actor",
+ "imgflip": {
+  "id": "21735",
+  "code": "grr",
+  "image": "grr.jpg",
+  "width": 568,
+  "height": 700,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 37,
+ "sure": "high",
+ "added": "2026-11-22"
+}

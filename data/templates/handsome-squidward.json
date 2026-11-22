@@ -1,0 +1,57 @@
+{
+ "slug": "handsome-squidward",
+ "name": "Handsome Squidward",
+ "aka": [
+  "Squidward"
+ ],
+ "look": "Two stacked cartoon frames from SpongeBob SquarePants. Top: Handsome Squidward, with a chiseled face, heavy-lidded eyes and pink lips, glowing against a bright orange and yellow burst. Bottom: ordinary Squidward in a small blue cap, scowling with tired, wrinkled eyes against the blue flower-cloud sky.",
+ "text": [],
+ "use": "An expectation versus reality comparison. The top caption gets the handsome, idealized Squidward and the bottom caption gets the plain, grumpy version, like how you think you look versus how you actually look.",
+ "slots": [
+  "the idealized version (top, handsome Squidward)",
+  "the disappointing reality (bottom, regular Squidward)"
+ ],
+ "examples": [
+  [
+   "Me in my head after one workout",
+   "Me in the mirror after one workout"
+  ],
+  [
+   "The burger in the ad",
+   "The burger I got"
+  ]
+ ],
+ "describe": [
+  "squidward with a chiseled pretty face on top and his normal ugly face below",
+  "hot chiseled octopus guy versus his usual grumpy face",
+  "spongebob octopus guy handsome then grumpy",
+  "squidward glowing and attractive above a scowling squidward",
+  "expectation vs reality with a pretty boy squidward"
+ ],
+ "tags": [
+  "squidward",
+  "handsome",
+  "expectation vs reality",
+  "cartoon",
+  "before and after",
+  "spongebob"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "Handsome Squidward comes from the SpongeBob SquarePants episode 'The Two Faces of Squidward'.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "285870",
+  "code": "64ku",
+  "image": "64ku.jpg",
+  "width": 500,
+  "height": 750,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 147,
+ "sure": "high",
+ "added": "2026-11-22"
+}

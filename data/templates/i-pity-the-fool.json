@@ -1,0 +1,59 @@
+{
+ "slug": "i-pity-the-fool",
+ "name": "I Pity The Fool",
+ "aka": [
+  "Mr T Pity The Fool"
+ ],
+ "look": "Photo of Mr. T, with his trademark mohawk, full beard, hoop earrings and heaps of gold chains, wearing a black leather vest and a gold bracelet. He scowls and points straight at the camera. A big sparkly medallion reading \"VOX\" hangs on his chest.",
+ "text": [
+  "VOX"
+ ],
+ "use": "Mr. T scolds someone for a foolish choice. The top text says \"I pity the fool\" and the bottom names who, usually someone doing something obviously dumb.",
+ "slots": [
+  "\"I pity the fool\" (top text)",
+  "who does the foolish thing (bottom text)"
+ ],
+ "examples": [
+  [
+   "I pity the fool",
+   "Who replies all to the whole company"
+  ],
+  [
+   "I pity the fool",
+   "Who doesn't save before the boss fight"
+  ]
+ ],
+ "describe": [
+  "mr t pointing at you with gold chains and a mohawk",
+  "muscle man with a mohawk and gold chains pointing angrily",
+  "bearded guy in a leather vest points at the camera scowling",
+  "a-team actor pointing his finger with lots of gold necklaces",
+  "tough guy pointing at you with a vox medallion"
+ ],
+ "tags": [
+  "mohawk",
+  "gold chains",
+  "pointing",
+  "tough guy",
+  "scolding",
+  "1980s"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "His catchphrase \"I pity the fool\" comes from his role as Clubber Lang in Rocky III (1982).",
+ "people": "public",
+ "imgflip": {
+  "id": "1570716",
+  "code": "xnz0",
+  "image": "xnz0.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 418,
+ "sure": "high",
+ "added": "2026-11-22"
+}

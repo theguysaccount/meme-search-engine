@@ -1,0 +1,52 @@
+{
+ "slug": "pedro-pascal-crying",
+ "name": "Pedro Pascal Crying",
+ "aka": [],
+ "look": "A blurry, low-resolution video still of actor Pedro Pascal, with messy brown hair and a mustache, wearing a gray-blue T-shirt. His eyes are squeezed shut and his mouth is wide open in a laugh that looks like sobbing, in front of a pale wall.",
+ "text": [],
+ "use": "A reaction that is half laughing and half crying, for something funny and painful at the same time, or for laughing to keep from crying. The caption names the situation.",
+ "slots": [
+  "the funny but painful situation (caption above)"
+ ],
+ "examples": [
+  [
+   "When the group chat roasts you and they're completely right"
+  ],
+  [
+   "Checking my bank account after a weekend of buying snacks"
+  ]
+ ],
+ "describe": [
+  "pedro pascal laughing so hard he looks like he is crying",
+  "mandalorian actor sobbing and laughing at the same time",
+  "blurry guy with a mustache crying laughing face",
+  "man with messy hair cracking up with his eyes shut",
+  "laughing through the pain reaction from a blurry video"
+ ],
+ "tags": [
+  "actor",
+  "laughing",
+  "crying",
+  "reaction",
+  "blurry",
+  "mustache"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "345987437",
+  "code": "5pzpm5",
+  "image": null,
+  "width": 250,
+  "height": 134,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 387,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

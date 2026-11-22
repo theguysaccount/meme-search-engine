@@ -1,0 +1,62 @@
+{
+ "slug": "assassination-chain",
+ "name": "Assassination Chain",
+ "aka": [],
+ "look": "Two stacked stills in a church. Top: a smiling man in a suit sits in a pew as a dark-haired woman behind him holds a pistol to his head and a blonde woman behind her holds one to hers. Bottom: a wide shot of the three in the pews, a shadowy man in the right foreground.",
+ "text": [],
+ "use": "A chain of threats where each person holds the one in front at gunpoint. Each figure gets a label, showing how one thing controls another, which is controlled by something else, like a chain of bosses, chores or deadlines.",
+ "slots": [
+  "label on the smiling man in front",
+  "label on the dark-haired woman behind him",
+  "label on the blonde woman at the back",
+  "label on the man in the bottom panel's foreground"
+ ],
+ "examples": [
+  [
+   "Me enjoying my weekend",
+   "The laundry pile",
+   "Mom",
+   "Grandma"
+  ],
+  [
+   "The bug",
+   "Me",
+   "My manager",
+   "The deadline"
+  ]
+ ],
+ "describe": [
+  "people in church pews pointing guns at each other's heads",
+  "woman holds a gun to a man's head while another woman holds one to hers",
+  "chain of people aiming pistols at the person in front",
+  "smiling man in church unaware of a gun behind his head",
+  "three people sitting in a row of pews each threatening the next"
+ ],
+ "tags": [
+  "guns",
+  "church",
+  "chain",
+  "threat",
+  "standoff",
+  "tv show",
+  "two panels"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "actor",
+ "imgflip": {
+  "id": "204585338",
+  "code": "3dsz22",
+  "image": "3dsz22.png",
+  "width": 1200,
+  "height": 1200,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 373,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

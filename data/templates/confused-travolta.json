@@ -1,0 +1,56 @@
+{
+ "slug": "confused-travolta",
+ "name": "Confused Travolta",
+ "aka": [
+  "Confused John Travolta Pulp Fiction",
+  "Confused John Travolta"
+ ],
+ "look": "A blurry, low-resolution film still of John Travolta as Vincent Vega in a dark suit, holding his coat and glancing around a sparse, pale room, with a reel-to-reel tape deck on a shelf at left and white slipcovered chairs at right.",
+ "text": [],
+ "use": "Shows someone lost and searching for something that is not there. Often animated and pasted into another scene, captioned with what the confused person expected to find, like a missing feature, a friend who left or a promised party.",
+ "slots": [
+  "caption: what he is looking for or confused about"
+ ],
+ "examples": [
+  [
+   "Me looking for the easy part of the easy recipe"
+  ],
+  [
+   "Me walking into the kitchen and forgetting why I came in"
+  ]
+ ],
+ "describe": [
+  "travolta in a suit looking around a room puzzled",
+  "pulp fiction guy in a suit looking for something",
+  "man holding his coat glancing left and right",
+  "lost guy searching an empty room gif",
+  "vincent vega looking around puzzled"
+ ],
+ "tags": [
+  "pulp fiction",
+  "john travolta",
+  "confused",
+  "looking around",
+  "lost",
+  "gif",
+  "searching"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Pulp Fiction",
+ "origin": "John Travolta as Vincent Vega looking around Mia Wallace's house in Quentin Tarantino's Pulp Fiction (1994).",
+ "people": "actor",
+ "imgflip": {
+  "id": "386198399",
+  "code": "6dxklb",
+  "image": null,
+  "width": 250,
+  "height": 124,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 473,
+ "sure": "high",
+ "added": "2026-11-22"
+}

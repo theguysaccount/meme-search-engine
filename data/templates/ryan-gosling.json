@@ -1,0 +1,59 @@
+{
+ "slug": "ryan-gosling",
+ "name": "Ryan Gosling",
+ "aka": [
+  "Hey Girl",
+  "Ryan Gosling Hey Girl"
+ ],
+ "look": "A studio portrait of Ryan Gosling against a plain white background, wearing a white henley shirt open at the collar and a long chain necklace with a pendant, gazing at the camera with a calm, serious expression.",
+ "text": [],
+ "use": "Mostly used for the Hey Girl format: the top starts with a soft greeting and the bottom delivers a smooth, sweet or nerdy pickup line tailored to a hobby or job, as if Gosling were whispering it.",
+ "slots": [
+  "top text: usually 'Hey girl'",
+  "bottom text: the smooth or nerdy line"
+ ],
+ "examples": [
+  [
+   "Hey girl",
+   "I saved you the last slice of pizza"
+  ],
+  [
+   "Hey girl",
+   "I backed up your files without being asked"
+  ]
+ ],
+ "describe": [
+  "ryan gosling in a white shirt staring at the camera",
+  "handsome actor with a necklace on a white background",
+  "blond guy in a white henley with a serious look",
+  "heartthrob actor portrait for romantic captions",
+  "man with a chain necklace and open collar shirt"
+ ],
+ "tags": [
+  "ryan gosling",
+  "actor",
+  "portrait",
+  "pickup line",
+  "romantic",
+  "white shirt",
+  "heartthrob"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "389834",
+  "code": "8csq",
+  "image": "8csq.jpg",
+  "width": 214,
+  "height": 314,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 477,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

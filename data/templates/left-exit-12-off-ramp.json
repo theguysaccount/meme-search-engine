@@ -1,0 +1,64 @@
+{
+ "slug": "left-exit-12-off-ramp",
+ "name": "Left Exit 12 Off Ramp",
+ "aka": [
+  "Exit 12 Meme"
+ ],
+ "look": "A highway scene. A green overhead sign with a yellow tab reading LEFT and a plate reading EXIT 12 shows one arrow going straight and one curving off to the right. Below it, a dark blue sedan swerves sharply onto the exit ramp, tires smoking.",
+ "text": [
+  "LEFT",
+  "EXIT 12"
+ ],
+ "use": "The straight arrow is labeled with the sensible or expected choice, the exit arrow with the impulsive or ridiculous one, and the swerving car is whoever abruptly bails out to take the exit.",
+ "slots": [
+  "the sensible choice (straight arrow on the sign)",
+  "the impulsive choice (exit arrow curving right)",
+  "who swerves for the exit (the car)"
+ ],
+ "examples": [
+  [
+   "Finish the assignment",
+   "Reorganize my entire desk",
+   "Me during finals week"
+  ],
+  [
+   "Answer the question",
+   "Tell a long story about my cousin",
+   "My uncle at dinner"
+  ]
+ ],
+ "describe": [
+  "car swerving onto the highway exit at the last second",
+  "green road sign with a straight arrow and an exit arrow",
+  "blue car making a sharp turn onto the off ramp",
+  "highway sign that says left exit 12 and a sedan skidding",
+  "vehicle suddenly veering off the freeway instead of going straight"
+ ],
+ "tags": [
+  "highway",
+  "road sign",
+  "car",
+  "exit ramp",
+  "sudden choice",
+  "swerving",
+  "green sign"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "124822590",
+  "code": "22bdq6",
+  "image": "22bdq6.jpg",
+  "width": 804,
+  "height": 767,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 4,
+ "sure": "high",
+ "added": "2026-11-22"
+}

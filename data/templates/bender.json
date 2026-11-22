@@ -1,0 +1,58 @@
+{
+ "slug": "bender",
+ "name": "Bender",
+ "aka": [
+  "Blackjack and Hookers"
+ ],
+ "look": "A still from Futurama: Bender, the gray robot, wears a big white fur coat and scowls with narrowed eyes while holding up one hand mid-gesture. Behind him on the left, a green robot woman with long dark hair glares, in front of an orange-red wall with pipes.",
+ "text": [],
+ "use": "Bender, rejected or left out, announces he'll make his own version of the thing, only better. Captions usually follow \"I'm going to build my own ___, with blackjack and hookers\", often with a cleaner ending swapped in.",
+ "slots": [
+  "top: I'm going to make my own ___",
+  "bottom: with blackjack and ___"
+ ],
+ "examples": [
+  [
+   "Not invited to the barbecue? I'll throw my own barbecue",
+   "With blackjack and extra hot dogs"
+  ],
+  [
+   "Fine, I'll start my own book club",
+   "With blackjack and no actual books"
+  ]
+ ],
+ "describe": [
+  "futurama robot in a white fur coat pointing",
+  "bender wearing a fluffy coat and looking annoyed",
+  "cartoon robot dressed like a big shot with a robot woman behind him",
+  "grumpy gray robot in a fur coat saying he will make his own",
+  "metal robot with an angry green fembot in the background"
+ ],
+ "tags": [
+  "futurama",
+  "robot",
+  "fur coat",
+  "cartoon",
+  "defiant",
+  "snowclone",
+  "attitude"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Futurama",
+ "origin": "A still of Bender from the animated series Futurama.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "59250",
+  "code": "19pu",
+  "image": "19pu.jpg",
+  "width": 620,
+  "height": 465,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 273,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

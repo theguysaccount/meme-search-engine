@@ -1,0 +1,54 @@
+{
+ "slug": "goose-chase",
+ "name": "Goose Chase",
+ "aka": [],
+ "look": "Two stacked panels drawn in simple black lines. Top: a white goose with an orange beak pokes its long neck in from the right and stares to the left. Bottom: a man in a puffy jacket sprints off to the left as the goose charges after him with its neck stretched out.",
+ "text": [],
+ "use": "The goose stands for something relentless, such as a deadline, a chore or a bad decision, and the running man is whoever is trying to escape it. The top panel is the goose noticing you, the bottom panel is the chase.",
+ "slots": [
+  "the relentless thing, labeled on the staring goose (top)",
+  "the person running away (bottom left)",
+  "the goose giving chase (bottom right)"
+ ],
+ "examples": [
+  [
+   "The laundry I've ignored all week",
+   "Me trying to relax",
+   "The laundry"
+  ]
+ ],
+ "describe": [
+  "cartoon goose stares then chases a running man",
+  "white goose with orange beak runs after a guy",
+  "drawing of a man fleeing from an angry goose",
+  "two panel comic goose sees you and attacks",
+  "goose hunting down a dude in a puffy jacket"
+ ],
+ "tags": [
+  "goose",
+  "chase",
+  "running away",
+  "comic",
+  "two panel",
+  "bird",
+  "fear"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "398221598",
+  "code": "6l39r2",
+  "image": "6l39r2.png",
+  "width": 1116,
+  "height": 1127,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 293,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

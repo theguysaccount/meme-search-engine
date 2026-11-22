@@ -1,0 +1,70 @@
+{
+ "slug": "buff-doge-vs-cheems",
+ "name": "Buff Doge vs. Cheems",
+ "aka": [
+  "Swole Doge vs. Cheems",
+  "Buff Doge"
+ ],
+ "look": "On a plain white background, a Shiba Inu head sits on a hugely muscular, bodybuilder body standing tall on the left, while on the right a small, chubby Shiba Inu sits hunched with a blue tear on its face. Blank space surrounds both dogs for captions.",
+ "text": [],
+ "use": "The buff dog stands for a strong, impressive version of something, often from the past, and the small crying dog for its weak modern counterpart, each with a label and a line showing the contrast.",
+ "slots": [
+  "the strong version (label above the buff dog)",
+  "the weak version (label above the small dog)",
+  "what the strong one says or does (below the buff dog)",
+  "what the weak one says or does (below the small dog)"
+ ],
+ "examples": [
+  [
+   "Phones in 2005",
+   "Phones today",
+   "Survives a fall down the stairs",
+   "Cracks when it sees the floor"
+  ],
+  [
+   "Me at 10 a.m.",
+   "Me at 3 p.m.",
+   "I will finish everything on my list",
+   "I need a nap after answering one email"
+  ]
+ ],
+ "describe": [
+  "muscular shiba inu next to a small crying shiba inu",
+  "buff dog with a bodybuilder body versus a sad little dog",
+  "strong swole dog compared to a weak sitting dog",
+  "jacked shiba standing tall beside a tiny dog with a tear",
+  "then versus now with a ripped dog and a sad one"
+ ],
+ "tags": [
+  "shiba inu",
+  "dog",
+  "muscular",
+  "strong vs weak",
+  "then vs now",
+  "crying",
+  "comparison"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "247375501",
+  "code": "43a45p",
+  "image": "43a45p.png",
+  "width": 937,
+  "height": 720,
+  "boxes": 4
+ },
+ "variants": [
+  {
+   "id": "246949658",
+   "name": "Big dog small dog"
+  }
+ ],
+ "rank_all_time": 19,
+ "sure": "high",
+ "added": "2026-11-22"
+}

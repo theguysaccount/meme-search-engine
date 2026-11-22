@@ -1,0 +1,56 @@
+{
+ "slug": "pink-guy-vs-bane",
+ "name": "Pink Guy Vs Bane",
+ "aka": [],
+ "look": "Bane from The Dark Knight Rises, seen from behind in his mask and tactical vest, stands with arms spread wide facing Pink Guy, a man in a full pink bodysuit who mirrors the pose, in a dark room with a waterfall behind them.",
+ "text": [],
+ "use": "A face-off between a big, serious threat and a ridiculous challenger. Bane gets one label and Pink Guy another, often a huge problem squaring up against something small or silly that confidently copies its stance.",
+ "slots": [
+  "label on Bane (left, the big threat)",
+  "label on Pink Guy (right, the unlikely challenger)"
+ ],
+ "examples": [
+  [
+   "Monday morning",
+   "Me after three espressos"
+  ],
+  [
+   "The final boss",
+   "Me with 1 HP and a stick"
+  ]
+ ],
+ "describe": [
+  "masked muscle villain with arms out facing a guy in a pink suit",
+  "bane spreading his arms at a man in a pink bodysuit",
+  "man in pink spandex copies the villain's pose by a waterfall",
+  "two guys facing off with arms wide open one in pink",
+  "batman villain standoff with a pink costume guy"
+ ],
+ "tags": [
+  "bane",
+  "pink guy",
+  "standoff",
+  "face-off",
+  "arms spread",
+  "photoshop",
+  "batman"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 1,
+ "franchise": "Batman",
+ "origin": "An edit placing Pink Guy, the pink-bodysuit character from the Filthy Frank YouTube channel, opposite Bane from The Dark Knight Rises.",
+ "people": "actor",
+ "imgflip": {
+  "id": "212319280",
+  "code": "3ieqls",
+  "image": "3ieqls.jpg",
+  "width": 710,
+  "height": 990,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 353,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

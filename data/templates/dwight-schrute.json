@@ -1,0 +1,54 @@
+{
+ "slug": "dwight-schrute",
+ "name": "Dwight Schrute",
+ "aka": [
+  "Schrute Facts"
+ ],
+ "look": "Rainn Wilson as Dwight Schrute from The Office, in wire-rimmed glasses, a pale green short-sleeved shirt and a dark patterned tie, stares straight at the camera with a stern, deadpan face. A coworker in a blue shirt is blurred behind him.",
+ "text": [],
+ "use": "Pedantic corrections in Dwight's know-it-all voice. The top quotes a common statement, and the bottom answers with \"False.\" and an absurdly literal correction, or opens with \"Question:\" and a smug follow-up.",
+ "slots": [
+  "the statement being corrected (top)",
+  "\"False.\" plus the know-it-all correction (bottom)"
+ ],
+ "examples": [
+  [
+   "\"Cereal is a breakfast food\"",
+   "False. Cereal is an anytime food."
+  ]
+ ],
+ "describe": [
+  "office guy with glasses staring seriously at the camera",
+  "dwight from the office with a deadpan face",
+  "man in a short sleeve shirt and tie looking stern",
+  "guy correcting you by saying false",
+  "serious coworker in glasses and a green shirt"
+ ],
+ "tags": [
+  "the office",
+  "sitcom",
+  "office",
+  "deadpan",
+  "know-it-all",
+  "glasses",
+  "correction"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Office (US)",
+ "origin": "A still of Rainn Wilson as Dwight Schrute in the US version of The Office.",
+ "people": "actor",
+ "imgflip": {
+  "id": "61554",
+  "code": "1bhu",
+  "image": "1bhu.jpg",
+  "width": 551,
+  "height": 380,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 312,
+ "sure": "high",
+ "added": "2026-11-22"
+}

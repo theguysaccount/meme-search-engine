@@ -1,0 +1,53 @@
+{
+ "slug": "this-is-worthless",
+ "name": "This Is Worthless",
+ "aka": [],
+ "look": "Two stacked panels from Gravity Falls. Top: cartoon hands hold up a blank sheet of paper, with the subtitle \"Woah.\" Bottom: Dipper Pines, in his white and blue pine tree cap, grins widely while holding the paper out, with the subtitle \"This is worthless!\"",
+ "text": [
+  "Woah.",
+  "This is worthless!"
+ ],
+ "use": "Something looks exciting at first glance and turns out to be useless. Whatever goes on the blank paper, like a tiny coupon, a fake prize or a pointless certificate, earns a cheerful \"this is worthless!\"",
+ "slots": [
+  "the seemingly exciting thing, on the blank paper (top panel)"
+ ],
+ "examples": [
+  [
+   "Coupon: 5% off your next purchase of $500 or more"
+  ]
+ ],
+ "describe": [
+  "cartoon kid holding a blank paper then saying it's worthless",
+  "boy in a pine tree hat smiling with a piece of paper",
+  "dipper from gravity falls says woah then this is worthless",
+  "hands holding up an empty sheet of paper cartoon",
+  "kid amazed by a note then happily calling it useless"
+ ],
+ "tags": [
+  "gravity falls",
+  "cartoon",
+  "paper",
+  "worthless",
+  "disappointment",
+  "subtitles",
+  "two panel"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "Gravity Falls",
+ "origin": "From the animated series Gravity Falls, with Dipper Pines examining a sheet of paper.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "153452716",
+  "code": "2jd0vg",
+  "image": "2jd0vg.jpg",
+  "width": 1440,
+  "height": 1613,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 317,
+ "sure": "high",
+ "added": "2026-11-22"
+}

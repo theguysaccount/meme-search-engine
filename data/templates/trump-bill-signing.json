@@ -1,0 +1,55 @@
+{
+ "slug": "trump-bill-signing",
+ "name": "Trump Bill Signing",
+ "aka": [
+  "Trump's First Order of Business",
+  "Trump Executive Order"
+ ],
+ "look": "Donald Trump sits at a desk in the Oval Office, gold curtains behind him, wearing a dark suit and blue striped tie. He holds up an open black folder with two blank white pages, his signature at the bottom right, while aides in suits stand behind.",
+ "text": [],
+ "use": "The blank pages of the folder become a sign. People write or paste whatever official decree they want to announce, so it looks like the president proudly showing off a newly signed order.",
+ "slots": [
+  "the decree or picture placed on the blank pages of the open folder"
+ ],
+ "examples": [
+  [
+   "Executive order: every meeting that could have been an email is now an email"
+  ],
+  [
+   "New rule: socks must be sold in packs of three, just in case"
+  ]
+ ],
+ "describe": [
+  "president holding up a signed document at his desk",
+  "man in suit shows open folder with blank pages and a signature",
+  "politician proudly displaying a signed paper in the oval office",
+  "holding up a blank executive order for the cameras",
+  "guy at a desk showing an open black folder with gold curtains behind"
+ ],
+ "tags": [
+  "donald trump",
+  "executive order",
+  "signed document",
+  "oval office",
+  "politics",
+  "blank sign"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of Donald Trump showing off a signed executive order in the Oval Office during the first weeks of his presidency in 2017.",
+ "people": "public",
+ "imgflip": {
+  "id": "91545132",
+  "code": "1ii4oc",
+  "image": "1ii4oc.jpg",
+  "width": 1866,
+  "height": 1529,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 49,
+ "sure": "high",
+ "added": "2026-11-22"
+}

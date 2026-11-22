@@ -1,0 +1,61 @@
+{
+ "slug": "let-me-in",
+ "name": "Let Me In",
+ "aka": [
+  "Eric Andre Let Me In"
+ ],
+ "look": "Two stacked stills from The Eric Andre Show. Top: Eric Andre, with curly hair, a gray suit and striped tie, holds a microphone and reaches out beside a tall black iron fence, subtitled \"Let me in.\" Bottom: he throws his head back screaming, \"LET ME IIIIIIIIIIIN!\"",
+ "text": [
+  "Let me in.",
+  "LET ME IIIIIIIIIIIN!"
+ ],
+ "use": "Someone desperately wants into something that is closed to them, from an exclusive club to a store that just locked its doors. Labels name the frantic outsider and the place, group or thing they're shut out of.",
+ "slots": [
+  "label on Eric Andre (who wants in)",
+  "label on the fence (what they are locked out of)"
+ ],
+ "examples": [
+  [
+   "Me at 9:01 p.m.",
+   "The pizza place that closes at 9"
+  ],
+  [
+   "My dog",
+   "The bathroom while I'm in it"
+  ]
+ ],
+ "describe": [
+  "eric andre yelling let me in at a gate",
+  "man in a suit with a microphone screaming at a fence",
+  "guy at a locked iron gate begging to get inside",
+  "comedian throwing his head back and shouting outside a fence",
+  "reporter desperately trying to get past a black metal gate"
+ ],
+ "tags": [
+  "eric andre",
+  "fence",
+  "gate",
+  "screaming",
+  "locked out",
+  "desperate",
+  "adult swim"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "The Eric Andre Show",
+ "origin": "From The Eric Andre Show on Adult Swim, with host Eric Andre shouting to be let in at a locked fence.",
+ "people": "public",
+ "imgflip": {
+  "id": "170261505",
+  "code": "2tdam9",
+  "image": "2tdam9.png",
+  "width": 1413,
+  "height": 1413,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 281,
+ "sure": "high",
+ "added": "2026-11-22"
+}

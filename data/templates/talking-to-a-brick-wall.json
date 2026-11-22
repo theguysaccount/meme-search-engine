@@ -1,0 +1,57 @@
+{
+ "slug": "talking-to-a-brick-wall",
+ "name": "Talking To A Brick Wall",
+ "aka": [
+  "Talking To Wall"
+ ],
+ "look": "A still from a video of a young man in a black T-shirt standing face to face with a red brick wall, gesturing with both hands, which are blurred with motion, as if explaining something passionately to the wall.",
+ "text": [],
+ "use": "Explaining something to someone who won't listen or respond. The man is labeled as the one explaining, and the brick wall is labeled as the person or thing ignoring every word.",
+ "slots": [
+  "who isn't listening (the brick wall, left)",
+  "who is explaining (the man, right)"
+ ],
+ "examples": [
+  [
+   "My dog",
+   "Me explaining that the vacuum is not a monster"
+  ],
+  [
+   "The group chat",
+   "Me trying to pick a time that works for everyone"
+  ]
+ ],
+ "describe": [
+  "guy gesturing and lecturing a brick wall",
+  "man arguing with a wall",
+  "dude explaining something to a red brick wall",
+  "person gesturing at a wall like it can hear him",
+  "talking and nobody listening brick wall video"
+ ],
+ "tags": [
+  "brick wall",
+  "explaining",
+  "ignored",
+  "frustration",
+  "arguing",
+  "talking"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "304768047",
+  "code": "51g8j3",
+  "image": null,
+  "width": 250,
+  "height": 140,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 172,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

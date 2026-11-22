@@ -1,0 +1,58 @@
+{
+ "slug": "overwatch-mercy",
+ "name": "Overwatch Mercy",
+ "aka": [
+  "Overwatch Mercy Meme"
+ ],
+ "look": "Two stacked panels from a 3D animated cinematic. Top: a frightened dark-haired girl in a white T-shirt and beaded bracelet hides in dark rubble and looks up. Bottom: Mercy, a blonde heroine in a white and orange suit with a halo and spread, glowing golden wings, descends through dusty sunlight holding her staff.",
+ "text": [],
+ "use": "The scared girl is someone in trouble and Mercy is the rescuer who swoops in to save them: an unexpected helper, a lucky break or a last-minute fix.",
+ "slots": [
+  "who is in trouble (top panel, the scared girl)",
+  "the rescuer who arrives (bottom panel, Mercy)"
+ ],
+ "examples": [
+  [
+   "Me at 11:58 p.m. with an assignment due at midnight",
+   "The teacher extending the deadline"
+  ],
+  [
+   "My phone at 1% battery",
+   "A stranger with the right charger"
+  ]
+ ],
+ "describe": [
+  "scared little girl looks up and a glowing angel comes to save her",
+  "winged woman descending in golden light to rescue a kid",
+  "girl hiding in rubble then a healer with wings arrives",
+  "video game angel with a halo swooping in to help",
+  "frightened child and a hero with glowing wings two panels"
+ ],
+ "tags": [
+  "video game",
+  "angel",
+  "rescue",
+  "hero",
+  "wings",
+  "two panels",
+  "cgi"
+ ],
+ "kind": "game",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Overwatch",
+ "origin": "Mercy, the winged healer from Blizzard's game Overwatch, in a frame from one of the game's animated cinematics.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "223642538",
+  "code": "3p5foq",
+  "image": "3p5foq.jpg",
+  "width": 1440,
+  "height": 1440,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 386,
+ "sure": "high",
+ "added": "2026-11-22"
+}

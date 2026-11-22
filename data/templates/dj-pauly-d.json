@@ -1,0 +1,57 @@
+{
+ "slug": "dj-pauly-d",
+ "name": "DJ Pauly D",
+ "aka": [
+  "Pauly D"
+ ],
+ "look": "TV still of Pauly D from Jersey Shore, with tall spiky gelled black hair, a diamond stud earring and a silver chain and bracelet, yelling with wide bulging eyes and his mouth open while thrusting an open palm toward the camera. Green leaves are behind him.",
+ "text": [],
+ "use": "An outraged, over-the-top reaction yelling at someone for something annoying or ridiculous. The top text sets up the offense and the bottom is the angry outburst.",
+ "slots": [
+  "the setup (top text)",
+  "the yelled outburst (bottom text)"
+ ],
+ "examples": [
+  [
+   "You left one bite of cake in the box",
+   "And put the box back in the fridge?!"
+  ],
+  [
+   "Who unplugged my charger",
+   "To plug in the toaster?!"
+  ]
+ ],
+ "describe": [
+  "guy with spiky gelled hair yelling and reaching toward the camera",
+  "jersey shore guy screaming with his hand out",
+  "angry man with blowout hair shouting at the camera",
+  "reality tv dj yelling with wide eyes",
+  "dude with spiked hair and an earring losing his mind"
+ ],
+ "tags": [
+  "reality tv",
+  "yelling",
+  "angry",
+  "outrage",
+  "spiky hair",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Jersey Shore",
+ "origin": "DJ and reality star Pauly D yelling in a scene from MTV's Jersey Shore.",
+ "people": "public",
+ "imgflip": {
+  "id": "2005809",
+  "code": "16zox",
+  "image": "16zox.jpg",
+  "width": 620,
+  "height": 577,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 429,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "coffin-dance",
+ "name": "Coffin Dance",
+ "aka": [
+  "Dancing Pallbearers",
+  "Ghana Pallbearers"
+ ],
+ "look": "A low-resolution video still of pallbearers in black suits, white shirts, white gloves and top hats with white bands, wearing sunglasses as they carry an ornate wooden coffin on their shoulders and dance through a crowded outdoor procession.",
+ "text": [],
+ "use": "A dark punchline for risky or foolish choices. The setup describes someone about to do something dangerous or dumb, and the dancing pallbearers imply they will soon be needed.",
+ "slots": [
+  "top caption: the risky or foolish thing someone is about to do",
+  "bottom caption: the pallbearers' cue (optional)"
+ ],
+ "examples": [
+  [
+   "Me telling my mom I'm too old for a curfew",
+   "The dance crew warming up"
+  ],
+  [
+   "Saying \"what could go wrong?\" before a skateboard trick",
+   "Pallbearers on standby"
+  ]
+ ],
+ "describe": [
+  "men in suits dancing while carrying a coffin",
+  "pallbearers in top hats and sunglasses dancing at a funeral",
+  "ghana funeral dancers with a casket on their shoulders",
+  "guys dancing with a casket meme",
+  "funeral procession dance with white gloves and shades"
+ ],
+ "tags": [
+  "coffin",
+  "pallbearers",
+  "dancing",
+  "funeral",
+  "ghana",
+  "suits",
+  "sunglasses"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Footage of a team of professional pallbearers in Ghana who dance while carrying coffins; it spread worldwide as a meme in 2020.",
+ "people": "private",
+ "imgflip": {
+  "id": "237495615",
+  "code": "3xecsf",
+  "image": null,
+  "width": 250,
+  "height": 140,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 470,
+ "sure": "high",
+ "added": "2026-11-22"
+}

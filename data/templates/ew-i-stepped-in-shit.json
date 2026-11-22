@@ -1,0 +1,54 @@
+{
+ "slug": "ew-i-stepped-in-shit",
+ "name": "Ew, I Stepped In Shit",
+ "aka": [],
+ "look": "A two-panel black-and-white comic with gray shading. Top: a man in a T-shirt balances on one leg and grimaces at the bottom of his raised shoe, saying \"Ew, I stepped in shit.\" Bottom: a close-up of the shoe's blank gray sole held in his fingers.",
+ "text": [
+  "Ew, I stepped in shit."
+ ],
+ "use": "Something the poster dislikes is pasted onto the shoe sole in the bottom panel, as if it were what he stepped in. It's a way to call a trend, show or thing gross.",
+ "slots": [
+  "the disliked thing (on the shoe sole, bottom panel)"
+ ],
+ "examples": [
+  [
+   "Cold fries from the bottom of the bag"
+  ],
+  [
+   "Raisins in what I thought was a chocolate chip cookie"
+  ]
+ ],
+ "describe": [
+  "comic guy looks at the bottom of his shoe in disgust",
+  "man stepped in poop and checks his shoe sole",
+  "black and white comic with a blank shoe sole close up",
+  "guy holding up his foot grossed out two panel comic",
+  "comic guy says ew i stepped in it while checking his shoe"
+ ],
+ "tags": [
+  "comic",
+  "disgust",
+  "shoe",
+  "gross",
+  "two panels",
+  "black and white"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "72598094",
+  "code": "17811q",
+  "image": "17811q.jpg",
+  "width": 798,
+  "height": 1129,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 431,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "shut-up-and-take-my-money-fry",
+ "name": "Shut Up And Take My Money Fry",
+ "aka": [
+  "Shut Up and Take My Money"
+ ],
+ "look": "A still from Futurama. Fry, with spiky orange hair, a red jacket and a white T-shirt, scowls and shouts while thrusting a fistful of green dollar bills toward the viewer.",
+ "text": [],
+ "use": "Expresses overwhelming eagerness to buy something. The top caption describes a product or deal that sounds amazing, and the bottom is Fry's impatient 'Shut up and take my money!'",
+ "slots": [
+  "top caption: the irresistible product or offer",
+  "bottom caption: usually 'Shut up and take my money!'"
+ ],
+ "examples": [
+  [
+   "A phone charger cable that actually reaches the bed",
+   "Shut up and take my money!"
+  ],
+  [
+   "Socks that never lose their partner in the wash",
+   "Shut up and take my money!"
+  ]
+ ],
+ "describe": [
+  "futurama guy shoving cash at you",
+  "cartoon man with orange hair holding out a wad of money",
+  "fry yelling while waving dollar bills",
+  "redhead in a red jacket desperate to buy something",
+  "angry cartoon guy holding money in his fist"
+ ],
+ "tags": [
+  "futurama",
+  "fry",
+  "money",
+  "cash",
+  "buying",
+  "eager",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Futurama",
+ "origin": "From the 2010 Futurama episode 'Attack of the Killer App', where Fry is desperate to buy the new eyePhone.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "176908",
+  "code": "3si4",
+  "image": "3si4.jpg",
+  "width": 500,
+  "height": 281,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 126,
+ "sure": "high",
+ "added": "2026-11-22"
+}

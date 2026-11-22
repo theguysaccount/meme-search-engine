@@ -1,0 +1,66 @@
+{
+ "slug": "simba-shadowy-place",
+ "name": "Simba Shadowy Place",
+ "aka": [
+  "What's That Shadowy Place",
+  "Everything the Light Touches"
+ ],
+ "look": "Three stills from The Lion King stacked vertically. Top: Mufasa and young Simba sit on Pride Rock at sunrise, gazing over the land. Middle: Simba looks up asking the printed question. Bottom: Mufasa, with his red mane, walks beside Simba and answers sternly.",
+ "text": [
+  "But what's that shadowy place over there?"
+ ],
+ "use": "Mufasa proudly presents the good side of something, then Simba points out the dark part nobody wants to talk about. The top panel is the bright side, and the bottom panel is Mufasa's warning about the shadowy thing to avoid.",
+ "slots": [
+  "top panel: 'Everything the light touches is...' the good part",
+  "bottom panel: Mufasa's answer, the shadowy thing you must never go near"
+ ],
+ "examples": [
+  [
+   "Everything the light touches is our clean apartment",
+   "That's the junk drawer. You must never go there, Simba."
+  ],
+  [
+   "Everything the light touches is our finished app",
+   "That's the code nobody documented. We don't go there."
+  ]
+ ],
+ "describe": [
+  "lion king dad showing his son the kingdom and a dark place",
+  "mufasa and simba on pride rock at sunrise",
+  "simba asking what's that shadowy place over there",
+  "lion cub asks about the dark area and dad says never go there",
+  "three panel lion king warning about a forbidden spot"
+ ],
+ "tags": [
+  "the lion king",
+  "mufasa",
+  "simba",
+  "pride rock",
+  "forbidden",
+  "disney",
+  "three panel"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "The Lion King",
+ "origin": "From Disney's The Lion King (1994), where Mufasa shows Simba the Pride Lands and warns him never to go to the shadowy place.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "371382",
+  "code": "7yk6",
+  "image": "7yk6.jpg",
+  "width": 363,
+  "height": 720,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "206153",
+   "name": "Lion King"
+  }
+ ],
+ "rank_all_time": 134,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "laughing-leo",
+ "name": "Laughing Leo",
+ "aka": [
+  "Leonardo DiCaprio Laughing"
+ ],
+ "look": "Leonardo DiCaprio, with slicked-back hair and a goatee, squints and laughs while raising a small glass of reddish liquor. He wears a brown frock coat with a white flower on the lapel over a beige patterned vest, with cream upholstered furniture behind him.",
+ "text": [],
+ "use": "A reaction image for laughing at something, often smugly or at someone else's expense. The caption sets up a ridiculous situation, a bad take or a predictable failure, and Leo's wheezing laugh with a drink in hand is the response.",
+ "slots": [
+  "top caption: the situation or statement he is laughing at",
+  "bottom caption: optional punchline or label"
+ ],
+ "examples": [
+  [
+   "My friend: \"I'll just take a quick nap\"",
+   "Me, knowing he'll wake up at 9 p.m."
+  ],
+  [
+   "Coworker: \"This meeting will be quick\"",
+   "Everyone who has been to his meetings"
+  ]
+ ],
+ "describe": [
+  "leonardo dicaprio cracking up while holding a drink",
+  "leo squinting and cracking up with a glass of wine",
+  "man in an old fashioned suit laughing hard holding a glass",
+  "dicaprio from django laughing hysterically",
+  "guy with a goatee wheezing with laughter and a small glass"
+ ],
+ "tags": [
+  "leonardo dicaprio",
+  "laughing",
+  "django unchained",
+  "drink",
+  "mocking",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Django Unchained",
+ "origin": "Leonardo DiCaprio as plantation owner Calvin Candie, laughing with a drink in Quentin Tarantino's 2012 film Django Unchained.",
+ "people": "actor",
+ "imgflip": {
+  "id": "259237855",
+  "code": "4acd7j",
+  "image": "4acd7j.png",
+  "width": 470,
+  "height": 470,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 71,
+ "sure": "high",
+ "added": "2026-11-22"
+}

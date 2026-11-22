@@ -1,0 +1,58 @@
+{
+ "slug": "both-buttons-pressed",
+ "name": "Both Buttons Pressed",
+ "aka": [],
+ "look": "A two-panel comic. Top: a white-gloved hand presses two red buttons at once, one with the thumb and one with a finger, under two blank white labels on a blue control panel. Bottom: a man in a red shirt grins smugly and gives a thumbs-up.",
+ "text": [],
+ "use": "A follow-up to the two-buttons dilemma. Instead of agonizing over the choice, the person picks both options at once and is very pleased with the result.",
+ "slots": [
+  "the first option (left button label)",
+  "the second option (right button label)",
+  "who chose both (the man, bottom)"
+ ],
+ "examples": [
+  [
+   "Eat healthy",
+   "Eat dessert",
+   "Me with a fruit salad covered in chocolate"
+  ],
+  [
+   "Sleep in",
+   "Be on time for work",
+   "Me working from bed"
+  ]
+ ],
+ "describe": [
+  "hand pressing both red buttons at the same time",
+  "guy pushing two buttons at once and giving a thumbs up",
+  "sweaty button guy finally picks both options and is happy",
+  "comic of a man smugly choosing both choices",
+  "two red buttons pressed together then a satisfied thumbs up"
+ ],
+ "tags": [
+  "buttons",
+  "choice",
+  "thumbs up",
+  "smug",
+  "decision",
+  "comic"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "An edit of Jake Clark's Two Buttons comic in which both buttons get pressed, signed @Petirep next to Jake Clark's credit.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "286646496",
+  "code": "4qntuo",
+  "image": "4qntuo.jpg",
+  "width": 600,
+  "height": 908,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 160,
+ "sure": "high",
+ "added": "2026-11-22"
+}

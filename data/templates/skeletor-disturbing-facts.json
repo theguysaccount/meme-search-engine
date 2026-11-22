@@ -1,0 +1,58 @@
+{
+ "slug": "skeletor-disturbing-facts",
+ "name": "Skeletor Disturbing Facts",
+ "aka": [
+  "Skeletor Until We Meet Again"
+ ],
+ "look": "Two stacked panels from the 1980s He-Man cartoon. Top: Skeletor, a muscular blue villain with a yellow skull face and purple hood, lounges casually on his side on a cave floor. Bottom: he runs away from the viewer down a dark cave tunnel lined with spiky rocks.",
+ "text": [],
+ "use": "The top panel has Skeletor casually sharing a disturbing, depressing or unsettling fact, like a friendly end-of-episode lesson. The bottom shows him running off, usually with 'Until we meet again!', leaving you to sit with it.",
+ "slots": [
+  "top panel: the disturbing fact",
+  "bottom panel: his exit line, usually 'Until we meet again!'"
+ ],
+ "examples": [
+  [
+   "You will never be as young as you are right now",
+   "Until we meet again!"
+  ],
+  [
+   "When your mom says 'we'll see', it means no",
+   "Until we meet again!"
+  ]
+ ],
+ "describe": [
+  "skeletor lounging on the floor then running away",
+  "skull faced villain lying on his side in a cave",
+  "purple hooded skeleton guy relaxing then sprinting off",
+  "he-man villain shares a creepy fact and runs off",
+  "blue muscular cartoon villain with a yellow skull running into a tunnel"
+ ],
+ "tags": [
+  "skeletor",
+  "he-man",
+  "80s cartoon",
+  "disturbing fact",
+  "running away",
+  "two panels",
+  "villain"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "He-Man and the Masters of the Universe",
+ "origin": "Skeletor from the 1980s cartoon He-Man and the Masters of the Universe.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "336049737",
+  "code": "5k2pmx",
+  "image": "5k2pmx.jpg",
+  "width": 500,
+  "height": 562,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 360,
+ "sure": "high",
+ "added": "2026-11-22"
+}

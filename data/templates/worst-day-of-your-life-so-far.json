@@ -1,0 +1,58 @@
+{
+ "slug": "worst-day-of-your-life-so-far",
+ "name": "Worst Day Of Your Life So Far",
+ "aka": [
+  "Simpsons So Far"
+ ],
+ "look": "Two stacked panels from The Simpsons on a street corner under a pink sunset sky. Top: Bart stands alone with a pained, uneasy grimace. Bottom: Homer crouches beside him, grinning and pressing a finger to Bart's chest while Bart looks up at him.",
+ "text": [],
+ "use": "The top panel is Bart's complaint that something is the worst it has ever been. The bottom is Homer's cheerful reply that it's only the worst so far, a joke that things are going to get even worse.",
+ "slots": [
+  "top panel: Bart's complaint that something is the worst",
+  "bottom panel: Homer's reply that it's only the worst so far"
+ ],
+ "examples": [
+  [
+   "This is the worst traffic I've ever been in",
+   "The worst traffic so far"
+  ],
+  [
+   "This is the ugliest code I've ever seen",
+   "The ugliest code you've seen so far"
+  ]
+ ],
+ "describe": [
+  "bart looks miserable and then homer pokes him in the chest",
+  "homer crouching and pointing at bart with a big grin",
+  "simpsons dad cheerfully telling his son it will get worse",
+  "bart grimacing on the sidewalk at sunset",
+  "homer grinning at bart because things will only get worse"
+ ],
+ "tags": [
+  "simpsons",
+  "homer",
+  "bart",
+  "father and son",
+  "pessimism",
+  "two panels",
+  "it gets worse"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Simpsons",
+ "origin": "Bart complains it's the worst day of his life and Homer cheerfully replies that it's only the worst so far.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "131745903",
+  "code": "26frsf",
+  "image": "26frsf.jpg",
+  "width": 831,
+  "height": 710,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 347,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

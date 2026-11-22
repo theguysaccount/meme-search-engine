@@ -1,0 +1,58 @@
+{
+ "slug": "mugatu-so-hot-right-now",
+ "name": "Mugatu So Hot Right Now",
+ "aka": [
+  "So Hot Right Now"
+ ],
+ "look": "A still from Zoolander. Will Ferrell as Mugatu, with frizzy blond curls and a goatee, sits in an audience holding a white poodle and speaking, wearing a fringed western-style outfit with red trim. Milla Jovovich sits beside him in red, scowling.",
+ "text": [],
+ "use": "Declares something trendy or suddenly popular. Following Mugatu's line, the top caption names the hot new thing and the bottom says 'so hot right now,' often sarcastically about something mundane.",
+ "slots": [
+  "top caption: the trendy thing",
+  "bottom caption: usually 'so hot right now'"
+ ],
+ "examples": [
+  [
+   "Sourdough starters",
+   "So hot right now"
+  ],
+  [
+   "Saying 'per my last email'",
+   "So hot right now"
+  ]
+ ],
+ "describe": [
+  "will ferrell with curly blond hair holding a white poodle",
+  "zoolander villain with a little dog saying something is trendy",
+  "guy with frizzy hair and a poodle in a red outfit",
+  "man in a fringe jacket with a small dog next to a woman in red",
+  "fashion designer holding a fluffy dog in the audience"
+ ],
+ "tags": [
+  "zoolander",
+  "will ferrell",
+  "poodle",
+  "fashion",
+  "trendy",
+  "movie",
+  "popular"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Zoolander",
+ "origin": "From Zoolander (2001), where fashion mogul Mugatu, played by Will Ferrell, declares that male model Hansel is 'so hot right now.'",
+ "people": "actor",
+ "imgflip": {
+  "id": "21604248",
+  "code": "cv1y0",
+  "image": "cv1y0.jpg",
+  "width": 620,
+  "height": 496,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 109,
+ "sure": "high",
+ "added": "2026-11-22"
+}

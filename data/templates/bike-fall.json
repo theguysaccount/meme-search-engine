@@ -1,0 +1,61 @@
+{
+ "slug": "bike-fall",
+ "name": "Bike Fall",
+ "aka": [
+  "Stick in Bike Wheel"
+ ],
+ "look": "Three stacked comic panels on a gray path through green grass. Top: a man in a white T-shirt and purple pants rides a bicycle while holding a long stick. Middle: he leans down and jams the stick into his own front wheel. Bottom: he lies curled up in pain beside the flipped bike.",
+ "text": [],
+ "use": "Shows someone sabotaging themselves and then acting like the victim. The rider is labeled as a person, the stick as their own bad decision, and the fallen rider blames bad luck or someone else.",
+ "slots": [
+  "top panel: the person riding the bike",
+  "middle panel: their own bad decision (the stick)",
+  "bottom panel: the fallen rider's complaint or blame"
+ ],
+ "examples": [
+  [
+   "Me",
+   "Staying up until 3 a.m. scrolling",
+   "Why am I always so tired?"
+  ],
+  [
+   "Me at the gym",
+   "Skipping leg day for a year",
+   "Why are stairs so hard?"
+  ]
+ ],
+ "describe": [
+  "guy puts a stick in his own bike wheel and falls",
+  "cyclist jams a pole into the front wheel then crashes",
+  "man sabotages his own bicycle and blames someone else",
+  "three panels of a guy riding a bike then falling over",
+  "person shoving a stick in the spokes then lying hurt on the ground"
+ ],
+ "tags": [
+  "bicycle",
+  "self sabotage",
+  "stick",
+  "crash",
+  "blame",
+  "comic",
+  "three panel"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 3,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "79132341",
+  "code": "1b42wl",
+  "image": "1b42wl.jpg",
+  "width": 500,
+  "height": 680,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 57,
+ "sure": "high",
+ "added": "2026-11-22"
+}

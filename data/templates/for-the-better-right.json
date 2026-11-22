@@ -1,0 +1,67 @@
+{
+ "slug": "for-the-better-right",
+ "name": "For the Better, Right?",
+ "aka": [
+  "Anakin and Padme",
+  "Anakin Padme 4 Panel"
+ ],
+ "look": "Four panels in a 2x2 grid set in a sunny meadow. Top left: Anakin Skywalker, with short hair and a thin braid, says something with a smug look. Top right: Padmé, in a flowered headband, smiles broadly. Bottom left: Anakin stares back in silence. Bottom right: Padmé's smile fades into a worried look.",
+ "text": [],
+ "use": "Anakin announces a plan, Padmé smiles and asks a hopeful follow-up that assumes the good outcome, Anakin just stares, and Padmé repeats the question with dawning worry. His silence confirms the bad outcome.",
+ "slots": [
+  "Anakin's announcement (top left)",
+  "Padmé's hopeful follow-up question (top right)",
+  "Padmé repeating the question, now worried (bottom right)"
+ ],
+ "examples": [
+  [
+   "I'm rewriting the whole app this weekend",
+   "With tests, right?",
+   "With tests, right?"
+  ],
+  [
+   "I signed us up for a 5K",
+   "Walking it, right?",
+   "Walking it, right?"
+  ]
+ ],
+ "describe": [
+  "anakin says something and padme smiles then looks worried",
+  "star wars couple in a field she asks and he stares silently",
+  "four panels guy announces plan girl smiles then realizes",
+  "woman's smile fades when the man doesn't answer her question",
+  "padme happy then nervous after anakin goes quiet"
+ ],
+ "tags": [
+  "star wars",
+  "anakin",
+  "padme",
+  "four panel",
+  "awkward silence",
+  "worry",
+  "meadow"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Star Wars",
+ "origin": "From the 2002 film Star Wars: Episode II - Attack of the Clones, during Anakin and Padmé's conversation in a meadow on Naboo.",
+ "people": "actor",
+ "imgflip": {
+  "id": "322841258",
+  "code": "5c7lwq",
+  "image": "5c7lwq.png",
+  "width": 768,
+  "height": 768,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "321592868",
+   "name": "For the better right blank"
+  }
+ ],
+ "rank_all_time": 55,
+ "sure": "high",
+ "added": "2026-11-22"
+}

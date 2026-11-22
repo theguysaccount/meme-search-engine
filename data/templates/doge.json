@@ -1,0 +1,65 @@
+{
+ "slug": "doge",
+ "name": "Doge",
+ "aka": [
+  "Such Wow",
+  "Kabosu"
+ ],
+ "look": "A close-up photo of a Shiba Inu with golden-tan and cream fur, its head turned toward the camera and its eyes glancing sideways with a wary, skeptical look, in front of a pale background.",
+ "text": [],
+ "use": "Short broken-English phrases like such X, very Y, much Z and wow, usually in colorful Comic Sans, are scattered around the dog as its inner monologue about something.",
+ "slots": [
+  "first phrase, like such X (top left)",
+  "second phrase, like very Y (top right)",
+  "third phrase, like much Z (bottom)",
+  "a closing wow (anywhere)"
+ ],
+ "examples": [
+  [
+   "such homework",
+   "very due tomorrow",
+   "much panic",
+   "wow"
+  ],
+  [
+   "so nap",
+   "very cozy",
+   "much blanket",
+   "wow"
+  ]
+ ],
+ "describe": [
+  "shiba inu dog looking sideways suspiciously",
+  "dog side eye with very wow much text around it",
+  "fluffy tan dog giving a skeptical sideways glance",
+  "close up of a shiba with comic sans phrases around it",
+  "japanese dog breed looking at the camera warily"
+ ],
+ "tags": [
+  "shiba inu",
+  "dog",
+  "side eye",
+  "comic sans",
+  "skeptical",
+  "animal",
+  "broken english"
+ ],
+ "kind": "photo",
+ "format": "other",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A 2010 photo of a Shiba Inu named Kabosu posted on her owner's blog; the meme spread in 2013.",
+ "people": "none",
+ "imgflip": {
+  "id": "8072285",
+  "code": "4t0m5",
+  "image": "4t0m5.jpg",
+  "width": 620,
+  "height": 620,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 41,
+ "sure": "high",
+ "added": "2026-11-22"
+}

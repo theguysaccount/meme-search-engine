@@ -1,0 +1,56 @@
+{
+ "slug": "peter-griffin-running-away",
+ "name": "Peter Griffin Running Away",
+ "aka": [],
+ "look": "A still from Family Guy: Peter Griffin, in his white shirt and green pants, sprints toward the viewer down a dirt road through flat fields, gritting his teeth, as a gray biplane swoops in low behind him under a blue sky.",
+ "text": [],
+ "use": "Someone fleeing from whatever is chasing them. Peter is labeled as the person running away and the plane as the thing in pursuit, like responsibilities, a deadline, a chore or a conversation you want to avoid.",
+ "slots": [
+  "label on Peter (the one running away)",
+  "label on the plane (what's chasing him)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "My responsibilities"
+  ],
+  [
+   "Me leaving the party early",
+   "The host asking who wants to help clean up"
+  ]
+ ],
+ "describe": [
+  "family guy peter sprinting away from a biplane",
+  "cartoon dad running down a country road chased by an airplane",
+  "peter running toward the camera with a plane behind him",
+  "guy fleeing from a crop duster plane in a field",
+  "family guy dad running in a panic on a dirt road"
+ ],
+ "tags": [
+  "family guy",
+  "peter griffin",
+  "running away",
+  "airplane",
+  "chase",
+  "escape",
+  "fleeing"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Family Guy",
+ "origin": "A Family Guy gag parodying the crop-duster chase from Alfred Hitchcock's North by Northwest.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "135505881",
+  "code": "28od09",
+  "image": "28od09.jpg",
+  "width": 768,
+  "height": 576,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 374,
+ "sure": "high",
+ "added": "2026-11-22"
+}

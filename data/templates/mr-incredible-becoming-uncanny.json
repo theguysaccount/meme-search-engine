@@ -1,0 +1,60 @@
+{
+ "slug": "mr-incredible-becoming-uncanny",
+ "name": "Mr. Incredible Becoming Uncanny",
+ "aka": [
+  "Teacher's Copy",
+  "Traumatized Mr. Incredible",
+  "Canny vs Uncanny"
+ ],
+ "look": "Two side-by-side images under blank white caption space, split by a thin black line. Left: Mr. Incredible from The Incredibles smiles contentedly in full color against a gray background. Right: a dark, grainy black-and-white version of him with hollow, shadowed eyes and an eerie, strained smile.",
+ "text": [],
+ "use": "Compares a normal version of something with a disturbing or degraded one. Often the left is labeled teacher's copy and the right student's copy, mocking faded photocopies, or the right shows how you feel once you learn the unsettling truth.",
+ "slots": [
+  "the normal or original version (above the left image)",
+  "the degraded or disturbing version (above the right image)"
+ ],
+ "examples": [
+  [
+   "Teacher's copy of the worksheet",
+   "The copy I got in the back row"
+  ],
+  [
+   "Opening the fridge",
+   "Remembering what's in the container at the back"
+  ]
+ ],
+ "describe": [
+  "mr incredible normal and then creepy dark version",
+  "pixar dad smiling next to a black and white scary version of himself",
+  "crisp teacher handout versus the dark smudged student copy",
+  "cartoon strongman face happy on the left and haunted on the right",
+  "incredibles guy going from cheerful to unsettling"
+ ],
+ "tags": [
+  "mr incredible",
+  "uncanny",
+  "creepy",
+  "comparison",
+  "photocopy",
+  "before and after",
+  "pixar"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "The Incredibles",
+ "origin": "Uses the cheerful and uncanny Mr. Incredible faces from the Mr. Incredible Becoming Uncanny edits of the Pixar character.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "318009221",
+  "code": "59c1hh",
+  "image": "59c1hh.png",
+  "width": 1050,
+  "height": 758,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 161,
+ "sure": "high",
+ "added": "2026-11-22"
+}

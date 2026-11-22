@@ -1,0 +1,58 @@
+{
+ "slug": "captain-america-elevator-fight",
+ "name": "Captain America Elevator Fight",
+ "aka": [
+  "Captain America Elevator"
+ ],
+ "look": "Three film stills stacked vertically from Captain America: The Winter Soldier. Top: Chris Evans as Steve Rogers stands in a crowded elevator among stern men in dark clothes. Middle: a bald man in glasses and a suit faces him. Bottom: the men all grab and pile onto him at once.",
+ "text": [],
+ "use": "Someone makes a statement or asks a question in a tense room, and everyone else turns on him at once. The top panel gets the setup line, the middle an optional reaction, and the bottom labels the group attacking.",
+ "slots": [
+  "top panel: what Captain America says to the room",
+  "bottom panel: the group that turns on him"
+ ],
+ "examples": [
+  [
+   "I think pineapple belongs on pizza",
+   "Everyone in the group chat"
+  ],
+  [
+   "Let's split the bill evenly",
+   "Everyone who only ordered a salad"
+  ]
+ ],
+ "describe": [
+  "superhero in an elevator full of guys who all attack him",
+  "chris evans gets jumped in an elevator",
+  "men in an elevator all grab one guy at once",
+  "winter soldier elevator fight scene in three panels",
+  "guy says something and everyone in the elevator piles on him"
+ ],
+ "tags": [
+  "captain america",
+  "marvel",
+  "elevator",
+  "fight",
+  "ganging up",
+  "three panels",
+  "winter soldier"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Marvel",
+ "origin": "The elevator fight from Captain America: The Winter Soldier (2014), where Steve Rogers is ambushed by the agents riding with him.",
+ "people": "actor",
+ "imgflip": {
+  "id": "222773570",
+  "code": "3omt6q",
+  "image": "3omt6q.png",
+  "width": 500,
+  "height": 620,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 472,
+ "sure": "high",
+ "added": "2026-11-22"
+}

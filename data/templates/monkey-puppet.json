@@ -1,0 +1,56 @@
+{
+ "slug": "monkey-puppet",
+ "name": "Monkey Puppet",
+ "aka": [
+  "Awkward Look Monkey Puppet",
+  "Monkey Puppet Side Eye"
+ ],
+ "look": "Two side-by-side frames of a brown monkey puppet with big eyes against a blurry blue background, under a white strip for captions. In the first it glances sideways, and in the second its eyes slide further away, as if awkwardly avoiding eye contact.",
+ "text": [],
+ "use": "The caption describes an awkward moment where someone is caught out or put on the spot, and the puppet's nervous glance and look away show them pretending they didn't notice.",
+ "slots": [
+  "the awkward situation (caption above both frames)"
+ ],
+ "examples": [
+  [
+   "When the teacher asks who hasn't turned in the homework yet"
+  ],
+  [
+   "When someone asks who finished the milk and put the empty carton back"
+  ]
+ ],
+ "describe": [
+  "monkey hand puppet glancing away awkwardly",
+  "puppet glancing to the side then avoiding eye contact",
+  "brown monkey doll giving side eye in two frames",
+  "awkward monkey looks then looks away nervously",
+  "stuffed monkey shifting its eyes in an uncomfortable moment"
+ ],
+ "tags": [
+  "monkey",
+  "puppet",
+  "awkward",
+  "side eye",
+  "looking away",
+  "nervous",
+  "two panels"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "148909805",
+  "code": "2gnnjh",
+  "image": "2gnnjh.jpg",
+  "width": 923,
+  "height": 768,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 36,
+ "sure": "high",
+ "added": "2026-11-22"
+}

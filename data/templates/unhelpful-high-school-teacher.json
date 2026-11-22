@@ -1,0 +1,62 @@
+{
+ "slug": "unhelpful-high-school-teacher",
+ "name": "Unhelpful High School Teacher",
+ "aka": [
+  "Unhelpful Teacher"
+ ],
+ "look": "A stock photo of a smiling young woman with long dark hair in a white blouse, standing in front of a colorful world map and a green chalkboard with EUROPE, ASIA and AMERICA partly visible, holding one open hand out toward the camera while gesturing back at the map.",
+ "text": [
+  "EUROPE",
+  "ASIA",
+  "AMERICA"
+ ],
+ "use": "An advice-animal style template. The top sets up a classroom situation and the bottom delivers the teacher's unhelpful, contradictory or hypocritical response, all said with the same cheerful smile.",
+ "slots": [
+  "top caption: the classroom situation or the teacher's promise",
+  "bottom caption: the unhelpful twist"
+ ],
+ "examples": [
+  [
+   "Says the test will be easy",
+   "Puts things we never covered on it"
+  ],
+  [
+   "Asks if anyone has questions",
+   "Ends class before anyone can answer"
+  ]
+ ],
+ "describe": [
+  "smiling teacher pointing at a world map and reaching toward you",
+  "woman in a white shirt in front of a map gesturing at the camera",
+  "geography teacher stock photo with a chalkboard",
+  "friendly teacher holding out her hand in front of a classroom map",
+  "teacher smiling by a chalkboard that says europe asia america"
+ ],
+ "tags": [
+  "teacher",
+  "school",
+  "stock photo",
+  "world map",
+  "classroom",
+  "advice animal",
+  "chalkboard"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a teacher that became an advice-animal character for unhelpful classroom moments.",
+ "people": "models",
+ "imgflip": {
+  "id": "100957",
+  "code": "25wd",
+  "image": "25wd.jpg",
+  "width": 500,
+  "height": 333,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 356,
+ "sure": "high",
+ "added": "2026-11-22"
+}

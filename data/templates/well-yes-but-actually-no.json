@@ -1,0 +1,55 @@
+{
+ "slug": "well-yes-but-actually-no",
+ "name": "Well Yes, But Actually No",
+ "aka": [],
+ "look": "A still from a stop-motion film: the Pirate Captain, with a huge curly brown beard, a black tricorn hat and a red coat, grins and gestures with one open hand inside a ship's cabin. A yellow subtitle reads \"Well yes, but actually no\", with a white strip above.",
+ "text": [
+  "Well yes, but actually no"
+ ],
+ "use": "Answers a question or claim that is technically true but false in practice. The top caption poses the question or statement, and the pirate's subtitle gives the hedging, have-it-both-ways reply.",
+ "slots": [
+  "the question or claim (white strip at top)"
+ ],
+ "examples": [
+  [
+   "Mom: Did you clean your room? Me, who pushed everything under the bed:"
+  ],
+  [
+   "Is a hot dog technically a sandwich?"
+  ]
+ ],
+ "describe": [
+  "pirate with a big beard saying well yes but actually no",
+  "claymation pirate captain grinning with his hand raised",
+  "bearded cartoon pirate giving a technically correct answer",
+  "stop motion pirate in a red coat and tricorn hat smiling",
+  "pirate meme for answering yes and no at the same time"
+ ],
+ "tags": [
+  "pirate",
+  "stop motion",
+  "beard",
+  "technically",
+  "subtitle",
+  "aardman",
+  "yes and no"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Pirates! Band of Misfits",
+ "origin": "The Pirate Captain in Aardman Animations' The Pirates! In an Adventure with Scientists! (2012), released in the US as The Pirates! Band of Misfits.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "170715647",
+  "code": "2tn11b",
+  "image": "2tn11b.jpg",
+  "width": 1600,
+  "height": 1218,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 227,
+ "sure": "high",
+ "added": "2026-11-22"
+}

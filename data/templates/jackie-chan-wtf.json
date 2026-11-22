@@ -1,0 +1,59 @@
+{
+ "slug": "jackie-chan-wtf",
+ "name": "Jackie Chan WTF",
+ "aka": [
+  "Jackie Chan Confused",
+  "Jackie Chan Meme"
+ ],
+ "look": "A black-and-white rage-comic line drawing of Jackie Chan clutching both sides of his head, fingers buried in his hair. His brow is furrowed, his eyes squint and his lips are pushed out in a baffled, overwhelmed frown.",
+ "text": [],
+ "use": "A reaction to something baffling or nonsensical. The caption describes logic that makes no sense, a confusing rule, or information too strange to process, and the face says what?",
+ "slots": [
+  "the confusing setup (caption at top)",
+  "the part that makes no sense (caption at bottom)"
+ ],
+ "examples": [
+  [
+   "The recipe says prep time: 10 minutes",
+   "Step one: marinate overnight"
+  ],
+  [
+   "Me reading my own handwriting from last week",
+   "What language is this"
+  ]
+ ],
+ "describe": [
+  "drawing of jackie chan grabbing his head in disbelief",
+  "black and white sketch of a man holding his hair confused",
+  "rage comic face with both hands on head",
+  "cartoon guy overwhelmed and baffled clutching his head",
+  "line art reaction face for when nothing makes sense"
+ ],
+ "tags": [
+  "jackie chan",
+  "confused",
+  "rage comic",
+  "black and white",
+  "disbelief",
+  "hands on head",
+  "line drawing"
+ ],
+ "kind": "drawing",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A rage-comic face traced from a photo of actor Jackie Chan holding his head.",
+ "people": "public",
+ "imgflip": {
+  "id": "412211",
+  "code": "8u2b",
+  "image": "8u2b.jpg",
+  "width": 500,
+  "height": 375,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 199,
+ "sure": "high",
+ "added": "2026-11-22"
+}

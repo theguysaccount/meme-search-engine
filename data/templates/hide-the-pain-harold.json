@@ -1,0 +1,63 @@
+{
+ "slug": "hide-the-pain-harold",
+ "name": "Hide the Pain Harold",
+ "aka": [
+  "Harold"
+ ],
+ "look": "Two stacked stock photos of an older man with white hair and a white beard, in a gray checked shirt, at a desk with a laptop and a pink mug. Top: he smiles at the screen. Bottom: he faces the camera with a strained, pained smile.",
+ "text": [],
+ "use": "The top caption sets up something that seems fine and the bottom reveals the disappointment behind it, with his forced smile showing someone pretending everything is okay when it clearly is not.",
+ "slots": [
+  "the setup (top panel)",
+  "the painful reality (bottom panel)"
+ ],
+ "examples": [
+  [
+   "Me opening my bank app after a fun weekend",
+   "Everything is fine"
+  ],
+  [
+   "My code passed every test",
+   "because there were no tests"
+  ]
+ ],
+ "describe": [
+  "old man smiling through the pain at his laptop",
+  "elderly guy with a white beard forcing a smile while holding a mug",
+  "grandpa at a computer with a fake smile",
+  "senior man looking at the camera and hiding his pain",
+  "stock photo man with a coffee cup and a strained grin"
+ ],
+ "tags": [
+  "stock photo",
+  "forced smile",
+  "old man",
+  "laptop",
+  "hidden pain",
+  "awkward",
+  "two panels"
+ ],
+ "kind": "photo",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "A set of stock photos of an older man whose smile looks strained.",
+ "people": "models",
+ "imgflip": {
+  "id": "27813981",
+  "code": "gk5el",
+  "image": "gk5el.jpg",
+  "width": 480,
+  "height": 601,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "81332206",
+   "name": "Hide the Pain Harold"
+  }
+ ],
+ "rank_all_time": 31,
+ "sure": "high",
+ "added": "2026-11-22"
+}

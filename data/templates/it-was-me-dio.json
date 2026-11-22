@@ -1,0 +1,59 @@
+{
+ "slug": "it-was-me-dio",
+ "name": "It Was Me, Dio!",
+ "aka": [
+  "But It Was Me, Dio",
+  "Kono Dio Da"
+ ],
+ "look": "An anime still of Dio Brando from JoJo's Bizarre Adventure, a young man with spiky blond hair and a cream high-collared outfit, grinning smugly with his mouth open and jabbing a thumb at himself. Dark trees and a blood-red sky fill the background.",
+ "text": [],
+ "use": "A bait-and-switch reveal. The setup says you expected one thing, and the punchline reveals it was something else all along, with Dio as the smug surprise, echoing his boast from the show.",
+ "slots": [
+  "top caption: what you thought it was",
+  "bottom caption: but it was me, the real surprise"
+ ],
+ "examples": [
+  [
+   "You thought that was a chocolate chip cookie",
+   "But it was me, oatmeal raisin!"
+  ],
+  [
+   "You thought the meeting could have been an email",
+   "But it was me, a second meeting about the first meeting!"
+  ]
+ ],
+ "describe": [
+  "anime blond guy pointing at himself with a smug grin",
+  "jojo villain thumbs at his chest laughing",
+  "dio brando smirking you thought it was something else",
+  "blonde anime man revealing it was him all along",
+  "jojo bizarre adventure surprise reveal villain"
+ ],
+ "tags": [
+  "jojo",
+  "anime",
+  "dio brando",
+  "reveal",
+  "smug",
+  "plot twist",
+  "villain"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "JoJo's Bizarre Adventure",
+ "origin": "Dio Brando's boast from Phantom Blood, the first arc of JoJo's Bizarre Adventure, as shown in the 2012 anime adaptation.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "16800898",
+  "code": "a03nm",
+  "image": "a03nm.jpg",
+  "width": 620,
+  "height": 348,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 450,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "me-and-the-boys",
+ "name": "Me And The Boys",
+ "aka": [],
+ "look": "A cartoon still of four Spider-Man villains grinning mischievously side by side on a peach background: the Rhino in his gray horned suit, the Vulture with a white feather collar, Electro in his yellow lightning mask, and the Green Goblin. Blank white space sits above them.",
+ "text": [],
+ "use": "Shows a group of friends teaming up for something silly or chaotic. The caption usually starts with me and the boys and describes the dumb plan or shared moment.",
+ "slots": [
+  "me and the boys doing something (caption above)"
+ ],
+ "examples": [
+  [
+   "Me and the boys at 2 a.m. heading to the kitchen for snacks"
+  ],
+  [
+   "Me and the boys after hearing there's free pizza in the break room"
+  ]
+ ],
+ "describe": [
+  "four spider-man villains smiling together",
+  "cartoon bad guys grinning in a row",
+  "green goblin electro vulture and rhino posing",
+  "group of supervillains with sneaky smiles",
+  "old spiderman cartoon villains looking up to no good"
+ ],
+ "tags": [
+  "villains",
+  "friends",
+  "group",
+  "cartoon",
+  "grinning",
+  "spider-man"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "184801100",
+  "code": "320xfw",
+  "image": "320xfw.jpg",
+  "width": 720,
+  "height": 476,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 163,
+ "sure": "high",
+ "added": "2026-11-22"
+}

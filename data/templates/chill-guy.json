@@ -1,0 +1,59 @@
+{
+ "slug": "chill-guy",
+ "name": "Chill Guy",
+ "aka": [
+  "Just A Chill Guy",
+  "My New Character Is A Chill Guy"
+ ],
+ "look": "A drawing of a brown cartoon dog with a big dark nose and a smug smirk, wearing a gray sweater and light blue jeans with his hands in his pockets, pasted onto a photo of a grassy field under an orange sunset sky.",
+ "text": [],
+ "use": "Captions set up a stressful or awkward situation, and the dog stays totally unbothered, usually summed up as being 'just a chill guy'. Used for someone who doesn't care, or pretends not to.",
+ "slots": [
+  "top caption: the stressful situation",
+  "bottom caption: the unbothered response"
+ ],
+ "examples": [
+  [
+   "Group project due tomorrow and nobody has started",
+   "Me: just a chill guy"
+  ],
+  [
+   "Phone at 2% with no charger in sight",
+   "Still just a chill guy"
+  ]
+ ],
+ "describe": [
+  "cartoon dog in a sweater with hands in pockets smirking",
+  "brown dog guy in jeans standing relaxed in a field",
+  "smug cartoon dog in a gray sweater not caring",
+  "dog character with a big nose standing calm at sunset",
+  "laid back cartoon guy in a grassy field with hands in pockets"
+ ],
+ "tags": [
+  "cartoon dog",
+  "relaxed",
+  "unbothered",
+  "sweater",
+  "field",
+  "sunset",
+  "smirk"
+ ],
+ "kind": "drawing",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A character drawn by artist Phillip Banks that became a viral meme in late 2024.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "562391530",
+  "code": "9au02y",
+  "image": "9au02y.jpg",
+  "width": 415,
+  "height": 415,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 351,
+ "sure": "high",
+ "added": "2026-11-22"
+}

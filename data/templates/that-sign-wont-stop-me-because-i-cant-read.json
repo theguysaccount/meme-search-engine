@@ -1,0 +1,61 @@
+{
+ "slug": "that-sign-wont-stop-me-because-i-cant-read",
+ "name": "That Sign Won't Stop Me Because I Can't Read",
+ "aka": [
+  "DW Sign Won't Stop Me Because I Can't Read",
+  "That Sign Can't Stop Me Because I Can't Read"
+ ],
+ "look": "Two stacked stills from the cartoon Arthur. Top: D.W., Arthur's little sister, peers at a blank orange sign hanging on a wooden door. Bottom: D.W. in her pink dress stands with hands on hips facing the door and its blank sign, with a subtitle along the bottom.",
+ "text": [
+  "That sign won't stop me, because I can't read!"
+ ],
+ "use": "The blank sign holds a warning, rule or instruction, and D.W. stands for someone who ignores it out of sheer cluelessness or stubbornness. Used for people who blow right past obvious warnings.",
+ "slots": [
+  "the warning or rule, written on the blank orange sign",
+  "label for D.W.: whoever ignores it (optional)"
+ ],
+ "examples": [
+  [
+   "Do not microwave metal",
+   "Me at 2 a.m. heating leftovers"
+  ],
+  [
+   "Wet paint, do not touch",
+   "Toddlers"
+  ]
+ ],
+ "describe": [
+  "dw from arthur looking at a blank sign on a door",
+  "cartoon girl in a pink dress ignoring a warning sign",
+  "arthur's sister says that sign won't stop me because i can't read",
+  "little aardvark girl with hands on hips in front of a door sign",
+  "kid who can't read walks past the warning"
+ ],
+ "tags": [
+  "arthur",
+  "dw",
+  "sign",
+  "warning",
+  "ignoring rules",
+  "pbs",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "Arthur",
+ "origin": "D.W. Read, Arthur's little sister, in stills from the PBS animated series Arthur.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "147910794",
+  "code": "2g28p6",
+  "image": "2g28p6.jpg",
+  "width": 680,
+  "height": 993,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 469,
+ "sure": "high",
+ "added": "2026-11-22"
+}

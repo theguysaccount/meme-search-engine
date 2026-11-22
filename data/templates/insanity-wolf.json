@@ -1,0 +1,56 @@
+{
+ "slug": "insanity-wolf",
+ "name": "Insanity Wolf",
+ "aka": [],
+ "look": "A snarling dark gray wolf head with bared fangs, a wide-open mouth and glowing red eyes, cut out and placed over a grainy black, gray and white sunburst background in the classic advice-animal style.",
+ "text": [],
+ "use": "An advice-animal macro for insane overreactions. The top line sets up an ordinary situation and the bottom line gives the most unhinged, extreme response possible, written in all caps.",
+ "slots": [
+  "top text: an ordinary situation",
+  "bottom text: the wildly extreme response"
+ ],
+ "examples": [
+  [
+   "Microwave says heat for 2 minutes",
+   "Heat for 2 hours"
+  ],
+  [
+   "Recipe calls for one clove of garlic",
+   "Add the whole farm"
+  ]
+ ],
+ "describe": [
+  "angry snarling wolf with red eyes on black and white background",
+  "crazy wolf head with fangs bared advice meme",
+  "growling wolf with open mouth on a sunburst pattern",
+  "psycho wolf meme that gives extreme advice",
+  "rabid looking gray wolf face old internet meme"
+ ],
+ "tags": [
+  "wolf",
+  "advice animal",
+  "insane",
+  "snarling",
+  "extreme",
+  "red eyes",
+  "sunburst"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "One of the classic advice-animal image macros, pairing a snarling wolf with absurdly extreme advice.",
+ "people": "none",
+ "imgflip": {
+  "id": "61518",
+  "code": "1bgu",
+  "image": "1bgu.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 457,
+ "sure": "high",
+ "added": "2026-11-22"
+}

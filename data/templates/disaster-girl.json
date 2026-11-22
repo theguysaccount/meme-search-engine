@@ -1,0 +1,58 @@
+{
+ "slug": "disaster-girl",
+ "name": "Disaster Girl",
+ "aka": [
+  "Burning House Girl"
+ ],
+ "look": "A little girl with shoulder-length brown hair looks back at the camera with a sly smirk while, behind her, a house burns in big orange flames. Firefighters, a fire truck marked 38 and a yellow hose fill the background.",
+ "text": [],
+ "use": "The caption casts the girl as the smug culprit behind some chaos, with the top line setting up the situation and the bottom line revealing that she caused it or is quietly enjoying it.",
+ "slots": [
+  "the setup (top)",
+  "the smug punchline (bottom)"
+ ],
+ "examples": [
+  [
+   "Mom said to watch the cookies",
+   "So I watched them"
+  ],
+  [
+   "Clicked reply all",
+   "on the company-wide email"
+  ]
+ ],
+ "describe": [
+  "little girl smiling in front of a burning house",
+  "kid smirking at the camera while a house is on fire behind her",
+  "child with an evil grin and firefighters in the background",
+  "girl looking back with a sneaky smile as a building burns",
+  "small child posing calmly next to a house fire and fire truck"
+ ],
+ "tags": [
+  "little girl",
+  "fire",
+  "burning house",
+  "smirk",
+  "chaos",
+  "firefighters",
+  "evil grin"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A family snapshot of a young girl in front of a house that firefighters set alight on purpose as a training exercise.",
+ "people": "private",
+ "imgflip": {
+  "id": "97984",
+  "code": "23ls",
+  "image": "23ls.jpg",
+  "width": 500,
+  "height": 375,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 13,
+ "sure": "high",
+ "added": "2026-11-22"
+}

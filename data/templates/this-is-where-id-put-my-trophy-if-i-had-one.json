@@ -1,0 +1,56 @@
+{
+ "slug": "this-is-where-id-put-my-trophy-if-i-had-one",
+ "name": "This Is Where I'd Put My Trophy If I Had One",
+ "aka": [],
+ "look": "Two stacked cartoon panels. Top: Timmy Turner's dad, grinning widely in a white shirt and black tie, gestures toward an empty white pedestal behind red velvet ropes under three spotlights. Bottom: in the same spot he hunches over, clenching his teeth and clawing his hands in bitter frustration.",
+ "text": [],
+ "use": "Someone proudly shows off the place reserved for an achievement or possession, then bitterly admits they don't have it. The top line sets up the boast and the bottom line delivers the angry \"if I had one\" twist.",
+ "slots": [
+  "top panel: 'This is where I'd put my...' and the thing he lacks",
+  "bottom panel: the bitter punchline, usually 'IF I HAD ONE!'"
+ ],
+ "examples": [
+  [
+   "This is where I'd put my weekend plans",
+   "IF I HAD ANY!"
+  ],
+  [
+   "This is where I'd keep my savings",
+   "IF I HAD SOME!"
+  ]
+ ],
+ "describe": [
+  "cartoon dad showing off an empty trophy stand",
+  "man proudly points at an empty pedestal then gets bitter",
+  "empty display podium with velvet ropes and spotlights",
+  "guy smiling at empty trophy spot then clenching teeth angrily",
+  "fairly oddparents dad presenting nothing on a pedestal"
+ ],
+ "tags": [
+  "cartoon",
+  "trophy",
+  "empty pedestal",
+  "bitterness",
+  "jealousy",
+  "spotlights",
+  "dad"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Fairly OddParents",
+ "origin": "From the Nickelodeon cartoon The Fairly OddParents, where Timmy's dad shows off the spot for a trophy he never won.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "3218037",
+  "code": "1wz1x",
+  "image": "1wz1x.jpg",
+  "width": 300,
+  "height": 418,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 53,
+ "sure": "high",
+ "added": "2026-11-22"
+}

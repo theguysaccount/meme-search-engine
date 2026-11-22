@@ -1,0 +1,58 @@
+{
+ "slug": "khaaan",
+ "name": "Khaaan!",
+ "aka": [
+  "Khan"
+ ],
+ "look": "Close-up film still of William Shatner as Captain Kirk, his face flushed and twisted with rage, teeth bared mid-scream. He wears a cream ribbed collar under a dark red uniform jacket against a dark background.",
+ "text": [],
+ "use": "An over-the-top scream of rage at a nemesis. The caption names whoever or whatever just wronged you, stretched out like Kirk's famous yell, usually over a petty everyday annoyance.",
+ "slots": [
+  "top caption: what just happened to you",
+  "bottom caption: the culprit's name, yelled with stretched-out letters"
+ ],
+ "examples": [
+  [
+   "Someone ate the last slice and put the empty box back in the fridge",
+   "KEVIIIIN!"
+  ],
+  [
+   "My phone updated overnight and moved all my apps",
+   "UPDAAAATES!"
+  ]
+ ],
+ "describe": [
+  "captain kirk screaming in rage close up",
+  "star trek captain with a red angry face yelling",
+  "william shatner furious shout with his teeth showing",
+  "man screaming his enemy's name in anger",
+  "old sci-fi movie hero yells at the top of his lungs"
+ ],
+ "tags": [
+  "star trek",
+  "captain kirk",
+  "screaming",
+  "rage",
+  "anger",
+  "close-up",
+  "sci-fi"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Star Trek",
+ "origin": "William Shatner as Captain Kirk screaming Khan's name in Star Trek II: The Wrath of Khan (1982).",
+ "people": "actor",
+ "imgflip": {
+  "id": "2743696",
+  "code": "1mt1s",
+  "image": "1mt1s.jpg",
+  "width": 400,
+  "height": 242,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 439,
+ "sure": "high",
+ "added": "2026-11-22"
+}

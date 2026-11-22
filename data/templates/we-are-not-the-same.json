@@ -1,0 +1,61 @@
+{
+ "slug": "we-are-not-the-same",
+ "name": "We Are Not The Same",
+ "aka": [
+  "Gus Fring We Are Not The Same"
+ ],
+ "look": "A promotional portrait of Giancarlo Esposito as Gus Fring, a man with close-cropped hair and glasses in a gray-blue suit, light blue shirt and dark tie. He stares coolly at the camera while adjusting his tie with both hands against a dark teal background.",
+ "text": [],
+ "use": "A smug comparison. The first line says what you do, the second says what I do, usually the same thing done in a slightly superior or absurd way, and the last line declares we are not the same.",
+ "slots": [
+  "what you do (first line)",
+  "what I do instead, often barely different (second line)",
+  "the closing line: we are not the same (bottom)"
+ ],
+ "examples": [
+  [
+   "You set an alarm to wake up on time",
+   "I set seven alarms to wake up late",
+   "We are not the same"
+  ],
+  [
+   "You read the instructions",
+   "I throw them away and build it twice",
+   "We are not the same"
+  ]
+ ],
+ "describe": [
+  "breaking bad guy in a suit fixing his tie",
+  "gus fring adjusting his tie in glasses",
+  "man in glasses and a gray suit with you vs me text",
+  "meme comparing what you do and what i do",
+  "serious man in a blue suit straightening his necktie"
+ ],
+ "tags": [
+  "suit",
+  "tie",
+  "smug",
+  "comparison",
+  "villain",
+  "glasses",
+  "tv show"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 1,
+ "franchise": "Breaking Bad",
+ "origin": "A promotional portrait of Giancarlo Esposito as Gus Fring, the character from Breaking Bad and its spin-off Better Call Saul.",
+ "people": "actor",
+ "imgflip": {
+  "id": "342785297",
+  "code": "5o32tt",
+  "image": "5o32tt.png",
+  "width": 700,
+  "height": 1000,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 146,
+ "sure": "high",
+ "added": "2026-11-22"
+}

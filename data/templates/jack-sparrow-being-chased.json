@@ -1,0 +1,59 @@
+{
+ "slug": "jack-sparrow-being-chased",
+ "name": "Jack Sparrow Being Chased",
+ "aka": [
+  "Jack Sparrow Running"
+ ],
+ "look": "A still from Pirates of the Caribbean. Johnny Depp as Captain Jack Sparrow, in a red bandana, white shirt and dark vest, sprints through shallow surf with his arms flailing and mouth wide open, chased by a huge crowd of island warriors carrying spears.",
+ "text": [],
+ "use": "Someone flees from a crowd of consequences. Jack Sparrow is labeled as the person running away, and the mob behind him is whatever is chasing them, like angry people, bills, responsibilities or the results of a bad decision.",
+ "slots": [
+  "label on Jack Sparrow: who is running away",
+  "label on the crowd: what is chasing him"
+ ],
+ "examples": [
+  [
+   "Me after posting a spoiler",
+   "The entire group chat"
+  ],
+  [
+   "Me after saying 'I'll do it tomorrow'",
+   "Everything I said I'd do tomorrow"
+  ]
+ ],
+ "describe": [
+  "pirate running away from an angry tribe on the beach",
+  "johnny depp fleeing a mob with spears",
+  "guy sprinting through the water with a huge crowd behind him",
+  "captain running for his life along the shore",
+  "man in a bandana escaping a horde of warriors"
+ ],
+ "tags": [
+  "johnny depp",
+  "jack sparrow",
+  "pirate",
+  "running away",
+  "chased",
+  "beach",
+  "crowd",
+  "escape"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Pirates of the Caribbean",
+ "origin": "From Pirates of the Caribbean: Dead Man's Chest (2006), where Jack Sparrow escapes an island tribe and runs for his boat.",
+ "people": "actor",
+ "imgflip": {
+  "id": "460541",
+  "code": "9vct",
+  "image": "9vct.jpg",
+  "width": 500,
+  "height": 375,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 113,
+ "sure": "high",
+ "added": "2026-11-22"
+}

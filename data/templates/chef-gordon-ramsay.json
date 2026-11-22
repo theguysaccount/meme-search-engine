@@ -1,0 +1,56 @@
+{
+ "slug": "chef-gordon-ramsay",
+ "name": "Chef Gordon Ramsay",
+ "aka": [],
+ "look": "A photo of celebrity chef Gordon Ramsay in a white chef's jacket, leaning on a steel counter crowded with pots and utensils and shouting furiously with his mouth wide open, in a busy restaurant kitchen with a red and orange tiled wall.",
+ "text": [],
+ "use": "Ramsay's famous temper is aimed at something badly made or poorly done. Captions deliver a harsh, over-the-top insult in his style, often about food being raw, burnt or a disgrace.",
+ "slots": [
+  "top: what he is looking at",
+  "bottom: the harsh insult"
+ ],
+ "examples": [
+  [
+   "This toast is so burnt",
+   "The smoke alarm already called the fire department"
+  ],
+  [
+   "Your group project slides",
+   "Have more typos than words, you donkey!"
+  ]
+ ],
+ "describe": [
+  "gordon ramsay yelling angrily in a kitchen",
+  "angry chef in a white jacket shouting over pots",
+  "furious british chef screaming at someone's cooking",
+  "cooking show host losing his temper at the counter",
+  "blonde chef yelling with his mouth wide open in a restaurant kitchen"
+ ],
+ "tags": [
+  "gordon ramsay",
+  "chef",
+  "angry",
+  "yelling",
+  "kitchen",
+  "cooking show",
+  "criticism"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of chef Gordon Ramsay yelling in a restaurant kitchen during one of his Fox cooking shows.",
+ "people": "public",
+ "imgflip": {
+  "id": "1733129",
+  "code": "115ah",
+  "image": "115ah.jpg",
+  "width": 468,
+  "height": 498,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 285,
+ "sure": "high",
+ "added": "2026-11-22"
+}

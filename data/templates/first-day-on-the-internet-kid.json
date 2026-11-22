@@ -1,0 +1,58 @@
+{
+ "slug": "first-day-on-the-internet-kid",
+ "name": "First Day On The Internet Kid",
+ "aka": [
+  "First Day On The Internet"
+ ],
+ "look": "A stock photo of a young boy with short spiky hair and a blue plaid short-sleeved shirt, grinning eagerly and pumping one fist in the air as he sits at a silver laptop against a white background.",
+ "text": [],
+ "use": "An advice-animal macro about internet newbies. The top line is something a naive first-time user does or believes, and the bottom reveals the old joke, scam or obvious mistake they fall for.",
+ "slots": [
+  "top text: what the newbie does or believes",
+  "bottom text: the naive punchline"
+ ],
+ "examples": [
+  [
+   "Joins a forum",
+   "Asks the question answered in the pinned post"
+  ],
+  [
+   "Sees a pop-up saying I'm the millionth visitor",
+   "Finally, my lucky day"
+  ]
+ ],
+ "describe": [
+  "excited kid pumping his fist at a laptop",
+  "boy cheering in front of a computer stock photo",
+  "young kid in a plaid shirt happy at his laptop",
+  "naive kid excited about something online",
+  "boy making a fist to celebrate at the computer"
+ ],
+ "tags": [
+  "kid",
+  "laptop",
+  "internet",
+  "naive",
+  "excited",
+  "stock photo",
+  "advice animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a boy cheering at a laptop, used as an advice-animal macro about clueless new internet users.",
+ "people": "models",
+ "imgflip": {
+  "id": "71851",
+  "code": "1jfv",
+  "image": "1jfv.jpg",
+  "width": 400,
+  "height": 526,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 467,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "who-wants-to-be-a-millionaire",
+ "name": "Who Wants to Be a Millionaire",
+ "aka": [],
+ "look": "A bald man with a thick black mustache, white shirt and tan jacket stares wide-eyed in shock on a dark blue game show set. Across the lower half is the quiz-show graphic: a long empty question box above four answer boxes labeled A, B, C and D.",
+ "text": [
+  "A:",
+  "B:",
+  "C:",
+  "D:"
+ ],
+ "use": "A fake quiz question. Write a question in the long box and four answers in the A to D boxes, usually three normal choices and one absurd or painfully relatable one. The man's shocked face reacts to the question.",
+ "slots": [
+  "the question (long box under his face)",
+  "answer A (upper left box)",
+  "answer B (upper right box)",
+  "answer C (lower left box)",
+  "answer D (lower right box)"
+ ],
+ "examples": [
+  [
+   "What do you do when your alarm goes off?",
+   "Get up",
+   "Snooze",
+   "Snooze again",
+   "Turn it off and wake up at noon"
+  ],
+  [
+   "Which of these is a vegetable?",
+   "Carrot",
+   "Broccoli",
+   "Spinach",
+   "French fries, technically"
+  ]
+ ],
+ "describe": [
+  "game show quiz template with a b c d answers",
+  "bald man with mustache shocked behind trivia question boxes",
+  "multiple choice question meme with four blue answer boxes",
+  "wide eyed guy on tv quiz show set",
+  "trivia question template with four options and a surprised man"
+ ],
+ "tags": [
+  "game show",
+  "quiz",
+  "multiple choice",
+  "shocked",
+  "mustache",
+  "trivia",
+  "blue"
+ ],
+ "kind": "screenshot",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "Who Wants to Be a Millionaire?",
+ "origin": "Styled after the question-and-answer graphic of the quiz show Who Wants to Be a Millionaire?",
+ "people": "models",
+ "imgflip": {
+  "id": "165567092",
+  "code": "2qkodw",
+  "image": "2qkodw.jpg",
+  "width": 640,
+  "height": 434,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 201,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

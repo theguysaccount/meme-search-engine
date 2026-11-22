@@ -1,0 +1,66 @@
+{
+ "slug": "always-you-three",
+ "name": "Always You Three",
+ "aka": [
+  "Why Is It Always You Three"
+ ],
+ "look": "Two stacked film stills from Harry Potter. Top: Professor McGonagall (Maggie Smith) in a black robe stands by tall bright windows, with her subtitled line below. Bottom: Hermione, Ron and Harry stand side by side in sweaters in a dim Gothic hall, facing her with serious faces.",
+ "text": [
+  "Why is it, when something happens, it is always you three?"
+ ],
+ "use": "The three kids are labeled as the usual suspects that turn up whenever something goes wrong, and McGonagall's line calls them out. Used for causes, habits or people that are always behind the same problem.",
+ "slots": [
+  "the recurring problem, above the top panel (optional)",
+  "first culprit, on Hermione (left)",
+  "second culprit, on Ron (middle)",
+  "third culprit, on Harry (right)"
+ ],
+ "examples": [
+  [
+   "My code won't run",
+   "Missing semicolon",
+   "Typo in a variable name",
+   "Forgot to save the file"
+  ],
+  [
+   "My houseplant died again",
+   "Too much water",
+   "Not enough sun",
+   "Me"
+  ]
+ ],
+ "describe": [
+  "mcgonagall asking harry ron and hermione why it's always them",
+  "harry potter teacher blaming the same three kids",
+  "why is it when something happens it is always you three",
+  "strict professor on top and three students in sweaters below",
+  "hogwarts trio getting scolded for always being involved"
+ ],
+ "tags": [
+  "harry potter",
+  "mcgonagall",
+  "trio",
+  "blame",
+  "school",
+  "subtitles",
+  "usual suspects"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "Harry Potter",
+ "origin": "Professor McGonagall questioning Harry, Ron and Hermione in Harry Potter and the Half-Blood Prince (2009).",
+ "people": "actor",
+ "imgflip": {
+  "id": "185861481",
+  "code": "32nnmx",
+  "image": "32nnmx.png",
+  "width": 485,
+  "height": 433,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 437,
+ "sure": "high",
+ "added": "2026-11-22"
+}

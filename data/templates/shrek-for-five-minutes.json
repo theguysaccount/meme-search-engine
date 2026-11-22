@@ -1,0 +1,56 @@
+{
+ "slug": "shrek-for-five-minutes",
+ "name": "Shrek For Five Minutes",
+ "aka": [],
+ "look": "Two stacked stills of Shrek and Donkey. Top: Shrek leans through a torn hole in a pale cloth wall, frowning with his mouth open in annoyance. Bottom: Donkey stands outside the hole while Shrek, seen from the side, fires glowing red laser beams from his eyes at him.",
+ "text": [],
+ "use": "Shrek wants a moment of peace and Donkey is the pest who will not allow it. The caption sets up the request or the interruption, Donkey is labeled as the annoyance, and the laser eyes show patience running out.",
+ "slots": [
+  "top panel: what Shrek wants or the setup",
+  "bottom panel: the annoying interruption, labeling Donkey"
+ ],
+ "examples": [
+  [
+   "Me finally sitting down after a long day",
+   "My phone with 47 new notifications"
+  ],
+  [
+   "Me trying to sleep in on Saturday",
+   "The neighbor's leaf blower at 7 a.m."
+  ]
+ ],
+ "describe": [
+  "shrek annoyed at donkey then shooting lasers from his eyes",
+  "green ogre with red laser beams coming out of his eyes",
+  "shrek glaring at donkey through a hole in a tent",
+  "ogre losing patience with the annoying talking donkey",
+  "cartoon ogre eyes glowing red at a donkey"
+ ],
+ "tags": [
+  "shrek",
+  "donkey",
+  "laser eyes",
+  "annoyed",
+  "anger",
+  "patience",
+  "dreamworks"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Shrek",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "150365860",
+  "code": "2hiv1g",
+  "image": "2hiv1g.jpg",
+  "width": 680,
+  "height": 712,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 445,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

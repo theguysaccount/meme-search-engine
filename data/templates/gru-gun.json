@@ -1,0 +1,55 @@
+{
+ "slug": "gru-gun",
+ "name": "Gru Gun",
+ "aka": [
+  "Gru With a Gun"
+ ],
+ "look": "A close-up of Gru from Despicable Me, the bald, long-nosed CGI villain in a gray-striped scarf and black coat, giving a calm, smug half-smile. A photo of a hand holding a silver pistol is pasted in the lower right, aimed straight at the viewer.",
+ "text": [],
+ "use": "A calm, smiling threat to make someone do or stop doing something. The caption is a demand, often a petty one, like \"Delete that photo\" or \"Say pineapple belongs on pizza again, I dare you.\"",
+ "slots": [
+  "the demand or threat (caption above or below)"
+ ],
+ "examples": [
+  [
+   "Give back the hoodie you borrowed last winter"
+  ],
+  [
+   "Put the shopping cart back"
+  ]
+ ],
+ "describe": [
+  "gru from despicable me pointing a gun at you",
+  "cartoon villain with a scarf smiling and holding a pistol",
+  "bald animated guy with a long nose threatening with a handgun",
+  "smug minions boss aiming a pistol at the camera",
+  "animated movie character with a photoshopped gun"
+ ],
+ "tags": [
+  "gru",
+  "despicable me",
+  "gun",
+  "threat",
+  "smug",
+  "villain",
+  "edited"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Despicable Me",
+ "origin": "A smiling close-up of Gru from Illumination's Despicable Me films with a photo of a handgun edited in.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "201034954",
+  "code": "3bovka",
+  "image": "3bovka.png",
+  "width": 544,
+  "height": 450,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 237,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "kevin-hart",
+ "name": "Kevin Hart",
+ "aka": [],
+ "look": "A still of comedian Kevin Hart in a black leather jacket against a dark background. He turns toward the camera with wide eyes, raised brows and tight lips in a startled, disbelieving stare.",
+ "text": [],
+ "use": "A disbelieving stare for when someone says or does something outrageous. The caption sets up the absurd claim or situation, and Kevin's face says \"excuse me, what?\"",
+ "slots": [
+  "the outrageous thing someone said or did (caption above)"
+ ],
+ "examples": [
+  [
+   "When the cashier says \"that'll be $47\" for two sandwiches"
+  ],
+  [
+   "When someone says they don't like pizza"
+  ]
+ ],
+ "describe": [
+  "comedian giving a wide eyed stare of disbelief",
+  "man in a leather jacket giving a shocked look",
+  "guy in black jacket staring at the camera like what",
+  "surprised stare reaction from a comedian",
+  "short comedian with raised eyebrows looking stunned"
+ ],
+ "tags": [
+  "kevin hart",
+  "comedian",
+  "disbelief",
+  "stare",
+  "shocked",
+  "leather jacket",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "7253945",
+  "code": "4bh6h",
+  "image": "4bh6h.jpg",
+  "width": 560,
+  "height": 371,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 233,
+ "sure": "high",
+ "added": "2026-11-22"
+}

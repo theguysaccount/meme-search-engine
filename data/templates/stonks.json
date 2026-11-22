@@ -1,0 +1,57 @@
+{
+ "slug": "stonks",
+ "name": "Stonks",
+ "aka": [],
+ "look": "Meme Man, a smooth, bald, gray 3D head, wears a black suit and blue tie and stands with arms crossed in front of a blue stock ticker board. A glowing orange arrow shoots upward behind him over the white word \"stonks\".",
+ "text": [
+  "stonks"
+ ],
+ "use": "Celebrates a dumb or tiny \"financial win\" with mock pride. The caption describes a bad money move, a questionable shortcut or a trivial gain, and Meme Man presents it as savvy investing.",
+ "slots": [
+  "the dumb money move or tiny win (caption above)"
+ ],
+ "examples": [
+  [
+   "Spent $30 on gas driving to the store where milk is 20 cents cheaper"
+  ]
+ ],
+ "describe": [
+  "bald mannequin head guy in a suit with a stock market arrow",
+  "meme man crossing his arms in front of stock charts",
+  "smooth gray 3d head businessman says stonks",
+  "guy in a suit with an orange arrow going up behind him",
+  "misspelled stocks meme with a weird cgi head"
+ ],
+ "tags": [
+  "stock market",
+  "money",
+  "investing",
+  "meme man",
+  "3d render",
+  "blue",
+  "arrow"
+ ],
+ "kind": "render",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Features Meme Man, the smooth 3D-rendered head from surreal memes, posed before a stock ticker with \"stonks\", a deliberate misspelling of stocks.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "186821996",
+  "code": "3388rw",
+  "image": "3388rw.png",
+  "width": 825,
+  "height": 619,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "193286698",
+   "name": "Empty Stonks"
+  }
+ ],
+ "rank_all_time": 302,
+ "sure": "high",
+ "added": "2026-11-22"
+}

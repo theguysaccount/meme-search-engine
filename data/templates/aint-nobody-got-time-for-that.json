@@ -1,0 +1,57 @@
+{
+ "slug": "aint-nobody-got-time-for-that",
+ "name": "Ain't Nobody Got Time For That",
+ "aka": [
+  "Ain't Nobody Got Time For Dat"
+ ],
+ "look": "A still from a local TV news interview. A Black woman in a patterned orange and white headscarf and a colorful tank top talks to the camera with an incredulous, animated expression, in front of a brick apartment building, with a channel 4 logo in the corner.",
+ "text": [],
+ "use": "A flat refusal to deal with something annoying or tedious. The caption names the hassle, and the reaction says you simply don't have the time or patience for it.",
+ "slots": [
+  "the annoying hassle (top)",
+  "ain't nobody got time for that (bottom)"
+ ],
+ "examples": [
+  [
+   "A 45-minute hold time with customer service",
+   "Ain't nobody got time for that"
+  ],
+  [
+   "Reading the terms and conditions",
+   "Ain't nobody got time for that"
+  ]
+ ],
+ "describe": [
+  "woman in a headscarf on the news saying she has no time",
+  "lady in a news interview shouting she has no time for this",
+  "black woman with a head wrap talking to a news reporter",
+  "news clip of a woman describing how she got out of a fire",
+  "lady on local tv with an incredulous face and a bandana"
+ ],
+ "tags": [
+  "news interview",
+  "no time",
+  "headscarf",
+  "refusal",
+  "local news",
+  "viral video"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A 2012 local TV news interview in Oklahoma City with a woman describing how she escaped an apartment fire.",
+ "people": "private",
+ "imgflip": {
+  "id": "442575",
+  "code": "9hhr",
+  "image": "9hhr.jpg",
+  "width": 500,
+  "height": 281,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 156,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "missing-milk-carton",
+ "name": "Missing Milk Carton",
+ "aka": [
+  "Milk Carton",
+  "Have You Seen Me"
+ ],
+ "look": "A photo of a small white milk carton against a gray background. The front reads \"MISSING\" in red above a blank white box for a photo, then \"HAVE YOU SEEN ME?\" in red and \"If found, contact\" above a blank strip. The side says \"MILK!\" and \"2% Reduced Fat Milk\".",
+ "text": [
+  "MILK!",
+  "MISSING",
+  "HAVE YOU SEEN ME?",
+  "If found, contact"
+ ],
+ "use": "Parodies old missing-person milk cartons. The blank photo box gets a picture or name of something that has vanished from someone's life, like motivation, a sock or a friend who stopped replying, and the contact line says who wants it back.",
+ "slots": [
+  "the blank photo box: what is missing",
+  "the strip after \"If found, contact\": who to contact"
+ ],
+ "examples": [
+  [
+   "My motivation, last seen Monday morning",
+   "Me, still on the couch"
+  ],
+  [
+   "The TV remote",
+   "Whoever sat on the couch last"
+  ]
+ ],
+ "describe": [
+  "milk carton that says missing have you seen me",
+  "missing person ad on the side of a milk box",
+  "dairy carton with a blank spot for a missing photo",
+  "white milk container with red missing text and an empty picture",
+  "lost poster printed on a carton of milk"
+ ],
+ "tags": [
+  "milk carton",
+  "missing",
+  "lost",
+  "missing poster",
+  "dairy",
+  "blank photo",
+  "parody"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Parodies the missing-children photos printed on US milk cartons in the 1980s.",
+ "people": "none",
+ "imgflip": {
+  "id": "79023506",
+  "code": "1b1qxe",
+  "image": "1b1qxe.jpg",
+  "width": 425,
+  "height": 480,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 277,
+ "sure": "high",
+ "added": "2026-11-22"
+}

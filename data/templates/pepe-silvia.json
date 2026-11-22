@@ -1,0 +1,66 @@
+{
+ "slug": "pepe-silvia",
+ "name": "Pepe Silvia",
+ "aka": [
+  "Charlie Conspiracy",
+  "Charlie Day Conspiracy",
+  "Charlie Conspiracy (Always Sunny in Philadelphia)"
+ ],
+ "look": "A still from It's Always Sunny in Philadelphia. Charlie Day as Charlie Kelly, wild-eyed in a light blue shirt and striped tie, holds a cigarette and frantically gestures at a wall covered in papers, photos and red string, like a conspiracy board.",
+ "text": [],
+ "use": "Explains an elaborate, obsessive theory or an overcomplicated situation. Charlie is labeled as the person who has gone way too deep into something, and the board is the tangled mess he's trying to explain.",
+ "slots": [
+  "label on Charlie: the person explaining",
+  "label on the board: the tangled theory or mess"
+ ],
+ "examples": [
+  [
+   "Me explaining why my houseplant died",
+   "Watering schedules, sunlight angles and one suspicious cat"
+  ],
+  [
+   "Me figuring out who ate my yogurt",
+   "Every roommate's alibi"
+  ]
+ ],
+ "describe": [
+  "guy in front of a conspiracy board with red string",
+  "charlie day pointing at a wall of papers and photos",
+  "crazy man explaining a theory with strings on the wall",
+  "always sunny guy with a cigarette ranting at a bulletin board",
+  "man frantically connecting clues on a corkboard"
+ ],
+ "tags": [
+  "it's always sunny",
+  "conspiracy",
+  "red string",
+  "theory",
+  "explaining",
+  "charlie day",
+  "obsessed"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "It's Always Sunny in Philadelphia",
+ "origin": "From the 2008 It's Always Sunny in Philadelphia episode 'Sweet Dee Has a Heart Attack', where Charlie rants about mail for a nonexistent employee, Pepe Silvia.",
+ "people": "actor",
+ "imgflip": {
+  "id": "92084495",
+  "code": "1itoun",
+  "image": "1itoun.jpg",
+  "width": 1024,
+  "height": 768,
+  "boxes": 2,
+  "name": "Charlie Conspiracy (Always Sunny in Philidelphia)"
+ },
+ "variants": [
+  {
+   "id": "92459171",
+   "name": "Charlie Day"
+  }
+ ],
+ "rank_all_time": 140,
+ "sure": "high",
+ "added": "2026-11-22"
+}

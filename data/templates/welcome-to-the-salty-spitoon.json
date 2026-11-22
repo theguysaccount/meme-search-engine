@@ -1,0 +1,67 @@
+{
+ "slug": "welcome-to-the-salty-spitoon",
+ "name": "Welcome To The Salty Spitoon",
+ "aka": [
+  "How Tough Are You",
+  "How Tough Are Ya"
+ ],
+ "look": "Four panels in a 2x2 grid from SpongeBob SquarePants. The huge gray-blue bouncer of the Salty Spitoon, in a tiny sailor hat, questions a tough fish with a green headband and a MOM heart tattoo. The bouncer asks, squints skeptically, glares in close-up, and finally the tough guy answers wide-eyed.",
+ "text": [
+  "MOM",
+  "MOM"
+ ],
+ "use": "A toughness contest: the bouncer asks how tough someone is, the guy brags about something hardcore, the bouncer is unimpressed, and the guy adds an even more extreme detail.",
+ "slots": [
+  "the bouncer's question, \"how tough are ya?\" (top left)",
+  "the tough guy's boast (top right)",
+  "the bouncer's unimpressed \"so?\" (bottom left)",
+  "the even tougher extra detail (bottom right)"
+ ],
+ "examples": [
+  [
+   "How tough are ya?",
+   "I ate a whole ghost pepper",
+   "Yeah, so?",
+   "Then I rubbed my eyes"
+  ],
+  [
+   "Welcome to the Salty Spitoon, how tough are ya?",
+   "I install updates during presentations",
+   "So?",
+   "On 5% battery"
+  ]
+ ],
+ "describe": [
+  "spongebob bouncer quizzing a tough fish at the door",
+  "big gray fish bouncer and a guy with a headband and mom tattoo",
+  "four panel spongebob tough guy contest at the bar door",
+  "muscular fish in a sailor hat squinting at a tough guy",
+  "bowl of nails for breakfast without any milk meme"
+ ],
+ "tags": [
+  "spongebob",
+  "bouncer",
+  "tough guy",
+  "bragging",
+  "four panels",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "From the SpongeBob SquarePants episode No Weenies Allowed, where the Salty Spitoon bouncer quizzes patrons on how tough they are.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "137804",
+  "code": "2ybw",
+  "image": "2ybw.jpg",
+  "width": 500,
+  "height": 358,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 424,
+ "sure": "high",
+ "added": "2026-11-22"
+}

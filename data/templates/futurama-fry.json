@@ -1,0 +1,60 @@
+{
+ "slug": "futurama-fry",
+ "name": "Futurama Fry",
+ "aka": [
+  "Not Sure If",
+  "Skeptical Fry",
+  "Squinting Fry"
+ ],
+ "look": "A cartoon still of Fry from Futurama, with spiky orange hair, a red jacket and a white T-shirt, narrowing his eyes into a suspicious squint as he looks off to the side against a blue background.",
+ "text": [],
+ "use": "The top line starts with Not sure if and the bottom line ends with or just, weighing two possible explanations for something ambiguous with a squint of suspicion.",
+ "slots": [
+  "Not sure if... (top)",
+  "...or just... (bottom)"
+ ],
+ "examples": [
+  [
+   "Not sure if my cat loves me",
+   "or just wants food"
+  ],
+  [
+   "Not sure if the meeting is over",
+   "or everyone is just on mute"
+  ]
+ ],
+ "describe": [
+  "cartoon guy with orange hair squinting suspiciously",
+  "futurama character narrowing his eyes in doubt",
+  "redhead in a red jacket giving a skeptical squint",
+  "suspicious squint from an animated delivery boy",
+  "orange haired man looking sideways and unsure"
+ ],
+ "tags": [
+  "futurama",
+  "fry",
+  "suspicious",
+  "squinting",
+  "skeptical",
+  "cartoon",
+  "doubt"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Futurama",
+ "origin": "A still of Fry squinting in the animated series Futurama.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61520",
+  "code": "1bgw",
+  "image": "1bgw.jpg",
+  "width": 552,
+  "height": 414,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 22,
+ "sure": "high",
+ "added": "2026-11-22"
+}

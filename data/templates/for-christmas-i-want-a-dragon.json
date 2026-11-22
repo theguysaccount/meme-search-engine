@@ -1,0 +1,63 @@
+{
+ "slug": "for-christmas-i-want-a-dragon",
+ "name": "For Christmas I Want a Dragon",
+ "aka": [
+  "What Color Do You Want Your Dragon",
+  "Be Realistic Santa"
+ ],
+ "look": "A four-panel comic in a 2x2 grid. A girl with a brown bob sits with Santa and excitedly asks for a dragon. Santa tells her to be realistic. She makes a new wish in a blank bubble. Santa, now wearing glasses and holding a quill and scroll, asks what color dragon she wants.",
+ "text": [
+  "FOR CHRISTMAS I WANT A DRAGON!",
+  "BE REALISTIC",
+  "WHAT COLOR DO YOU WANT YOUR DRAGON"
+ ],
+ "use": "The girl's realistic wish in the third panel is so unlikely that Santa decides a magical dragon is the easier request. Used for goals more impossible than fantasy, like affordable rent or code that works the first time.",
+ "slots": [
+  "the girl's realistic wish, in the blank bubble of panel 3",
+  "her reply in the small bubble of panel 4 (optional)"
+ ],
+ "examples": [
+  [
+   "I want a phone battery that lasts all day",
+   "Green, please"
+  ],
+  [
+   "I want my code to work on the first try",
+   "Purple"
+  ]
+ ],
+ "describe": [
+  "girl asks santa for a dragon and he says be realistic",
+  "kid on santa's lap wants a dragon comic",
+  "santa asks what color dragon after hearing the real wish",
+  "four panel christmas comic with a girl and santa claus",
+  "realistic wish is harder than getting a dragon"
+ ],
+ "tags": [
+  "santa",
+  "christmas",
+  "dragon",
+  "wish",
+  "impossible",
+  "four panels",
+  "webcomic"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "156236331",
+  "code": "2l0oq3",
+  "image": "2l0oq3.jpg",
+  "width": 514,
+  "height": 512,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 474,
+ "sure": "high",
+ "added": "2026-11-22"
+}

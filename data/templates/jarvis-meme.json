@@ -1,0 +1,54 @@
+{
+ "slug": "jarvis-meme",
+ "name": "Jarvis Meme",
+ "aka": [
+  "Jarvis Template"
+ ],
+ "look": "White caption space above a close-up of Robert Downey Jr. as Tony Stark inside the Iron Man helmet, staring straight ahead with a slight smirk. His goateed face is surrounded by glowing blue holographic readouts on black.",
+ "text": [],
+ "use": "The caption is a command to Jarvis, Tony Stark's AI assistant, usually \"Jarvis,\" followed by an absurd or petty request, treated like activating a high-tech protocol.",
+ "slots": [
+  "the command to Jarvis (white space above)"
+ ],
+ "examples": [
+  [
+   "Jarvis, reheat the pizza without making the crust soggy"
+  ],
+  [
+   "Jarvis, pretend to type so my boss thinks I'm busy"
+  ]
+ ],
+ "describe": [
+  "tony stark inside the iron man helmet with blue holograms",
+  "robert downey jr face close up in the iron man suit display",
+  "iron man giving orders to his ai assistant",
+  "man's face inside a helmet surrounded by glowing blue screens",
+  "asking the ai butler to do something ridiculous"
+ ],
+ "tags": [
+  "iron man",
+  "marvel",
+  "ai assistant",
+  "command",
+  "superhero",
+  "hologram"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Marvel",
+ "origin": "Robert Downey Jr. as Tony Stark inside his Iron Man helmet in the Marvel films, where he gives orders to his AI assistant Jarvis.",
+ "people": "actor",
+ "imgflip": {
+  "id": "568618654",
+  "code": "9ejgym",
+  "image": "9ejgym.jpg",
+  "width": 640,
+  "height": 590,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 417,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

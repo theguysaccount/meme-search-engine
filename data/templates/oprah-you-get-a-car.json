@@ -1,0 +1,64 @@
+{
+ "slug": "oprah-you-get-a-car",
+ "name": "Oprah You Get A Car",
+ "aka": [
+  "Oprah You Get A",
+  "You Get a Car, Everybody Gets a Car"
+ ],
+ "look": "A TV still of Oprah Winfrey in a bright red suit with gold buttons, arms flung wide and a microphone in one hand, shouting with joy on the set of her talk show.",
+ "text": [],
+ "use": "The top text says You get a... and the bottom says Everybody gets a..., showing someone handing something out to everyone with wild enthusiasm, often something nobody wants.",
+ "slots": [
+  "You get a... (top)",
+  "Everybody gets a...! (bottom)"
+ ],
+ "examples": [
+  [
+   "You get a group project!",
+   "Everybody gets a group project!"
+  ],
+  [
+   "You get a reply-all email!",
+   "Everybody gets a reply-all email!"
+  ]
+ ],
+ "describe": [
+  "oprah shouting with her arms spread wide",
+  "talk show host in red yelling you get one and everybody gets one",
+  "excited woman with a microphone giving away prizes",
+  "oprah giving away free stuff to the whole audience",
+  "woman in a red suit screaming with arms outstretched on stage"
+ ],
+ "tags": [
+  "oprah",
+  "talk show",
+  "giveaway",
+  "excited",
+  "everybody",
+  "red suit",
+  "shouting"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Oprah Winfrey Show",
+ "origin": "From the 2004 episode of The Oprah Winfrey Show in which Oprah gave every audience member a new car.",
+ "people": "public",
+ "imgflip": {
+  "id": "28251713",
+  "code": "gtj5t",
+  "image": "gtj5t.jpg",
+  "width": 620,
+  "height": 464,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "7183956",
+   "name": "Oprah You Get A Car Everybody Gets A Car"
+  }
+ ],
+ "rank_all_time": 38,
+ "sure": "high",
+ "added": "2026-11-22"
+}

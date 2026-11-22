@@ -1,0 +1,56 @@
+{
+ "slug": "thats-a-paddlin",
+ "name": "That's a Paddlin'",
+ "aka": [],
+ "look": "A still from The Simpsons: Jasper, a bald old man with droopy, half-closed eyes and a long white beard, wearing a green shirt and gray vest, holds a wooden paddle in both hands against a dark background.",
+ "text": [],
+ "use": "Jasper names a minor, oddly specific offense and announces the punishment. The top text describes the behavior, often as a question, and the bottom text says \"That's a paddlin'.\"",
+ "slots": [
+  "top: the offense",
+  "bottom: that's a paddlin'"
+ ],
+ "examples": [
+  [
+   "Replying \"k\" to a three-paragraph text?",
+   "That's a paddlin'"
+  ],
+  [
+   "Putting the empty milk carton back in the fridge?",
+   "That's a paddlin'"
+  ]
+ ],
+ "describe": [
+  "old simpsons guy with a long white beard holding a wooden paddle",
+  "grumpy bearded old man ready to punish someone with a paddle",
+  "jasper from the simpsons with sleepy eyes and a paddle",
+  "cartoon elderly substitute teacher gripping a paddle",
+  "bald yellow old man with a beard looking unimpressed"
+ ],
+ "tags": [
+  "the simpsons",
+  "paddle",
+  "punishment",
+  "old man",
+  "beard",
+  "teacher",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Simpsons",
+ "origin": "From The Simpsons episode \"The PTA Disbands\" (1995), where Jasper works as a substitute teacher and declares many things \"a paddlin'\".",
+ "people": "fictional",
+ "imgflip": {
+  "id": "5265532",
+  "code": "34uws",
+  "image": "34uws.jpg",
+  "width": 500,
+  "height": 361,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 256,
+ "sure": "high",
+ "added": "2026-11-22"
+}

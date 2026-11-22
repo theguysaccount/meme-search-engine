@@ -1,0 +1,56 @@
+{
+ "slug": "i-believe-in-supremacy",
+ "name": "I Believe In Supremacy",
+ "aka": [],
+ "look": "A plain white image with small black text reading i believe in at the top left, the word SUPREMACY in large bold black capitals in the middle, and a black silhouette of a person crawling on hands and knees in the bottom right corner.",
+ "text": [
+  "i believe in",
+  "SUPREMACY"
+ ],
+ "use": "You fill the gap so it reads 'i believe in ___ supremacy', declaring that some trivial food, character, habit or object beats all the others. The crawling silhouette makes the bold declaration look absurd.",
+ "slots": [
+  "the thing you think is best, written between 'i believe in' and 'SUPREMACY'"
+ ],
+ "examples": [
+  [
+   "crunchy peanut butter"
+  ],
+  [
+   "window seat"
+  ]
+ ],
+ "describe": [
+  "i believe in supremacy text with a person crawling",
+  "white background with a silhouette of a man on all fours",
+  "black silhouette crawling under the word supremacy",
+  "fill in the blank supremacy picture with someone on hands and knees",
+  "bold text saying one thing is the best with a crawling shadow figure"
+ ],
+ "tags": [
+  "text",
+  "silhouette",
+  "crawling",
+  "fill in blank",
+  "opinion",
+  "white background",
+  "black and white"
+ ],
+ "kind": "graphic",
+ "format": "other",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "275700505",
+  "code": "4k57vd",
+  "image": "4k57vd.jpg",
+  "width": 236,
+  "height": 234,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 340,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

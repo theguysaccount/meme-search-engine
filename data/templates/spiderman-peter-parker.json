@@ -1,0 +1,52 @@
+{
+ "slug": "spiderman-peter-parker",
+ "name": "Spiderman Peter Parker",
+ "aka": [],
+ "look": "A close-up still of Tobey Maguire as Peter Parker, with neat dark hair, glancing sideways to the right with a tight-lipped, mischievous smirk that puffs out his cheeks, in front of a blurry hallway.",
+ "text": [],
+ "use": "A reaction face for feeling sly, smug or awkwardly pleased with yourself, such as getting away with something or noticing a hint nobody else caught. The caption describes the moment.",
+ "slots": [
+  "top: the situation",
+  "bottom: the sly punchline"
+ ],
+ "examples": [
+  [
+   "When the waiter brings an extra side of fries by mistake",
+   "And you say nothing"
+  ]
+ ],
+ "describe": [
+  "tobey maguire smirking and looking to the side",
+  "peter parker sly sideways glance with a tight smile",
+  "spider man actor making a goofy smug face",
+  "dark haired guy holding back a grin with side eye",
+  "awkward pursed lips smile while glancing away"
+ ],
+ "tags": [
+  "spider-man",
+  "tobey maguire",
+  "smirk",
+  "side eye",
+  "smug",
+  "awkward",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "A still of Tobey Maguire as Peter Parker from Sam Raimi's Spider-Man films.",
+ "people": "actor",
+ "imgflip": {
+  "id": "107773",
+  "code": "2b5p",
+  "image": "2b5p.jpg",
+  "width": 461,
+  "height": 352,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 248,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

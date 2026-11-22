@@ -1,0 +1,59 @@
+{
+ "slug": "cnn-breaking-news",
+ "name": "CNN Breaking News",
+ "aka": [
+  "CNN Breaking News Template"
+ ],
+ "look": "Screenshot of a CNN broadcast: a dark-haired male anchor in a suit, lavender shirt and blue tie speaks in front of the scaffolded US Capitol dome. A red BREAKING NEWS tag sits over a blank white headline bar beside the CNN logo.",
+ "text": [
+  "Washington 10:11 AM ET",
+  "10:30 AM NIH Briefing on Ebola",
+  "BREAKING NEWS",
+  "CNN"
+ ],
+ "use": "Your fake headline goes in the blank bar under BREAKING NEWS, announcing something trivial or absurd as if it were major news.",
+ "slots": [
+  "the headline (blank white bar under BREAKING NEWS)"
+ ],
+ "examples": [
+  [
+   "Local man finally finds the end of the tape roll"
+  ],
+  [
+   "Group chat goes silent after someone asks who wants to plan the trip"
+  ]
+ ],
+ "describe": [
+  "news anchor with a blank breaking news banner",
+  "tv news reporter in front of the capitol building",
+  "fake headline template on a news channel",
+  "news broadcast with an empty white headline bar",
+  "cable news screen with a red label and nothing written"
+ ],
+ "tags": [
+  "news",
+  "tv",
+  "headline",
+  "anchor",
+  "broadcast",
+  "fake news"
+ ],
+ "kind": "screenshot",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "CNN",
+ "origin": "A real CNN broadcast screenshot with the headline bar blanked out.",
+ "people": "public",
+ "imgflip": {
+  "id": "79385373",
+  "code": "1b9i59",
+  "image": "1b9i59.jpg",
+  "width": 1444,
+  "height": 819,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 425,
+ "sure": "high",
+ "added": "2026-11-22"
+}

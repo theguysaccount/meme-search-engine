@@ -1,0 +1,60 @@
+{
+ "slug": "second-breakfast",
+ "name": "Second Breakfast",
+ "aka": [
+  "I Don't Think He Knows About Second Breakfast",
+  "What About Second Breakfast"
+ ],
+ "look": "A still from The Lord of the Rings: two curly-haired hobbits stand side by side among green shrubs with snowy hills behind them. Merry (Dominic Monaghan), in a gray cloak, looks puzzled, while Pippin (Billy Boyd), in a red cloak and knitted scarf, purses his lips awkwardly.",
+ "text": [],
+ "use": "Merry and Pippin react with polite disbelief to someone who doesn't know about something they consider obvious and essential. The caption usually follows \"I don't think he knows about second breakfast, Pip\", swapping in another treat or habit.",
+ "slots": [
+  "top: the situation",
+  "bottom: I don't think he knows about ___, Pip"
+ ],
+ "examples": [
+  [
+   "My friend says he has never had a midnight snack",
+   "I don't think he knows about second dinner, Pip"
+  ],
+  [
+   "The new coworker only eats lunch at noon",
+   "I don't think he knows about the 3 p.m. vending machine run, Pip"
+  ]
+ ],
+ "describe": [
+  "two hobbits looking confused in front of some trees",
+  "merry and pippin making awkward faces outdoors",
+  "lord of the rings hobbits shocked that someone skips meals",
+  "curly haired halflings in cloaks staring at someone",
+  "two short guys in cloaks and scarves look puzzled"
+ ],
+ "tags": [
+  "lotr",
+  "middle-earth",
+  "hobbits",
+  "breakfast",
+  "food",
+  "confused",
+  "fantasy",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Lord of the Rings",
+ "origin": "Quotes the hobbits' \"second breakfast\" exchange from The Lord of the Rings: The Fellowship of the Ring (2001).",
+ "people": "actor",
+ "imgflip": {
+  "id": "12235935",
+  "code": "7a9b3",
+  "image": "7a9b3.jpg",
+  "width": 438,
+  "height": 298,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 267,
+ "sure": "high",
+ "added": "2026-11-22"
+}

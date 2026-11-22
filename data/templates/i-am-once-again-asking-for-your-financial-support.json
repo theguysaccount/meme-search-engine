@@ -1,0 +1,71 @@
+{
+ "slug": "i-am-once-again-asking-for-your-financial-support",
+ "name": "I Am Once Again Asking For Your Financial Support",
+ "aka": [
+  "Bernie I Am Once Again Asking For Your Support",
+  "Bernie Once Again Asking",
+  "I Am Once Again Asking"
+ ],
+ "look": "A video still of Senator Bernie Sanders, white-haired and wearing glasses and a brown winter parka, speaking to the camera on a snowy suburban street lined with bare trees. A white subtitle at the bottom reads I am once again asking.",
+ "text": [
+  "I am once again asking"
+ ],
+ "use": "The caption finishes the subtitle with a plea the poster keeps having to repeat, like a request for help, attention or basic courtesy, delivered as a weary but persistent ask.",
+ "slots": [
+  "who is asking whom (top)",
+  "the repeated request, finishing the subtitle (bottom)"
+ ],
+ "examples": [
+  [
+   "Me to my roommates",
+   "for you to wash your own dishes"
+  ],
+  [
+   "Me to my phone",
+   "to please hold a charge past lunch"
+  ]
+ ],
+ "describe": [
+  "old man in a winter coat saying i am once again asking",
+  "senator in a brown parka on a snowy street pleading",
+  "white haired man with glasses asking for your support",
+  "bernie sanders in a jacket asking for something again",
+  "politician in a puffy coat making a request in the cold"
+ ],
+ "tags": [
+  "bernie sanders",
+  "politician",
+  "request",
+  "winter coat",
+  "snow",
+  "plea",
+  "subtitle"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "From a 2020 Bernie Sanders presidential campaign video asking supporters for donations.",
+ "people": "public",
+ "imgflip": {
+  "id": "222403160",
+  "code": "3oevdk",
+  "image": "3oevdk.jpg",
+  "width": 750,
+  "height": 750,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "224015000",
+   "name": "Bernie Sanders Once Again Asking"
+  },
+  {
+   "id": "223004373",
+   "name": "I am once again asking"
+  }
+ ],
+ "rank_all_time": 20,
+ "sure": "high",
+ "added": "2026-11-22"
+}

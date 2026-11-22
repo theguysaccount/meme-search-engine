@@ -1,0 +1,53 @@
+{
+ "slug": "chef-skinner-reading-a-letter",
+ "name": "Chef Skinner Reading a Letter",
+ "aka": [],
+ "look": "A blurry still from Pixar's Ratatouille. Skinner, a scowling chef in a tall white toque, holds a lavender sheet of paper up under his nose and reads it with narrowed, suspicious eyes, while a warm brown restaurant interior blurs behind him.",
+ "text": [],
+ "use": "Someone reading a message, note or document with deep suspicion. The caption says who is reading what, like a teacher checking a doctor's note or a parent reading a suspiciously good report card.",
+ "slots": [
+  "who is reading and what they are reading (caption above)"
+ ],
+ "examples": [
+  [
+   "My teacher reading the permission slip my \"mom\" signed"
+  ],
+  [
+   "Me reading the ingredients on a snack labeled \"healthy\""
+  ]
+ ],
+ "describe": [
+  "ratatouille chef squinting suspiciously at a letter",
+  "angry cartoon chef reading a piece of paper",
+  "pixar chef in tall white hat reading a note with narrowed eyes",
+  "suspicious little man reading a purple letter up close",
+  "animated cook eyeing a document with distrust"
+ ],
+ "tags": [
+  "ratatouille",
+  "pixar",
+  "chef",
+  "reading",
+  "letter",
+  "suspicious",
+  "squinting"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Ratatouille",
+ "origin": "Skinner, the head chef in Pixar's Ratatouille (2007), squints suspiciously at a letter.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "306216142",
+  "code": "52b9vy",
+  "image": null,
+  "width": 250,
+  "height": 140,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 206,
+ "sure": "high",
+ "added": "2026-11-22"
+}

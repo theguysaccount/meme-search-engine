@@ -1,0 +1,55 @@
+{
+ "slug": "spongebob-burning-paper",
+ "name": "SpongeBob Burning Paper",
+ "aka": [
+  "Spongebob Burns Paper"
+ ],
+ "look": "Four panels in a 2x2 grid from SpongeBob SquarePants. Top left: a yellow hand holds up a blank sheet of paper. Top right: SpongeBob reads it with an annoyed squint. Bottom left: he smiles and drops it into a fire. Bottom right: it burns as he grins.",
+ "text": [],
+ "use": "Rejects an unwelcome fact, opinion or reminder. The blank paper holds the thing SpongeBob doesn't want to hear, and he reads it, scowls, then happily burns it.",
+ "slots": [
+  "text on the blank paper in the first panel: the unwelcome fact or opinion"
+ ],
+ "examples": [
+  [
+   "Your screen time was up 40% this week"
+  ],
+  [
+   "Reminder: your gym membership renews tomorrow"
+  ]
+ ],
+ "describe": [
+  "spongebob reading a paper then throwing it in the fire",
+  "spongebob burns a note he doesn't like",
+  "four panel spongebob holding up a blank paper",
+  "sponge reads a letter angrily and sets it on fire",
+  "cartoon tossing a page into a campfire with a smile"
+ ],
+ "tags": [
+  "spongebob",
+  "paper",
+  "burning",
+  "fire",
+  "denial",
+  "four panel",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "Stills from the animated series SpongeBob SquarePants.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "139971723",
+  "code": "2bc2vf",
+  "image": "2bc2vf.jpg",
+  "width": 560,
+  "height": 678,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 141,
+ "sure": "high",
+ "added": "2026-11-22"
+}

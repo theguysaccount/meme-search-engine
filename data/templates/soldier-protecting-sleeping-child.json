@@ -1,0 +1,59 @@
+{
+ "slug": "soldier-protecting-sleeping-child",
+ "name": "Soldier Protecting Sleeping Child",
+ "aka": [],
+ "look": "A drawing of a soldier in green camouflage kneeling with his arms spread wide, on fire and bleeding as knives, bullets and grenades rain down on him, shielding a child who sleeps peacefully in a bed under a green blanket.",
+ "text": [],
+ "use": "Someone takes every hit so that something they care about can stay blissfully unaware. The soldier is the protector, the sleeping child is what's being protected, and the flying weapons are the threats.",
+ "slots": [
+  "label on the flying weapons: the threats",
+  "label on the soldier: the protector",
+  "label on the sleeping child: what is protected"
+ ],
+ "examples": [
+  [
+   "Spoilers all over the internet",
+   "Me muting every keyword",
+   "My enjoyment of the season finale"
+  ],
+  [
+   "Every email marked urgent",
+   "My out-of-office reply",
+   "Me on vacation"
+  ]
+ ],
+ "describe": [
+  "soldier shielding a sleeping kid from bullets and knives",
+  "man in camo taking all the hits while a child sleeps",
+  "army guy on fire protecting a kid in bed",
+  "cartoon soldier blocking weapons so a child can sleep",
+  "protector getting hit by everything while someone sleeps peacefully"
+ ],
+ "tags": [
+  "soldier",
+  "protecting",
+  "sleeping child",
+  "sacrifice",
+  "weapons",
+  "shield",
+  "drawing"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "171305372",
+  "code": "2tzo2k",
+  "image": "2tzo2k.jpg",
+  "width": 540,
+  "height": 440,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 127,
+ "sure": "high",
+ "added": "2026-11-22"
+}

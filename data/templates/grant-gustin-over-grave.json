@@ -1,0 +1,56 @@
+{
+ "slug": "grant-gustin-over-grave",
+ "name": "Grant Gustin Over Grave",
+ "aka": [],
+ "look": "A behind-the-scenes photo on a grassy film set. Actor Grant Gustin, in a dark coat and tie, crouches beside a plain white headstone and a fresh mound of dirt, smiling and flashing a peace sign. A crowd in dark coats stands behind him.",
+ "text": [],
+ "use": "The grave is labeled with something that has died, ended or gone out of style, and the grinning man is whoever is glad it's gone or helped finish it off.",
+ "slots": [
+  "label on the headstone: what died or ended",
+  "label on the smiling man: who is happy about it"
+ ],
+ "examples": [
+  [
+   "My New Year's resolutions",
+   "Me on January 3rd"
+  ],
+  [
+   "The office printer",
+   "Everyone who had to use it"
+  ]
+ ],
+ "describe": [
+  "guy smiling and doing a peace sign next to a grave",
+  "man posing happily beside a fresh grave and headstone",
+  "the flash actor kneeling by a tombstone grinning",
+  "smiling dude at a funeral throwing up a peace sign",
+  "happy guy crouching over a dirt grave at a cemetery"
+ ],
+ "tags": [
+  "grave",
+  "headstone",
+  "peace sign",
+  "smiling",
+  "funeral",
+  "gloating",
+  "grant gustin"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A behind-the-scenes photo of Grant Gustin, star of The Flash, posing beside a prop grave on a film set.",
+ "people": "public",
+ "imgflip": {
+  "id": "221578498",
+  "code": "3nx72a",
+  "image": "3nx72a.png",
+  "width": 500,
+  "height": 475,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 110,
+ "sure": "high",
+ "added": "2026-11-22"
+}

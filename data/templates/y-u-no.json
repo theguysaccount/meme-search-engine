@@ -1,0 +1,57 @@
+{
+ "slug": "y-u-no",
+ "name": "Y U No",
+ "aka": [
+  "Y U No Guy"
+ ],
+ "look": "A crude rage-comic drawing of a round white head with a furious, contorted face: bulging eyes, a deeply furrowed brow, flared nose and gritted teeth. He throws a hand out with fingers spread in exasperation, set against a flat dark navy blue background.",
+ "text": [],
+ "use": "Demands to know why someone or something won't do the obvious thing. The caption follows a broken-English pattern, with the subject on top and \"Y U NO\" plus the expected action on the bottom.",
+ "slots": [
+  "top caption: who or what is being yelled at",
+  "bottom caption: 'Y U NO' plus what it should do"
+ ],
+ "examples": [
+  [
+   "Printer",
+   "Y U NO print when I'm in a hurry?"
+  ],
+  [
+   "Phone charger",
+   "Y U NO reach the bed?"
+  ]
+ ],
+ "describe": [
+  "angry cartoon face with hand out asking why",
+  "rage comic guy throwing his hands up in frustration",
+  "furious white drawn head demanding an answer",
+  "crude drawing of a man yelling why with gritted teeth",
+  "mad meme face on a dark blue background"
+ ],
+ "tags": [
+  "rage comic",
+  "anger",
+  "frustration",
+  "why",
+  "blue background",
+  "advice animal"
+ ],
+ "kind": "drawing",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61527",
+  "code": "1bh3",
+  "image": "1bh3.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 56,
+ "sure": "high",
+ "added": "2026-11-22"
+}

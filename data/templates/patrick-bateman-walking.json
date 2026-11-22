@@ -1,0 +1,52 @@
+{
+ "slug": "patrick-bateman-walking",
+ "name": "Patrick Bateman Walking",
+ "aka": [
+  "Bateman Walking"
+ ],
+ "look": "Christian Bale as Patrick Bateman walks toward the camera through a gray office, wearing headphones, a dark suit, white shirt and red tie, with a blank, cold expression. A man in a suit stands blurred in the doorway behind him.",
+ "text": [],
+ "use": "Shows walking somewhere with total cold confidence, as if nothing can touch you. The caption names where you're striding in or what you're ignoring, often in the self-serious \"sigma\" style.",
+ "slots": [
+  "where you're striding in, unbothered (caption above)"
+ ],
+ "examples": [
+  [
+   "Me walking into the office on Monday after ignoring every email all weekend"
+  ]
+ ],
+ "describe": [
+  "christian bale walking with headphones in a suit",
+  "american psycho guy walking through the office",
+  "man in a suit and red tie walking with a blank stare",
+  "serious guy with headphones strutting toward the camera",
+  "businessman with walkman headphones walking expressionless"
+ ],
+ "tags": [
+  "american psycho",
+  "walking",
+  "confidence",
+  "headphones",
+  "suit",
+  "sigma",
+  "movie scene"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "American Psycho",
+ "origin": "From the 2000 film American Psycho, where Christian Bale's Patrick Bateman strides through his office wearing headphones.",
+ "people": "actor",
+ "imgflip": {
+  "id": "373996592",
+  "code": "66o1m8",
+  "image": null,
+  "width": 250,
+  "height": 195,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 320,
+ "sure": "high",
+ "added": "2026-11-22"
+}

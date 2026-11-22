@@ -1,0 +1,66 @@
+{
+ "slug": "sleeping-shaq",
+ "name": "Sleeping Shaq",
+ "aka": [
+  "I Sleep Real Shit",
+  "I Sleep"
+ ],
+ "look": "White space on the left for captions beside two photos of Shaquille O'Neal. Top: he sleeps peacefully on a white pillow, captioned \"i sleep.\" Bottom: a deep-fried, oversharpened close-up shows him wide awake with glowing lens-flare eyes, captioned \"real shit.\"",
+ "text": [
+  "i sleep",
+  "real shit"
+ ],
+ "use": "Contrasts what someone ignores with what instantly grabs their attention. The top-left caption is something important or boring that Shaq sleeps through, and the bottom-left caption is the oddly specific thing that wakes him up wide-eyed.",
+ "slots": [
+  "left of the top photo: what he sleeps through",
+  "left of the bottom photo: what wakes him up"
+ ],
+ "examples": [
+  [
+   "My alarm at 7 a.m.",
+   "Someone quietly opening a bag of chips two rooms away"
+  ],
+  [
+   "Doing my homework",
+   "Researching the history of spoons at 2 a.m."
+  ]
+ ],
+ "describe": [
+  "shaq sleeping then waking up with glowing eyes",
+  "basketball player asleep on a pillow then eyes wide open",
+  "man sleeping peacefully versus awake with laser eyes",
+  "text says sleep on top and real at the bottom with glowing eyes",
+  "big guy asleep then deep fried and wide awake"
+ ],
+ "tags": [
+  "shaquille o'neal",
+  "sleeping",
+  "glowing eyes",
+  "deep fried",
+  "two panel",
+  "waking up"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "99683372",
+  "code": "1nck6k",
+  "image": "1nck6k.jpg",
+  "width": 640,
+  "height": 631,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "118929239",
+   "name": "i sleep real shit"
+  }
+ ],
+ "rank_all_time": 72,
+ "sure": "high",
+ "added": "2026-11-22"
+}

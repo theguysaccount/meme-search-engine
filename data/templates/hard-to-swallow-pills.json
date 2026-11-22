@@ -1,0 +1,54 @@
+{
+ "slug": "hard-to-swallow-pills",
+ "name": "Hard To Swallow Pills",
+ "aka": [],
+ "look": "Two stacked illustrations in a soft wikiHow-like style. Top: two hands hold a white pill bottle with a label reading \"Hard to swallow pills,\" one finger pointing at it. Bottom: an open palm holds two white pills, one stamped 54 543, while a finger points at them.",
+ "text": [
+  "Hard to swallow pills"
+ ],
+ "use": "Delivers uncomfortable truths. The bottle sets up the theme, and the truth someone doesn't want to accept is written over the pills in the bottom panel, usually a blunt fact that stings.",
+ "slots": [
+  "text over the pills in the bottom panel: the uncomfortable truth"
+ ],
+ "examples": [
+  [
+   "You won't do it \"tomorrow\" either"
+  ],
+  [
+   "Buying a planner does not make you organized"
+  ]
+ ],
+ "describe": [
+  "hand holding a pill bottle labeled hard to swallow",
+  "two pills in a palm with a finger pointing at them",
+  "cartoon hands holding a medicine bottle and pills",
+  "pill bottle drawing about truths people don't want to hear",
+  "wikihow style hands pointing at pills"
+ ],
+ "tags": [
+  "pills",
+  "pill bottle",
+  "hard truths",
+  "hands",
+  "wikihow",
+  "two panel"
+ ],
+ "kind": "drawing",
+ "format": "sign",
+ "panels": 2,
+ "franchise": null,
+ "origin": "Adapted from a wikiHow illustration of hands holding a pill bottle, relabeled \"Hard to swallow pills.\"",
+ "people": "none",
+ "imgflip": {
+  "id": "132769734",
+  "code": "271ps6",
+  "image": "271ps6.jpg",
+  "width": 680,
+  "height": 979,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 81,
+ "sure": "high",
+ "added": "2026-11-22"
+}

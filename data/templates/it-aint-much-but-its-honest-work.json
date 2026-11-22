@@ -1,0 +1,57 @@
+{
+ "slug": "it-aint-much-but-its-honest-work",
+ "name": "It Ain't Much, But It's Honest Work",
+ "aka": [
+  "Honest Work"
+ ],
+ "look": "A smiling older farmer in a gray baseball cap, plaid shirt and blue denim overalls stands in a sunny green crop field under a clear sky. A yellow subtitle runs along the bottom, and a blank white strip across the top leaves room for a caption.",
+ "text": [
+  "It ain't much, but it's honest work"
+ ],
+ "use": "The caption above the photo describes a tiny, easy or low-effort accomplishment, and the farmer's proud smile and humble line present it as modest honest labor. Often used ironically for doing the bare minimum.",
+ "slots": [
+  "the small or easy accomplishment, in the white space above the photo"
+ ],
+ "examples": [
+  [
+   "Made my bed and called it a productive day"
+  ],
+  [
+   "Fixed the whole website by deleting one extra space"
+  ]
+ ],
+ "describe": [
+  "smiling farmer in overalls standing in a field",
+  "old farmer in a cap proud of a small achievement",
+  "farmer saying it ain't much but it's honest work",
+  "happy country guy in plaid shirt and overalls in a crop field",
+  "man in a trucker hat grinning on his farm"
+ ],
+ "tags": [
+  "farmer",
+  "overalls",
+  "field",
+  "humble",
+  "hard work",
+  "pride",
+  "subtitle"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A frame from an online video interview with a farmer standing in his field.",
+ "people": "private",
+ "imgflip": {
+  "id": "165198998",
+  "code": "2qcsd2",
+  "image": "2qcsd2.jpg",
+  "width": 800,
+  "height": 616,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 435,
+ "sure": "high",
+ "added": "2026-11-22"
+}

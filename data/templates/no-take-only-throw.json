@@ -1,0 +1,59 @@
+{
+ "slug": "no-take-only-throw",
+ "name": "No Take, Only Throw",
+ "aka": [],
+ "look": "A three-panel black-and-white doodle comic of a floppy-eared dog wearing a collar with a tag. In the first panel it looks hopeful, in the second a human hand reaches toward it and it scowls, and in the third it glares up close.",
+ "text": [],
+ "use": "Based on a dog that begs you to throw its toy but will not let you take it. Captions show someone who wants a result but refuses to hand over what is needed: panel one asks, panel two refuses, panel three insists.",
+ "slots": [
+  "panel 1: the request",
+  "panel 2: the refusal when someone reaches in",
+  "panel 3: the stubborn demand"
+ ],
+ "examples": [
+  [
+   "Pls fix my computer?",
+   "No touch the settings",
+   "Only fix"
+  ],
+  [
+   "Pls cook dinner?",
+   "No use my snacks",
+   "Only cook"
+  ]
+ ],
+ "describe": [
+  "dog wants you to throw the ball but won't let you take it",
+  "angry doodle dog glaring when a hand reaches for it",
+  "three panel black and white dog getting mad",
+  "dog begging to play fetch but growls when you reach for the toy",
+  "simple drawing of a dog with a collar frowning harder each panel"
+ ],
+ "tags": [
+  "dog",
+  "fetch",
+  "comic",
+  "stubborn",
+  "angry",
+  "three panels",
+  "doodle"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 3,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "184734077",
+  "code": "31zhq5",
+  "image": "31zhq5.png",
+  "width": 761,
+  "height": 343,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 475,
+ "sure": "high",
+ "added": "2026-11-22"
+}

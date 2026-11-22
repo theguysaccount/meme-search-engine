@@ -1,0 +1,57 @@
+{
+ "slug": "10-guy",
+ "name": "10 Guy",
+ "aka": [
+  "Really High Guy"
+ ],
+ "look": "A young man with messy brown hair leans back against a headboard with heavy, half-closed eyes and a lazy, lopsided smile. He wears a black tank top and holds a plastic bottle at the edge of the frame, with a pale yellow wall behind him.",
+ "text": [],
+ "use": "Spacey, half-baked thoughts from someone who seems completely out of it. The top caption sets up a mundane situation and the bottom caption delivers a dazed realization or an absurd conclusion.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the dazed realization"
+ ],
+ "examples": [
+  [
+   "Searches for my phone for ten minutes",
+   "Using the flashlight on my phone"
+  ],
+  [
+   "What if clouds are just",
+   "The sky's thoughts?"
+  ]
+ ],
+ "describe": [
+  "guy with droopy half closed eyes and a goofy smile",
+  "dazed young man leaning back holding a bottle",
+  "spaced out dude in a black tank top",
+  "sleepy eyed guy grinning lazily at the camera",
+  "man looking totally out of it with a slack face"
+ ],
+ "tags": [
+  "dazed",
+  "droopy eyes",
+  "spaced out",
+  "advice animal",
+  "tank top",
+  "goofy smile"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "101440",
+  "code": "269s",
+  "image": "269s.jpg",
+  "width": 500,
+  "height": 454,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 88,
+ "sure": "high",
+ "added": "2026-11-22"
+}

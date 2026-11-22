@@ -1,0 +1,58 @@
+{
+ "slug": "chuck-norris",
+ "name": "Chuck Norris",
+ "aka": [
+  "Chuck Norris Facts"
+ ],
+ "look": "A portrait photo of actor Chuck Norris in a black cowboy hat, with a reddish beard and a steady squint, wearing a denim jacket over a light blue shirt with a star badge pinned to it, sunlit trees behind him.",
+ "text": [],
+ "use": "Captions tell an absurd 'Chuck Norris fact' that exaggerates his toughness to impossible levels, such as objects fearing him, time waiting for him or the laws of physics bending to his will.",
+ "slots": [
+  "top caption: the setup of the fact",
+  "bottom caption: the impossible punchline"
+ ],
+ "examples": [
+  [
+   "He doesn't wait for the microwave",
+   "the microwave waits for him"
+  ],
+  [
+   "He never restarts his computer",
+   "it apologizes and fixes itself"
+  ]
+ ],
+ "describe": [
+  "tough guy in a black cowboy hat with a beard",
+  "bearded actor in a cowboy hat and denim jacket with a star badge",
+  "texas ranger man in a black hat staring at the camera",
+  "martial arts actor in a cowboy hat for tough guy jokes",
+  "man with a red beard and cowboy hat squinting"
+ ],
+ "tags": [
+  "cowboy hat",
+  "tough guy",
+  "actor",
+  "beard",
+  "facts",
+  "denim jacket",
+  "hyperbole"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of martial artist and actor Chuck Norris, used for Chuck Norris Facts, absurd jokes about his toughness that spread online in the 2000s.",
+ "people": "public",
+ "imgflip": {
+  "id": "5790452",
+  "code": "3g3xw",
+  "image": "3g3xw.jpg",
+  "width": 337,
+  "height": 425,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 342,
+ "sure": "high",
+ "added": "2026-11-22"
+}

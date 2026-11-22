@@ -1,0 +1,67 @@
+{
+ "slug": "american-chopper-argument",
+ "name": "American Chopper Argument",
+ "aka": [
+  "American Chopper Fight"
+ ],
+ "look": "Five stacked stills of a reality TV argument between Paul Teutul Sr., an older man with a gray mustache, and his son Paul Jr., in a black cap. They take turns yelling and pointing in an office, the son flings a chair, and the father points back furiously.",
+ "text": [],
+ "use": "Each panel gets one line of a heated back-and-forth, with father and son arguing about something trivial or nerdy as if it were a matter of life and death.",
+ "slots": [
+  "the opening claim (father, panel 1)",
+  "the son's rebuttal (panel 2)",
+  "the father's comeback (panel 3)",
+  "the son's angry reply (panel 4, chair throw)",
+  "the father's final word (panel 5)"
+ ],
+ "examples": [
+  [
+   "A hot dog is a sandwich",
+   "It's one continuous bun!",
+   "Bread on both sides with filling in the middle!",
+   "Then a taco is a sandwich too!",
+   "Don't you dare bring tacos into this!"
+  ],
+  [
+   "Name your files clearly",
+   "final_v2 is a clear name!",
+   "Then what is final_v2_REAL?",
+   "The one I actually sent!",
+   "There is also a final_v3!"
+  ]
+ ],
+ "describe": [
+  "father and son yelling at each other in an office",
+  "two bikers arguing and one throws a chair",
+  "reality show screaming match in five panels",
+  "older man with a mustache and younger guy in a cap shouting and pointing",
+  "motorcycle builders in a heated argument with a chair thrown"
+ ],
+ "tags": [
+  "argument",
+  "yelling",
+  "father and son",
+  "reality tv",
+  "chair throw",
+  "five panels",
+  "motorcycles"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 5,
+ "franchise": "American Chopper",
+ "origin": "Stills of Paul Teutul Sr. and Paul Teutul Jr. arguing in an episode of the reality series American Chopper.",
+ "people": "public",
+ "imgflip": {
+  "id": "134797956",
+  "code": "2896ro",
+  "image": "2896ro.jpg",
+  "width": 640,
+  "height": 1800,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 45,
+ "sure": "high",
+ "added": "2026-11-22"
+}

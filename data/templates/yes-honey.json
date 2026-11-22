@@ -1,0 +1,56 @@
+{
+ "slug": "yes-honey",
+ "name": "Yes Honey",
+ "aka": [],
+ "look": "A simple drawing on white with empty space below. On the left, a woman with long brown hair, pink lipstick and a red turtleneck sweater smiles with her hands clasped. On the right, a gray, deeply wrinkled, exhausted-looking wojak face stares blankly.",
+ "text": [],
+ "use": "The woman makes a cheerful request or demand, and the worn-out man answers \"Yes honey\" with no will left to argue. It jokes about always giving in to a partner, a boss or any demanding force.",
+ "slots": [
+  "under the woman: her request",
+  "under the tired man: yes honey"
+ ],
+ "examples": [
+  [
+   "Honey, can we watch one more episode of my baking show?",
+   "Yes honey"
+  ],
+  [
+   "Let's rearrange the living room again this weekend",
+   "Yes honey"
+  ]
+ ],
+ "describe": [
+  "girl in a red sweater next to a tired old wojak face",
+  "smiling woman asking for something and an exhausted wrinkly guy agreeing",
+  "drawn wife with clasped hands beside a worn out husband",
+  "red sweater girlfriend and a gray haggard wojak",
+  "cheerful lady and an aged tired man drawing with blank space"
+ ],
+ "tags": [
+  "wojak",
+  "relationship",
+  "girlfriend",
+  "tired",
+  "red sweater",
+  "drawing",
+  "giving in"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "245901889",
+  "code": "42ej41",
+  "image": "42ej41.jpg",
+  "width": 750,
+  "height": 752,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 268,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

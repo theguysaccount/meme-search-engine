@@ -1,0 +1,58 @@
+{
+ "slug": "star-wars-no",
+ "name": "Star Wars No",
+ "aka": [
+  "I Am Your Father",
+  "Luke I Am Your Father"
+ ],
+ "look": "Two stacked widescreen frames from The Empire Strikes Back. Top: Darth Vader in his black helmet stands against a dark shaft dotted with lights. Bottom: a battered Luke Skywalker, played by Mark Hamill, clings to a metal pole and screams in anguish.",
+ "text": [],
+ "use": "A shocking truth and the denial that follows. Vader's panel gets the unwelcome revelation, and Luke's panel gets the anguished no, or a horrified refusal to accept it.",
+ "slots": [
+  "the painful truth Vader reveals (top)",
+  "the anguished denial, usually no (bottom)"
+ ],
+ "examples": [
+  [
+   "The weekend is already over",
+   "Nooooo!"
+  ],
+  [
+   "I ate the last slice of your birthday cake",
+   "That's not true! That's impossible!"
+  ]
+ ],
+ "describe": [
+  "darth vader telling luke something and luke screaming no",
+  "luke skywalker hanging on and yelling noooo",
+  "vader reveals he is luke's father",
+  "space movie scene where luke screams in shock",
+  "black helmet villain and a beaten young hero shouting no"
+ ],
+ "tags": [
+  "star wars",
+  "darth vader",
+  "luke skywalker",
+  "denial",
+  "shock",
+  "revelation"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Star Wars",
+ "origin": "Darth Vader and Luke Skywalker in the 1980 film The Empire Strikes Back, when Vader reveals he is Luke's father.",
+ "people": "actor",
+ "imgflip": {
+  "id": "19194965",
+  "code": "bfexh",
+  "image": "bfexh.jpg",
+  "width": 620,
+  "height": 664,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 187,
+ "sure": "high",
+ "added": "2026-11-22"
+}

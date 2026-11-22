@@ -1,0 +1,55 @@
+{
+ "slug": "philosoraptor",
+ "name": "Philosoraptor",
+ "aka": [],
+ "look": "A sketchy dark green line drawing of a velociraptor's head and neck, its clawed hand raised to its chin in a thoughtful pose and its mouth slightly open. The background is a green and gray pinwheel pattern.",
+ "text": [],
+ "use": "Poses pseudo-deep questions, wordplay and shower thoughts. The top caption starts a philosophical or paradoxical question and the bottom caption finishes it, while the raptor strokes its chin in thought.",
+ "slots": [
+  "top caption: the start of the deep question",
+  "bottom caption: the paradox or pun that finishes it"
+ ],
+ "examples": [
+  [
+   "If you save a file called \"final\"",
+   "Why are there always five more versions?"
+  ],
+  [
+   "If I'm procrastinating on my to-do list",
+   "Is procrastinating now on the list?"
+  ]
+ ],
+ "describe": [
+  "dinosaur thinking with a claw on its chin",
+  "green raptor pondering a deep question",
+  "velociraptor stroking its chin thoughtfully",
+  "thinking dinosaur on a green and gray background",
+  "drawing of a raptor contemplating life"
+ ],
+ "tags": [
+  "dinosaur",
+  "velociraptor",
+  "thinking",
+  "philosophy",
+  "advice animal",
+  "green"
+ ],
+ "kind": "drawing",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61516",
+  "code": "1bgs",
+  "image": "1bgs.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 74,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "obi-wan-kenobi",
+ "name": "Obi-Wan Kenobi",
+ "aka": [],
+ "look": "A still of Alec Guinness as Obi-Wan Kenobi in the original Star Wars: an old man with white hair and a short white beard, in a rough brown hooded robe, gazes off to the right with a calm, thoughtful look against a sandy desert backdrop.",
+ "text": [],
+ "use": "Captions borrow the wise old mentor's famous lines, such as \"That's a name I've not heard in a long time\" or \"These aren't the droids you're looking for\", to give calm advice or a sly dodge.",
+ "slots": [
+  "top: the setup",
+  "bottom: Obi-Wan's line"
+ ],
+ "examples": [
+  [
+   "When someone asks how my New Year's resolution is going",
+   "That's a name I've not heard in a long time"
+  ]
+ ],
+ "describe": [
+  "old man with a white beard in a brown robe in the desert",
+  "alec guinness as the old jedi looking wise",
+  "old obi wan from the first star wars staring off thoughtfully",
+  "wise gray haired jedi mentor on tatooine",
+  "elderly bearded man in a hooded cloak gazing into the distance"
+ ],
+ "tags": [
+  "star wars",
+  "jedi",
+  "old man",
+  "wise",
+  "desert",
+  "beard",
+  "mentor"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Wars",
+ "origin": "Alec Guinness as Obi-Wan Kenobi in the original 1977 Star Wars film, later titled A New Hope.",
+ "people": "actor",
+ "imgflip": {
+  "id": "409403",
+  "code": "8rwb",
+  "image": "8rwb.jpg",
+  "width": 454,
+  "height": 330,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 252,
+ "sure": "high",
+ "added": "2026-11-22"
+}

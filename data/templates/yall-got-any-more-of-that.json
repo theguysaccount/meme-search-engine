@@ -1,0 +1,64 @@
+{
+ "slug": "yall-got-any-more-of-that",
+ "name": "Y'all Got Any More of That",
+ "aka": [
+  "Tyrone Biggums",
+  "Y'all Got Any More of Them"
+ ],
+ "look": "A TV still of Dave Chappelle as Tyrone Biggums, in a red knit beanie and a worn tan coat over a dark hoodie, scratching at his neck with a pleading, twitchy look on a dark street at night.",
+ "text": [],
+ "use": "The captions beg for more of something the poster can't get enough of, in the form Y'all got any more of that..., with the twitchy character showing a desperate craving.",
+ "slots": [
+  "Y'all got any more of that... (top)",
+  "the thing you want more of (bottom)"
+ ],
+ "examples": [
+  [
+   "Y'all got any more of them",
+   "three-day weekends?"
+  ],
+  [
+   "Y'all got any more of that",
+   "free garlic bread?"
+  ]
+ ],
+ "describe": [
+  "dave chappelle scratching his neck asking for more",
+  "guy in a red beanie itching and begging for more",
+  "twitchy man in a winter hat asking if you have any more",
+  "comedy sketch character scratching himself desperately",
+  "man in a beanie and coat at night craving more of something"
+ ],
+ "tags": [
+  "dave chappelle",
+  "craving",
+  "begging",
+  "red beanie",
+  "sketch comedy",
+  "desperate",
+  "wanting more"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Chappelle's Show",
+ "origin": "Dave Chappelle as the character Tyrone Biggums in a sketch from his Comedy Central series Chappelle's Show.",
+ "people": "actor",
+ "imgflip": {
+  "id": "124055727",
+  "code": "21uy0f",
+  "image": "21uy0f.jpg",
+  "width": 600,
+  "height": 471,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "33897585",
+   "name": "dave chappelle"
+  }
+ ],
+ "rank_all_time": 35,
+ "sure": "high",
+ "added": "2026-11-22"
+}

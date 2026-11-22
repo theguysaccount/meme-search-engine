@@ -1,0 +1,56 @@
+{
+ "slug": "kermit-looking-out-the-window",
+ "name": "Kermit Looking Out the Window",
+ "aka": [
+  "Kermit Window"
+ ],
+ "look": "A photo of Kermit the Frog at a rainy window. He stands on the right with one arm raised, head turned as he gazes out through glass dotted with raindrops. The background is a soft gray blur and the mood is gloomy and wistful.",
+ "text": [],
+ "use": "Kermit stands in for someone waiting, longing or quietly sulking. The caption says what he is waiting for or missing, like summer, a text back or the weekend, or a gloomy thought he is having.",
+ "slots": [
+  "what he is waiting for or thinking about (caption above the picture)"
+ ],
+ "examples": [
+  [
+   "Me watching the rain on the one day I planned to go outside"
+  ],
+  [
+   "Me waiting for the delivery that has been \"two minutes away\" for twenty minutes"
+  ]
+ ],
+ "describe": [
+  "kermit the frog staring out a rainy window sadly",
+  "frog puppet looking through window with raindrops",
+  "kermit gazing outside waiting for something on a gloomy day",
+  "green muppet alone by wet glass looking out",
+  "sad frog watching the rain fall from inside"
+ ],
+ "tags": [
+  "kermit",
+  "muppets",
+  "rain",
+  "window",
+  "sad",
+  "waiting",
+  "lonely",
+  "frog"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Muppets",
+ "origin": "A photo of Kermit the Frog posed looking out a window on a rainy day.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "36698509",
+  "code": "lukr1",
+  "image": "lukr1.jpg",
+  "width": 700,
+  "height": 469,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 195,
+ "sure": "high",
+ "added": "2026-11-22"
+}

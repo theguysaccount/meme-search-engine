@@ -1,0 +1,58 @@
+{
+ "slug": "community-fire-pizza",
+ "name": "Community Fire Pizza",
+ "aka": [
+  "Community Fire Pizza Meme"
+ ],
+ "look": "Two stacked stills from Community. Top: Troy (Donald Glover), in a dark blazer, smiles in an apartment doorway holding a stack of pizza boxes. Bottom: a wide shot of the apartment in chaos, with fires on the floor and people sprawled on the ground, while Troy stands in the far doorway with the pizzas.",
+ "text": [],
+ "use": "Shows coming back to find everything has fallen apart. The top panel is someone arriving cheerfully, unaware, and the bottom panel is the disaster that happened while they were gone for a few minutes.",
+ "slots": [
+  "top: who arrives happily (Troy with the pizza)",
+  "bottom: the chaos they walk into"
+ ],
+ "examples": [
+  [
+   "Me coming back from the bathroom during a group project call",
+   "The group project"
+  ],
+  [
+   "Mom coming home after leaving the kids alone for an hour",
+   "The kitchen after they tried to make pancakes"
+  ]
+ ],
+ "describe": [
+  "guy walks in with pizza and the apartment is on fire",
+  "donald glover holding pizza boxes and everything is chaos",
+  "man comes back with pizza to find the room burning and people on the floor",
+  "happy guy with pizzas then a wide shot of total disaster",
+  "darkest timeline scene where he returns with the pizza"
+ ],
+ "tags": [
+  "community",
+  "pizza",
+  "fire",
+  "chaos",
+  "disaster",
+  "two panel",
+  "sitcom"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Community",
+ "origin": "From the 2011 Community episode \"Remedial Chaos Theory\", where Troy returns with pizza to find the darkest timeline in flames.",
+ "people": "actor",
+ "imgflip": {
+  "id": "235571786",
+  "code": "3w94cq",
+  "image": "3w94cq.png",
+  "width": 843,
+  "height": 957,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 251,
+ "sure": "high",
+ "added": "2026-11-22"
+}

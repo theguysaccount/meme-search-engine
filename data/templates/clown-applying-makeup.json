@@ -1,0 +1,65 @@
+{
+ "slug": "clown-applying-makeup",
+ "name": "Clown Applying Makeup",
+ "aka": [
+  "Putting On Clown Makeup",
+  "Clown Makeup"
+ ],
+ "look": "Four stacked panels on the right, with white space on the left for captions. A young man goes from white base makeup, to blue eye shadow and red lips, to a rainbow curly wig being placed on his head, to the finished clown face with a red nose.",
+ "text": [],
+ "use": "Each step of a man turning himself into a clown matches a step in a bad decision or flawed argument. The captions build from a small mistake to full commitment, and the finished clown shows how foolish it all was.",
+ "slots": [
+  "step 1, white base: the first questionable choice",
+  "step 2, face paint: doubling down",
+  "step 3, wig: getting fully committed",
+  "step 4, red nose: the final foolish move"
+ ],
+ "examples": [
+  [
+   "\"I'll just watch one episode\"",
+   "\"Okay, one more, that cliffhanger was wild\"",
+   "\"It's only 1 a.m., I can finish the season\"",
+   "Starting season two at 4 a.m. before work"
+  ],
+  [
+   "Buying a gym membership in January",
+   "Choosing the yearly plan to save money",
+   "Buying new workout clothes",
+   "Going zero times"
+  ]
+ ],
+ "describe": [
+  "guy painting his face like a clown step by step",
+  "man turning into a clown in four panels",
+  "person painting his face white then adding a rainbow wig and red nose",
+  "four steps of becoming a clown",
+  "young man applying face paint until he is a full clown"
+ ],
+ "tags": [
+  "clown",
+  "makeup",
+  "four panel",
+  "bad decisions",
+  "rainbow wig",
+  "red nose",
+  "escalation"
+ ],
+ "kind": "photo",
+ "format": "ladder",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "195515965",
+  "code": "38el31",
+  "image": "38el31.jpg",
+  "width": 750,
+  "height": 798,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 67,
+ "sure": "high",
+ "added": "2026-11-22"
+}

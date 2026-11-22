@@ -1,0 +1,56 @@
+{
+ "slug": "donald-trump",
+ "name": "Donald Trump",
+ "aka": [],
+ "look": "Donald Trump in a navy suit and red tie stands at a blue podium marked \"TRUMP\" and \"MAKE AMERICA GREAT AGAIN!\", arms spread wide to both sides, in front of a wall of American flags.",
+ "text": [
+  "TRUMP",
+  "www.DonaldJTrump.com",
+  "MAKE AMERICA GREAT AGAIN!"
+ ],
+ "use": "A plain top and bottom caption template. The arms-wide pose reads as a grand announcement, a boast or a shrug, so captions usually put a bold claim or an over-the-top promise in his mouth.",
+ "slots": [
+  "the setup or announcement (top)",
+  "the punchline or boast (bottom)"
+ ],
+ "examples": [
+  [
+   "Announcing my plans for the weekend",
+   "Absolutely nothing, and it will be tremendous"
+  ]
+ ],
+ "describe": [
+  "trump at a podium with his arms spread wide",
+  "man in a suit and red tie stretching his arms out at a rally",
+  "politician standing at a make america great again podium",
+  "guy with arms out in front of american flags",
+  "speaker spreading his arms behind a sign that says trump"
+ ],
+ "tags": [
+  "politician",
+  "podium",
+  "american flags",
+  "arms spread",
+  "speech",
+  "red tie",
+  "rally"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo of Donald Trump speaking at a campaign podium in front of American flags.",
+ "people": "public",
+ "imgflip": {
+  "id": "40314559",
+  "code": "o02wv",
+  "image": "o02wv.jpg",
+  "width": 594,
+  "height": 393,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 295,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

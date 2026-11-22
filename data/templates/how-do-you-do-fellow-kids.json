@@ -1,0 +1,61 @@
+{
+ "slug": "how-do-you-do-fellow-kids",
+ "name": "How Do You Do, Fellow Kids?",
+ "aka": [
+  "Steve Buscemi Fellow Kids",
+  "Fellow Kids"
+ ],
+ "look": "A still from 30 Rock: Steve Buscemi, clearly middle-aged, poses as a teenager in a school hallway, wearing a backwards red cap, a red hoodie and a gray T-shirt that says \"MUSIC BAND\", with a skateboard slung over his shoulder.",
+ "text": [
+  "MUSIC BAND"
+ ],
+ "use": "Mocks an adult, brand or institution awkwardly pretending to be young and trendy to win over a younger crowd. The caption is the cringeworthy attempt, often ending with \"How do you do, fellow kids?\"",
+ "slots": [
+  "top: who is trying to fit in",
+  "bottom: the awkward attempt"
+ ],
+ "examples": [
+  [
+   "My dad joining the family group chat",
+   "Hello fellow teens, what is the tea today?"
+  ],
+  [
+   "The cereal brand's social media account",
+   "This breakfast slaps, no cap"
+  ]
+ ],
+ "describe": [
+  "old guy dressed like a teenager holding a skateboard",
+  "steve buscemi in a backwards hat and hoodie at school",
+  "adult pretending to be a high schooler in a music band shirt",
+  "middle aged man undercover as a cool kid in the hallway",
+  "grown man in a red hat trying to fit in with students"
+ ],
+ "tags": [
+  "30 rock",
+  "steve buscemi",
+  "skateboard",
+  "trying too hard",
+  "teenager",
+  "school",
+  "undercover"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "30 Rock",
+ "origin": "From a 30 Rock scene where Steve Buscemi's private investigator goes undercover at a high school and asks \"How do you do, fellow kids?\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "58910635",
+  "code": "z2nqj",
+  "image": "z2nqj.jpg",
+  "width": 900,
+  "height": 720,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 282,
+ "sure": "high",
+ "added": "2026-11-22"
+}

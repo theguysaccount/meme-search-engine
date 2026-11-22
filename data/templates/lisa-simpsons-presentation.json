@@ -1,0 +1,53 @@
+{
+ "slug": "lisa-simpsons-presentation",
+ "name": "Lisa Simpson's Presentation",
+ "aka": [],
+ "look": "A frame from The Simpsons: Lisa, in her red dress and pearl necklace, stands on a stage holding a sheet of paper beside a large blank projection screen. A spotlight shines on the screen, red curtains frame the stage and audience members' heads fill the bottom edge.",
+ "text": [],
+ "use": "Lisa presents a statement as if it were serious research. The blank screen holds the point, usually an unpopular opinion, a hard truth or a nerdy observation that the audience needs to hear.",
+ "slots": [
+  "the fact or opinion being presented (on the screen)"
+ ],
+ "examples": [
+  [
+   "Cereal is just cold soup"
+  ],
+  [
+   "\"Five more minutes\" has never once meant five minutes"
+  ]
+ ],
+ "describe": [
+  "lisa simpson presenting on a stage with a blank screen",
+  "simpsons girl giving a presentation with a projector",
+  "cartoon girl in red dress standing by a big white screen",
+  "presentation meme with a spotlight and audience heads",
+  "lisa giving a talk in front of an empty slide"
+ ],
+ "tags": [
+  "simpsons",
+  "lisa simpson",
+  "presentation",
+  "screen",
+  "stage",
+  "facts",
+  "spotlight"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "The Simpsons",
+ "origin": "A frame from The Simpsons of Lisa giving a presentation in front of a projection screen.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "139917843",
+  "code": "2baxar",
+  "image": "2baxar.jpg",
+  "width": 640,
+  "height": 480,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 232,
+ "sure": "high",
+ "added": "2026-11-22"
+}

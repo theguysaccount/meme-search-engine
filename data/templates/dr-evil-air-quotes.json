@@ -1,0 +1,56 @@
+{
+ "slug": "dr-evil-air-quotes",
+ "name": "Dr. Evil Air Quotes",
+ "aka": [],
+ "look": "A still from Austin Powers: Mike Myers as Dr. Evil, bald and in a gray Nehru suit with a pinky ring, sits in a high-backed black leather chair and raises both hands to make air quotes, with two shiny silver balls in the foreground.",
+ "text": [],
+ "use": "Puts a word in sarcastic air quotes. The caption usually ends with the quoted word, mocking something that isn't really what it claims to be, like a 'quick' meeting, a 'healthy' snack or a 'minor' update.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the word in air quotes"
+ ],
+ "examples": [
+  [
+   "Heading to the gym for a",
+   "'quick' workout"
+  ],
+  [
+   "My code is",
+   "'self-documenting'"
+  ]
+ ],
+ "describe": [
+  "bald villain making air quotes in a leather chair",
+  "mike myers villain doing finger quotes in a gray suit",
+  "austin powers bad guy raising both hands with bunny ear fingers",
+  "evil mastermind sarcastically making quotation marks",
+  "bald man in a gray suit doing quote fingers"
+ ],
+ "tags": [
+  "austin powers",
+  "air quotes",
+  "sarcasm",
+  "villain",
+  "gray suit",
+  "bald",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Austin Powers",
+ "origin": "Mike Myers as Dr. Evil in the Austin Powers films, known for putting words in sarcastic air quotes.",
+ "people": "actor",
+ "imgflip": {
+  "id": "65807782",
+  "code": "136hly",
+  "image": "136hly.jpg",
+  "width": 1062,
+  "height": 796,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 361,
+ "sure": "high",
+ "added": "2026-11-22"
+}

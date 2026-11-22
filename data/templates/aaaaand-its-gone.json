@@ -1,0 +1,60 @@
+{
+ "slug": "aaaaand-its-gone",
+ "name": "Aaaaand It's Gone",
+ "aka": [
+  "And It's Gone",
+  "Aaaand Its Gone"
+ ],
+ "look": "A still from South Park. A bank employee with brown hair, a dark suit and a striped blue tie sits behind a wooden desk at a computer monitor, staring blankly ahead, in an office with a yellow desk lamp and a window view of mountains.",
+ "text": [],
+ "use": "Something vanishes the moment you get it, usually money, free time or a good mood. The top caption describes getting or having it, and the bottom delivers the banker's deadpan 'Aaaand it's gone.'",
+ "slots": [
+  "top caption: what you just got or had",
+  "bottom caption: usually 'Aaaand it's gone'"
+ ],
+ "examples": [
+  [
+   "Paycheck hits my account",
+   "Aaaand it's gone"
+  ],
+  [
+   "Finally had a free weekend planned",
+   "Aaaand it's gone"
+  ]
+ ],
+ "describe": [
+  "south park bank guy sitting at his computer",
+  "cartoon banker in a suit staring blankly at a desk",
+  "south park man at a desk making your money disappear",
+  "deadpan office worker typing on a computer cartoon",
+  "bank teller says the money is gone south park"
+ ],
+ "tags": [
+  "south park",
+  "bank",
+  "money",
+  "gone",
+  "deadpan",
+  "office",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "South Park",
+ "origin": "From the 2009 South Park episode 'Margaritaville', where a bank teller invests Stan's money and deadpans 'Aaaand it's gone.'",
+ "people": "fictional",
+ "imgflip": {
+  "id": "766986",
+  "code": "gft6",
+  "image": "gft6.jpg",
+  "width": 500,
+  "height": 281,
+  "boxes": null,
+  "name": "Aaaaand Its Gone"
+ },
+ "variants": [],
+ "rank_all_time": 119,
+ "sure": "high",
+ "added": "2026-11-22"
+}

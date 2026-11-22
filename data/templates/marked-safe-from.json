@@ -1,0 +1,59 @@
+{
+ "slug": "marked-safe-from",
+ "name": "Marked Safe From",
+ "aka": [
+  "Facebook Marked Safe",
+  "Marked Safe From Today"
+ ],
+ "look": "A plain white graphic imitating a Facebook Safety Check notice: a blue triangular flag on a thin pole at the top, the words Marked Safe From followed by a blank space, and the word Today underneath.",
+ "text": [
+  "Marked Safe From",
+  "Today"
+ ],
+ "use": "The blank after Marked Safe From names a trivial or silly danger the poster has escaped, parodying the check-in people use to tell friends they are safe after an emergency.",
+ "slots": [
+  "the trivial danger you escaped (in the blank after Marked Safe From)"
+ ],
+ "examples": [
+  [
+   "Group projects"
+  ],
+  [
+   "The meeting that could have been an email"
+  ]
+ ],
+ "describe": [
+  "facebook safety check notice with a blue flag",
+  "graphic that says marked safe from today",
+  "blue flag icon with a blank for what you survived",
+  "social media check in saying you are safe from something",
+  "white image with a little blue flag and the word today"
+ ],
+ "tags": [
+  "facebook",
+  "safety check",
+  "blue flag",
+  "notification",
+  "survived",
+  "social media",
+  "parody"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "Facebook",
+ "origin": "A parody of Facebook's Safety Check notice.",
+ "people": "none",
+ "imgflip": {
+  "id": "161865971",
+  "code": "2odckz",
+  "image": "2odckz.jpg",
+  "width": 618,
+  "height": 499,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 33,
+ "sure": "high",
+ "added": "2026-11-22"
+}

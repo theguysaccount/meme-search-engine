@@ -1,0 +1,58 @@
+{
+ "slug": "horse-drawing",
+ "name": "Horse Drawing",
+ "aka": [
+  "Unfinished Horse Drawing"
+ ],
+ "look": "A pencil drawing of a horse on white paper. The tail, hind legs and rear body are drawn and shaded realistically, but toward the front the lines turn into a crude childlike sketch with stick legs and a smiling cartoon face.",
+ "text": [],
+ "use": "Shows something that starts with great effort and quality and falls apart by the end. Labels go on the detailed back half for the beginning and on the scribbled front half for how it finished.",
+ "slots": [
+  "how it starts, on the detailed back half (left)",
+  "how it ends, on the crude front half (right)"
+ ],
+ "examples": [
+  [
+   "My essay's first paragraph",
+   "My essay's conclusion at 3 a.m."
+  ],
+  [
+   "My January workout plan",
+   "My February workout plan"
+  ]
+ ],
+ "describe": [
+  "horse drawing that starts realistic and ends as a doodle",
+  "half detailed half stick figure horse sketch",
+  "pencil horse where the front looks like a kid drew it",
+  "realistic horse rear end with a goofy smiling cartoon head",
+  "drawing that gets worse from back to front"
+ ],
+ "tags": [
+  "drawing",
+  "horse",
+  "effort",
+  "decline",
+  "pencil sketch",
+  "unfinished",
+  "before and after"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "168840525",
+  "code": "2siu6l",
+  "image": "2siu6l.jpg",
+  "width": 739,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 305,
+ "sure": "high",
+ "added": "2026-11-22"
+}

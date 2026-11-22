@@ -1,0 +1,55 @@
+{
+ "slug": "grandma-finds-the-internet",
+ "name": "Grandma Finds The Internet",
+ "aka": [],
+ "look": "An elderly woman with curly white hair and a light blue patterned blouse holds her glasses up to her eyes and stares at an open laptop, mouth slightly open in amazement. A mustard yellow wall and a red chair are behind her, and a black mouse sits on the desk.",
+ "text": [],
+ "use": "An advice-animal style macro about an older person meeting the internet. The top line names something she finds online and the bottom line shows her naive, literal or outdated way of dealing with it.",
+ "slots": [
+  "top caption: the online thing she discovers",
+  "bottom caption: her naive or confused way of using it"
+ ],
+ "examples": [
+  [
+   "Discovers the cloud",
+   "Asks if her photos will get wet"
+  ],
+  [
+   "Learns about hashtags",
+   "#Puts #one #before #every #word"
+  ]
+ ],
+ "describe": [
+  "old lady holding up her glasses to look at a laptop",
+  "grandma squinting at the computer screen amazed",
+  "elderly woman peering at laptop with surprised face",
+  "old woman with white hair discovering something online",
+  "granny adjusting her glasses in front of a computer"
+ ],
+ "tags": [
+  "elderly woman",
+  "laptop",
+  "glasses",
+  "amazement",
+  "technology",
+  "advice animal"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "61556",
+  "code": "1bhw",
+  "image": "1bhw.jpg",
+  "width": 640,
+  "height": 480,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 48,
+ "sure": "high",
+ "added": "2026-11-22"
+}

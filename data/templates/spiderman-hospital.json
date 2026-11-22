@@ -1,0 +1,56 @@
+{
+ "slug": "spiderman-hospital",
+ "name": "Spiderman Hospital",
+ "aka": [],
+ "look": "A still from the 1960s Spider-Man cartoon showing Spider-Man in full costume lying in a hospital bed under white sheets, one hand resting on his chest. A bedside table holds a glass with a straw and a small bottle against a blue wall.",
+ "text": [],
+ "use": "One of the 1960s Spider-Man cartoon memes. Captions explain, often absurdly, why Spider-Man ended up in the hospital, or have him deliver a deadpan line while bedridden, usually about getting sick or hurt in a silly way.",
+ "slots": [
+  "top caption",
+  "bottom caption"
+ ],
+ "examples": [
+  [
+   "Went out to fight crime",
+   "Tripped over my own web"
+  ],
+  [
+   "Doctor says I have a cold",
+   "Still refuse to take off the mask"
+  ]
+ ],
+ "describe": [
+  "spiderman lying in a hospital bed",
+  "old cartoon spider-man sick in bed with a drink on the table",
+  "60s spiderman resting in a hospital room",
+  "spider man in bed under white sheets",
+  "superhero recovering in the hospital cartoon"
+ ],
+ "tags": [
+  "spider-man",
+  "hospital",
+  "sick",
+  "bed",
+  "60s cartoon",
+  "superhero",
+  "injury"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "A still from the 1967 Spider-Man animated TV series.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "152145",
+  "code": "39e9",
+  "image": "39e9.jpg",
+  "width": 500,
+  "height": 364,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 464,
+ "sure": "high",
+ "added": "2026-11-22"
+}

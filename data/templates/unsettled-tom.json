@@ -1,0 +1,53 @@
+{
+ "slug": "unsettled-tom",
+ "name": "Unsettled Tom",
+ "aka": [],
+ "look": "An extreme close-up of Tom the cat's gray face. His wide yellow eyes with small green pupils glance sideways under furrowed brows ringed with stress lines, while his white muzzle, black nose and tiny red mouth stay tense.",
+ "text": [],
+ "use": "A reaction image for something quietly disturbing, creepy or suspicious. The caption above describes an uncomfortable situation, and Tom's tense side-eye shows how the person feels about it.",
+ "slots": [
+  "caption above the image: the unsettling situation"
+ ],
+ "examples": [
+  [
+   "When the group chat goes silent right after you send a joke"
+  ],
+  [
+   "When your boss says \"Got a minute?\" at 4:55 on a Friday"
+  ]
+ ],
+ "describe": [
+  "tom the cat looking disturbed and uneasy",
+  "close up of cartoon cat with wide yellow eyes looking sideways",
+  "gray cat face with a worried tense stare",
+  "cartoon cat side eye looking deeply uncomfortable",
+  "tom and jerry cat face creeped out by something"
+ ],
+ "tags": [
+  "tom and jerry",
+  "cat",
+  "disturbed",
+  "side eye",
+  "uncomfortable",
+  "close-up",
+  "reaction"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Tom and Jerry",
+ "origin": "A close-up of Tom's face from the classic Tom and Jerry cartoons.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "175540452",
+  "code": "2wifvo",
+  "image": "2wifvo.jpg",
+  "width": 680,
+  "height": 550,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 54,
+ "sure": "high",
+ "added": "2026-11-22"
+}

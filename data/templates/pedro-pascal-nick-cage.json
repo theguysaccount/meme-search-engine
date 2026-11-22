@@ -1,0 +1,49 @@
+{
+ "slug": "pedro-pascal-nick-cage",
+ "name": "Pedro Pascal Nick Cage",
+ "aka": [],
+ "look": "A blurry widescreen frame of Pedro Pascal, with tousled hair, a mustache and a brown leather jacket, grinning broadly and looking off to the side from the seat of an open car, with a sunny, blurred hillside behind him.",
+ "text": [],
+ "use": "A reaction of giddy, starstruck delight. The caption names something that makes you grin like a fan meeting their hero, such as a favorite actor's new project or a friend finally agreeing to your plan.",
+ "slots": [
+  "what has you grinning like this (caption above)"
+ ],
+ "examples": [
+  [
+   "When the group chat finally agrees on a restaurant"
+  ]
+ ],
+ "describe": [
+  "pedro pascal smiling in a convertible",
+  "guy with a mustache grinning happily in a car",
+  "man in a leather jacket beaming with joy on a sunny drive",
+  "actor laughing and glancing to the side in an open car",
+  "starstruck happy grin from pedro pascal"
+ ],
+ "tags": [
+  "pedro pascal",
+  "smiling",
+  "joy",
+  "car",
+  "movie scene",
+  "excited"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Unbearable Weight of Massive Talent",
+ "origin": "From the 2022 film The Unbearable Weight of Massive Talent, which pairs Pedro Pascal with Nicolas Cage.",
+ "people": "actor",
+ "imgflip": {
+  "id": "445068443",
+  "code": "7czd0b",
+  "image": null,
+  "width": 250,
+  "height": 91,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 332,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "keep-calm-and-carry-on",
+ "name": "Keep Calm And Carry On",
+ "aka": [
+  "Keep Calm And Carry On Red",
+  "Keep Calm Poster"
+ ],
+ "look": "A plain bright red poster with a small white royal crown centered near the top and nothing else, ready for the white capital-letter slogan of the Keep Calm and Carry On poster.",
+ "text": [],
+ "use": "A parody of the calm wartime slogan. People write keep calm and then swap in their own advice, excuse or joke, in white capitals under the crown.",
+ "slots": [
+  "first line, usually keep calm (under the crown)",
+  "the rest of the slogan: and ___ (below)"
+ ],
+ "examples": [
+  [
+   "Keep calm",
+   "and blame the wifi"
+  ],
+  [
+   "Keep calm",
+   "and eat a cookie"
+  ]
+ ],
+ "describe": [
+  "red poster with a white crown at the top",
+  "blank keep calm sign with a crown",
+  "british poster template with a crown and space for text",
+  "red background with a crown for a calm slogan",
+  "plain red rectangle with a little white crown"
+ ],
+ "tags": [
+  "poster",
+  "crown",
+  "red",
+  "slogan",
+  "british",
+  "parody"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Based on a British government morale poster designed in 1939, which was rediscovered decades later and endlessly parodied.",
+ "people": "none",
+ "imgflip": {
+  "id": "1202623",
+  "code": "pry7",
+  "image": "pry7.jpg",
+  "width": 500,
+  "height": 704,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 186,
+ "sure": "high",
+ "added": "2026-11-22"
+}

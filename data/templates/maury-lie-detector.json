@@ -1,0 +1,58 @@
+{
+ "slug": "maury-lie-detector",
+ "name": "Maury Lie Detector",
+ "aka": [],
+ "look": "TV host Maury Povich, gray-haired with glasses, sits in a beige chair in front of a brick wall, wearing a black sweater over a gray collared shirt, and reads results from a card printed with the Maury show logo.",
+ "text": [
+  "maury"
+ ],
+ "use": "Exposes an obvious lie. The top caption quotes a claim someone made, and the bottom delivers Maury's verdict, usually 'The lie detector determined that was a lie.'",
+ "slots": [
+  "top caption: the claim someone made",
+  "bottom caption: 'The lie detector determined that was a lie'"
+ ],
+ "examples": [
+  [
+   "'I'll just watch one episode'",
+   "The lie detector determined that was a lie"
+  ],
+  [
+   "'I have read and agree to the terms and conditions'",
+   "The lie detector determined that was a lie"
+  ]
+ ],
+ "describe": [
+  "talk show host reading lie detector results from a card",
+  "old man with glasses reading test results on his tv show",
+  "maury povich sitting in a chair holding a card",
+  "gray haired host in a black sweater revealing the results",
+  "daytime tv host reading a card that says maury"
+ ],
+ "tags": [
+  "maury",
+  "talk show",
+  "lie detector",
+  "lying",
+  "results",
+  "tv host",
+  "exposed"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Maury",
+ "origin": "From the daytime talk show Maury, where host Maury Povich reads lie detector and paternity test results to his guests.",
+ "people": "public",
+ "imgflip": {
+  "id": "444501",
+  "code": "9iz9",
+  "image": "9iz9.jpg",
+  "width": 381,
+  "height": 378,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 120,
+ "sure": "high",
+ "added": "2026-11-22"
+}

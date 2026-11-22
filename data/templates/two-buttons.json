@@ -1,0 +1,62 @@
+{
+ "slug": "two-buttons",
+ "name": "Two Buttons",
+ "aka": [
+  "Daily Struggle",
+  "Two Red Buttons"
+ ],
+ "look": "A two-panel comic. Top: a white-gloved hand hovers over two big red buttons on a gray control panel. Bottom: a man in a red costume, sweating heavily, wipes his forehead with a handkerchief and stares ahead in panic.",
+ "text": [],
+ "use": "Each button is labeled with one of two conflicting options, often two things the person can't bear to give up, and the sweating man is labeled as whoever is agonizing over the choice.",
+ "slots": [
+  "first option (left button)",
+  "second option (right button)",
+  "who is stuck choosing (the sweating man)"
+ ],
+ "examples": [
+  [
+   "Go to sleep",
+   "Watch one more video",
+   "Me at 2 a.m."
+  ],
+  [
+   "Reply to the email now",
+   "Pretend I never saw it",
+   "Me on a Monday morning"
+  ]
+ ],
+ "describe": [
+  "cartoon man sweating over which red button to press",
+  "hand hovering over a pair of red buttons then a guy wiping his forehead",
+  "nervous superhero can't decide between two choices",
+  "comic guy dabbing sweat with a cloth over a hard decision",
+  "two panel comic of a tough choice between red buttons"
+ ],
+ "tags": [
+  "decision",
+  "dilemma",
+  "sweating",
+  "red buttons",
+  "anxiety",
+  "comic",
+  "superhero"
+ ],
+ "kind": "comic",
+ "format": "versus",
+ "panels": 2,
+ "franchise": null,
+ "origin": "A webcomic by artist Jake Clark, posted on his Tumblr.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "87743020",
+  "code": "1g8my4",
+  "image": "1g8my4.jpg",
+  "width": 600,
+  "height": 908,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 2,
+ "sure": "high",
+ "added": "2026-11-22"
+}

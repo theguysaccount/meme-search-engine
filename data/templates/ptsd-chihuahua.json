@@ -1,0 +1,55 @@
+{
+ "slug": "ptsd-chihuahua",
+ "name": "PTSD Chihuahua",
+ "aka": [
+  "Vietnam Flashbacks Chihuahua"
+ ],
+ "look": "A close-up of a wide-eyed chihuahua staring blankly at the camera, blended in a faded double exposure with old war scenes: military helicopters flying overhead and soldiers walking through tall grass.",
+ "text": [],
+ "use": "Shows someone hit by sudden flashbacks to a bad experience. The caption names a trigger, like a sound, phrase or place, that sends the person straight back to a past ordeal such as a group project, a bad job or a brutal exam.",
+ "slots": [
+  "the trigger, as a caption above the dog: the sound, phrase or situation that brings back a bad memory"
+ ],
+ "examples": [
+  [
+   "When the teacher says \"pick your own partners\""
+  ],
+  [
+   "Hearing my old alarm ringtone on someone else's phone"
+  ]
+ ],
+ "describe": [
+  "little dog getting war flashbacks with helicopters overhead",
+  "small dog staring with a war scene overlay",
+  "dog with a haunted stare and soldiers in the background",
+  "traumatized little dog remembering the war",
+  "double exposure of a dog face and army helicopters"
+ ],
+ "tags": [
+  "chihuahua",
+  "dog",
+  "flashback",
+  "trauma",
+  "helicopters",
+  "war",
+  "double exposure"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "196853374",
+  "code": "39791a",
+  "image": "39791a.jpg",
+  "width": 849,
+  "height": 821,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 447,
+ "sure": "high",
+ "added": "2026-11-22"
+}

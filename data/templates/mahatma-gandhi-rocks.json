@@ -1,0 +1,57 @@
+{
+ "slug": "mahatma-gandhi-rocks",
+ "name": "Mahatma Gandhi Rocks",
+ "aka": [
+  "Gandhi Quote"
+ ],
+ "look": "A black-and-white photo of Mahatma Gandhi, bald with round wire glasses and a gray mustache, smiling warmly on the left side of a black background. Bold white text in the bottom right corner credits him by name, leaving empty black space for a quote.",
+ "text": [
+  "-Mahatma Gandhi"
+ ],
+ "use": "A fake inspirational quote. People type a silly, modern or obviously made-up saying in the black space, and the solemn attribution to Gandhi makes it sound like timeless wisdom, which is the joke.",
+ "slots": [
+  "the fake quote, in the black space to the right of his face"
+ ],
+ "examples": [
+  [
+   "Be the change you wish to see in the vending machine."
+  ],
+  [
+   "Always check the fridge one more time. Something new may have appeared."
+  ]
+ ],
+ "describe": [
+  "gandhi smiling with round glasses on a black background",
+  "old bald man with glasses fake quote template",
+  "black and white photo of gandhi with his name in the corner",
+  "wise quote picture with dark background and a name signed at the bottom",
+  "inspirational quote attributed to gandhi template"
+ ],
+ "tags": [
+  "gandhi",
+  "quote",
+  "fake quote",
+  "black and white",
+  "glasses",
+  "wisdom",
+  "historical figure"
+ ],
+ "kind": "photo",
+ "format": "other",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "116217190",
+  "code": "1x6xra",
+  "image": "1x6xra.jpg",
+  "width": 555,
+  "height": 416,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 444,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "finding-neverland",
+ "name": "Finding Neverland",
+ "aka": [],
+ "look": "Three stacked film stills. Top: a teary-eyed young boy with brown hair looks up and talks to a man. Middle: Johnny Depp, in a dark coat and tie, looks down at the boy with a sad, thoughtful face. Bottom: the two sit on a green park bench as Depp hugs the boy.",
+ "text": [],
+ "use": "The boy says something hopeful or naive in the top panel. The man's pitying look and the comforting hug that follows imply the hard truth: it isn't going to happen.",
+ "slots": [
+  "the boy's hopeful statement or question (top panel)",
+  "the man's pitying reply, often just '...' (middle panel)"
+ ],
+ "examples": [
+  [
+   "Dad, when I grow up I'll have time for all my hobbies, right?",
+   "..."
+  ],
+  [
+   "The delivery window is 9 to 5, so it'll probably come early",
+   "Oh, son"
+  ]
+ ],
+ "describe": [
+  "johnny depp hugging a little boy on a park bench",
+  "kid asks something hopeful and the man comforts him",
+  "sad man looks at teary boy then hugs him",
+  "three panels of a boy talking and a man consoling him",
+  "man in black coat holding a crying child on a bench"
+ ],
+ "tags": [
+  "johnny depp",
+  "child",
+  "hug",
+  "park bench",
+  "comfort",
+  "hard truth",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Finding Neverland",
+ "origin": "From the 2004 film Finding Neverland, with Johnny Depp as J. M. Barrie comforting Freddie Highmore as young Peter on a park bench.",
+ "people": "actor",
+ "imgflip": {
+  "id": "6235864",
+  "code": "3pnmg",
+  "image": "3pnmg.jpg",
+  "width": 423,
+  "height": 600,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 50,
+ "sure": "high",
+ "added": "2026-11-22"
+}

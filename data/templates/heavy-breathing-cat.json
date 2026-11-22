@@ -1,0 +1,54 @@
+{
+ "slug": "heavy-breathing-cat",
+ "name": "Heavy Breathing Cat",
+ "aka": [],
+ "look": "Close-up photo of a fluffy, round-faced cream and light brown cat with wide green eyes staring intently, ears up, against a plain gray background. Italic text at the bottom reads \"(heavy breathing)\".",
+ "text": [
+  "(heavy breathing)"
+ ],
+ "use": "Shows intense, barely contained excitement or anticipation. The caption names the thrilling thing, often something small like food arriving, a new episode or a sale.",
+ "slots": [
+  "the exciting thing (caption above)"
+ ],
+ "examples": [
+  [
+   "When the pizza delivery driver turns onto your street"
+  ],
+  [
+   "New season of my favorite show drops at midnight"
+  ]
+ ],
+ "describe": [
+  "fluffy fat cat staring with wide excited eyes",
+  "chubby cat with big green eyes breathing hard",
+  "cat face close up with the caption heavy breathing",
+  "intense staring cat that is really excited about something",
+  "round beige cat wide eyed with anticipation"
+ ],
+ "tags": [
+  "cat",
+  "excitement",
+  "anticipation",
+  "wide eyes",
+  "fluffy",
+  "close-up"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "13036679",
+  "code": "7rf5z",
+  "image": "7rf5z.jpg",
+  "width": 373,
+  "height": 344,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 399,
+ "sure": "high",
+ "added": "2026-11-22"
+}

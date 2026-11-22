@@ -1,0 +1,58 @@
+{
+ "slug": "annoyed-picard",
+ "name": "Annoyed Picard",
+ "aka": [
+  "Picard WTF"
+ ],
+ "look": "Captain Jean-Luc Picard, played by Patrick Stewart, stands on the starship bridge in a red and black uniform, mouth open and one hand thrust out palm-up in exasperation. Worf, in a gold uniform with a silver sash, stands in the background.",
+ "text": [],
+ "use": "Expresses exasperated disbelief at a baffling decision. The caption asks an incredulous question, often \"Why would you...\" or \"What the hell...\", about someone's illogical behavior while Picard gestures in frustration.",
+ "slots": [
+  "top caption: the start of the exasperated question",
+  "bottom caption: the baffling thing someone did"
+ ],
+ "examples": [
+  [
+   "Why would you",
+   "Put the empty milk carton back in the fridge?"
+  ],
+  [
+   "You have a calendar on your phone",
+   "Why are you asking me what day it is?"
+  ]
+ ],
+ "describe": [
+  "star trek captain throwing his hand out in frustration",
+  "picard gesturing angrily asking why",
+  "bald captain in a red uniform annoyed and exasperated",
+  "patrick stewart arguing with his palm up on the bridge",
+  "starship captain asking what the heck with worf behind him"
+ ],
+ "tags": [
+  "star trek",
+  "picard",
+  "annoyed",
+  "exasperated",
+  "disbelief",
+  "worf",
+  "gesture"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Trek",
+ "origin": "Patrick Stewart as Captain Jean-Luc Picard on the bridge in Star Trek: The Next Generation, with Michael Dorn's Worf behind him.",
+ "people": "actor",
+ "imgflip": {
+  "id": "245898",
+  "code": "59qi",
+  "image": "59qi.jpg",
+  "width": 500,
+  "height": 350,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 86,
+ "sure": "high",
+ "added": "2026-11-22"
+}

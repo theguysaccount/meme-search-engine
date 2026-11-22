@@ -1,0 +1,53 @@
+{
+ "slug": "walter-white-cooking",
+ "name": "Walter White Cooking",
+ "aka": [],
+ "look": "A blurry still from Breaking Bad: Bryan Cranston as Walter White, with glasses, a goatee and a yellow hazmat suit, carefully squeezes pink liquid from a pipette while leaning over a row of glass beakers in a dim lab.",
+ "text": [],
+ "use": "Shows someone carefully 'cooking up' something with total focus. The caption names who is cooking and what, usually a plan, an excuse, a meme, a playlist or a sneaky scheme prepared with scientific precision.",
+ "slots": [
+  "caption: who is cooking and what they're cooking up (top)"
+ ],
+ "examples": [
+  [
+   "Me cooking up an excuse for why I'm late again"
+  ],
+  [
+   "Mom cooking up a chore list the second I sit down"
+  ]
+ ],
+ "describe": [
+  "breaking bad guy in a yellow suit using a dropper",
+  "bald man with glasses in a hazmat suit holding a pipette over beakers",
+  "chemistry teacher carefully cooking something in a lab",
+  "man in a yellow protective suit adding drops to glasses",
+  "focused guy in a lab mixing chemicals with a pipette"
+ ],
+ "tags": [
+  "breaking bad",
+  "walter white",
+  "cooking",
+  "lab",
+  "hazmat suit",
+  "focus",
+  "chemistry"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Breaking Bad",
+ "origin": "Bryan Cranston as chemistry teacher Walter White in the TV series Breaking Bad.",
+ "people": "actor",
+ "imgflip": {
+  "id": "360053085",
+  "code": "5yd6ql",
+  "image": null,
+  "width": 250,
+  "height": 136,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 367,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "trojan-horse",
+ "name": "Trojan Horse",
+ "aka": [],
+ "look": "A comic-style illustration of a giant wooden horse on wheels being rolled along a red carpet toward a tall city gate. A cutaway in its belly shows three cartoon Greek soldiers with crested helmets, spears and shields. One man pulls it, a man in a suit welcomes it, and someone watches from the wall.",
+ "text": [],
+ "use": "Shows something harmful sneaking in disguised as something appealing. The horse is labeled with the attractive offer, the soldiers inside with the hidden catch, and the people at the gate with whoever happily lets it in.",
+ "slots": [
+  "the appealing outside, on the horse",
+  "the hidden catch, on the soldiers inside",
+  "whoever lets it in, on the men at the gate"
+ ],
+ "examples": [
+  [
+   "Free trial",
+   "Auto-renewing subscription",
+   "Me"
+  ],
+  [
+   "\"Quick question\"",
+   "Two-hour meeting",
+   "My afternoon"
+  ]
+ ],
+ "describe": [
+  "wooden horse with soldiers hidden inside being let through the gate",
+  "giant wood horse on wheels with three warriors inside",
+  "cartoon of people welcoming a horse full of hidden soldiers",
+  "greek soldiers hiding in a horse to sneak into the city",
+  "something nice on the outside with a hidden trap inside"
+ ],
+ "tags": [
+  "trojan horse",
+  "hidden danger",
+  "deception",
+  "soldiers",
+  "illustration",
+  "city gate",
+  "ancient greece"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "144961820",
+  "code": "2eb198",
+  "image": "2eb198.jpg",
+  "width": 680,
+  "height": 671,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 453,
+ "sure": "high",
+ "added": "2026-11-22"
+}

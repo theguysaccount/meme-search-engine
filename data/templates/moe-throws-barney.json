@@ -1,0 +1,60 @@
+{
+ "slug": "moe-throws-barney",
+ "name": "Moe Throws Barney",
+ "aka": [],
+ "look": "Three stacked panels from The Simpsons inside Moe's Tavern. Top: Moe grabs Barney by the shirt and shoves him out the door. Middle: Moe stands alone, dusting off his hands. Bottom: Barney is already back beside him, and Moe looks fed up.",
+ "text": [],
+ "use": "Moe is you and Barney is something you try to get rid of. You throw it out, enjoy a moment of satisfaction, and it is immediately right back, like a bad habit, a bug or a song stuck in your head.",
+ "slots": [
+  "who is doing the throwing (Moe, top panel)",
+  "the unwanted thing (Barney, top panel)",
+  "the same thing, back again (Barney, bottom panel)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "My 3 AM thoughts",
+   "My 3 AM thoughts at 3:05"
+  ],
+  [
+   "Me cleaning my room",
+   "The pile of clothes on the chair",
+   "The pile of clothes on the chair"
+  ]
+ ],
+ "describe": [
+  "simpsons bartender throws a drunk guy out and he comes right back",
+  "bartender grabs man by the shirt and tosses him outside",
+  "guy gets kicked out of the bar but is back in the last panel",
+  "simpsons bar owner dusting off his hands then annoyed",
+  "three panel cartoon of throwing someone out who returns instantly"
+ ],
+ "tags": [
+  "simpsons",
+  "moe",
+  "barney",
+  "bar",
+  "kicked out",
+  "comes back",
+  "annoyed",
+  "three panels"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "The Simpsons",
+ "origin": "Three frames from The Simpsons of Moe throwing Barney out of Moe's Tavern.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "188789496",
+  "code": "34eewo",
+  "image": "34eewo.jpg",
+  "width": 640,
+  "height": 1091,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 202,
+ "sure": "high",
+ "added": "2026-11-22"
+}

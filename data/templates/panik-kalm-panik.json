@@ -1,0 +1,66 @@
+{
+ "slug": "panik-kalm-panik",
+ "name": "Panik Kalm Panik",
+ "aka": [
+  "Panik Kalm",
+  "Panic Calm Panic"
+ ],
+ "look": "Three rows with blank boxes on the left and Meme Man, a smooth 3D-rendered bald head, on the right. Top: he clutches his head, labeled Panik. Middle: he looks relaxed, labeled Kalm. Bottom: he grabs his head again in a blur, labeled Panik.",
+ "text": [
+  "Panik",
+  "Kalm",
+  "Panik"
+ ],
+ "use": "The first box names a worrying situation, the second a reassuring detail that calms things down, and the third a new detail that makes it even worse than before.",
+ "slots": [
+  "the worrying situation (top left)",
+  "the reassuring detail (middle left)",
+  "the new detail that makes it worse (bottom left)"
+ ],
+ "examples": [
+  [
+   "You sent a text to the wrong person",
+   "They haven't read it yet",
+   "They're typing..."
+  ],
+  [
+   "You overslept",
+   "It's Saturday",
+   "You promised to help a friend move at 8 a.m."
+  ]
+ ],
+ "describe": [
+  "bald 3d head panicking then calm then panicking again",
+  "smooth cgi head with labels panik kalm panik",
+  "three rows of a head freaking out, relaxing, then freaking out",
+  "stonks guy face holding his head in alarm",
+  "cartoon head grabbing its temples with blurry shaking hands"
+ ],
+ "tags": [
+  "meme man",
+  "panic",
+  "calm",
+  "anxiety",
+  "3d head",
+  "three rows",
+  "relief"
+ ],
+ "kind": "render",
+ "format": "panels",
+ "panels": 3,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "226297822",
+  "code": "3qqcim",
+  "image": "3qqcim.png",
+  "width": 640,
+  "height": 881,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 39,
+ "sure": "high",
+ "added": "2026-11-22"
+}

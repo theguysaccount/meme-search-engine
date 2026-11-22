@@ -1,0 +1,60 @@
+{
+ "slug": "if-i-had-a-nickel-for-every-time",
+ "name": "If I Had A Nickel For Every Time",
+ "aka": [
+  "Doof If I Had A Nickel",
+  "I'd Have Two Nickels"
+ ],
+ "look": "A still from Phineas and Ferb above a black caption area. Dr. Doofenshmirtz, in a white lab coat, clasps his hands and glances sideways at a white sock puppet on the right, in front of a wall of identical dark robots. White text below holds the nickel line.",
+ "text": [
+  "If I had a nickel for every time",
+  "I'd have two nickels.",
+  "Which isn't a lot but it's weird that it happened twice."
+ ],
+ "use": "You fill in the gap after 'for every time' with an oddly specific thing that has happened exactly twice, often two shows or movies sharing a strange plot point, or two weird coincidences in your own life.",
+ "slots": [
+  "the oddly specific thing that happened twice, after 'for every time'"
+ ],
+ "examples": [
+  [
+   "my cat knocked my phone into the bathtub"
+  ],
+  [
+   "the fire alarm went off during a math test"
+  ]
+ ],
+ "describe": [
+  "phineas and ferb scientist with a caption about nickels",
+  "cartoon doctor in a lab coat next to a sock puppet",
+  "i'd have two nickels which isn't a lot but it's weird it happened twice",
+  "doofenshmirtz looking awkward with robots behind him",
+  "evil scientist clasping his hands with text about something happening twice"
+ ],
+ "tags": [
+  "phineas and ferb",
+  "doofenshmirtz",
+  "coincidence",
+  "happened twice",
+  "nickel",
+  "caption",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "other",
+ "panels": 1,
+ "franchise": "Phineas and Ferb",
+ "origin": "A line spoken by Dr. Heinz Doofenshmirtz in Phineas and Ferb.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "235033561",
+  "code": "3vxl21",
+  "image": "3vxl21.png",
+  "width": 736,
+  "height": 582,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 362,
+ "sure": "high",
+ "added": "2026-11-22"
+}

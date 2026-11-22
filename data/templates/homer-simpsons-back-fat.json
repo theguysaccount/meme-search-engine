@@ -1,0 +1,56 @@
+{
+ "slug": "homer-simpsons-back-fat",
+ "name": "Homer Simpson's Back Fat",
+ "aka": [],
+ "look": "Two stacked panels from The Simpsons. Top: Homer in white briefs stands with hands on his hips, looking trim and smug, as Marge in a dark green suit turns toward him. Bottom: seen from behind, his belly fat is bunched and strapped at his back and his face skin is clipped tight.",
+ "text": [],
+ "use": "Contrasts a polished front with the messy hack holding it together. The top panel is what everyone sees, and the bottom panel reveals the hidden mess, shortcut or effort keeping up appearances.",
+ "slots": [
+  "the polished front everyone sees (top panel)",
+  "the messy hack behind it (bottom panel)"
+ ],
+ "examples": [
+  [
+   "The app's sleek new design",
+   "The code holding it together"
+  ],
+  [
+   "My room when guests come over",
+   "My closet"
+  ]
+ ],
+ "describe": [
+  "homer in his underwear looking slim from the front",
+  "simpsons dad with his fat clipped behind his back",
+  "cartoon man hides his belly by pinning it in the back",
+  "homer looks fit but the back shows the clips holding everything",
+  "looks good from the front but a mess from behind cartoon"
+ ],
+ "tags": [
+  "the simpsons",
+  "homer",
+  "facade",
+  "behind the scenes",
+  "two panel",
+  "underwear",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "The Simpsons",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "157043617",
+  "code": "2lhzmp",
+  "image": "2lhzmp.jpg",
+  "width": 680,
+  "height": 765,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 318,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

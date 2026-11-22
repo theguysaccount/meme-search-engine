@@ -1,0 +1,55 @@
+{
+ "slug": "two-guys-on-a-bus",
+ "name": "Two Guys On A Bus",
+ "aka": [],
+ "look": "A cartoon of the inside of a bus. On the left, a gloomy man in a purple shirt sits by a window that faces a dark rock wall. On the right, a smiling man in a yellow shirt looks out at a sunny mountain valley with a river.",
+ "text": [],
+ "use": "Two people in the same situation with opposite outlooks. The sad man by the rock wall is labeled as the one stuck seeing the bleak side, and the happy man as the one who gets the bright side.",
+ "slots": [
+  "the gloomy person (sad man by the rock wall, left)",
+  "the cheerful person (happy man by the scenic view, right)"
+ ],
+ "examples": [
+  [
+   "People who read the comments",
+   "People who don't read the comments"
+  ],
+  [
+   "The kid whose parents said no",
+   "The kid whose grandma said yes"
+  ]
+ ],
+ "describe": [
+  "bus passengers, one stuck facing rocks and one enjoying the view",
+  "sad man looking at a rock wall and happy man looking at a sunset",
+  "bus windows with a cliff on one side and mountains on the other",
+  "cartoon of a bus ride with a gloomy guy and a cheerful guy",
+  "one passenger has a boring view and the other a beautiful one"
+ ],
+ "tags": [
+  "bus",
+  "perspective",
+  "sad",
+  "happy",
+  "window view",
+  "optimism"
+ ],
+ "kind": "comic",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A cartoon by the Brazilian cartoonist Genildo Ronchi, whose signature is in the bottom corner.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "354700819",
+  "code": "5v6gwj",
+  "image": "5v6gwj.jpg",
+  "width": 762,
+  "height": 675,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 175,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "squid-game",
+ "name": "Squid Game",
+ "aka": [],
+ "look": "Two stacked photos of actor Lee Jung-jae as Seong Gi-hun from Squid Game, in the green tracksuit with white trim. Top: he grins widely with messy dark hair against a pink wall. Bottom: with neater hair, he stares straight ahead with a cold, serious expression against a deeper pink wall.",
+ "text": [],
+ "use": "A mood switch from cheerful to deadly serious. The top caption is something that delights him, and the bottom is the follow-up that kills the joy or makes him suddenly get serious.",
+ "slots": [
+  "what makes him happy (top panel)",
+  "what makes him serious (bottom panel)"
+ ],
+ "examples": [
+  [
+   "Teacher: The test is canceled",
+   "Teacher: It's moved to tomorrow"
+  ],
+  [
+   "Friend: I got you a gift",
+   "Friend: It's a gym membership"
+  ]
+ ],
+ "describe": [
+  "netflix survival show guy smiling then serious",
+  "actor in green tracksuit grinning then glaring",
+  "man in green track jacket happy on top and stern below",
+  "same guy laughing then stone faced against pink wall",
+  "player in tracksuit mood change from joy to cold stare"
+ ],
+ "tags": [
+  "squid game",
+  "netflix",
+  "tracksuit",
+  "smile",
+  "serious",
+  "mood change",
+  "two panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Squid Game",
+ "origin": "Two images of Lee Jung-jae as Seong Gi-hun from Netflix's Squid Game, one beaming and one stone-faced.",
+ "people": "actor",
+ "imgflip": {
+  "id": "558880671",
+  "code": "98qr33",
+  "image": "98qr33.jpg",
+  "width": 1546,
+  "height": 2385,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 236,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

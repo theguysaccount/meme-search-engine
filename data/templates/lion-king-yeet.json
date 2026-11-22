@@ -1,0 +1,58 @@
+{
+ "slug": "lion-king-yeet",
+ "name": "Lion King Yeet",
+ "aka": [
+  "Rafiki Yeets Simba"
+ ],
+ "look": "A small, blurry animated still from The Lion King: the baboon Rafiki stands on the tip of Pride Rock against a blue sky with streaky clouds, leaning back with baby Simba lifted in his arms as if winding up to hurl him off the cliff.",
+ "text": [],
+ "use": "Parodies the famous scene where Rafiki presents baby Simba to the kingdom, except he throws the cub off the cliff. Simba is labeled as something being gleefully thrown away, with a caption for who is doing the throwing.",
+ "slots": [
+  "top caption: who is throwing (Rafiki) or the situation",
+  "label for Simba: the thing being thrown away"
+ ],
+ "examples": [
+  [
+   "Me on the first warm day of spring",
+   "My winter coat"
+  ],
+  [
+   "Me after the final exam",
+   "Everything I memorized"
+  ]
+ ],
+ "describe": [
+  "rafiki throwing baby simba off pride rock",
+  "lion king monkey tosses the cub off the cliff",
+  "baboon hurling a lion cub into the sky",
+  "lion king presentation scene but he throws the baby away",
+  "cartoon monkey on a rock holding up a baby lion"
+ ],
+ "tags": [
+  "lion king",
+  "rafiki",
+  "simba",
+  "throwing",
+  "pride rock",
+  "disney",
+  "yeet"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "The Lion King",
+ "origin": "An edit of the presentation scene from Disney's The Lion King (1994) in which Rafiki throws Simba instead of holding him up.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "264730488",
+  "code": "4dm3co",
+  "image": null,
+  "width": 250,
+  "height": 145,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 443,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

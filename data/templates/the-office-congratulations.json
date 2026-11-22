@@ -1,0 +1,62 @@
+{
+ "slug": "the-office-congratulations",
+ "name": "The Office Congratulations",
+ "aka": [
+  "The Office Handshake"
+ ],
+ "look": "A faded snapshot of a young Michael Scott from The Office, played by Steve Carell, with a long mullet, a short-sleeved white shirt, a blue striped tie and a blue fanny pack, shaking hands with a smiling older man in a dark suit in an office.",
+ "text": [],
+ "use": "An awkward, proud handshake used to congratulate someone, often ironically for a tiny or dubious achievement. The older man and young Michael are labeled as the two sides, or a caption describes the occasion.",
+ "slots": [
+  "who gives the congratulations (older man, left)",
+  "who is being congratulated (young Michael, right)"
+ ],
+ "examples": [
+  [
+   "My boss",
+   "Me for showing up on time once"
+  ],
+  [
+   "The gym",
+   "Me after my first visit in six months"
+  ]
+ ],
+ "describe": [
+  "young michael scott with a mullet shaking hands",
+  "steve carell with long hair and a fanny pack in an old photo",
+  "business handshake between a suited boss and a young guy with a mullet",
+  "dorky young salesman with a fanny pack meeting his boss",
+  "old office photo of a guy in a tie shaking hands proudly"
+ ],
+ "tags": [
+  "handshake",
+  "congratulations",
+  "mullet",
+  "office",
+  "sitcom",
+  "fanny pack"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "The Office (US)",
+ "origin": "A prop photo from The Office (US) showing Steve Carell as a young Michael Scott shaking hands with an older boss.",
+ "people": "actor",
+ "imgflip": {
+  "id": "153695877",
+  "code": "2ji8hx",
+  "image": "2ji8hx.jpg",
+  "width": 521,
+  "height": 496,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "206622427",
+   "name": "the office handshake"
+  }
+ ],
+ "rank_all_time": 179,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

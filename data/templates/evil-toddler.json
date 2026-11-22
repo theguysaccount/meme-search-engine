@@ -1,0 +1,55 @@
+{
+ "slug": "evil-toddler",
+ "name": "Evil Toddler",
+ "aka": [],
+ "look": "A toddler with dark hair, wearing a red, white and blue plaid shirt, sits on green grass beside a blurred pond. He grins widely with squinted eyes and clasps his hands together as if plotting something mischievous.",
+ "text": [],
+ "use": "Narrates a small, devious plan as if it were a villain's scheme. The top caption sets up a situation and the bottom caption reveals the sneaky trick, with the toddler giggling and rubbing his hands together.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the devious plan"
+ ],
+ "examples": [
+  [
+   "Mom says I can have a cookie after dinner",
+   "Eats dinner at 4 p.m."
+  ],
+  [
+   "Dad fell asleep on the couch",
+   "Time to change the Wi-Fi password"
+  ]
+ ],
+ "describe": [
+  "toddler laughing evilly and rubbing his hands",
+  "little kid in a plaid shirt with a mischievous grin",
+  "baby sitting in the grass plotting something",
+  "giggling child scheming outdoors",
+  "small boy with an evil laugh clasping his hands"
+ ],
+ "tags": [
+  "toddler",
+  "evil laugh",
+  "scheming",
+  "mischief",
+  "plaid shirt",
+  "grass"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "235589",
+  "code": "51s5",
+  "image": "51s5.jpg",
+  "width": 500,
+  "height": 331,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 76,
+ "sure": "high",
+ "added": "2026-11-22"
+}

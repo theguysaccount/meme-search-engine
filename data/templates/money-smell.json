@@ -1,0 +1,52 @@
+{
+ "slug": "money-smell",
+ "name": "Money Smell",
+ "aka": [
+  "Vince McMahon Smelling Money"
+ ],
+ "look": "A blurry, reddish still of Vince McMahon, the white-haired WWE boss, in a purple suit and pink tie, holding a thick banded stack of cash up to his face with his mouth open, as if sniffing it, against a dark background.",
+ "text": [],
+ "use": "A reaction for sniffing out money. It goes with a caption about a payday, a profitable idea or a deal too good to pass up, showing someone savoring the smell of cash.",
+ "slots": [
+  "the payday or moneymaking chance (caption above)"
+ ],
+ "examples": [
+  [
+   "When the tax refund finally hits my account"
+  ]
+ ],
+ "describe": [
+  "old man in a purple suit sniffing a stack of cash",
+  "wrestling boss smelling a wad of money",
+  "white haired guy holding dollar bills to his nose",
+  "vince mcmahon sniffing money gif",
+  "rich guy breathing in the smell of cash"
+ ],
+ "tags": [
+  "money",
+  "cash",
+  "smelling",
+  "wrestling",
+  "greed",
+  "purple suit",
+  "payday"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "WWE",
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "302239323",
+  "code": "4zy1cr",
+  "image": null,
+  "width": 250,
+  "height": 140,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 299,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

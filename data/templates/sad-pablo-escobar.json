@@ -1,0 +1,67 @@
+{
+ "slug": "sad-pablo-escobar",
+ "name": "Sad Pablo Escobar",
+ "aka": [
+  "Pablo Escobar Waiting",
+  "Narcos Waiting"
+ ],
+ "look": "Three stills of Wagner Moura as Pablo Escobar in Narcos, waiting alone. Top: he slumps on a yellow porch swing staring at nothing. Bottom left: he sits by himself at a table in a dim kitchen. Bottom right: he stands alone beside an empty swimming pool.",
+ "text": [],
+ "use": "The captions describe someone waiting for something that never comes, or feeling left out and alone, with the three stills stretching out a long, lonely, bored wait.",
+ "slots": [
+  "the situation (top panel)",
+  "the wait goes on (bottom left panel)",
+  "still waiting (bottom right panel)"
+ ],
+ "examples": [
+  [
+   "Me in the car after everyone said they were ready",
+   "20 minutes later",
+   "45 minutes later"
+  ],
+  [
+   "Me waiting for someone to laugh at my joke",
+   "Still waiting",
+   "Should I explain it?"
+  ]
+ ],
+ "describe": [
+  "sad man sitting alone on a swing waiting",
+  "guy waiting by himself in three different places",
+  "lonely man with a mustache standing by an empty pool",
+  "narcos guy bored and waiting alone",
+  "man sitting at a kitchen table alone in the dark"
+ ],
+ "tags": [
+  "waiting",
+  "lonely",
+  "bored",
+  "narcos",
+  "empty pool",
+  "sad",
+  "three panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Narcos",
+ "origin": "Stills of Wagner Moura as Pablo Escobar in the Netflix series Narcos.",
+ "people": "actor",
+ "imgflip": {
+  "id": "80707627",
+  "code": "1c1uej",
+  "image": "1c1uej.jpg",
+  "width": 720,
+  "height": 709,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "135745012",
+   "name": "Narcos waiting"
+  }
+ ],
+ "rank_all_time": 26,
+ "sure": "high",
+ "added": "2026-11-22"
+}

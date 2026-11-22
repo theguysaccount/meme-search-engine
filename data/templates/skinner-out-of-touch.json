@@ -1,0 +1,59 @@
+{
+ "slug": "skinner-out-of-touch",
+ "name": "Skinner Out of Touch",
+ "aka": [
+  "Am I So Out of Touch",
+  "No, It's the Children Who Are Wrong"
+ ],
+ "look": "Two stacked frames from The Simpsons. Principal Skinner, in a dark suit and red tie, stands before a city skyline with a dark curtain and cobwebs at the edges. Top: he strokes his chin in thought. Bottom: he stares ahead, wide-eyed and self-assured.",
+ "text": [],
+ "use": "Someone briefly wonders if they are the problem, then decides everyone else is wrong. The top caption voices the doubt, like \"Am I out of touch?\", and the bottom blames others: \"No, it's the ___ who are wrong.\"",
+ "slots": [
+  "the moment of self-doubt (top panel)",
+  "blaming everyone else instead (bottom panel)"
+ ],
+ "examples": [
+  [
+   "Is my phone always dead because I never charge it?",
+   "No, it's the battery that is wrong"
+  ],
+  [
+   "Am I bad at this game?",
+   "No, it's my teammates who are wrong"
+  ]
+ ],
+ "describe": [
+  "simpsons principal thinking then deciding everyone else is wrong",
+  "cartoon principal with hand on chin then wide eyed stare",
+  "man in suit wonders if he is the problem then blames others",
+  "two panel simpsons denial meme about the kids being wrong",
+  "simpsons character stroking his chin then looking confident"
+ ],
+ "tags": [
+  "simpsons",
+  "principal skinner",
+  "denial",
+  "out of touch",
+  "thinking",
+  "two panels",
+  "blame"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Simpsons",
+ "origin": "Principal Skinner's line \"Am I so out of touch? No, it's the children who are wrong\" from The Simpsons.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "93160967",
+  "code": "1jgrgn",
+  "image": "1jgrgn.jpg",
+  "width": 950,
+  "height": 1356,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 210,
+ "sure": "high",
+ "added": "2026-11-22"
+}

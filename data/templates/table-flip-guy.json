@@ -1,0 +1,59 @@
+{
+ "slug": "table-flip-guy",
+ "name": "Table Flip Guy",
+ "aka": [
+  "Flipping Tables",
+  "Table Flip"
+ ],
+ "look": "A black and white rage comic drawing of a stick figure with a round head, one wide eye and an open screaming mouth, rising from a chair as he flips a table up into the air, with scribbled motion lines showing the force.",
+ "text": [],
+ "use": "A reaction to extreme frustration. The caption names the last straw, and the figure flipping the table is the over-the-top response, often to a small annoyance that pushed someone over the edge.",
+ "slots": [
+  "top caption: the infuriating situation",
+  "bottom caption: the final straw"
+ ],
+ "examples": [
+  [
+   "The printer says paper jam",
+   "there is no paper jam"
+  ],
+  [
+   "Game crashes right after the boss fight",
+   "last save was two hours ago"
+  ]
+ ],
+ "describe": [
+  "stick figure flipping a table in a rage",
+  "cartoon guy angrily throws a desk over",
+  "rage comic person screaming and tossing a table",
+  "drawing of someone jumping out of a chair and flipping the table",
+  "angry doodle flipping furniture out of frustration"
+ ],
+ "tags": [
+  "rage comic",
+  "anger",
+  "frustration",
+  "black and white",
+  "stick figure",
+  "outburst",
+  "table"
+ ],
+ "kind": "drawing",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A rage comic drawing; the same outburst is also a well-known text emoticon of someone flipping a table.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "1380694",
+  "code": "tlcm",
+  "image": "tlcm.jpg",
+  "width": 450,
+  "height": 407,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 348,
+ "sure": "high",
+ "added": "2026-11-22"
+}

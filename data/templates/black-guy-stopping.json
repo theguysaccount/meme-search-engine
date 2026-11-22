@@ -1,0 +1,59 @@
+{
+ "slug": "black-guy-stopping",
+ "name": "Black Guy Stopping",
+ "aka": [],
+ "look": "Two stacked stills from a commercial on a city sidewalk. Top: a woman in a white striped crop top walks past a storefront as a man in a gray T-shirt turns to go after her. Bottom: a Black man in a red plaid shirt puts a hand on the gray-shirt man's chest to stop him.",
+ "text": [],
+ "use": "Someone is about to chase a tempting but bad idea and a friend stops them. Usually the woman is the temptation, the man in gray is the one tempted, and the man in plaid is the voice of reason or the responsibility holding him back.",
+ "slots": [
+  "the temptation (woman walking by, top)",
+  "the one tempted (man in gray)",
+  "whoever stops him (man in plaid, bottom)"
+ ],
+ "examples": [
+  [
+   "Buying another video game",
+   "Me on payday",
+   "The 40 games I haven't played yet"
+  ],
+  [
+   "A third slice of cake",
+   "Me at the party",
+   "My brand new gym membership"
+  ]
+ ],
+ "describe": [
+  "guy stops his friend from going after a woman walking by",
+  "man in a plaid shirt puts a hand on his buddy's chest",
+  "friend holding back another guy from chasing a girl",
+  "black man stops his friend from following a woman",
+  "two panel commercial where a man blocks his friend on the sidewalk"
+ ],
+ "tags": [
+  "stopping",
+  "friend",
+  "temptation",
+  "commercial",
+  "sidewalk",
+  "two panels",
+  "voice of reason"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "Gillette",
+ "origin": "From Gillette's 2019 ad The Best Men Can Be, in a scene where one man stops another from following a woman.",
+ "people": "models",
+ "imgflip": {
+  "id": "169798464",
+  "code": "2t3dc0",
+  "image": "2t3dc0.png",
+  "width": 628,
+  "height": 960,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 355,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

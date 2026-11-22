@@ -1,0 +1,62 @@
+{
+ "slug": "im-something-of-a-scientist-myself",
+ "name": "I'm Something Of A Scientist Myself",
+ "aka": [
+  "You Know, I'm Something Of A Scientist Myself"
+ ],
+ "look": "A film still of Willem Dafoe as Norman Osborn, a smiling man with swept-back reddish-brown hair in a navy suit, light blue shirt and striped tie. He looks pleased with himself on a sunny college campus, with parked cars and students behind him.",
+ "text": [],
+ "use": "Claiming expertise based on minimal or silly experience. The top caption describes a small or dubious thing you did, and the bottom says you know, I'm something of a ___ myself.",
+ "slots": [
+  "the small or silly thing you did (top)",
+  "you know, I'm something of a ___ myself (bottom)"
+ ],
+ "examples": [
+  [
+   "Mixes two energy drinks together",
+   "You know, I'm something of a chemist myself"
+  ],
+  [
+   "Watched one cooking video",
+   "You know, I'm something of a chef myself"
+  ]
+ ],
+ "describe": [
+  "willem dafoe grinning about being an expert too",
+  "green goblin actor in a suit smirking on a campus",
+  "norman osborn proudly claiming to be a scientist",
+  "spider-man movie guy in a blue tie looking smug",
+  "man in a suit smiling like he's an expert"
+ ],
+ "tags": [
+  "expert",
+  "scientist",
+  "smug",
+  "suit",
+  "movie still",
+  "spider-man"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Spider-Man",
+ "origin": "Willem Dafoe as Norman Osborn in Sam Raimi's 2002 film Spider-Man, telling Peter Parker he is something of a scientist himself.",
+ "people": "actor",
+ "imgflip": {
+  "id": "133946291",
+  "code": "27qxmb",
+  "image": "27qxmb.jpg",
+  "width": 1200,
+  "height": 600,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "178433874",
+   "name": "You know, I'm something of a _ myself"
+  }
+ ],
+ "rank_all_time": 190,
+ "sure": "high",
+ "added": "2026-11-22"
+}

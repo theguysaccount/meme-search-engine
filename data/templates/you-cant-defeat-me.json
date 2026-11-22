@@ -1,0 +1,64 @@
+{
+ "slug": "you-cant-defeat-me",
+ "name": "You Can't Defeat Me",
+ "aka": [
+  "I Know But He Can"
+ ],
+ "look": "Three stacked stills from Thor: Ragnarok. Top: Cate Blanchett as Hela, in a black antler headdress, says You can't defeat me. Middle: Chris Hemsworth as Thor, under a stormy sky, replies I know, but he can. Bottom: the city of Asgard explodes in flames.",
+ "text": [
+  "You can't defeat me.",
+  "I know, but he can."
+ ],
+ "use": "Someone can't beat a problem themselves, so they unleash something bigger that can. Hela is the opponent, Thor is you, and the exploding city shows the overkill solution doing the job, often wrecking everything along with it.",
+ "slots": [
+  "label on Hela: the unbeatable problem",
+  "label on Thor: the one who can't win",
+  "label on the explosion: the bigger force that can"
+ ],
+ "examples": [
+  [
+   "The stuck jar lid",
+   "Me",
+   "Dad"
+  ],
+  [
+   "A tiny spider in the bathroom",
+   "Me",
+   "An entire can of bug spray"
+  ]
+ ],
+ "describe": [
+  "thor tells hela someone else can beat her and the city explodes",
+  "villain with an antler crown says you can't defeat me",
+  "marvel scene where thor admits he can't win but someone else can",
+  "three panels with a goddess villain, thor and a city blowing up",
+  "hero says i can't beat you but he can then everything explodes"
+ ],
+ "tags": [
+  "marvel",
+  "thor",
+  "hela",
+  "overkill",
+  "explosion",
+  "three panels",
+  "loophole"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "Marvel",
+ "origin": "From Marvel's Thor: Ragnarok (2017): Thor admits he can't beat Hela, but the fire demon Surtur can, and Surtur destroys Asgard.",
+ "people": "actor",
+ "imgflip": {
+  "id": "146594491",
+  "code": "2fa117",
+  "image": "2fa117.jpg",
+  "width": 680,
+  "height": 830,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 378,
+ "sure": "high",
+ "added": "2026-11-22"
+}

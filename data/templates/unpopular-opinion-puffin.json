@@ -1,0 +1,52 @@
+{
+ "slug": "unpopular-opinion-puffin",
+ "name": "Unpopular Opinion Puffin",
+ "aka": [],
+ "look": "A photo of an Atlantic puffin, black and white with a bright orange beak and orange feet, stepping across green grass with one foot raised high and its head tilted down, against a blurred dark background.",
+ "text": [],
+ "use": "An advice-animal macro for confessing an opinion most people disagree with. The top line usually sets up the topic and the bottom line delivers the unpopular take.",
+ "slots": [
+  "the topic or setup (top)",
+  "the unpopular opinion (bottom)"
+ ],
+ "examples": [
+  [
+   "Unpopular opinion",
+   "Breakfast for dinner beats dinner for dinner"
+  ]
+ ],
+ "describe": [
+  "puffin walking on grass with one foot up",
+  "black and white bird with an orange beak stepping awkwardly",
+  "seabird strutting with its leg raised",
+  "cute puffin mid step on green grass",
+  "bird meme for confessing a controversial take"
+ ],
+ "tags": [
+  "puffin",
+  "bird",
+  "animal",
+  "advice animal",
+  "opinion",
+  "grass",
+  "orange beak"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "An advice-animal image macro built on a nature photo of an Atlantic puffin.",
+ "people": "none",
+ "imgflip": {
+  "id": "7761261",
+  "code": "4mcml",
+  "image": "4mcml.jpg",
+  "width": 620,
+  "height": 465,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 308,
+ "sure": "high",
+ "added": "2026-11-22"
+}

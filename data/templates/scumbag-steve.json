@@ -1,0 +1,55 @@
+{
+ "slug": "scumbag-steve",
+ "name": "Scumbag Steve",
+ "aka": [],
+ "look": "A flash photo of a young man standing in a doorway, staring at the camera with a blank, slightly smug look. He wears a brown patterned flat-brim cap tilted to the side, a gold chain, a brown shirt and a dark coat with a big fur collar.",
+ "text": [],
+ "use": "A classic advice-animal macro about an inconsiderate moocher. The top line sets up a normal favor or situation, and the bottom line shows Steve taking advantage of it in the most selfish way.",
+ "slots": [
+  "the setup (top)",
+  "the selfish twist (bottom)"
+ ],
+ "examples": [
+  [
+   "Borrows your phone charger",
+   "Takes it home"
+  ],
+  [
+   "Asks to split the pizza evenly",
+   "Eats five slices"
+  ]
+ ],
+ "describe": [
+  "guy in a doorway with a fur coat and sideways hat",
+  "young man with a patterned cap and gold chain staring",
+  "dude in a fur hood jacket standing in a door frame",
+  "old advice animal guy who borrows stuff and never returns it",
+  "kid in a brown flat brim hat looking smug"
+ ],
+ "tags": [
+  "advice animal",
+  "moocher",
+  "fur coat",
+  "hat",
+  "doorway",
+  "selfish"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "One of the classic advice-animal image macros, built on a snapshot of a young man posing in a doorway.",
+ "people": "private",
+ "imgflip": {
+  "id": "61522",
+  "code": "1bgy",
+  "image": "1bgy.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 185,
+ "sure": "high",
+ "added": "2026-11-22"
+}

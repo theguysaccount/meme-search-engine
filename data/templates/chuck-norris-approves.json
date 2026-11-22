@@ -1,0 +1,60 @@
+{
+ "slug": "chuck-norris-approves",
+ "name": "Chuck Norris Approves",
+ "aka": [
+  "Chuck Norris Thumbs Up"
+ ],
+ "look": "Chuck Norris, in a gray polo shirt with a badge on a lanyard, sits at a judges' table and gives a confident thumbs up with a slight smile. A red name card reading Chuck Norris and a blue Pepsi cup sit in front of him, with onlookers behind.",
+ "text": [
+  "Chuck Norris"
+ ],
+ "use": "A stamp of approval from the toughest judge there is. The caption names something bold, manly or impressively hardcore, and Chuck Norris's thumbs-up says it passes, often riffing on the old Chuck Norris facts jokes.",
+ "slots": [
+  "top caption: the bold thing being judged",
+  "bottom caption: the verdict, such as approved"
+ ],
+ "examples": [
+  [
+   "Doing push-ups during the movie trailers",
+   "Approved"
+  ],
+  [
+   "Fixed the printer by staring at it until it worked",
+   "Respect"
+  ]
+ ],
+ "describe": [
+  "martial arts star sitting at a table giving a thumbs up",
+  "action star behind a red name card approving something",
+  "tough guy judge with a pepsi cup gives thumbs up",
+  "bearded man on a judging panel with his thumb raised",
+  "red name card on the table that says chuck norris"
+ ],
+ "tags": [
+  "chuck norris",
+  "thumbs up",
+  "approval",
+  "judge",
+  "name card",
+  "cameo",
+  "dodgeball"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Dodgeball: A True Underdog Story",
+ "origin": "Chuck Norris's cameo as himself, casting a thumbs-up vote at the judges' table in the 2004 comedy Dodgeball: A True Underdog Story.",
+ "people": "public",
+ "imgflip": {
+  "id": "241304",
+  "code": "566w",
+  "image": "566w.jpg",
+  "width": 379,
+  "height": 247,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 436,
+ "sure": "high",
+ "added": "2026-11-22"
+}

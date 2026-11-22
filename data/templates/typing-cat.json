@@ -1,0 +1,55 @@
+{
+ "slug": "typing-cat",
+ "name": "Typing Cat",
+ "aka": [
+  "Typing Kitty"
+ ],
+ "look": "Video still of a black-and-white tuxedo cat sitting at a wooden kitchen table with both white paws on the keyboard of an open silver Apple laptop, as if typing busily. Kitchen counters, jars and a picture frame are in the background.",
+ "text": [],
+ "use": "Stands for someone typing furiously, like writing an angry reply online, rushing an assignment or pretending to be busy at work. The caption names who is typing and why.",
+ "slots": [
+  "who is typing and why (caption above)"
+ ],
+ "examples": [
+  [
+   "Me writing five paragraphs to someone who said cereal is soup"
+  ],
+  [
+   "Me finishing the report at 11:59 p.m."
+  ]
+ ],
+ "describe": [
+  "black and white cat typing fast on a laptop",
+  "kitten furiously hitting the keys of a macbook at the kitchen table",
+  "cat using a computer keyboard with its paws",
+  "cat working hard on a laptop gif",
+  "tuxedo cat pretending to type an angry reply"
+ ],
+ "tags": [
+  "cat",
+  "laptop",
+  "typing",
+  "computer",
+  "busy",
+  "internet",
+  "gif"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "260948664",
+  "code": "4bd1a0",
+  "image": null,
+  "width": 250,
+  "height": 250,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 395,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

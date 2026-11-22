@@ -1,0 +1,58 @@
+{
+ "slug": "nut-button",
+ "name": "Nut Button",
+ "aka": [
+  "Blank Nut Button"
+ ],
+ "look": "A close-up of a hand, blurred with motion, about to slap a big round blue push button mounted on a silver metal base, against a plain black background.",
+ "text": [],
+ "use": "The button is labeled with something irresistible and the slapping hand, often labeled me, shows someone smashing it instantly and eagerly the moment that thing comes along.",
+ "slots": [
+  "who smashes it (on the hand, top right)",
+  "the irresistible thing (on the button, bottom left)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "Skip intro"
+  ],
+  [
+   "My dog",
+   "The word walk"
+  ]
+ ],
+ "describe": [
+  "hand slapping a big blue button",
+  "someone smashing a blue push button really fast",
+  "palm about to hit a round blue button on a black background",
+  "blurry hand slamming down on a button",
+  "big blue arcade style button getting pressed hard"
+ ],
+ "tags": [
+  "button",
+  "blue button",
+  "hand",
+  "smash",
+  "eager",
+  "instant reaction",
+  "black background"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "119139145",
+  "code": "1yxkcp",
+  "image": "1yxkcp.jpg",
+  "width": 600,
+  "height": 446,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 23,
+ "sure": "high",
+ "added": "2026-11-22"
+}

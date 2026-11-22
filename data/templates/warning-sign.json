@@ -1,0 +1,54 @@
+{
+ "slug": "warning-sign",
+ "name": "Warning Sign",
+ "aka": [],
+ "look": "A square orange warning sign with a thin black border. A black band across the top holds a red oval outlined in orange with the word \"Warning\" in bold black letters. The rest of the sign is a large blank orange area.",
+ "text": [
+  "Warning"
+ ],
+ "use": "Your text goes in the blank orange area as a joke warning about yourself, someone else or a situation, written like an official safety notice.",
+ "slots": [
+  "the warning message (blank orange area)"
+ ],
+ "examples": [
+  [
+   "Do not talk to me before my first coffee"
+  ],
+  [
+   "May contain unsolicited opinions about pizza toppings"
+  ]
+ ],
+ "describe": [
+  "orange sign with a red oval at the top and blank space",
+  "blank caution sign template with warning written at the top",
+  "joke safety notice sign with an empty orange area",
+  "hazard sign template to write your own message",
+  "orange and black notice board with a red header"
+ ],
+ "tags": [
+  "sign",
+  "warning",
+  "caution",
+  "orange",
+  "template",
+  "blank"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "2493067",
+  "code": "1hfnv",
+  "image": "1hfnv.jpg",
+  "width": 350,
+  "height": 348,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 428,
+ "sure": "high",
+ "added": "2026-11-22"
+}

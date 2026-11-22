@@ -1,0 +1,50 @@
+{
+ "slug": "bird-box",
+ "name": "Bird Box",
+ "aka": [],
+ "look": "Sandra Bullock, wearing a blue blindfold and a rose-copper puffer jacket, rows a small boat on a foggy gray river. Two blindfolded children sit in front of her with their backs to the camera, one with a pink cloth over her eyes.",
+ "text": [],
+ "use": "Refusing to look at something. The caption names a thing you are deliberately avoiding, like spoilers, your bank balance or your exam grade, and the blindfolded rowing shows you pushing on without seeing it.",
+ "slots": [
+  "what you refuse to look at (caption above)"
+ ],
+ "examples": [
+  [
+   "Me paying at the checkout without looking at the total"
+  ]
+ ],
+ "describe": [
+  "blindfolded woman rowing a boat with two kids",
+  "sandra bullock with a blindfold on in a rowboat",
+  "lady with her eyes covered paddling through fog",
+  "mom and children blindfolded on a river",
+  "woman wearing a blue cloth over her eyes in a boat"
+ ],
+ "tags": [
+  "blindfold",
+  "boat",
+  "avoidance",
+  "fog",
+  "netflix",
+  "movie scene",
+  "river"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Bird Box",
+ "origin": "From the 2018 Netflix thriller Bird Box, in which Sandra Bullock's character rows blindfolded down a river with two children.",
+ "people": "actor",
+ "imgflip": {
+  "id": "164335977",
+  "code": "2puag9",
+  "image": "2puag9.jpg",
+  "width": 1400,
+  "height": 1400,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 310,
+ "sure": "high",
+ "added": "2026-11-22"
+}

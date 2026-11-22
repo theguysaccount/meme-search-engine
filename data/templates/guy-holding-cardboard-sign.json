@@ -1,0 +1,54 @@
+{
+ "slug": "guy-holding-cardboard-sign",
+ "name": "Guy Holding Cardboard Sign",
+ "aka": [
+  "Man Holding Cardboard Sign"
+ ],
+ "look": "Street photo of a young man with curly brown hair, round dark sunglasses and a black sweater holding a blank cardboard sign high over his head in front of a red brick wall. People in knit beanies walk past in the foreground.",
+ "text": [],
+ "use": "Your text goes on the blank sign, usually an unpopular opinion, a protest about something petty, or an announcement nobody asked for.",
+ "slots": [
+  "the message (on the cardboard sign)"
+ ],
+ "examples": [
+  [
+   "Bring back headphone jacks"
+  ],
+  [
+   "Raisins do not belong in cookies"
+  ]
+ ],
+ "describe": [
+  "guy holding up a blank cardboard sign on the street",
+  "man in sunglasses holding a sign above his head by a brick wall",
+  "protester raising an empty cardboard sign on a city sidewalk",
+  "curly haired dude with round shades and a blank sign",
+  "people walking past a man holding cardboard over his head"
+ ],
+ "tags": [
+  "sign",
+  "protest",
+  "street",
+  "cardboard",
+  "opinion",
+  "brick wall"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "504321965",
+  "code": "8c9dbh",
+  "image": "8c9dbh.jpg",
+  "width": 474,
+  "height": 474,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 416,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

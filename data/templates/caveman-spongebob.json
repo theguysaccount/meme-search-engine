@@ -1,0 +1,59 @@
+{
+ "slug": "caveman-spongebob",
+ "name": "Caveman SpongeBob",
+ "aka": [
+  "Spongegar",
+  "Primitive Sponge"
+ ],
+ "look": "A blurry SpongeBob SquarePants frame of SpongeBob as a primitive caveman in a brown loincloth. He hunches with arms spread and fingers curled, heavy brows furrowed and big lips hanging open with his tongue out, while a pink figure stands behind him in the dark.",
+ "text": [],
+ "use": "Shows a primitive, brainless or instinct-driven reaction. The caption describes someone reduced to caveman behavior, like spotting free food, hearing a strange noise or facing technology they don't understand.",
+ "slots": [
+  "the trigger (caption at top)",
+  "the caveman reaction (caption at bottom)"
+ ],
+ "examples": [
+  [
+   "Me seeing free pizza in the break room",
+   "Food. Me take."
+  ],
+  [
+   "Me after an hour of trying to fix the printer",
+   "Printer bad. Hit printer."
+  ]
+ ],
+ "describe": [
+  "spongebob as a caveman with big lips and tongue out",
+  "hunched prehistoric spongebob in a loincloth",
+  "spongebob with bushy eyebrows looking dumb and primal",
+  "caveman sponge grunting ooga booga",
+  "old blurry spongebob in a monkey pose with arms out"
+ ],
+ "tags": [
+  "spongebob",
+  "caveman",
+  "primitive",
+  "dumb",
+  "loincloth",
+  "prehistoric",
+  "blurry"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A frame of SpongeBob as a hunched caveman from a prehistoric-themed SpongeBob SquarePants episode.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "68690826",
+  "code": "14wa6i",
+  "image": "14wa6i.jpg",
+  "width": 250,
+  "height": 154,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 222,
+ "sure": "high",
+ "added": "2026-11-22"
+}

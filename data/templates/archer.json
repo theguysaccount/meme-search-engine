@@ -1,0 +1,58 @@
+{
+ "slug": "archer",
+ "name": "Archer",
+ "aka": [
+  "That's How You Get Ants",
+  "Sterling Archer"
+ ],
+ "look": "A cartoon still of Sterling Archer from the animated series Archer: a square-jawed man with slicked-back black hair, blue eyes and a cleft chin, in a gray suit and dark tie, looking at the viewer with a smug, self-assured expression in a mid-century office.",
+ "text": [],
+ "use": "Smug warnings and one-liners from the arrogant spy. The best-known version asks do you want something, then answers because that's how you get it, pointing out an obvious consequence.",
+ "slots": [
+  "the setup, often do you want ___? (top)",
+  "the punchline, often because that's how you get ___ (bottom)"
+ ],
+ "examples": [
+  [
+   "Do you want a 47-email thread?",
+   "Because hitting reply all is how you get a 47-email thread"
+  ],
+  [
+   "Do you want ants?",
+   "Because leaving pizza crusts under the couch is how you get ants"
+  ]
+ ],
+ "describe": [
+  "cartoon spy in a gray suit looking smug",
+  "cartoon spy with a cleft chin staring confidently",
+  "animated secret agent with slicked back black hair",
+  "smug spy cartoon asking do you want ants",
+  "square jawed cartoon guy in a suit and tie"
+ ],
+ "tags": [
+  "archer",
+  "spy",
+  "smug",
+  "cartoon",
+  "suit",
+  "warning"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Archer",
+ "origin": "Sterling Archer, the spy voiced by H. Jon Benjamin in the FX animated series Archer.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "10628640",
+  "code": "6bt40",
+  "image": "6bt40.jpg",
+  "width": 620,
+  "height": 567,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 183,
+ "sure": "high",
+ "added": "2026-11-22"
+}

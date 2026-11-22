@@ -98,7 +98,10 @@ class FreshBuild(unittest.TestCase):
 
     def test_text_only_template_shows_no_picture(self):
         page = self.read(f"meme/{self.text_only['slug']}/index.html")
-        self.assertNotIn("i.imgflip.com", page)
+        code = self.text_only["imgflip"]["code"]
+        self.assertNotIn(f"i.imgflip.com/{code}.", page)
+        self.assertNotIn(f"i.imgflip.com/4/{code}.", page)
+        self.assertIn("doesn't show the picture", page)
         index = json.loads(self.read("api/v1/search-index.json"))
         rec = next(r for r in index["templates"] if r.get("s") == self.text_only["slug"])
         self.assertNotIn("i", rec)

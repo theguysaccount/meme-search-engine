@@ -1,0 +1,58 @@
+{
+ "slug": "two-paths",
+ "name": "Two Paths",
+ "aka": [],
+ "look": "A cartoon of a boy in a blue shirt and shorts, seen from behind, standing where a dirt road splits in two at a blank wooden signpost. The left path leads to a sunny white castle under blue sky, the right to a dark castle under storm clouds and lightning.",
+ "text": [],
+ "use": "A choice between a good option and a bad one. The sunny path gets the sensible or wholesome choice, the stormy path gets the tempting or terrible one, and the boy is whoever has to decide, often picking the dark path.",
+ "slots": [
+  "the good choice (sunny castle path, left)",
+  "the bad choice (dark castle path, right)",
+  "who has to choose (the boy)"
+ ],
+ "examples": [
+  [
+   "Go to bed at 10",
+   "Start a new series at midnight",
+   "Me"
+  ],
+  [
+   "Save money",
+   "Buy another hoodie",
+   "Me on payday"
+  ]
+ ],
+ "describe": [
+  "boy standing at a fork in the road with two castles",
+  "kid choosing between a bright castle and a dark spooky castle",
+  "crossroads with a sunny path and a stormy path",
+  "cartoon of two roads, one good and one evil",
+  "signpost pointing to a happy castle and a haunted castle"
+ ],
+ "tags": [
+  "choice",
+  "road fork",
+  "castle",
+  "good vs evil",
+  "decision",
+  "crossroads"
+ ],
+ "kind": "comic",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "309668311",
+  "code": "54d9lj",
+  "image": "54d9lj.png",
+  "width": 416,
+  "height": 416,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 192,
+ "sure": "high",
+ "added": "2026-11-22"
+}

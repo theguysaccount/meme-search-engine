@@ -1,0 +1,56 @@
+{
+ "slug": "cute-cat",
+ "name": "Cute Cat",
+ "aka": [],
+ "look": "A photo of a fluffy orange tabby kitten with a white chest standing upright on its hind legs on a beige carpet. It looks up at the camera with big round dark eyes and a pleading expression, next to a white table leg.",
+ "text": [],
+ "use": "The kitten's begging, innocent face is used for pleading requests or for acting innocent. The caption asks for something sweetly or pretends to know nothing about a mess.",
+ "slots": [
+  "the setup or request (top)",
+  "the pleading or innocent line (bottom)"
+ ],
+ "examples": [
+  [
+   "When you hear the snack bag open",
+   "Can I have some? Pretty please?"
+  ],
+  [
+   "Me asking for one more extension",
+   "On the deadline I already moved twice"
+  ]
+ ],
+ "describe": [
+  "orange kitten standing on its back legs looking up",
+  "tiny ginger cat standing up begging with big eyes",
+  "small cat standing upright like a person asking for something",
+  "adorable kitten with sad eyes standing on carpet",
+  "baby cat on two legs with a pleading face"
+ ],
+ "tags": [
+  "kitten",
+  "cat",
+  "cute",
+  "begging",
+  "orange",
+  "standing",
+  "big eyes"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "8279814",
+  "code": "4xgqu",
+  "image": "4xgqu.jpg",
+  "width": 480,
+  "height": 532,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 151,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

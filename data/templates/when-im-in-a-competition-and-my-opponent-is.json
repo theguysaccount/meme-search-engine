@@ -1,0 +1,62 @@
+{
+ "slug": "when-im-in-a-competition-and-my-opponent-is",
+ "name": "When I'm in a Competition and My Opponent Is",
+ "aka": [
+  "Whe I'm in a Competition and My Opponent Is"
+ ],
+ "look": "Bold black text on a white strip reads \"when I'm in a\", then a gap, then \"competition and my opponent is\". Below it, a blurry, low-quality SpongeBob SquarePants frame shows Squidward's pale face up close with huge, round, dazed eyes against a blue underwater background.",
+ "text": [
+  "when I'm in a",
+  "competition and my opponent is"
+ ],
+ "use": "Fill the gap with a silly contest, like being late or staring, and label the picture below as the opponent, someone or something that would obviously win. The dazed Squidward stands in for that unbeatable rival.",
+ "slots": [
+  "the kind of contest (in the gap before \"competition\")",
+  "the unbeatable opponent (label on the Squidward picture)"
+ ],
+ "examples": [
+  [
+   "being late",
+   "my friend who texts \"on my way\" from the shower"
+  ],
+  [
+   "loudest sneeze",
+   "my dad"
+  ]
+ ],
+ "describe": [
+  "squidward with big dazed eyes under text about a competition",
+  "blurry squidward face staring with wide round eyes",
+  "low quality spongebob picture of squidward looking stunned",
+  "meme text says when im in a competition and my opponent is",
+  "squidward hypnotized look as the unbeatable opponent",
+  "fill in the blank contest meme with a weird squidward picture"
+ ],
+ "tags": [
+  "squidward",
+  "spongebob",
+  "competition",
+  "opponent",
+  "dazed",
+  "blurry",
+  "fill-in caption"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "Uses a blurry, zoomed-in frame of Squidward from SpongeBob SquarePants under a fill-in-the-blank caption.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "360597639",
+  "code": "5youx3",
+  "image": "5youx3.jpg",
+  "width": 916,
+  "height": 900,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 193,
+ "sure": "high",
+ "added": "2026-11-22"
+}

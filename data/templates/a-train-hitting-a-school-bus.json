@@ -1,0 +1,60 @@
+{
+ "slug": "a-train-hitting-a-school-bus",
+ "name": "A Train Hitting a School Bus",
+ "aka": [
+  "Train Hitting School Bus"
+ ],
+ "look": "Two panels stacked vertically from grainy video. Top: a yellow and gray freight locomotive rolls toward a yellow school bus stopped across the railroad tracks. Bottom: the locomotive slams into the side of the bus, which crumples and blurs as debris flies.",
+ "text": [
+  "SCHOOL BUS"
+ ],
+ "use": "Something unstoppable flattens something that never saw it coming. The train is labeled with the overwhelming force and the bus with whatever gets wrecked, like plans, a diet or a good mood.",
+ "slots": [
+  "label on the train: the unstoppable force",
+  "label on the school bus: what gets destroyed"
+ ],
+ "examples": [
+  [
+   "One surprise bill",
+   "My savings plan for the month"
+  ],
+  [
+   "The smell of fresh cookies",
+   "My diet"
+  ]
+ ],
+ "describe": [
+  "train smashing into a yellow school bus on the tracks",
+  "locomotive crashes into a bus that says school bus on top",
+  "two panel freight train about to hit a bus then wrecking it",
+  "yellow bus stuck on a railroad crossing gets destroyed",
+  "big train plowing straight through a bus"
+ ],
+ "tags": [
+  "train",
+  "school bus",
+  "crash",
+  "destruction",
+  "railroad",
+  "two panel",
+  "unstoppable"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "247113703",
+  "code": "434i5j",
+  "image": "434i5j.png",
+  "width": 920,
+  "height": 1086,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 102,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

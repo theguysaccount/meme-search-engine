@@ -1,0 +1,58 @@
+{
+ "slug": "socially-awesome-awkward-penguin",
+ "name": "Socially Awesome Awkward Penguin",
+ "aka": [
+  "Socially Awkward Penguin"
+ ],
+ "look": "A black-and-white penguin walks to the right with one flipper held out, cut out over a split background. The top half, behind its head and chest, is red with faint radiating rays, and the bottom half, behind its belly and feet, is blue.",
+ "text": [],
+ "use": "A two-line story about a social moment. The top caption, on red, describes something smooth or confident, and the bottom caption, on blue, shows how it immediately turned awkward.",
+ "slots": [
+  "the smooth, confident move (top, on red)",
+  "the awkward way it went wrong (bottom, on blue)"
+ ],
+ "examples": [
+  [
+   "Holds the door open for someone",
+   "They're still thirty feet away, so we both do the awkward half jog"
+  ],
+  [
+   "Remembers the new coworker's name on day one",
+   "Finds out a month later it was the wrong name"
+  ]
+ ],
+ "describe": [
+  "penguin on a half red half blue background",
+  "walking penguin with red top and blue bottom",
+  "penguin meme where it starts cool and ends embarrassing",
+  "advice animal penguin with two color split background",
+  "black and white penguin red above blue below"
+ ],
+ "tags": [
+  "penguin",
+  "advice animal",
+  "awkward",
+  "red",
+  "blue",
+  "split background",
+  "social"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Combines two advice-animal penguin memes: the red Socially Awesome Penguin on top and the blue Socially Awkward Penguin below.",
+ "people": "none",
+ "imgflip": {
+  "id": "61584",
+  "code": "1bio",
+  "image": "1bio.jpg",
+  "width": 576,
+  "height": 577,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 196,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "kong-godzilla-doge",
+ "name": "Kong Godzilla Doge",
+ "aka": [],
+ "look": "Two stacked panels from Godzilla vs. Kong poster art. Top: Godzilla and King Kong brawl on a burning aircraft carrier at sea. Bottom: the two monsters stand together facing right as a small, edited-in Shiba Inu, Cheems, raises a baseball bat over his head to attack.",
+ "text": [],
+ "use": "Two rivals fight each other in the top panel. In the bottom they face a small but determined third party, Cheems with a bat, who is ready to take on both of them.",
+ "slots": [
+  "first rival (Godzilla, top)",
+  "second rival (Kong, top)",
+  "the third party swinging at both (Cheems, bottom)"
+ ],
+ "examples": [
+  [
+   "Cats",
+   "Dogs",
+   "The vacuum cleaner"
+  ],
+  [
+   "Team pizza",
+   "Team burgers",
+   "Me who just wants tacos"
+  ]
+ ],
+ "describe": [
+  "godzilla and king kong fighting then a shiba dog with a bat",
+  "two giant monsters brawling and a small dog ready to swing a baseball bat",
+  "monster fight on an aircraft carrier with a doge joining in",
+  "little shiba inu with a bat taking on both monsters",
+  "monster battle meme where a dog shows up to fight both"
+ ],
+ "tags": [
+  "godzilla",
+  "king kong",
+  "cheems",
+  "fight",
+  "monsters",
+  "rivals",
+  "baseball bat"
+ ],
+ "kind": "render",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Godzilla vs. Kong",
+ "origin": "Promotional art for Godzilla vs. Kong (2021), edited so that Cheems the Shiba Inu joins the fight with a baseball bat.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "299167033",
+  "code": "4y46rd",
+  "image": "4y46rd.jpg",
+  "width": 1080,
+  "height": 1060,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 420,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

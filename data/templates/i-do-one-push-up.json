@@ -1,0 +1,61 @@
+{
+ "slug": "i-do-one-push-up",
+ "name": "I Do One Push-Up",
+ "aka": [
+  "Every Time I Do One Push-Up"
+ ],
+ "look": "A four-panel comic in a 2x2 grid. A small guy with bushy orange hair and a yellow T-shirt asks a huge, muscular white figure with a tiny smiling face how he got like that. The buff figure says \"Every time...\", then \"...I do one push-up\", and the small guy answers \"Jesus Christ.\"",
+ "text": [
+  "WOW! HOW DID YOU GET LIKE THAT?",
+  "EVERY TIME",
+  "...",
+  "...I DO ONE PUSH-UP.",
+  "JESUS CHRIST."
+ ],
+ "use": "The buff character explains that he does one push-up every time a certain thing happens. The joke is that the event is so frequent, annoying or relatable that it has made him enormous.",
+ "slots": [
+  "the very frequent event, after \"every time\" (top right speech bubble)"
+ ],
+ "examples": [
+  [
+   "someone in a meeting says \"let's circle back\""
+  ],
+  [
+   "my phone warns me my storage is almost full"
+  ]
+ ],
+ "describe": [
+  "super buff white guy says he does one push up every time",
+  "comic of a muscular blob man and an orange haired guy",
+  "huge muscle man explaining his workout in a four panel comic",
+  "jacked cartoon man with a tiny smiling face",
+  "guy got huge from something that happens all the time"
+ ],
+ "tags": [
+  "comic",
+  "muscles",
+  "workout",
+  "push-up",
+  "frequency",
+  "four panel",
+  "buff"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "254366901",
+  "code": "47fyr9",
+  "image": "47fyr9.jpg",
+  "width": 486,
+  "height": 477,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 326,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "npc-meme",
+ "name": "NPC Meme",
+ "aka": [
+  "NPC Wojak"
+ ],
+ "look": "Four panels in a 2x2 grid on light blue. Top left: a gray, expressionless NPC Wojak face speaks. Top right: a simple white smiling head replies. Bottom left: the gray face stares blankly. Bottom right: the gray face frowns with angry slanted eyebrows.",
+ "text": [],
+ "use": "The gray NPC repeats a stock opinion, the other person points out a flaw, the NPC goes silent, and then it gets angry instead of thinking it over.",
+ "slots": [
+  "what the gray NPC says (top left)",
+  "the reply from the white head (top right)",
+  "the NPC processing (bottom left, often blank)",
+  "the NPC's angry answer (bottom right)"
+ ],
+ "examples": [
+  [
+   "Video games rot your brain",
+   "Didn't you play phone solitaire for six hours yesterday?",
+   "...",
+   "That's different"
+  ]
+ ],
+ "describe": [
+  "gray face character gets angry in a four panel comic",
+  "expressionless gray wojak argues with a smiling white guy",
+  "blank gray face then angry eyebrows comic on light blue",
+  "4 panel comic gray head talking then mad",
+  "simple gray head can't handle being questioned"
+ ],
+ "tags": [
+  "wojak",
+  "argument",
+  "four panels",
+  "angry",
+  "gray face",
+  "comic"
+ ],
+ "kind": "drawing",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "The gray NPC Wojak face comes from 4chan and became a widespread meme in 2018.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "154558741",
+  "code": "2k0qad",
+  "image": "2k0qad.jpg",
+  "width": 720,
+  "height": 686,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 401,
+ "sure": "high",
+ "added": "2026-11-22"
+}

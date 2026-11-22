@@ -1,0 +1,58 @@
+{
+ "slug": "ol-reliable",
+ "name": "Ol' Reliable",
+ "aka": [],
+ "look": "Two stacked panels from SpongeBob SquarePants on green grass. Top: SpongeBob, mouth open, holds a dark blue case labeled OL' RELIABLE in glowing blue letters. Bottom: he opens the case and light rays and sparkles burst from its empty cream-colored inside.",
+ "text": [
+  "OL' RELIABLE"
+ ],
+ "use": "The case holds someone's trusty, never-fails fallback. The top names the situation, and your text or picture goes inside the glowing open case, showing the go-to move you always rely on, like a favorite excuse, snack or game strategy.",
+ "slots": [
+  "top panel: the situation",
+  "bottom panel: your trusty go-to, inside the open case"
+ ],
+ "examples": [
+  [
+   "Wi-Fi stops working",
+   "Unplugging the router and plugging it back in"
+  ],
+  [
+   "Teacher asks where my homework is",
+   "My dog ate it"
+  ]
+ ],
+ "describe": [
+  "spongebob opening a glowing case with sparkles",
+  "sponge holding a blue briefcase with light shining out",
+  "cartoon sponge pulls his trusty favorite out of a box",
+  "case that says ol reliable glowing when opened",
+  "spongebob reveals his go-to item in a shiny case"
+ ],
+ "tags": [
+  "spongebob",
+  "briefcase",
+  "glowing",
+  "trusty",
+  "go-to",
+  "two panels",
+  "sparkles"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A scene from SpongeBob SquarePants in which SpongeBob proudly opens his prized case labeled Ol' Reliable.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "139937960",
+  "code": "2bbctk",
+  "image": "2bbctk.jpg",
+  "width": 960,
+  "height": 1444,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 341,
+ "sure": "high",
+ "added": "2026-11-22"
+}

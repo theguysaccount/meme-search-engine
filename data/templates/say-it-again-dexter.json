@@ -1,0 +1,57 @@
+{
+ "slug": "say-it-again-dexter",
+ "name": "Say It Again, Dexter",
+ "aka": [
+  "Omelette Du Fromage"
+ ],
+ "look": "Two stacked frames from Dexter's Laboratory, outside by a chain-link fence. Top: Dexter, in glasses, is squeezed between a brown-haired girl holding his face and a blonde girl pressing her cheek to his. Bottom: a close-up of Dexter talking while the blonde girl listens dreamily, a red heart floating between them.",
+ "text": [],
+ "use": "Someone says something ordinary, nerdy or oddly specific, and admirers swoon and beg to hear it again. The top caption is the request to say it again, and the bottom is the phrase Dexter repeats.",
+ "slots": [
+  "the admirers' request: say it again (top)",
+  "the phrase Dexter repeats (bottom)"
+ ],
+ "examples": [
+  [
+   "Say it again, Dexter!",
+   "This meeting could have been an email"
+  ],
+  [
+   "Say it again, Dexter!",
+   "The pizza is here"
+  ]
+ ],
+ "describe": [
+  "girls swooning over the boy from dexter's lab",
+  "two girls hugging and kissing dexter's cheek",
+  "cartoon boy genius says something and a girl falls in love",
+  "dexter speaking french and the girls adore him",
+  "blonde girl with a heart listening to dexter talk"
+ ],
+ "tags": [
+  "dexter",
+  "crush",
+  "swooning",
+  "cartoon",
+  "school",
+  "heart"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Dexter's Laboratory",
+ "origin": "From the Dexter's Laboratory episode 'The Big Cheese', where Dexter can only say omelette du fromage and the girls at school adore it.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "71428573",
+  "code": "16iyn1",
+  "image": "16iyn1.jpg",
+  "width": 698,
+  "height": 900,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 176,
+ "sure": "high",
+ "added": "2026-11-22"
+}

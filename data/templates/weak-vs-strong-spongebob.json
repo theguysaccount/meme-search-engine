@@ -1,0 +1,58 @@
+{
+ "slug": "weak-vs-strong-spongebob",
+ "name": "Weak vs Strong SpongeBob",
+ "aka": [
+  "Buff SpongeBob"
+ ],
+ "look": "Four boxes in a 2x2 grid. Left column: ordinary SpongeBob smiling and gesturing on the sandy sea floor (top), and a hugely muscular, scowling SpongeBob in a red headband standing in an arena beside Mr. Krabs (bottom). The right column holds two blank white boxes.",
+ "text": [],
+ "use": "Compares a weak, ordinary version of something with a strong, impressive one. The top right box names the feeble version and the bottom right box names the powerful version, often a silly reason to feel mighty.",
+ "slots": [
+  "the weak or ordinary version (top right box)",
+  "the strong, buff version (bottom right box)"
+ ],
+ "examples": [
+  [
+   "Me before coffee",
+   "Me after three espressos"
+  ],
+  [
+   "Me opening a jar alone",
+   "Me opening a jar when someone is watching"
+  ]
+ ],
+ "describe": [
+  "normal spongebob next to buff muscular spongebob",
+  "skinny sponge vs ripped sponge with a headband",
+  "spongebob weak on top and strong with big muscles below",
+  "cartoon sponge flexing huge arms with mr krabs behind him",
+  "regular vs jacked spongebob with blank boxes on the right"
+ ],
+ "tags": [
+  "spongebob",
+  "muscles",
+  "strong",
+  "weak",
+  "comparison",
+  "cartoon",
+  "2x2 grid"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 4,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "Two stills of SpongeBob from SpongeBob SquarePants, one ordinary and one comically muscular.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "174791714",
+  "code": "2w2e5e",
+  "image": "2w2e5e.png",
+  "width": 768,
+  "height": 513,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 329,
+ "sure": "high",
+ "added": "2026-11-22"
+}

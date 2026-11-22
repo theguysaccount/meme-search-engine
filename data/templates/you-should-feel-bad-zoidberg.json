@@ -1,0 +1,59 @@
+{
+ "slug": "you-should-feel-bad-zoidberg",
+ "name": "You Should Feel Bad Zoidberg",
+ "aka": [
+  "Your X Is Bad And You Should Feel Bad",
+  "Your Meme Is Bad And You Should Feel Bad"
+ ],
+ "look": "A still from Futurama: Dr. Zoidberg, a red lobster-like alien in a tuxedo and purple bow tie, cups his claws around his mouth to shout from an audience seat. Professor Farnsworth sits beside him peering through a monocle on a stick, and a frowning Hermes sits on the right.",
+ "text": [],
+ "use": "A heckle for anything weak. The top caption reads 'Your [thing] is bad' and the bottom 'and you should feel bad', aimed at a lame joke, a terrible opinion, a bad meme or a poor performance.",
+ "slots": [
+  "top caption: 'your [thing] is bad'",
+  "bottom caption: 'and you should feel bad'"
+ ],
+ "examples": [
+  [
+   "Your parallel parking is bad",
+   "and you should feel bad"
+  ],
+  [
+   "Your pun is bad",
+   "and you should feel bad"
+  ]
+ ],
+ "describe": [
+  "red squid alien in a tuxedo shouting from the audience",
+  "futurama lobster doctor yelling with claws around his mouth",
+  "cartoon crab guy booing at a show in a bow tie",
+  "alien heckling a bad performance at the opera",
+  "futurama audience member yelling an insult at the stage"
+ ],
+ "tags": [
+  "futurama",
+  "heckling",
+  "booing",
+  "tuxedo",
+  "audience",
+  "insult",
+  "criticism"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Futurama",
+ "origin": "From the Futurama episode The Devil's Hands Are Idle Playthings, where Zoidberg heckles Fry's holophonor opera.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "35747",
+  "code": "rkz",
+  "image": "rkz.jpg",
+  "width": 480,
+  "height": 360,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 344,
+ "sure": "high",
+ "added": "2026-11-22"
+}

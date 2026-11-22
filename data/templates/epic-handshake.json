@@ -1,0 +1,70 @@
+{
+ "slug": "epic-handshake",
+ "name": "Epic Handshake",
+ "aka": [
+  "Predator Handshake"
+ ],
+ "look": "A painting of two muscular forearms meeting in the center in a powerful clasped handshake, elbows apart and hands locked high. One arm comes from a white sleeve on the left, the other from a red sleeve on the right, against a stormy gray background.",
+ "text": [],
+ "use": "Each arm is labeled with a different group, person or thing, and the clasped hands are labeled with the surprising thing they both agree on or have in common.",
+ "slots": [
+  "the first group (left arm)",
+  "the second group (right arm)",
+  "what they have in common (the clasped hands)"
+ ],
+ "examples": [
+  [
+   "Cats",
+   "Toddlers",
+   "Knocking things off tables on purpose"
+  ],
+  [
+   "Night owls",
+   "Early birds",
+   "Hating 2 p.m. meetings"
+  ]
+ ],
+ "describe": [
+  "two muscular arms doing a handshake",
+  "painting of two strong arms clasping hands",
+  "buff arms locking hands in agreement",
+  "two forearms gripping each other in the middle",
+  "arm wrestling style handshake between a red sleeve and a white sleeve"
+ ],
+ "tags": [
+  "handshake",
+  "agreement",
+  "common ground",
+  "muscles",
+  "painting",
+  "arms",
+  "unity"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A painting based on the handshake between Arnold Schwarzenegger and Carl Weathers in the 1987 film Predator.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "135256802",
+  "code": "28j0te",
+  "image": "28j0te.jpg",
+  "width": 900,
+  "height": 645,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "149409046",
+   "name": "Black White Arms"
+  },
+  {
+   "id": "148465772",
+   "name": "Arm wrestling meme template"
+  }
+ ],
+ "rank_all_time": 25,
+ "sure": "high",
+ "added": "2026-11-22"
+}

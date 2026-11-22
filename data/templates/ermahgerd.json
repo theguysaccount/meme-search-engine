@@ -1,0 +1,58 @@
+{
+ "slug": "ermahgerd",
+ "name": "Ermahgerd",
+ "aka": [
+  "Ermahgerd Berks",
+  "Gersberms",
+  "Ermahgerd Girl"
+ ],
+ "look": "An old snapshot of a girl with curly pigtails and a retainer, in a white shirt and patterned vest, grinning wide-mouthed as she fans out three Goosebumps books at the camera. A blue backpack hangs from her arm in front of an orange curtain.",
+ "text": [
+  "Goosebumps"
+ ],
+ "use": "Gushing, over-the-top excitement typed in a garbled accent, as if spoken through a retainer. Vowels turn into \"er\", so \"oh my god, books\" becomes \"ermahgerd, berks\", and the caption names the thing she is thrilled about.",
+ "slots": [
+  "the excited exclamation, usually \"ermahgerd\" (top)",
+  "the beloved thing in the same garbled spelling (bottom)"
+ ],
+ "examples": [
+  [
+   "Ermahgerd",
+   "Perncerks fer brerkferst"
+  ]
+ ],
+ "describe": [
+  "girl with pigtails excited about goosebumps books",
+  "kid with a retainer screaming happily while holding books",
+  "bookworm girl showing off her books with a huge open mouth grin",
+  "90s photo of a girl with pigtails holding up books",
+  "excited girl with braces and a backpack full of books"
+ ],
+ "tags": [
+  "excitement",
+  "books",
+  "goosebumps",
+  "pigtails",
+  "retainer",
+  "old photo",
+  "childhood"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A childhood photo of a girl showing off her Goosebumps books, captioned in a garbled retainer accent.",
+ "people": "private",
+ "imgflip": {
+  "id": "101462",
+  "code": "26ae",
+  "image": "26ae.jpg",
+  "width": 402,
+  "height": 604,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 311,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "im-the-captain-now",
+ "name": "I'm The Captain Now",
+ "aka": [
+  "Look At Me, I'm The Captain Now",
+  "Look At Me"
+ ],
+ "look": "A still from Captain Phillips. Barkhad Abdi as the Somali pirate Muse stares wide-eyed and points two fingers toward his own eyes in a 'look at me' gesture, framed by the pillars and washed-out windows of a ship's bridge.",
+ "text": [],
+ "use": "Someone or something seizes control of a situation it has no business running. The caption usually reads 'Look at me' on top and 'I'm the captain now' below, labeled with whatever just took over.",
+ "slots": [
+  "top caption, usually 'Look at me'",
+  "bottom caption: who is in charge now, often 'I'm the captain now'"
+ ],
+ "examples": [
+  [
+   "Look at me",
+   "I'm the thermostat boss now"
+  ],
+  [
+   "The toddler holding the TV remote",
+   "I'm the captain now"
+  ]
+ ],
+ "describe": [
+  "somali pirate gesturing for you to watch his eyes",
+  "captain phillips hijacker pointing two fingers at his eyes",
+  "skinny guy on a ship pointing at his own face",
+  "man with wide eyes announcing he is taking over",
+  "barkhad abdi pointing at his eyes on the boat"
+ ],
+ "tags": [
+  "captain phillips",
+  "pirate",
+  "pointing at eyes",
+  "takeover",
+  "in charge",
+  "movie",
+  "barkhad abdi"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Captain Phillips",
+ "origin": "From Captain Phillips (2013), where Barkhad Abdi's pirate Muse takes the ship and tells Tom Hanks's Captain Phillips, 'Look at me. I'm the captain now.'",
+ "people": "actor",
+ "imgflip": {
+  "id": "29562797",
+  "code": "hlmst",
+  "image": "hlmst.jpg",
+  "width": 478,
+  "height": 350,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "29617627",
+   "name": "Look At Me"
+  },
+  {
+   "id": "30213495",
+   "name": "Captain Phillips - I'm The Captain Now"
+  }
+ ],
+ "rank_all_time": 136,
+ "sure": "high",
+ "added": "2026-11-22"
+}

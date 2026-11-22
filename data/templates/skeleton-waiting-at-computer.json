@@ -1,0 +1,59 @@
+{
+ "slug": "skeleton-waiting-at-computer",
+ "name": "Skeleton Waiting At Computer",
+ "aka": [
+  "Waiting Skeleton",
+  "Office Skeleton"
+ ],
+ "look": "A photo of an anatomical skeleton seated at an office desk, wearing a headset, one bony hand on the mouse and the other raised to its chest. It faces a computer monitor and keyboard beside a blue desk lamp and a green water bottle, with a coworker standing behind.",
+ "text": [],
+ "use": "Means waiting so long you turned into a skeleton. Captions describe a slow computer, a long hold time, a reply that never comes or a support ticket stuck in a queue, usually with a work or tech theme.",
+ "slots": [
+  "top caption: what you are waiting for",
+  "bottom caption: how long it has been (optional)"
+ ],
+ "examples": [
+  [
+   "Waiting for IT to answer my ticket",
+   "Submitted in 2019"
+  ],
+  [
+   "Me on hold with customer service",
+   "Your call is important to us"
+  ]
+ ],
+ "describe": [
+  "skeleton sitting at a computer desk with a headset",
+  "skeleton at work still waiting at the office",
+  "bones guy using a mouse in front of a monitor",
+  "skeleton on hold at a call center desk",
+  "dead office worker waiting forever at his pc"
+ ],
+ "tags": [
+  "skeleton",
+  "waiting",
+  "office",
+  "computer",
+  "headset",
+  "call center",
+  "forever"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "12004715",
+  "code": "75awb",
+  "image": "75awb.jpg",
+  "width": 500,
+  "height": 375,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 461,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

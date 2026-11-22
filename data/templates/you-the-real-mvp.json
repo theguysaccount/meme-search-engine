@@ -1,0 +1,61 @@
+{
+ "slug": "you-the-real-mvp",
+ "name": "You The Real MVP",
+ "aka": [
+  "You're The Real MVP"
+ ],
+ "look": "A video still of NBA star Kevin Durant at his 2014 MVP press conference, wearing glasses and a purple suit with a patterned tie, clapping with tears on his cheeks in front of a blue backdrop covered in Kia and NBA logos.",
+ "text": [
+  "KIA",
+  "NBA"
+ ],
+ "use": "Thanks someone for a small, unsung act of kindness. The top describes what they did, like holding the door, refilling the coffee or sharing the last snack, and the bottom reads 'you the real MVP'.",
+ "slots": [
+  "top caption: the helpful thing someone did",
+  "bottom caption: 'you the real MVP'"
+ ],
+ "examples": [
+  [
+   "To whoever refills the printer paper",
+   "You the real MVP"
+  ],
+  [
+   "Friend who brings a phone charger everywhere",
+   "You the real MVP"
+  ]
+ ],
+ "describe": [
+  "basketball player clapping and crying at a press conference",
+  "kevin durant in glasses applauding with tears in his eyes",
+  "nba player emotional at a podium thanking his mom",
+  "tall man in a purple suit clapping in front of kia logos",
+  "athlete crying and clapping during an award speech"
+ ],
+ "tags": [
+  "kevin durant",
+  "nba",
+  "mvp",
+  "gratitude",
+  "crying",
+  "clapping",
+  "press conference"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Kevin Durant's 2014 NBA MVP acceptance speech, where he told his mother, 'You the real MVP.'",
+ "people": "public",
+ "imgflip": {
+  "id": "15878567",
+  "code": "9gbzb",
+  "image": "9gbzb.jpg",
+  "width": 620,
+  "height": 340,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 384,
+ "sure": "high",
+ "added": "2026-11-22"
+}

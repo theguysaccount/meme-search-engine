@@ -1,0 +1,58 @@
+{
+ "slug": "kombucha-girl",
+ "name": "Kombucha Girl",
+ "aka": [],
+ "look": "Two side-by-side selfie video frames of a young woman with blonde hair pulled back, under a textured white ceiling. Left: she grimaces in disgust, nose scrunched and mouth turned down. Right: she raises her eyebrows and tilts her head, suddenly reconsidering.",
+ "text": [],
+ "use": "Mixed feelings about something: instant disgust, then a reluctant maybe. The caption names the thing being tried or considered, and the two faces show the flip from no way to hmm, actually.",
+ "slots": [
+  "the thing you're unsure about (caption above)",
+  "the disgusted first reaction (left)",
+  "the reluctant reconsideration (right)"
+ ],
+ "examples": [
+  [
+   "Trying the new office coffee",
+   "Ew",
+   "...wait, I kind of like it"
+  ],
+  [
+   "Waking up at 5 a.m. to go running",
+   "Absolutely not",
+   "Though I would get to see the sunrise"
+  ]
+ ],
+ "describe": [
+  "woman tasting something and making a gross face then reconsidering",
+  "girl disgusted then unsure if she likes it",
+  "lady grimacing then raising her eyebrows",
+  "two faces of a woman trying a drink for the first time",
+  "blonde girl going from yuck to maybe"
+ ],
+ "tags": [
+  "disgust",
+  "mixed feelings",
+  "reconsidering",
+  "tiktok",
+  "reaction",
+  "taste"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 2,
+ "franchise": null,
+ "origin": "A 2019 TikTok video in which a woman tries kombucha for the first time and can't decide whether she likes it.",
+ "people": "private",
+ "imgflip": {
+  "id": "197671929",
+  "code": "39osmx",
+  "image": "39osmx.png",
+  "width": 529,
+  "height": 452,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 191,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "i-was-told-there-would-be",
+ "name": "I Was Told There Would Be",
+ "aka": [
+  "Office Space Milton",
+  "I Was Told There Would Be Cake"
+ ],
+ "look": "A still from Office Space: Stephen Root as Milton, a man with large glasses, a mustache and reddish hair, sits at a cluttered cubicle desk in a short-sleeved striped shirt and dark tie, one hand on a red Swingline stapler, staring blankly ahead.",
+ "text": [],
+ "use": "A meek complaint in Milton's voice that something promised never showed up. The top usually reads 'I was told there would be' and the bottom names the missing perk, like cake, snacks, a raise or a lunch break.",
+ "slots": [
+  "top caption: 'I was told there would be'",
+  "bottom caption: the promised thing that never showed up"
+ ],
+ "examples": [
+  [
+   "I was told there would be",
+   "free pizza at this training"
+  ],
+  [
+   "I was told there would be",
+   "a parking spot with my name on it"
+  ]
+ ],
+ "describe": [
+  "nerdy office guy with glasses and a red stapler at his desk",
+  "man with mustache and big glasses sitting in a cubicle staring",
+  "awkward office worker in a tie with a red stapler",
+  "mumbling coworker in a short sleeve shirt at a messy desk",
+  "office space guy who wants his stapler back"
+ ],
+ "tags": [
+  "office space",
+  "office",
+  "cubicle",
+  "red stapler",
+  "complaint",
+  "coworker",
+  "glasses"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Office Space",
+ "origin": "Stephen Root as Milton Waddams in the 1999 comedy film Office Space.",
+ "people": "actor",
+ "imgflip": {
+  "id": "2372682",
+  "code": "1euru",
+  "image": "1euru.jpg",
+  "width": 590,
+  "height": 462,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 338,
+ "sure": "high",
+ "added": "2026-11-22"
+}

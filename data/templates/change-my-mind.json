@@ -1,0 +1,62 @@
+{
+ "slug": "change-my-mind",
+ "name": "Change My Mind",
+ "aka": [
+  "Steven Crowder Change My Mind"
+ ],
+ "look": "A photo on a college campus. Commentator Steven Crowder, in a blue sweater, sits smiling behind a table with a coffee mug in his hand. A white sign hangs on the front of the table with a blank line above the printed words CHANGE MY MIND.",
+ "text": [
+  "CHANGE MY MIND"
+ ],
+ "use": "The blank line on the sign holds a bold, usually petty or harmless opinion, presented as a hill the poster is ready to defend against anyone who walks up to argue.",
+ "slots": [
+  "the bold opinion (on the sign, above CHANGE MY MIND)"
+ ],
+ "examples": [
+  [
+   "Breakfast for dinner is the best dinner"
+  ],
+  [
+   "The middle seat gets both armrests"
+  ]
+ ],
+ "describe": [
+  "guy sitting at a table with a sign that says change my mind",
+  "man drinking coffee at an outdoor table with a sign on it",
+  "dude on a college campus inviting people to debate him",
+  "smiling man in a blue sweater behind a table with a white poster",
+  "person at a folding table holding a mug, sign on the front"
+ ],
+ "tags": [
+  "debate",
+  "opinion",
+  "sign",
+  "table",
+  "college campus",
+  "coffee mug",
+  "outdoors"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A 2018 photo of commentator Steven Crowder at a campus table inviting students to debate him.",
+ "people": "public",
+ "imgflip": {
+  "id": "129242436",
+  "code": "24y43o",
+  "image": "24y43o.jpg",
+  "width": 482,
+  "height": 361,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "140087640",
+   "name": "Prove me wrong"
+  }
+ ],
+ "rank_all_time": 5,
+ "sure": "high",
+ "added": "2026-11-22"
+}

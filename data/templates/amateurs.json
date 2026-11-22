@@ -1,0 +1,63 @@
+{
+ "slug": "amateurs",
+ "name": "Amateurs",
+ "aka": [],
+ "look": "A four-panel webcomic in a 2x2 grid. Two white figures argue with blank speech bubbles, then turn in shock at an off-panel voice. One snaps at a hooded figure sitting at a table with a mug of beer, who turns around grinning wildly in a purple cloak.",
+ "text": [
+  "AMATEURS.",
+  "WHAT WAS THAT, PUNK?",
+  "AMATEURS."
+ ],
+ "use": "Two people argue about who has it worse or who goes further at something, and a hooded stranger who is far beyond both of them dismisses them as amateurs. The argument fills the first panel's blank bubbles and the stranger gets a label.",
+ "slots": [
+  "first arguer's line, left bubble in panel 1",
+  "second arguer's line, right bubble in panel 1",
+  "label for the hooded stranger who outdoes them both"
+ ],
+ "examples": [
+  [
+   "I only slept four hours last night",
+   "I only slept two",
+   "New parent"
+  ],
+  [
+   "I have 20 browser tabs open",
+   "I have 40",
+   "Me with three windows of 90 tabs each"
+  ]
+ ],
+ "describe": [
+  "two stick figures arguing and a hooded guy calls them amateurs",
+  "comic of a cloaked figure at a tavern table mocking two people fighting",
+  "two guys argue about who is worse then a stranger outdoes them",
+  "what was that punk comic with the purple hood guy",
+  "white cartoon people shocked by a mysterious man with a beer"
+ ],
+ "tags": [
+  "webcomic",
+  "argument",
+  "hooded figure",
+  "one-upping",
+  "tavern",
+  "four panels",
+  "owlturd"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Owlturd Comix",
+ "origin": "A four-panel strip from the webcomic Owlturd Comix by the artist Shen.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "172029757",
+  "code": "2uf70d",
+  "image": "2uf70d.png",
+  "width": 500,
+  "height": 648,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 448,
+ "sure": "high",
+ "added": "2026-11-22"
+}

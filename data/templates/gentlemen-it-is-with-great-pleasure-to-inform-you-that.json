@@ -1,0 +1,57 @@
+{
+ "slug": "gentlemen-it-is-with-great-pleasure-to-inform-you-that",
+ "name": "Gentlemen, It Is With Great Pleasure To Inform You That",
+ "aka": [],
+ "look": "A painted portrait of a toad dressed as an old-fashioned gentleman. He sits in a wooden chair in a black tailcoat, olive waistcoat and white cravat, staring forward with solemn, puffed-up dignity against a muddy yellow-green background.",
+ "text": [],
+ "use": "The toad makes a formal, self-important announcement. The caption opens with \"Gentlemen, it is with great pleasure to inform you that\" and ends with some trivial or silly news delivered as if it were a grand occasion.",
+ "slots": [
+  "top: Gentlemen, it is with great pleasure to inform you that",
+  "bottom: the trivial news"
+ ],
+ "examples": [
+  [
+   "Gentlemen, it is with great pleasure to inform you that",
+   "The vending machine has been restocked"
+  ],
+  [
+   "Gentlemen, it is with great pleasure to inform you that",
+   "I have found the TV remote. It was in the fridge."
+  ]
+ ],
+ "describe": [
+  "painting of a frog in a fancy suit sitting in a chair",
+  "toad dressed like a victorian gentleman making an announcement",
+  "old portrait of a frog wearing a coat and cravat",
+  "serious looking toad in a tailcoat posing for a painting",
+  "classy frog gentleman in a waistcoat staring ahead"
+ ],
+ "tags": [
+  "frog",
+  "toad",
+  "painting",
+  "gentleman",
+  "suit",
+  "formal",
+  "announcement",
+  "victorian"
+ ],
+ "kind": "other",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "313581692",
+  "code": "56p56k",
+  "image": "56p56k.jpg",
+  "width": 1400,
+  "height": 1400,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 262,
+ "sure": "high",
+ "added": "2026-11-22"
+}

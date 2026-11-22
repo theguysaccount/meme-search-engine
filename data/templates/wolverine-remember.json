@@ -1,0 +1,56 @@
+{
+ "slug": "wolverine-remember",
+ "name": "Wolverine Remember",
+ "aka": [],
+ "look": "Two stacked frames from the 1990s X-Men cartoon. Top: Wolverine, in his yellow-and-blue suit and mask, lies in bed gazing at a small framed photo. Bottom: a close-up of his blue-gloved hands holding the wooden frame, its picture left blank.",
+ "text": [],
+ "use": "Wolverine longingly looks at a picture of something he misses. The blank frame gets an image or name of the lost thing, like an old video game, a discontinued snack or life before responsibilities.",
+ "slots": [
+  "who is feeling nostalgic (caption at top)",
+  "the thing being missed (inside the picture frame)"
+ ],
+ "examples": [
+  [
+   "Me during finals week",
+   "Summer vacation"
+  ],
+  [
+   "Adults paying bills",
+   "Nap time in kindergarten"
+  ]
+ ],
+ "describe": [
+  "wolverine lying in bed looking at a picture frame",
+  "x-men cartoon wolverine staring sadly at a photo",
+  "superhero missing someone and holding an empty picture frame",
+  "90s cartoon guy in yellow suit looking at an old photo in bed",
+  "nostalgic hero holding a blank photo frame"
+ ],
+ "tags": [
+  "wolverine",
+  "x-men",
+  "nostalgia",
+  "photo frame",
+  "missing",
+  "bed",
+  "90s cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "X-Men",
+ "origin": "Two frames from X-Men: The Animated Series showing Wolverine gazing at a framed photo.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "47169131",
+  "code": "s2zxn",
+  "image": "s2zxn.jpg",
+  "width": 480,
+  "height": 700,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 234,
+ "sure": "high",
+ "added": "2026-11-22"
+}

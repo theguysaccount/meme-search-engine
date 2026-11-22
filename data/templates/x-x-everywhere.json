@@ -1,0 +1,69 @@
+{
+ "slug": "x-x-everywhere",
+ "name": "X, X Everywhere",
+ "aka": [
+  "X Everywhere",
+  "Toy Story Everywhere",
+  "Buzz and Woody"
+ ],
+ "look": "A Toy Story still indoors. Buzz Lightyear, grinning, drapes an arm around Woody's shoulders and sweeps his other hand toward the distance, while Woody stares ahead with a worried, uneasy frown.",
+ "text": [],
+ "use": "The top text names a thing and the bottom text says that thing is everywhere, as Buzz shows Woody something that is suddenly all around them, often annoying, overwhelming or unavoidable.",
+ "slots": [
+  "the thing (top)",
+  "the same thing, followed by everywhere (bottom)"
+ ],
+ "examples": [
+  [
+   "Unread emails",
+   "Unread emails everywhere"
+  ],
+  [
+   "Glitter from one birthday card",
+   "Glitter everywhere, forever"
+  ]
+ ],
+ "describe": [
+  "buzz lightyear showing woody something with his arm around him",
+  "toy story buzz pointing into the distance and woody looks worried",
+  "space ranger toy gesturing at everything while the cowboy looks nervous",
+  "two toys, one excited and pointing, the other one scared",
+  "cartoon astronaut with his arm around a cowboy showing him the view"
+ ],
+ "tags": [
+  "toy story",
+  "buzz lightyear",
+  "woody",
+  "everywhere",
+  "pointing",
+  "worried",
+  "pixar"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Toy Story",
+ "origin": "A still of Buzz Lightyear and Woody from Pixar's Toy Story films.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "91538330",
+  "code": "1ihzfe",
+  "image": "1ihzfe.jpg",
+  "width": 2118,
+  "height": 1440,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "80964944",
+   "name": "Woody and Buzz Lightyear Everywhere Widescreen"
+  },
+  {
+   "id": "13026863",
+   "name": "TOYSTORY EVERYWHERE"
+  }
+ ],
+ "rank_all_time": 14,
+ "sure": "high",
+ "added": "2026-11-22"
+}

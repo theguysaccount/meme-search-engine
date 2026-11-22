@@ -1,0 +1,60 @@
+{
+ "slug": "im-the-dumbest-man-alive",
+ "name": "I'm The Dumbest Man Alive",
+ "aka": [
+  "Dumbest Fella",
+  "You're Clearly Dumber"
+ ],
+ "look": "A three-panel webcomic titled \"DUMBEST FELLA\". Top: a round-headed king in a crown and red cape stands on a cliff shouting \"I'M THE DUMBEST MAN ALIVE\" at a small blue figure. Bottom left: the blue figure speaks into an empty speech bubble. Bottom right: the king kneels, handing over his crown: \"YOU'RE CLEARLY DUMBER\".",
+ "text": [
+  "DUMBEST FELLA",
+  "I'M THE DUMBEST MAN ALIVE",
+  "YOU'RE CLEARLY DUMBER"
+ ],
+ "use": "The self-proclaimed dumbest king meets someone whose idea is even dumber. The empty bubble holds that person's foolish claim or plan, and the king surrenders his crown, conceding the title.",
+ "slots": [
+  "the blue figure's empty speech bubble: the dumb statement"
+ ],
+ "examples": [
+  [
+   "I don't need to write it down, I'll remember it"
+  ],
+  [
+   "I'll go to bed early tonight, right after one more video"
+  ]
+ ],
+ "describe": [
+  "king on a cliff yelling that he is the dumbest man alive",
+  "comic where a king gives his crown to someone even dumber",
+  "webcomic of a crowned guy declaring himself the stupidest",
+  "little blue guy says something so dumb the king bows down",
+  "three panel comic where the king kneels and hands over his crown"
+ ],
+ "tags": [
+  "webcomic",
+  "king",
+  "crown",
+  "dumb",
+  "stupid idea",
+  "three panel",
+  "srgrafo"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 3,
+ "franchise": null,
+ "origin": "A webcomic by the artist SrGrafo.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "187737689",
+  "code": "33rvbt",
+  "image": "33rvbt.png",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 274,
+ "sure": "high",
+ "added": "2026-11-22"
+}

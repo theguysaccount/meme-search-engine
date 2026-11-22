@@ -1,0 +1,61 @@
+{
+ "slug": "what-really-grinds-my-gears",
+ "name": "What Really Grinds My Gears",
+ "aka": [
+  "Peter Griffin News",
+  "You Know What Really Grinds My Gears"
+ ],
+ "look": "A Family Guy frame inside a gray TV screen border. Peter Griffin, in a dark suit and red tie, sits at a news desk with papers, mouth open mid-rant. Behind him on a purple wall hangs a yellow graphic with blue gears reading \"What Really Grinds My Gears\".",
+ "text": [
+  "WHAT REALLY GRINDS MY GEARS"
+ ],
+ "use": "A rant about a petty annoyance. The caption names the thing that irritates you, usually framed as \"You know what really grinds my gears?\" followed by a specific pet peeve, like people who walk slowly in groups.",
+ "slots": [
+  "the setup, usually \"You know what really grinds my gears?\" (top)",
+  "the pet peeve (bottom)"
+ ],
+ "examples": [
+  [
+   "You know what really grinds my gears?",
+   "People who reply \"k\" to a long message"
+  ],
+  [
+   "You know what really grinds my gears?",
+   "Phone chargers that only work at one specific angle"
+  ]
+ ],
+ "describe": [
+  "family guy peter as a news anchor ranting at a desk",
+  "cartoon dad newscaster with a gears sign behind him",
+  "cartoon man at a news desk complaining about a pet peeve",
+  "tv segment sign says what really grinds my gears",
+  "fat cartoon guy in suit and red tie yelling on the news"
+ ],
+ "tags": [
+  "family guy",
+  "peter griffin",
+  "news anchor",
+  "rant",
+  "pet peeve",
+  "annoyed",
+  "tv"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Family Guy",
+ "origin": "Peter Griffin's recurring \"What Really Grinds My Gears\" news segment from Family Guy.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "356615",
+  "code": "7n5z",
+  "image": "7n5z.jpg",
+  "width": 500,
+  "height": 379,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 217,
+ "sure": "high",
+ "added": "2026-11-22"
+}

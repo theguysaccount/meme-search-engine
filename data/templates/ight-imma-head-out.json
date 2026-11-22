@@ -1,0 +1,57 @@
+{
+ "slug": "ight-imma-head-out",
+ "name": "Ight Imma Head Out",
+ "aka": [
+  "Spongebob Ight Imma Head Out",
+  "Aight Imma Head Out"
+ ],
+ "look": "White space for a caption sits above a cartoon still. SpongeBob, with half-closed eyes, leans forward to get up from an orange armchair set on a life ring inside his pineapple house, beside a round porthole door. Bold text at the bottom reads IGHT IMMA HEAD OUT.",
+ "text": [
+  "IGHT IMMA HEAD OUT"
+ ],
+ "use": "Used to bail out of a situation. The caption describes something boring, awkward, stressful or cringe, and SpongeBob rising from his chair with the printed line shows the decision to leave immediately.",
+ "slots": [
+  "caption in the white space above: the situation worth leaving"
+ ],
+ "examples": [
+  [
+   "When the meeting invite says \"quick sync\" but it's booked for two hours"
+  ],
+  [
+   "When my friends start planning a 6 a.m. hike"
+  ]
+ ],
+ "describe": [
+  "spongebob getting up from his chair to leave",
+  "spongebob in an armchair saying he is about to head out",
+  "cartoon sponge standing up from a recliner to exit",
+  "spongebob leaving the room when things get awkward",
+  "yellow sponge in his pineapple house getting out of his seat"
+ ],
+ "tags": [
+  "spongebob",
+  "leaving",
+  "armchair",
+  "nope",
+  "exit",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A still of SpongeBob getting up from his armchair in SpongeBob SquarePants; the \"Ight imma head out\" caption was added by fans.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "196652226",
+  "code": "392xtu",
+  "image": "392xtu.jpg",
+  "width": 822,
+  "height": 960,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 65,
+ "sure": "high",
+ "added": "2026-11-22"
+}

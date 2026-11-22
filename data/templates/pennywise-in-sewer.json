@@ -1,0 +1,55 @@
+{
+ "slug": "pennywise-in-sewer",
+ "name": "Pennywise in Sewer",
+ "aka": [],
+ "look": "Top: Tim Curry as Pennywise, a white-faced clown with a red nose and red hair, grins from inside a storm drain at a child in a yellow raincoat at the right edge. Below, three small photos show a person in blue shorts squeezing into a curb drain until only a foot is left.",
+ "text": [],
+ "use": "Pennywise offers something tempting from the sewer, and the strip below shows someone eagerly crawling in anyway, mocking how easily people fall for an obvious trap.",
+ "slots": [
+  "the tempting offer (top, Pennywise in the drain)",
+  "who dives in (bottom strip)"
+ ],
+ "examples": [
+  [
+   "Free trial, cancel anytime",
+   "Me"
+  ],
+  [
+   "Want to start a new hobby instead of finishing the old one?",
+   "Me at midnight"
+  ]
+ ],
+ "describe": [
+  "clown in the storm drain and someone crawling into the sewer",
+  "creepy clown peeking out of a gutter then a person jumps in",
+  "kid squeezing into a storm drain after the clown lures them",
+  "tim curry clown in the sewer grate with someone crawling in",
+  "person diving head first into a curb drain"
+ ],
+ "tags": [
+  "clown",
+  "horror",
+  "sewer",
+  "temptation",
+  "trap",
+  "storm drain"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "It",
+ "origin": "The top still is Tim Curry as Pennywise talking to Georgie through a storm drain in the 1990 TV miniseries It.",
+ "people": "actor",
+ "imgflip": {
+  "id": "99384040",
+  "code": "1n657s",
+  "image": "1n657s.jpg",
+  "width": 400,
+  "height": 400,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 407,
+ "sure": "high",
+ "added": "2026-11-22"
+}

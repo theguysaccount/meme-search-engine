@@ -1,0 +1,55 @@
+{
+ "slug": "elmo-rise",
+ "name": "Elmo Rise",
+ "aka": [
+  "Elmo Fire",
+  "Elmo In Hell"
+ ],
+ "look": "Elmo, the red furry Sesame Street puppet with big white eyes and an orange nose, raises both arms triumphantly with his mouth open while a wall of orange flames burns behind him against a black background.",
+ "text": [],
+ "use": "Stands for gleeful chaos or embracing evil: someone happily causing trouble or reveling as everything goes wrong. The caption names the chaotic act.",
+ "slots": [
+  "the chaotic act (caption above)"
+ ],
+ "examples": [
+  [
+   "Me leaving one second on the microwave timer"
+  ],
+  [
+   "When you reply-all to the company email just to say thanks"
+  ]
+ ],
+ "describe": [
+  "red puppet raising his arms in front of fire",
+  "sesame street character with flames behind him and arms up",
+  "muppet surrounded by fire looking evil and happy",
+  "fuzzy red monster celebrating chaos with a burning background",
+  "furry red puppet summoning flames like a demon"
+ ],
+ "tags": [
+  "sesame street",
+  "fire",
+  "chaos",
+  "evil",
+  "puppet",
+  "flames"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Sesame Street",
+ "origin": "An edit of Elmo from Sesame Street raising his arms, set against a background of flames.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "137362128",
+  "code": "29s5ao",
+  "image": "29s5ao.jpg",
+  "width": 1280,
+  "height": 720,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 409,
+ "sure": "high",
+ "added": "2026-11-22"
+}

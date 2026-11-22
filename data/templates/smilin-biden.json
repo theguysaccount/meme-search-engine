@@ -1,0 +1,59 @@
+{
+ "slug": "smilin-biden",
+ "name": "Smilin' Biden",
+ "aka": [
+  "Smiling Biden",
+  "Joe Biden Pointing"
+ ],
+ "look": "A photo of Joe Biden in a dark suit, white shirt and tie with a small flag pin, grinning widely with his mouth open and pointing straight at the viewer against a dark background.",
+ "text": [],
+ "use": "A cheerful, cheeky call-out. The grinning point singles out the viewer, so captions are playful compliments, teasing accusations or I-see-what-you-did-there moments, delivered like an enthusiastic uncle.",
+ "slots": [
+  "top caption",
+  "bottom caption"
+ ],
+ "examples": [
+  [
+   "You, yes you",
+   "Remembered to drink water today"
+  ],
+  [
+   "Saw you take the last donut",
+   "Respect"
+  ]
+ ],
+ "describe": [
+  "joe biden smiling and pointing at the camera",
+  "old politician grinning and pointing at you",
+  "white haired man in a suit laughing and pointing",
+  "biden pointing his finger with a big grin",
+  "smiling guy in a suit points at the viewer"
+ ],
+ "tags": [
+  "joe biden",
+  "pointing",
+  "smiling",
+  "politician",
+  "suit",
+  "cheerful",
+  "call-out"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "public",
+ "imgflip": {
+  "id": "210126",
+  "code": "4i4u",
+  "image": "4i4u.jpg",
+  "width": 400,
+  "height": 568,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 465,
+ "sure": "high",
+ "added": "2026-11-22"
+}

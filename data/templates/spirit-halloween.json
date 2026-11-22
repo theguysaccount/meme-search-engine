@@ -1,0 +1,62 @@
+{
+ "slug": "spirit-halloween",
+ "name": "Spirit Halloween",
+ "aka": [
+  "Spirit Halloween Costume"
+ ],
+ "look": "A photo of an orange Spirit Halloween costume package in a clear plastic bag with a hanger hook, lying on a blue-gray blanket on a wooden surface. The Spirit logo with a grim reaper sits top left, a large blank white oval fills the right side, and a red corner reads ADULT Size Costume.",
+ "text": [
+  "SPIRIT",
+  "ADULT Size Costume",
+  "ONE SIZE FITS MOST"
+ ],
+ "use": "People invent a Halloween costume for an oddly specific character, habit or type of person and write its name on the package, usually with a matching photo in the white window. The joke is that the store seems to sell a costume for absolutely anything.",
+ "slots": [
+  "the costume's oddly specific name, in big letters on the orange left side",
+  "a photo or short caption of the character in the white oval on the right"
+ ],
+ "examples": [
+  [
+   "Guy Who Microwaves Fish In The Office",
+   "a man holding a steaming lunch container"
+  ],
+  [
+   "Kid Who Asks If This Will Be On The Test",
+   "a hand raised high in a classroom"
+  ]
+ ],
+ "describe": [
+  "orange halloween costume package with a blank white space",
+  "fake costume bag for a weirdly specific type of person",
+  "costume pack that says adult size costume one size fits most",
+  "orange costume packaging with a grim reaper logo in a plastic bag",
+  "halloween store costume template for any random character"
+ ],
+ "tags": [
+  "halloween",
+  "costume",
+  "packaging",
+  "orange",
+  "oddly specific",
+  "parody",
+  "store"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "Spirit Halloween",
+ "origin": "Parodies the costume packaging of Spirit Halloween, a seasonal Halloween store chain in the US.",
+ "people": "none",
+ "imgflip": {
+  "id": "419642439",
+  "code": "6xue6f",
+  "image": "6xue6f.jpg",
+  "width": 1052,
+  "height": 1306,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 337,
+ "sure": "high",
+ "added": "2026-11-22"
+}

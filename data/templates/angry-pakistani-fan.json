@@ -1,0 +1,57 @@
+{
+ "slug": "angry-pakistani-fan",
+ "name": "Angry Pakistani Fan",
+ "aka": [
+  "Disappointed Pakistani Fan",
+  "Disappointed Cricket Fan",
+  "Disappointed Man"
+ ],
+ "look": "A TV still of a cricket crowd: a bald man in a navy puffer vest over a red and blue plaid shirt, stands with hands on hips and glares with a tight-lipped frown, surrounded by fans with green Pakistan flags.",
+ "text": [],
+ "use": "A reaction image for being let down. The caption names something that failed to live up to expectations, and the man's hands-on-hips glare is the response, like a fan watching his team blow an easy chance.",
+ "slots": [
+  "caption describing the letdown (top)"
+ ],
+ "examples": [
+  [
+   "When the family-size bag of chips is mostly air"
+  ],
+  [
+   "Me watching my code fail the same test after the fifth final fix"
+  ]
+ ],
+ "describe": [
+  "bald man with hands on hips looking disappointed in a crowd",
+  "upset cricket fan glaring with his hands on his hips",
+  "guy in a plaid shirt and vest staring at the game unimpressed",
+  "annoyed spectator in the stands with green flags behind him",
+  "frustrated sports fan frowning with hands on his waist"
+ ],
+ "tags": [
+  "disappointed",
+  "cricket",
+  "sports fan",
+  "crowd",
+  "hands on hips",
+  "annoyed",
+  "stadium"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A Pakistan supporter caught on the TV broadcast of a 2019 Cricket World Cup match.",
+ "people": "private",
+ "imgflip": {
+  "id": "219315380",
+  "code": "3mkotw",
+  "image": "3mkotw.jpg",
+  "width": 672,
+  "height": 457,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 343,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

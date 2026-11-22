@@ -1,0 +1,60 @@
+{
+ "slug": "if-those-kids-could-read-theyd-be-very-upset",
+ "name": "If Those Kids Could Read They'd Be Very Upset",
+ "aka": [
+  "If Those Kids Could Read"
+ ],
+ "look": "Two stacked panels from King of the Hill. Top: Bobby Hill tapes a blank sign to a classroom window and points at it with a smug look. Bottom: a man in a purple striped shirt, clutching torn-down signs, talks to Bobby as kids stare out the window. Subtitle: \"If those kids could read they'd be very upset\".",
+ "text": [
+  "If those kids could read they'd be very upset"
+ ],
+ "use": "Roasts a group that would never notice the roast. The sign holds a jab at people who don't read, pay attention or do the homework, and the kids in the window are labeled as that group.",
+ "slots": [
+  "the jab written on the sign (top panel)",
+  "the group it targets, labeled on the kids in the window (bottom panel)"
+ ],
+ "examples": [
+  [
+   "Players who skip the tutorial are always the ones asking how to jump",
+   "Players who skip the tutorial"
+  ],
+  [
+   "Half the questions in this chat are answered in the pinned message",
+   "The group chat"
+  ]
+ ],
+ "describe": [
+  "king of the hill bobby taping a sign to the window",
+  "cartoon kid puts a paper on a classroom window and points",
+  "man says those kids would be upset if they could read",
+  "kids looking out a school window at a sign they can't read",
+  "bobby hill looking smug next to a blank sign on glass"
+ ],
+ "tags": [
+  "bobby hill",
+  "sign",
+  "roast",
+  "school",
+  "cartoon",
+  "subtitle",
+  "two panel"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "King of the Hill",
+ "origin": "From the animated series King of the Hill, where Bobby Hill posts signs in a classroom window.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "243100573",
+  "code": "40qhlp",
+  "image": "40qhlp.png",
+  "width": 640,
+  "height": 719,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 327,
+ "sure": "high",
+ "added": "2026-11-22"
+}

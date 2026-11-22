@@ -1,0 +1,58 @@
+{
+ "slug": "afraid-to-ask-andy",
+ "name": "Afraid To Ask Andy",
+ "aka": [
+  "Too Afraid To Ask",
+  "And At This Point I'm Too Afraid To Ask"
+ ],
+ "look": "A still from Parks and Recreation. Chris Pratt as Andy Dwyer, in a tan short-sleeved dress shirt and a brown striped tie, stands in an office looking unsure and sheepish, glancing to the side with a slightly worried frown.",
+ "text": [],
+ "use": "Admitting you never understood something everyone else seems to know. The top says you don't know what something is, and the bottom adds that by now you are too afraid to ask.",
+ "slots": [
+  "the thing you don't understand (top)",
+  "and at this point I'm too afraid to ask (bottom)"
+ ],
+ "examples": [
+  [
+   "I still don't know what my job title means",
+   "And at this point I'm too afraid to ask"
+  ],
+  [
+   "Three years of nodding when people say synergy",
+   "And at this point I'm too afraid to ask"
+  ]
+ ],
+ "describe": [
+  "chris pratt looking confused in a short sleeve shirt and tie",
+  "guy from parks and rec too scared to ask a question",
+  "andy dwyer unsure what something means",
+  "man in an office pretending to know what everyone is talking about",
+  "nervous guy in a tie who never learned what it means"
+ ],
+ "tags": [
+  "confused",
+  "office",
+  "sitcom",
+  "embarrassed",
+  "awkward",
+  "chris pratt"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Parks and Recreation",
+ "origin": "Chris Pratt as Andy Dwyer in the NBC sitcom Parks and Recreation.",
+ "people": "actor",
+ "imgflip": {
+  "id": "24557067",
+  "code": "emccr",
+  "image": "emccr.jpg",
+  "width": 620,
+  "height": 607,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 154,
+ "sure": "high",
+ "added": "2026-11-22"
+}

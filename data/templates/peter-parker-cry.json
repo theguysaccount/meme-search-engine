@@ -1,0 +1,65 @@
+{
+ "slug": "peter-parker-cry",
+ "name": "Peter Parker Cry",
+ "aka": [],
+ "look": "Five stacked stills from Sam Raimi's Spider-Man films. J. K. Simmons as J. Jonah Jameson talks from his desk, Tobey Maguire as Peter Parker smiles hopefully, Jameson pauses with a straight face, then bursts out laughing, and the last panel is a close-up of Peter crying.",
+ "text": [],
+ "use": "A hopeful request gets crushed. Jameson asks or says something, Peter answers hopefully, Jameson seems to consider it, then laughs in his face, and Peter ends up in tears. Text goes beside each face as dialogue.",
+ "slots": [
+  "Jameson's opening line (panel 1)",
+  "Peter's hopeful answer (panel 2)",
+  "Jameson's straight-faced pause (panel 3)",
+  "Jameson laughing (panel 4)",
+  "Peter in tears (panel 5)"
+ ],
+ "examples": [
+  [
+   "So you want a raise?",
+   "Yes sir, I've been working really hard",
+   "I see.",
+   "HA HA HA HA HA",
+   "Me going back to my desk"
+  ],
+  [
+   "Did you finish your essay?",
+   "I wrote the title!",
+   "Interesting.",
+   "HAHAHAHA",
+   "Me at 3 AM"
+  ]
+ ],
+ "describe": [
+  "newspaper boss laughs at a hopeful young photographer who then cries",
+  "five panel spiderman meme with jameson laughing hysterically",
+  "boss in office laughs at a young guy's request",
+  "tobey maguire crying after getting laughed at",
+  "editor with a mustache laughing then a guy sobbing"
+ ],
+ "tags": [
+  "spider-man",
+  "j jonah jameson",
+  "peter parker",
+  "laughing",
+  "crying",
+  "rejection",
+  "five panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 5,
+ "franchise": "Spider-Man",
+ "origin": "Stills of J. K. Simmons as J. Jonah Jameson and Tobey Maguire as Peter Parker from Sam Raimi's Spider-Man films.",
+ "people": "actor",
+ "imgflip": {
+  "id": "53764",
+  "code": "15hg",
+  "image": "15hg.jpg",
+  "width": 400,
+  "height": 992,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 230,
+ "sure": "high",
+ "added": "2026-11-22"
+}

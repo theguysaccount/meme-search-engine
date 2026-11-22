@@ -1,0 +1,53 @@
+{
+ "slug": "me-explaining-to-my-mom",
+ "name": "Me Explaining To My Mom",
+ "aka": [],
+ "look": "Two side-by-side video stills. Left: a young woman in a tan headwrap, white T-shirt and black jacket gestures with both hands, earnestly explaining something. Right: an older woman lies on a couch under a navy Dallas Cowboys blanket, staring back with a blank, unconvinced look.",
+ "text": [],
+ "use": "The left side is someone passionately explaining a niche interest, theory, excuse or piece of internet culture, and the right is the listener's flat, unimpressed stare. The caption usually starts with 'me explaining to my mom'.",
+ "slots": [
+  "caption: 'me explaining to my mom' plus the topic (top)"
+ ],
+ "examples": [
+  [
+   "Me explaining to my mom why I can't pause an online game"
+  ],
+  [
+   "Me explaining to my mom that the dishes are soaking, not abandoned"
+  ]
+ ],
+ "describe": [
+  "daughter in a headscarf telling her mother something important",
+  "girl talking with her hands while her mom lies on the couch staring",
+  "woman under a cowboys blanket giving a blank stare",
+  "young woman explaining and older woman not buying it",
+  "mom on the couch looking unconvinced at her daughter"
+ ],
+ "tags": [
+  "explaining",
+  "mom",
+  "unimpressed",
+  "couch",
+  "blanket",
+  "two panels",
+  "family"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "185536441",
+  "code": "32gou1",
+  "image": "32gou1.jpg",
+  "width": 800,
+  "height": 450,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 357,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "conspiracy-keanu",
+ "name": "Conspiracy Keanu",
+ "aka": [],
+ "look": "A close-up still of a young Keanu Reeves as Ted from Bill & Ted's Excellent Adventure, with shaggy brown hair and bangs, staring wide-eyed with his mouth hanging open in stunned, mind-blown disbelief.",
+ "text": [],
+ "use": "Voices a paranoid or mind-bending thought as if it's a huge revelation. Captions usually start 'What if...' on top and finish with an absurd conspiracy or shower thought at the bottom.",
+ "slots": [
+  "top caption: usually 'What if...'",
+  "bottom caption: the paranoid or mind-bending idea"
+ ],
+ "examples": [
+  [
+   "What if",
+   "the snooze button is a time machine that only goes forward"
+  ],
+  [
+   "What if cats",
+   "are the ones who domesticated us"
+  ]
+ ],
+ "describe": [
+  "young keanu reeves looking shocked with his mouth open",
+  "guy with shaggy hair having a mind blown moment",
+  "bill and ted keanu staring in disbelief",
+  "stunned dude with bangs realizing something crazy",
+  "keanu reeves amazed face asking what if"
+ ],
+ "tags": [
+  "keanu reeves",
+  "conspiracy",
+  "mind blown",
+  "paranoid",
+  "what if",
+  "shocked",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Bill & Ted",
+ "origin": "A still of Keanu Reeves as Ted in Bill & Ted's Excellent Adventure (1989).",
+ "people": "actor",
+ "imgflip": {
+  "id": "61583",
+  "code": "1bin",
+  "image": "1bin.jpg",
+  "width": 551,
+  "height": 549,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 139,
+ "sure": "high",
+ "added": "2026-11-22"
+}

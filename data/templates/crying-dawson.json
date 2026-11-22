@@ -1,0 +1,60 @@
+{
+ "slug": "crying-dawson",
+ "name": "Crying Dawson",
+ "aka": [
+  "1990s First World Problems",
+  "Dawson's Creek Crying",
+  "James Van Der Beek Crying"
+ ],
+ "look": "A close-up TV still of James Van Der Beek as Dawson Leery, a young man with swept blond hair in a light blue collared shirt, crying with a quivering, scrunched-up frown. Blurry green trees and a pale sky are behind him.",
+ "text": [],
+ "use": "Exaggerated sobbing over a minor problem. In the First World Problems style, the caption names a small, nostalgic 1990s disappointment, like a dead virtual pet or a dropped dial-up connection, and it also works for any petty heartbreak.",
+ "slots": [
+  "top text: the setup of the minor problem",
+  "bottom text: the petty tragedy"
+ ],
+ "examples": [
+  [
+   "My Tamagotchi died",
+   "While I was at school"
+  ],
+  [
+   "Mom picked up the phone",
+   "In the middle of my download"
+  ]
+ ],
+ "describe": [
+  "blond guy in a blue shirt sobbing outdoors",
+  "90s tv teen heartbroken ugly cry",
+  "young man with trembling lip crying over something small",
+  "guy from a teen drama show crying his eyes out",
+  "sad blond teen boy with a scrunched up face fighting back tears"
+ ],
+ "tags": [
+  "crying",
+  "sad",
+  "dawson's creek",
+  "90s",
+  "first world problems",
+  "heartbreak",
+  "ugly cry"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Dawson's Creek",
+ "origin": "James Van Der Beek as Dawson Leery crying in the TV drama Dawson's Creek.",
+ "people": "actor",
+ "imgflip": {
+  "id": "101296",
+  "code": "265s",
+  "image": "265s.jpg",
+  "width": 500,
+  "height": 451,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 460,
+ "sure": "high",
+ "added": "2026-11-22"
+}

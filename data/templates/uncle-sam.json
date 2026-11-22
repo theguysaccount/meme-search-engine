@@ -1,0 +1,59 @@
+{
+ "slug": "uncle-sam",
+ "name": "Uncle Sam",
+ "aka": [
+  "I Want You",
+  "Uncle Sam I Want You"
+ ],
+ "look": "A painted illustration of Uncle Sam, a stern white-haired man with a goatee, wearing a white top hat with a blue star band, a blue coat and a red bow tie, pointing straight at the viewer against a plain white background.",
+ "text": [],
+ "use": "Uncle Sam points at the viewer to demand or recruit. The classic caption reads 'I want you' followed by an order, used for anything from chores to bossy requests.",
+ "slots": [
+  "top caption: usually 'I want you'",
+  "bottom caption: what he wants you to do"
+ ],
+ "examples": [
+  [
+   "I want you",
+   "to stop replying 'k' to long messages"
+  ],
+  [
+   "I want you",
+   "to put the shopping cart back"
+  ]
+ ],
+ "describe": [
+  "old man in a top hat pointing at you",
+  "patriotic guy with a white goatee and star hat pointing",
+  "army recruiting poster man pointing his finger at the viewer",
+  "stern old man in red white and blue pointing",
+  "vintage poster of a bearded man in a stars hat"
+ ],
+ "tags": [
+  "uncle sam",
+  "pointing",
+  "poster",
+  "patriotic",
+  "recruiting",
+  "vintage",
+  "america"
+ ],
+ "kind": "drawing",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Based on James Montgomery Flagg's 1917 'I Want You for U.S. Army' recruiting poster.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "89655",
+  "code": "1x6f",
+  "image": "1x6f.jpg",
+  "width": 620,
+  "height": 833,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 122,
+ "sure": "high",
+ "added": "2026-11-22"
+}

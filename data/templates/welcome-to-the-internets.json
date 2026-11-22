@@ -1,0 +1,59 @@
+{
+ "slug": "welcome-to-the-internets",
+ "name": "Welcome To The Internets",
+ "aka": [
+  "Welcome To The Internet",
+  "Welcome To The Internet, I'll Be Your Guide"
+ ],
+ "look": "A busy digital collage: a cat in a red headband holding a gold pistol rides a rearing white unicorn with a golden mane and a glowing red eye, under a pixelated sky with a rainbow, explosions, flames, dark smoke, a pixel castle and Nyan Cat in the corner.",
+ "text": [],
+ "use": "Captioned as a chaotic welcome to online life, typically 'Welcome to the internet' plus an offer to be someone's guide, for greeting a newcomer to internet weirdness or for anything gloriously over the top.",
+ "slots": [
+  "top caption: the welcome",
+  "bottom caption: the punchline"
+ ],
+ "examples": [
+  [
+   "Welcome to the group chat",
+   "Please keep your arms inside the unicorn"
+  ],
+  [
+   "Grandpa just made his first account",
+   "Hop on, we have a lot to cover"
+  ]
+ ],
+ "describe": [
+  "cat riding a unicorn with a gun and rainbow explosions",
+  "kitten in a bandana on a rearing unicorn holding a pistol",
+  "epic picture of a cat on a unicorn with fire and nyan cat",
+  "unicorn with glowing red eyes carrying an armed cat",
+  "crazy internet artwork of a cat warrior on a unicorn"
+ ],
+ "tags": [
+  "cat",
+  "unicorn",
+  "rainbow",
+  "explosions",
+  "nyan cat",
+  "absurd",
+  "digital art"
+ ],
+ "kind": "other",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A digital collage signed by the artist sharpwriter, packed with internet icons such as Nyan Cat.",
+ "people": "none",
+ "imgflip": {
+  "id": "701902",
+  "code": "f1la",
+  "image": "f1la.jpg",
+  "width": 500,
+  "height": 524,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 376,
+ "sure": "high",
+ "added": "2026-11-22"
+}

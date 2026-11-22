@@ -1,0 +1,58 @@
+{
+ "slug": "obama-awards-obama-a-medal",
+ "name": "Obama Awards Obama A Medal",
+ "aka": [
+  "Obama Medal",
+  "Obama Giving Himself A Medal"
+ ],
+ "look": "An edited photo from a White House ceremony with gold curtains and flags. Barack Obama, eyes lowered, fastens a medal on a blue ribbon around the neck of a second, grinning Barack Obama whose face was edited in.",
+ "text": [],
+ "use": "Self-congratulation for a tiny or self-serving achievement. Both men are labeled me, or the caption describes rewarding yourself for something you did for your own benefit.",
+ "slots": [
+  "who receives the medal, usually me (left)",
+  "who presents it, also me (right)"
+ ],
+ "examples": [
+  [
+   "Me for getting out of bed",
+   "Also me"
+  ],
+  [
+   "Me after fixing the bug I wrote",
+   "Me"
+  ]
+ ],
+ "describe": [
+  "obama putting a medal on himself",
+  "president giving himself an award",
+  "man hanging a medal around his own neck",
+  "two obamas, one awarding the other a medal",
+  "giving yourself a medal for doing nothing"
+ ],
+ "tags": [
+  "medal",
+  "award",
+  "self congratulation",
+  "ceremony",
+  "president",
+  "proud"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "An edit of a photo of Barack Obama presenting the Presidential Medal of Freedom, with the recipient's face swapped for Obama's own.",
+ "people": "public",
+ "imgflip": {
+  "id": "89853322",
+  "code": "1hhv9m",
+  "image": "1hhv9m.jpg",
+  "width": 1015,
+  "height": 627,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 177,
+ "sure": "high",
+ "added": "2026-11-22"
+}

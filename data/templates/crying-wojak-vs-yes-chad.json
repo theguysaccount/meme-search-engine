@@ -1,0 +1,59 @@
+{
+ "slug": "crying-wojak-vs-yes-chad",
+ "name": "Crying Wojak vs Yes Chad",
+ "aka": [
+  "Soyboy Vs Yes Chad",
+  "Soyjak vs Chad",
+  "Yes Chad"
+ ],
+ "look": "Two simple drawings on a white background. Left: a balding wojak face in glasses, red-eyed and crying blue tears, yelling with its mouth wide open. Right: a calm, blond, bearded man with a neat haircut, shown in profile in a black shirt.",
+ "text": [],
+ "use": "An overreaction against calm acceptance. The crying wojak shouts an outraged accusation or complaint, and the bearded Chad answers unbothered, usually with a simple yes, owning whatever he is accused of.",
+ "slots": [
+  "the outraged complaint (left, crying wojak)",
+  "the calm reply, usually just yes (right, Chad)"
+ ],
+ "examples": [
+  [
+   "You can't just eat cereal for dinner!",
+   "Yes."
+  ],
+  [
+   "You've already watched that movie twelve times!",
+   "And I'll watch it again tonight."
+  ]
+ ],
+ "describe": [
+  "crying nerd with glasses yelling at a calm bearded guy",
+  "wojak screaming and a blond chad saying yes",
+  "angry crying cartoon face vs cool guy with a beard",
+  "soyjak meltdown next to a calm nordic gamer",
+  "drawing of a man with a blond beard in profile staying calm"
+ ],
+ "tags": [
+  "wojak",
+  "chad",
+  "crying",
+  "calm",
+  "argument",
+  "beard"
+ ],
+ "kind": "drawing",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Pairs the crying soyjak wojak drawing with the bearded Nordic Gamer drawing, better known as Yes Chad.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "232844223",
+  "code": "3umnr3",
+  "image": "3umnr3.jpg",
+  "width": 1435,
+  "height": 978,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 171,
+ "sure": "high",
+ "added": "2026-11-22"
+}

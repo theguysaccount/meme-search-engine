@@ -1,0 +1,59 @@
+{
+ "slug": "i-fear-no-man",
+ "name": "I Fear No Man",
+ "aka": [
+  "But That Thing, It Scares Me"
+ ],
+ "look": "Dark, grainy panels from Team Fortress 2. Top: the hulking Heavy sits in silhouette before window blinds, subtitled \"I fear no man.\" Bottom left: he looks aside, \"But that thing...\". Bottom middle: an empty white square. Bottom right: he grips his face nervously, \"it scares me.\"",
+ "text": [
+  "I fear no man.",
+  "But that thing...",
+  "it scares me."
+ ],
+ "use": "The big, tough Heavy admits there is exactly one thing he's afraid of. The empty white square gets a picture or name of that thing, usually something small, silly or relatable.",
+ "slots": [
+  "the empty white square: the one thing that scares him"
+ ],
+ "examples": [
+  [
+   "A text from mom that just says \"call me\""
+  ],
+  [
+   "The check engine light"
+  ]
+ ],
+ "describe": [
+  "big man in the dark says i fear no man but that thing scares me",
+  "heavy from team fortress sitting in a dark room afraid",
+  "silhouette of a giant guy by window blinds admitting a fear",
+  "tough guy scared of one thing with a blank square to fill",
+  "tf2 heavy covering his mouth nervously in the shadows"
+ ],
+ "tags": [
+  "team fortress 2",
+  "heavy",
+  "fear",
+  "scared",
+  "dark room",
+  "video game",
+  "tough guy"
+ ],
+ "kind": "game",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Team Fortress 2",
+ "origin": "From Valve's 2012 \"Meet the Pyro\" video for Team Fortress 2, where the Heavy admits that the Pyro scares him.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "119575805",
+  "code": "1z6xa5",
+  "image": "1z6xa5.jpg",
+  "width": 500,
+  "height": 497,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 278,
+ "sure": "high",
+ "added": "2026-11-22"
+}

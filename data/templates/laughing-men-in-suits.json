@@ -1,0 +1,58 @@
+{
+ "slug": "laughing-men-in-suits",
+ "name": "Laughing Men In Suits",
+ "aka": [
+  "And Then I Said"
+ ],
+ "look": "A vintage photo of about eight men in dark suits crowded into an elegant room, all laughing hard. Several, including Ronald Reagan at left, hold wine or champagne glasses, an older man in glasses doubles over in front, and a man at far right laughs into his hand.",
+ "text": [],
+ "use": "Shows powerful people laughing at an outrageous or out-of-touch idea. The caption usually reads \"And then I said...\" followed by something absurd, greedy or unrealistic, as if it were the funniest joke in the room.",
+ "slots": [
+  "top caption: 'And then I said...'",
+  "bottom caption: the absurd or out-of-touch idea"
+ ],
+ "examples": [
+  [
+   "And then I said",
+   "\"Unlimited vacation, but nobody is allowed to take any\""
+  ],
+  [
+   "And then I told them",
+   "\"The update will only take five minutes\""
+  ]
+ ],
+ "describe": [
+  "group of old men in suits laughing hysterically",
+  "businessmen holding drinks and cracking up",
+  "rich guys in suits laughing at a joke",
+  "reagan and other men in a room laughing with champagne",
+  "old guys in suits bent over laughing together"
+ ],
+ "tags": [
+  "laughing",
+  "suits",
+  "old men",
+  "white house",
+  "drinks",
+  "greed",
+  "out of touch"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A White House photo of President Ronald Reagan laughing with a group of men over drinks.",
+ "people": "public",
+ "imgflip": {
+  "id": "922147",
+  "code": "jrj7",
+  "image": "jrj7.jpg",
+  "width": 500,
+  "height": 333,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 84,
+ "sure": "high",
+ "added": "2026-11-22"
+}

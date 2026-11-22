@@ -1,0 +1,58 @@
+{
+ "slug": "squidward-window",
+ "name": "Squidward Window",
+ "aka": [
+  "Squidward Looking Out the Window"
+ ],
+ "look": "A still from SpongeBob SquarePants. Squidward, seen from behind in his brown shirt, stands in his dim house looking out a round window through purple blinds. Outside, SpongeBob and Patrick jump around happily with their arms in the air.",
+ "text": [],
+ "use": "Squidward is someone stuck inside or left out, watching others enjoy something he can't or won't join. SpongeBob and Patrick are the people having fun, often labeled as friends, kids on vacation, or anyone without responsibilities.",
+ "slots": [
+  "the one watching from inside (Squidward, left)",
+  "the ones having fun outside (SpongeBob and Patrick, right)"
+ ],
+ "examples": [
+  [
+   "Me working from home",
+   "The neighborhood kids on summer break"
+  ],
+  [
+   "Me on the night shift",
+   "My friends posting beach photos"
+  ]
+ ],
+ "describe": [
+  "squidward looking out his window at spongebob and patrick",
+  "grumpy squid peeking through the blinds at friends playing outside",
+  "spongebob and patrick jumping around while squidward watches from inside",
+  "cartoon guy stuck at home staring at people having fun",
+  "me watching everyone else enjoy their day spongebob"
+ ],
+ "tags": [
+  "spongebob",
+  "squidward",
+  "window",
+  "watching",
+  "left out",
+  "jealousy",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A still from the animated series SpongeBob SquarePants.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "67452763",
+  "code": "145qvv",
+  "image": "145qvv.jpg",
+  "width": 598,
+  "height": 420,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 96,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "always-has-been",
+ "name": "Always Has Been",
+ "aka": [
+  "Wait, It's All Ohio?",
+  "Astronaut Meme"
+ ],
+ "look": "A 3D render of two astronauts in space looking at Earth against a starry sky. The nearer one, with a US flag patch, gazes at the planet while a second astronaut, wearing an Ohio flag patch, stands behind him pointing a handgun at his back.",
+ "text": [],
+ "use": "The first astronaut realizes something, captioned as Wait, it's all...?, and the armed astronaut behind him replies Always has been, confirming the uncomfortable truth was there all along.",
+ "slots": [
+  "the realization, Wait, it's all...? (by the first astronaut)",
+  "Always has been (by the astronaut with the gun)"
+ ],
+ "examples": [
+  [
+   "Wait, it's all meetings that could have been emails?",
+   "Always has been"
+  ],
+  [
+   "Wait, every recipe starts with a life story?",
+   "Always has been"
+  ]
+ ],
+ "describe": [
+  "astronaut pointing a gun at another astronaut looking at earth",
+  "two astronauts in space and one is about to shoot the other",
+  "spaceman with a pistol behind his friend staring at the planet",
+  "earth in the background with a betrayed astronaut",
+  "astronaut realizes the whole planet is one thing and gets shot"
+ ],
+ "tags": [
+  "astronauts",
+  "space",
+  "earth",
+  "gun",
+  "betrayal",
+  "realization",
+  "3d render"
+ ],
+ "kind": "render",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "252600902",
+  "code": "46e43q",
+  "image": "46e43q.png",
+  "width": 960,
+  "height": 540,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "255177692",
+   "name": "astronaut meme always has been template"
+  }
+ ],
+ "rank_all_time": 27,
+ "sure": "high",
+ "added": "2026-11-22"
+}

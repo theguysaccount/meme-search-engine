@@ -1,0 +1,52 @@
+{
+ "slug": "sweaty-speedrunner",
+ "name": "Sweaty Speedrunner",
+ "aka": [],
+ "look": "A grainy webcam still of a young man with dark, messy hair, wearing big silver headphones and a black shirt, staring intently at his screen with furrowed brows and a tense, focused face. An orange-yellow wall is behind him.",
+ "text": [],
+ "use": "Shows extreme, try-hard concentration, like rushing through something as fast as possible or taking a casual activity far too seriously. The caption names the task.",
+ "slots": [
+  "the task taken too seriously (caption above)"
+ ],
+ "examples": [
+  [
+   "Me finishing lunch in the four minutes before the meeting"
+  ],
+  [
+   "Me playing a kids' board game against my six-year-old nephew"
+  ]
+ ],
+ "describe": [
+  "guy with headphones staring intensely at his screen",
+  "focused gamer face concentrating hard on webcam",
+  "tryhard gamer with headphones and a serious stare",
+  "man in headphones glaring at the monitor in front of a yellow wall",
+  "intense gamer locked in and trying to go as fast as possible"
+ ],
+ "tags": [
+  "gamer",
+  "concentration",
+  "tryhard",
+  "headphones",
+  "intense",
+  "webcam"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "305074372",
+  "code": "51msw4",
+  "image": null,
+  "width": 250,
+  "height": 154,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 404,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

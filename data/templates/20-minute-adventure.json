@@ -1,0 +1,61 @@
+{
+ "slug": "20-minute-adventure",
+ "name": "20 Minute Adventure",
+ "aka": [
+  "In And Out, 20 Minute Adventure",
+  "20 Minute Adventure Rick Morty"
+ ],
+ "look": "Two stacked Rick and Morty stills. Top: in a school hallway lined with teal lockers, Rick gestures at a swirling green portal while Morty in a yellow shirt watches, with a subtitle below. Bottom: both slump in their spaceship, Morty sobbing with half-closed eyes and Rick rubbing his face, exhausted.",
+ "text": [
+  "Let's go. In and out. 20 minute adventure."
+ ],
+ "use": "Mocks plans that were supposed to be quick and easy but turned into an exhausting ordeal. The top is the breezy promise and the bottom shows how wrecked everyone is after it took hours, days or years.",
+ "slots": [
+  "the quick, easy plan, as a caption on or above the top panel",
+  "how it actually went or how long it took, on the bottom panel"
+ ],
+ "examples": [
+  [
+   "Just one quick update before bed",
+   "4 a.m., reinstalling everything"
+  ],
+  [
+   "Let's build this bookshelf, how hard can it be",
+   "Six hours later with three leftover screws"
+  ]
+ ],
+ "describe": [
+  "rick and morty quick trip turns into a nightmare",
+  "rick pointing at a green portal then both crying in the spaceship",
+  "rick says let's go in and out 20 minute adventure",
+  "cartoon grandpa and grandson come back exhausted and traumatized",
+  "short errand that took way longer than planned cartoon"
+ ],
+ "tags": [
+  "rick and morty",
+  "portal",
+  "adventure",
+  "exhausted",
+  "plans gone wrong",
+  "two panels",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Rick and Morty",
+ "origin": "The cold open of the Rick and Morty episode Rest and Ricklaxation (season 3, 2017), where a promised quick adventure leaves them traumatized.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "205214210",
+  "code": "3e6gaq",
+  "image": "3e6gaq.png",
+  "width": 987,
+  "height": 1060,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 442,
+ "sure": "high",
+ "added": "2026-11-22"
+}

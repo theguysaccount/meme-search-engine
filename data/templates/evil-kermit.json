@@ -1,0 +1,58 @@
+{
+ "slug": "evil-kermit",
+ "name": "Evil Kermit",
+ "aka": [
+  "Hooded Kermit",
+  "Sith Kermit"
+ ],
+ "look": "Kermit the Frog, seen from behind at left, faces a look-alike frog on the right wearing a black hood that shadows the top of its face. The scene is dim, with a plain dark gray background.",
+ "text": [],
+ "use": "A conversation with your own dark side. Normal Kermit is labeled as me with a sensible intention, and the hooded Kermit is the inner voice that tempts me into the lazy, petty or bad choice.",
+ "slots": [
+  "top caption: me, with a good intention (normal Kermit)",
+  "bottom caption: my dark side urging the bad choice (hooded Kermit)"
+ ],
+ "examples": [
+  [
+   "Me: I should go to bed early tonight",
+   "Me to me: One more episode won't hurt"
+  ],
+  [
+   "Me: I'm saving money this month",
+   "Also me: Treat yourself, you earned it"
+  ]
+ ],
+ "describe": [
+  "kermit talking to a hooded dark version of himself",
+  "frog puppet facing his twin in a black hood",
+  "muppet frog and his sinister cloaked double",
+  "kermit listening to his bad inner voice in a hood",
+  "green frog with a shadowy hooded frog whispering temptation"
+ ],
+ "tags": [
+  "kermit",
+  "muppets",
+  "hood",
+  "temptation",
+  "inner voice",
+  "dark side"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Muppets",
+ "origin": "A still from the 2014 film Muppets Most Wanted, where Kermit meets a hooded look-alike.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "84341851",
+  "code": "1e7ql7",
+  "image": "1e7ql7.jpg",
+  "width": 700,
+  "height": 325,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 51,
+ "sure": "high",
+ "added": "2026-11-22"
+}

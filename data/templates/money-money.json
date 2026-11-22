@@ -1,0 +1,56 @@
+{
+ "slug": "money-money",
+ "name": "Money Money",
+ "aka": [],
+ "look": "A film still of Jim Carrey as the Mask, with a bright green face, yellow hat and yellow zoot suit, grinning wildly with his mouth open as he fans out two big handfuls of cash in a crowded nightclub with neon palm-tree lights.",
+ "text": [],
+ "use": "Shows gleeful excitement about having money. Captions cover payday, a refund, a surprise bonus or finding cash in an old coat, usually as someone flaunting what feels like a fortune.",
+ "slots": [
+  "top caption: the money situation",
+  "bottom caption: the punchline (optional)"
+ ],
+ "examples": [
+  [
+   "Me on payday",
+   "Before rent, bills and groceries"
+  ],
+  [
+   "Found $20 in last winter's jacket",
+   "I'm rich"
+  ]
+ ],
+ "describe": [
+  "the mask holding two fans of cash",
+  "green face guy in a yellow suit showing off money",
+  "jim carrey mask waving stacks of dollar bills",
+  "cartoonish green man excited about cash in a club",
+  "man in a yellow hat flashing a lot of money"
+ ],
+ "tags": [
+  "the mask",
+  "jim carrey",
+  "money",
+  "cash",
+  "rich",
+  "excited",
+  "green face"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Mask",
+ "origin": "Jim Carrey as the Mask flashing handfuls of cash in the 1994 comedy The Mask.",
+ "people": "actor",
+ "imgflip": {
+  "id": "828786",
+  "code": "hrhu",
+  "image": "hrhu.jpg",
+  "width": 500,
+  "height": 375,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 466,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

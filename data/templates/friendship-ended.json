@@ -1,0 +1,66 @@
+{
+ "slug": "friendship-ended",
+ "name": "Friendship Ended",
+ "aka": [
+  "Friendship Ended With X, Now Y Is My Best Friend"
+ ],
+ "look": "A photo of two young men clasping hands in front of a curtain. Colorful gradient text across it announces that a friendship has ended and names a new best friend. In both bottom corners, small photos of another young man in a red shirt are crossed out with green X marks.",
+ "text": [
+  "Friendship ended with",
+  "Now",
+  "is my best friend"
+ ],
+ "use": "Announces dumping one thing for another. Fill in the old thing you have given up on and the new favorite that replaced it, often swapping the crossed-out photos and the handshake for pictures of those things.",
+ "slots": [
+  "the old thing you're done with (after 'Friendship ended with', top)",
+  "the new favorite (after 'Now', beside the handshake)"
+ ],
+ "examples": [
+  [
+   "My alarm clock",
+   "The snooze button"
+  ],
+  [
+   "Salad",
+   "Pizza"
+  ]
+ ],
+ "describe": [
+  "two guys shaking hands with an old friend crossed out in the corners",
+  "rainbow text saying friendship ended now he is my best friend",
+  "men clasping hands with green x over pictures of another guy",
+  "colorful edited photo announcing a new best friend",
+  "crossed out former friend and new best friend handshake"
+ ],
+ "tags": [
+  "friendship",
+  "handshake",
+  "crossed out",
+  "best friend",
+  "rainbow text",
+  "breakup"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "137501417",
+  "code": "29v4rt",
+  "image": "29v4rt.jpg",
+  "width": 800,
+  "height": 600,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "275318252",
+   "name": "Friendship ended with X, now Y is my best friend"
+  }
+ ],
+ "rank_all_time": 148,
+ "sure": "high",
+ "added": "2026-11-22"
+}

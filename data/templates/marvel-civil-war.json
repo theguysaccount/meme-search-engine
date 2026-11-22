@@ -1,0 +1,63 @@
+{
+ "slug": "marvel-civil-war",
+ "name": "Marvel Civil War",
+ "aka": [
+  "Marvel Civil War 1",
+  "Captain America Civil War"
+ ],
+ "look": "Three stacked panels from Captain America: Civil War. Top: Chris Evans as Steve Rogers, in a dark blue shirt, speaks earnestly. Middle: Robert Downey Jr. as Tony Stark, goateed, stares back past Steve's shoulder. Bottom: the film's title card on black with the Marvel logo and release date.",
+ "text": [
+  "MARVEL",
+  "CAPTAIN AMERICA",
+  "CIVIL WAR",
+  "MAY 6, 2016"
+ ],
+ "use": "Two sides of a petty disagreement. Captain America states one opinion, Iron Man answers with the opposite, and the Civil War title card implies the argument escalates into an all-out war.",
+ "slots": [
+  "one side's opinion (top, Captain America)",
+  "the opposing opinion (middle, Iron Man)"
+ ],
+ "examples": [
+  [
+   "Pineapple belongs on pizza",
+   "Pineapple on pizza is a crime"
+  ],
+  [
+   "The toilet paper goes over",
+   "The toilet paper goes under"
+  ]
+ ],
+ "describe": [
+  "captain america and iron man arguing then civil war title",
+  "steve rogers and tony stark staring each other down",
+  "two avengers disagree and it turns into a war",
+  "chris evans and robert downey jr face off with a movie logo below",
+  "three panel superhero argument ending with the movie poster text"
+ ],
+ "tags": [
+  "superheroes",
+  "argument",
+  "captain america",
+  "iron man",
+  "disagreement",
+  "movie title"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 3,
+ "franchise": "Marvel",
+ "origin": "Stills of Chris Evans and Robert Downey Jr. from Captain America: Civil War (2016), followed by the film's title card.",
+ "people": "actor",
+ "imgflip": {
+  "id": "28034788",
+  "code": "govs4",
+  "image": "govs4.jpg",
+  "width": 423,
+  "height": 734,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 150,
+ "sure": "high",
+ "added": "2026-11-22"
+}

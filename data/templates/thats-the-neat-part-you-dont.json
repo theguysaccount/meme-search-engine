@@ -1,0 +1,56 @@
+{
+ "slug": "thats-the-neat-part-you-dont",
+ "name": "That's The Neat Part, You Don't",
+ "aka": [],
+ "look": "Two stacked panels from the animated series Invincible. Top: Mark Grayson, a young man with black hair in a navy sweater over a yellow collar, looks puzzled as he asks something by a staircase. Bottom: his father Nolan, with a mustache and graying temples, grins and points at him.",
+ "text": [],
+ "use": "The top is someone asking how to do or handle something, and the bottom answers 'that's the neat part, you don't', revealing there is no solution at all, the task never ends or the problem simply can't be avoided.",
+ "slots": [
+  "top panel: the question, usually 'how do I...?'",
+  "bottom panel: 'that's the neat part, you don't'"
+ ],
+ "examples": [
+  [
+   "How do I finish all the laundry?",
+   "That's the neat part, you don't"
+  ],
+  [
+   "How do I fix my sleep schedule?",
+   "That's the neat part, you don't"
+  ]
+ ],
+ "describe": [
+  "cartoon son asks a question and his dad points and says you don't",
+  "invincible dad with a mustache pointing at his son",
+  "omni-man grinning and pointing at mark",
+  "young superhero confused and his father pointing with a smile",
+  "animated father telling his son there's no way to do it"
+ ],
+ "tags": [
+  "invincible",
+  "omni-man",
+  "father and son",
+  "no solution",
+  "pointing",
+  "two panels",
+  "animated"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Invincible",
+ "origin": "From the 2021 Amazon Prime Video animated series Invincible, where Omni-Man answers his son Mark's question with this line.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "326899798",
+  "code": "5emlhy",
+  "image": "5emlhy.png",
+  "width": 942,
+  "height": 1024,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 382,
+ "sure": "high",
+ "added": "2026-11-22"
+}

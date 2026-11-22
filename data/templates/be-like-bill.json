@@ -1,0 +1,58 @@
+{
+ "slug": "be-like-bill",
+ "name": "Be Like Bill",
+ "aka": [
+  "This Is Bill"
+ ],
+ "look": "A simple drawing on a white square with a thick black border. A smiling stick figure wearing a grayish-brown knit beanie with a dark red pom-pom stands on the right side, leaving the left side empty for text.",
+ "text": [],
+ "use": "Bill models sensible behavior. The text follows the pattern 'This is Bill. Bill does something reasonable. Bill is smart. Be like Bill,' usually as a polite dig at people who do the opposite.",
+ "slots": [
+  "left side: 'This is Bill' and the sensible thing Bill does",
+  "closing line: 'Bill is smart. Be like Bill.'"
+ ],
+ "examples": [
+  [
+   "This is Bill. Bill finished the show and didn't post spoilers.",
+   "Bill is smart. Be like Bill."
+  ],
+  [
+   "This is Bill. Bill puts his shopping cart back.",
+   "Bill is considerate. Be like Bill."
+  ]
+ ],
+ "describe": [
+  "stick figure with a beanie and a smiley face",
+  "stick man in a winter hat on a white background",
+  "smiling stickman wearing a knit cap with a pom pom",
+  "stick figure meme telling people to do the sensible thing",
+  "drawing of a guy in a bobble hat giving passive aggressive advice"
+ ],
+ "tags": [
+  "stick figure",
+  "beanie",
+  "advice",
+  "passive aggressive",
+  "facebook",
+  "drawing",
+  "white background"
+ ],
+ "kind": "drawing",
+ "format": "other",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stick-figure format that spread widely on Facebook, with captions praising Bill's sensible habits.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "56225174",
+  "code": "xh3me",
+  "image": "xh3me.jpg",
+  "width": 913,
+  "height": 907,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 105,
+ "sure": "high",
+ "added": "2026-11-22"
+}

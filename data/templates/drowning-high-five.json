@@ -1,0 +1,58 @@
+{
+ "slug": "drowning-high-five",
+ "name": "Drowning High Five",
+ "aka": [
+  "High Five Drown"
+ ],
+ "look": "A four-panel comic in a 2x2 grid. A hand pokes up out of blue water reaching for help, another hand reaches down toward it, the two hands meet in a loud high five against a pink background, and in the last panel the first hand sinks below the surface in bubbles.",
+ "text": [],
+ "use": "Someone in trouble reaches out for help and gets a cheerful gesture instead of a rescue. The drowning hand is the person in need, and the high-fiving hand is whoever answers with useless encouragement or misreads the situation.",
+ "slots": [
+  "label on the drowning hand (who needs help)",
+  "label on the high-fiving hand (the useless response)"
+ ],
+ "examples": [
+  [
+   "Me asking the group chat for help moving apartments",
+   "Everyone replying \"you got this!\""
+  ],
+  [
+   "Me telling the teacher I don't understand the assignment",
+   "\"Great question! It's due Friday.\""
+  ]
+ ],
+ "describe": [
+  "drowning hand gets a high five instead of being saved",
+  "comic of a hand in the water and someone high fives it",
+  "person reaches out of the ocean, gets a high five, then sinks",
+  "four panel comic with a hand sinking after a high five",
+  "asking for help and getting a high five while going under"
+ ],
+ "tags": [
+  "comic",
+  "drowning",
+  "high five",
+  "help",
+  "four panel",
+  "dark humor",
+  "water"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "A comic by the artist Anton Gudim, who signs his work \"Gudim\".",
+ "people": "fictional",
+ "imgflip": {
+  "id": "168453057",
+  "code": "2saj7l",
+  "image": "2saj7l.png",
+  "width": 720,
+  "height": 540,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 283,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "why-cant-i-hold-all-these-limes",
+ "name": "Why Can't I Hold All These Limes",
+ "aka": [
+  "Why Can't I Hold All These"
+ ],
+ "look": "A photo of a store advertisement: a man with a shaved head, in a white polo shirt, grins as he clutches an armful of limes to his chest while more limes tumble down, his other hand raised. Shirts hang at both edges.",
+ "text": [],
+ "use": "Someone has more of something than they can handle, often by their own choice. The usual caption reads \"why can't I hold all these\" plus the thing, with the limes standing in for too many tabs, projects, pets or problems.",
+ "slots": [
+  "the setup, often \"why can't I hold all these\" (top)",
+  "what he has too much of (bottom)"
+ ],
+ "examples": [
+  [
+   "Why can't I hold all these",
+   "browser tabs"
+  ],
+  [
+   "Why can't I hold all these",
+   "hobbies I started this month"
+  ]
+ ],
+ "describe": [
+  "man dropping a bunch of limes and laughing",
+  "guy in a white polo juggling too many limes",
+  "dude struggling to carry an armful of green fruit",
+  "bald man holding limes that are falling everywhere",
+  "too many limes falling out of his arms"
+ ],
+ "tags": [
+  "limes",
+  "too many",
+  "overwhelmed",
+  "advertisement",
+  "fruit",
+  "white polo",
+  "clumsy"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A snapshot of a store advertisement poster in which a model fumbles an armful of limes.",
+ "people": "models",
+ "imgflip": {
+  "id": "5824468",
+  "code": "3gu6s",
+  "image": "3gu6s.jpg",
+  "width": 620,
+  "height": 826,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 296,
+ "sure": "high",
+ "added": "2026-11-22"
+}

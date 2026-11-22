@@ -1,0 +1,58 @@
+{
+ "slug": "am-i-the-only-one-around-here",
+ "name": "Am I The Only One Around Here",
+ "aka": [
+  "Walter Sobchak"
+ ],
+ "look": "A still from The Big Lebowski. John Goodman as Walter Sobchak, a heavyset bearded man in tinted aviator glasses, a khaki vest and dark brown shirt, scowls and raises a black pistol beside his head in a bowling alley.",
+ "text": [],
+ "use": "An exasperated rant about being the only person who cares about something. The top line reads 'Am I the only one around here' and the bottom finishes it with the rule, chore or courtesy everyone else ignores.",
+ "slots": [
+  "top caption, usually 'Am I the only one around here'",
+  "bottom caption: the thing nobody else seems to care about"
+ ],
+ "examples": [
+  [
+   "Am I the only one around here",
+   "who refills the ice cube tray?"
+  ],
+  [
+   "Am I the only one around here",
+   "who reads the group chat before asking what time we're meeting?"
+  ]
+ ],
+ "describe": [
+  "angry guy in glasses holding up a gun at a bowling alley",
+  "big bearded man in aviator shades raising a pistol",
+  "john goodman with a handgun in the big lebowski",
+  "furious bowler in a vest waving a gun around",
+  "mad man pulls a gun over a bowling rule"
+ ],
+ "tags": [
+  "the big lebowski",
+  "gun",
+  "angry",
+  "bowling alley",
+  "rules",
+  "frustration",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Big Lebowski",
+ "origin": "From The Big Lebowski (1998): Walter Sobchak pulls a gun on a fellow bowler over a foot foul, asking if he's the only one who cares about the rules.",
+ "people": "actor",
+ "imgflip": {
+  "id": "259680",
+  "code": "5kdc",
+  "image": "5kdc.jpg",
+  "width": 500,
+  "height": 348,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 97,
+ "sure": "high",
+ "added": "2026-11-22"
+}

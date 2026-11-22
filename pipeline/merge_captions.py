@@ -36,6 +36,8 @@ def main():
     ap.add_argument("--out", action="append", required=True)
     ap.add_argument("--date", default=datetime.datetime.now(datetime.timezone.utc).date().isoformat())
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--min-sure", choices=["low", "medium", "high"], default="medium",
+                    help="entries less sure than this are reported and left for a later pass, not published")
     args = ap.parse_args()
     if len(args.batch) != len(args.out):
         raise SystemExit("give one --out per --batch")
@@ -62,26 +64,41 @@ def main():
             existing[str(v["id"])] = path
     moderation = catalog.load_moderation()
 
-    # Imgflip names (and our names) of everything in this run, to resolve variant_of.
-    by_name = {}
+    # variant_of names a template as it appears in the Imgflip list; fall back to our cleaned-up names. A name can
+    # belong to several uploads, so keep every id (in batch order) and never resolve an entry to itself.
+    by_imgflip, by_ours = {}, {}
     for item, entry in pairs:
-        by_name.setdefault(norm(item["name"]), item["id"])
-        by_name.setdefault(norm(entry["name"]), item["id"])
+        by_imgflip.setdefault(norm(item["name"]), []).append(item["id"])
+        by_ours.setdefault(norm(entry["name"]), []).append(item["id"])
     entries = {item["id"]: (item, entry) for item, entry in pairs}
 
+    def target_of(tid):
+        want = entries[tid][1].get("variant_of")
+        if not want:
+            return None
+        for table in (by_imgflip, by_ours):
+            options = [o for o in table.get(norm(want), []) if o != tid and o in entries and not entries[o][1].get("exclude")]
+            # Prefer an upload that isn't itself marked as a version of something else.
+            options.sort(key=lambda o: bool(entries[o][1].get("variant_of")))
+            if options:
+                return options[0]
+        return None
+
     def canonical(tid, seen=()):
-        item, entry = entries[tid]
-        target = entry.get("variant_of")
-        if not target or entry.get("exclude"):
+        if entries[tid][1].get("exclude"):
             return tid
-        other = by_name.get(norm(target))
-        if not other or other == tid or other in seen or other not in entries or entries[other][1].get("exclude"):
+        other = target_of(tid)
+        if not other or other in seen:
             return tid
         return canonical(other, seen + (tid,))
 
     new_files, variants, skipped, blocked = {}, [], [], []
+    rank = {"low": 0, "medium": 1, "high": 2}
     for item, entry in pairs:
         tid = str(item["id"])
+        if not entry.get("exclude") and rank[entry["sure"]] < rank[args.min_sure]:
+            skipped.append(f"{item['name']} (sure: {entry['sure']}; left for review)")
+            continue
         if entry.get("exclude"):
             if tid not in moderation["blocked_ids"]:
                 moderation["blocked_ids"][tid] = f"{item['name']}: {entry['exclude']}"

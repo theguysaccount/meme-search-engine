@@ -1,0 +1,54 @@
+{
+ "slug": "confused-black-girl",
+ "name": "Confused Black Girl",
+ "aka": [
+  "Black Girl Wat"
+ ],
+ "look": "A young Black girl with her hair in a top bun and a thin gold headband squints at the camera with a confused, disgusted look, holding up one hand palm-up in a \"what?\" gesture. She wears a dark blue sweater, with students and a TV blurred behind her.",
+ "text": [],
+ "use": "A reaction to something baffling, nonsensical or ridiculous. The caption quotes a confusing statement or describes an absurd situation, and the girl's squint and raised palm say \"what?\"",
+ "slots": [
+  "caption: the baffling statement or situation"
+ ],
+ "examples": [
+  [
+   "When someone says they don't like pizza"
+  ],
+  [
+   "Teacher: \"The test is open book, but you can't use the book\""
+  ]
+ ],
+ "describe": [
+  "confused girl with her hand up asking what",
+  "teen girl squinting in confusion with her palm raised",
+  "girl in a blue sweater looking baffled in a cafeteria",
+  "young woman with a hair bun making a what face",
+  "girl giving a disgusted confused look with a shrugging hand"
+ ],
+ "tags": [
+  "confused",
+  "reaction",
+  "what",
+  "palm up",
+  "school",
+  "skeptical"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "14230520",
+  "code": "8h0c8",
+  "image": "8h0c8.jpg",
+  "width": 599,
+  "height": 626,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 80,
+ "sure": "high",
+ "added": "2026-11-22"
+}

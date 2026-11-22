@@ -1,0 +1,65 @@
+{
+ "slug": "running-away-balloon",
+ "name": "Running Away Balloon",
+ "aka": [],
+ "look": "Two stacked cartoon panels. Top: a simple white figure grins and reaches both arms toward a big yellow balloon drifting away. Bottom: a pink blob creature hugs the white figure from behind, holding him back, while he keeps reaching for the balloon with a nervous sweat drop.",
+ "text": [],
+ "use": "The white figure is someone chasing a goal and the yellow balloon is the goal. In the second panel the pink creature is the habit, temptation or obstacle that holds them back as the goal floats off.",
+ "slots": [
+  "who is chasing (white figure, top)",
+  "the goal (yellow balloon, top)",
+  "what holds them back (pink creature, bottom)",
+  "the chaser again (white figure, bottom)",
+  "the goal again (yellow balloon, bottom)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "Saving money",
+   "A limited time sale",
+   "Me",
+   "Saving money"
+  ],
+  [
+   "Me",
+   "A clean room",
+   "The chair covered in clothes",
+   "Me",
+   "A clean room"
+  ]
+ ],
+ "describe": [
+  "cartoon guy reaching for a yellow balloon while a pink thing holds him back",
+  "white figure chasing a ball and a pink blob grabs him",
+  "pink creature hugging someone from behind so they can't reach the balloon",
+  "simple drawing of a person trying to catch a floating yellow ball",
+  "two panel cartoon about a goal slipping away because something holds you back"
+ ],
+ "tags": [
+  "balloon",
+  "goal",
+  "obstacle",
+  "held back",
+  "cartoon",
+  "pink creature",
+  "two panels"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "131087935",
+  "code": "261o3j",
+  "image": "261o3j.jpg",
+  "width": 761,
+  "height": 1024,
+  "boxes": 5
+ },
+ "variants": [],
+ "rank_all_time": 8,
+ "sure": "high",
+ "added": "2026-11-22"
+}

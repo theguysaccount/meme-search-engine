@@ -1,0 +1,58 @@
+{
+ "slug": "i-dont-want-to-play-with-you-anymore",
+ "name": "I Don't Want To Play With You Anymore",
+ "aka": [],
+ "look": "A low-angle still from Toy Story 2. Andy, a boy in a red cowboy hat and white T-shirt, lifts a smiling Woody high in the air in a bedroom with blue, star-patterned walls. Yellow subtitle text at the bottom reads \"I don't want to play with you anymore\".",
+ "text": [
+  "I don't want to play with you anymore"
+ ],
+ "use": "Someone or something you love outgrows you, or you outgrow something that still adores you. Woody is labeled as the loyal, rejected thing and Andy as whoever is done with it, with the subtitle as the punchline.",
+ "slots": [
+  "label on Woody (the one being dropped)",
+  "label on Andy (who is done with it)"
+ ],
+ "examples": [
+  [
+   "My old laptop",
+   "Every new software update"
+  ],
+  [
+   "The free trial version of me",
+   "The streaming service on day 31"
+  ]
+ ],
+ "describe": [
+  "toy story kid holding woody saying i don't want to play with you",
+  "andy in a red cowboy hat lifting up woody seen from below",
+  "boy tells his cowboy toy he is done playing with him",
+  "low angle shot of a kid and a smiling woody doll in his room",
+  "child outgrowing his favorite toy with sad subtitles"
+ ],
+ "tags": [
+  "toy story",
+  "woody",
+  "andy",
+  "rejection",
+  "toys",
+  "subtitles",
+  "outgrown"
+ ],
+ "kind": "cartoon",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Toy Story",
+ "origin": "From Woody's nightmare in Pixar's Toy Story 2 (1999), in which Andy tells him he doesn't want to play with him anymore.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "196435636",
+  "code": "38yapg",
+  "image": "38yapg.jpg",
+  "width": 1484,
+  "height": 1005,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 265,
+ "sure": "high",
+ "added": "2026-11-22"
+}

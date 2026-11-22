@@ -1,0 +1,65 @@
+{
+ "slug": "scooby-doo-mask-reveal",
+ "name": "Scooby Doo Mask Reveal",
+ "aka": [
+  "Let's See Who This Really Is",
+  "Scooby-Doo Unmasking"
+ ],
+ "look": "Two stacked frames from a Scooby-Doo cartoon on a dark blue background. Top: Fred, in a white shirt with a blue collar and orange ascot, puts his hand on the hooded head of a villain in a white ghost costume, tied up with rope. Bottom: Fred holds the pulled-off hood, revealing a scowling man with a mustache.",
+ "text": [],
+ "use": "Exposes what something really is. The ghost is labeled with the disguise or claim, Fred pulls the mask off, and the unmasked man is labeled with the less exciting or more embarrassing truth underneath.",
+ "slots": [
+  "the disguise or impressive claim (on the ghost, top left)",
+  "Fred's line, often let's see who this really is (top right)",
+  "the truth underneath (on the unmasked man, bottom left)",
+  "Fred's comment on the reveal (bottom right)"
+ ],
+ "examples": [
+  [
+   "Fancy artisanal coffee",
+   "Let's see who this really is",
+   "Burnt regular coffee",
+   "Just as I suspected"
+  ],
+  [
+   "Brand new game, $70",
+   "Let's see what you really are",
+   "Last year's game with a new cover",
+   "I knew it"
+  ]
+ ],
+ "describe": [
+  "fred yanks the hood off a tied up ghost",
+  "scooby doo ghost turns out to be a grumpy man",
+  "tied up villain in a sheet gets his mask removed",
+  "cartoon guy in an ascot revealing who was under the costume",
+  "taking off the bad guy's mask to show who it really was"
+ ],
+ "tags": [
+  "unmasking",
+  "reveal",
+  "villain",
+  "disguise",
+  "cartoon",
+  "truth",
+  "ghost"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "Scooby-Doo",
+ "origin": "Fred Jones unmasking a captured villain in a classic Hanna-Barbera Scooby-Doo cartoon.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "145139900",
+  "code": "2eeunw",
+  "image": "2eeunw.jpg",
+  "width": 720,
+  "height": 960,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 165,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "average-fan-vs-average-enjoyer",
+ "name": "Average Fan vs Average Enjoyer",
+ "aka": [
+  "Average X Fan vs Average Y Enjoyer"
+ ],
+ "look": "Two photos side by side under a blank white strip. Left: a young man in a maroon puffer jacket and white T-shirt sneers and jabs a blurry hand at the camera in front of a white garage door. Right: a black-and-white photo of a chiseled, bearded muscleman with slicked-back hair, smiling confidently.",
+ "text": [],
+ "use": "Compares two groups of fans. The left caption reads \"Average ___ fan\" for the side mocked as angry or pathetic, and the right reads \"Average ___ enjoyer\" for the side shown as calm, confident and superior.",
+ "slots": [
+  "the mocked group (\"Average ___ fan\", over the left photo)",
+  "the admired group (\"Average ___ enjoyer\", over the right photo)"
+ ],
+ "examples": [
+  [
+   "Average energy drink fan",
+   "Average glass of water enjoyer"
+  ],
+  [
+   "Average \"reply all\" fan",
+   "Average \"mute the thread\" enjoyer"
+  ]
+ ],
+ "describe": [
+  "angry kid in red puffer jacket next to a black and white buff man",
+  "comparison meme weak angry guy vs smiling muscular bearded man",
+  "young man sneering beside a chiseled jawline man in grayscale",
+  "two photos one annoyed teen one handsome strong man smiling",
+  "angry teen in maroon jacket vs gigachad comparison"
+ ],
+ "tags": [
+  "comparison",
+  "fans",
+  "gigachad",
+  "angry",
+  "confident",
+  "side by side",
+  "black and white"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 2,
+ "franchise": null,
+ "origin": "Pairs a photo of an angry young man with the black-and-white Gigachad photo for fan-versus-enjoyer comparisons.",
+ "people": "private",
+ "imgflip": {
+  "id": "316989420",
+  "code": "58q6lo",
+  "image": "58q6lo.png",
+  "width": 708,
+  "height": 720,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 212,
+ "sure": "high",
+ "added": "2026-11-22"
+}

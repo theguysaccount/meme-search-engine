@@ -1,0 +1,60 @@
+{
+ "slug": "pentagon-hexagon-octagon",
+ "name": "Pentagon Hexagon Octagon",
+ "aka": [],
+ "look": "Four squares in a 2x2 grid on white, drawn like a geometry worksheet. Black outlines of a pentagon (top left), a hexagon (top right) and an octagon (bottom left) sit above their names. The bottom right square is left blank.",
+ "text": [
+  "Pentagon",
+  "Hexagon",
+  "Octagon"
+ ],
+ "use": "A pattern-break pun. After three shapes whose names end in \"-gon\", the blank fourth square gets a picture of something whose name also ends in \"-gon\", like a dragon, a wagon or something that is simply gone.",
+ "slots": [
+  "a picture placed in the blank bottom right square",
+  "its punny name ending in -gon, written under the picture"
+ ],
+ "examples": [
+  [
+   "a photo of an old covered wagon",
+   "Wagon"
+  ],
+  [
+   "a photo of an empty pizza box",
+   "Gone"
+  ]
+ ],
+ "describe": [
+  "pentagon hexagon octagon and an empty fourth box",
+  "geometry shapes with names and a blank spot for a pun",
+  "three polygons labeled and the last square is missing",
+  "shape names meme where the fourth one ends in gon",
+  "black outline shapes worksheet with one picture missing"
+ ],
+ "tags": [
+  "shapes",
+  "geometry",
+  "pun",
+  "pattern",
+  "2x2 grid",
+  "black and white",
+  "wordplay"
+ ],
+ "kind": "graphic",
+ "format": "other",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "155518747",
+  "code": "2klb17",
+  "image": "2klb17.jpg",
+  "width": 720,
+  "height": 710,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 292,
+ "sure": "high",
+ "added": "2026-11-22"
+}

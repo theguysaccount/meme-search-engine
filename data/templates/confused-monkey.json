@@ -1,0 +1,53 @@
+{
+ "slug": "confused-monkey",
+ "name": "Confused Monkey",
+ "aka": [],
+ "look": "A blurry close-up of a pale young monkey holding both hands on top of its head, staring straight ahead with a stunned, worried expression against a dark background.",
+ "text": [],
+ "use": "A reaction for being overwhelmed, shocked or completely lost. The caption describes a baffling or stressful moment, and the monkey clutching its head is the response.",
+ "slots": [
+  "caption describing the baffling moment (top)"
+ ],
+ "examples": [
+  [
+   "Me reading the group chat after ignoring it for two hours"
+  ],
+  [
+   "When the teacher says this is the easy part"
+  ]
+ ],
+ "describe": [
+  "monkey holding its head with both hands",
+  "blurry monkey looking stressed and lost",
+  "baby monkey with hands on its head in shock",
+  "little monkey grabbing its head like it can't believe it",
+  "stunned monkey clutching its head in the dark"
+ ],
+ "tags": [
+  "monkey",
+  "confused",
+  "stressed",
+  "shock",
+  "hands on head",
+  "blurry",
+  "animal"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "511357979",
+  "code": "8gg6cb",
+  "image": null,
+  "width": 234,
+  "height": 250,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 375,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

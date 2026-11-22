@@ -1,0 +1,58 @@
+{
+ "slug": "sparta-leonidas",
+ "name": "Sparta Leonidas",
+ "aka": [
+  "This Is Sparta"
+ ],
+ "look": "A still from the film 300. Gerard Butler as King Leonidas, bearded and wearing a red cape, roars toward the camera with a curved sword raised, while fallen soldiers, shields and spears litter the hazy battlefield behind him.",
+ "text": [],
+ "use": "An over-the-top battle cry about something that doesn't deserve it. Captions usually riff on his line 'This is Sparta!', shouting 'This is [something]!' about a petty rule or situation, or any wildly dramatic declaration.",
+ "slots": [
+  "top caption: the setup or challenge",
+  "bottom caption: the shouted reply, often 'This is [something]!'"
+ ],
+ "examples": [
+  [
+   "You want to borrow my phone charger?",
+   "THIS. IS. MY. LAST. ONE!"
+  ],
+  [
+   "Did someone just take my parking spot?",
+   "THIS IS MY DRIVEWAY!"
+  ]
+ ],
+ "describe": [
+  "bearded spartan king screaming with a sword in battle",
+  "gerard butler yelling in a red cape from 300",
+  "angry warrior shouting with his blade raised on a battlefield",
+  "shirtless soldier with a cape roaring a battle cry",
+  "furious bearded man screaming at the camera holding a sword"
+ ],
+ "tags": [
+  "300",
+  "spartan",
+  "leonidas",
+  "screaming",
+  "battle",
+  "sword",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "300",
+ "origin": "From the film 300, in which Gerard Butler plays King Leonidas leading Spartan soldiers against the Persian army.",
+ "people": "actor",
+ "imgflip": {
+  "id": "195389",
+  "code": "46rh",
+  "image": "46rh.jpg",
+  "width": 500,
+  "height": 263,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 114,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

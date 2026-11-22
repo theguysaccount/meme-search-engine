@@ -1,0 +1,57 @@
+{
+ "slug": "for-dummies",
+ "name": "For Dummies",
+ "aka": [
+  "For Dummies Book Cover"
+ ],
+ "look": "A blank parody of a For Dummies book cover: a black cover with yellow corner bands and a yellow curve at lower left, FOR DUMMIES in jagged yellow letters in the middle, and a bottom strip reading \"A Reference for the Rest of Us!\" beside the cartoon Dummies Man.",
+ "text": [
+  "FOR DUMMIES",
+  "A Reference for the Rest of Us!"
+ ],
+ "use": "You add a subject someone clearly needs beginner help with, turning it into a fake guide book, often to tease a person who keeps failing at a simple task.",
+ "slots": [
+  "the subject (above FOR DUMMIES on the cover)"
+ ],
+ "examples": [
+  [
+   "Loading the Dishwasher"
+  ],
+  [
+   "Replying to Texts"
+  ]
+ ],
+ "describe": [
+  "yellow and black beginner book cover with a blank title",
+  "guide book for idiots cover template",
+  "a reference for the rest of us book cover",
+  "fake instruction book cover in yellow and black",
+  "how to book for beginners with a cartoon guy at the bottom"
+ ],
+ "tags": [
+  "book cover",
+  "parody",
+  "beginner",
+  "yellow",
+  "black",
+  "guide"
+ ],
+ "kind": "graphic",
+ "format": "sign",
+ "panels": 1,
+ "franchise": "For Dummies",
+ "origin": "A blank copy of the cover design of the For Dummies series of yellow-and-black beginner's guide books.",
+ "people": "none",
+ "imgflip": {
+  "id": "59165342",
+  "code": "z849q",
+  "image": "z849q.jpg",
+  "width": 1103,
+  "height": 1379,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 430,
+ "sure": "high",
+ "added": "2026-11-22"
+}

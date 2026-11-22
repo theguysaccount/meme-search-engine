@@ -1,0 +1,55 @@
+{
+ "slug": "big-book-small-book",
+ "name": "Big Book Small Book",
+ "aka": [],
+ "look": "Two closed hardcover books with dark red covers and cream page edges, seen from the side on a white background. A very thick book sits on the left and a thin one sits on the right.",
+ "text": [],
+ "use": "Compares the size of two related things. The thick book is labeled with something long or bloated and the thin book with its tiny counterpart, such as a huge rulebook next to the rules anyone actually follows.",
+ "slots": [
+  "the long or bloated thing (thick book, left)",
+  "the short or tiny thing (thin book, right)"
+ ],
+ "examples": [
+  [
+   "Terms and conditions",
+   "The part I actually read"
+  ],
+  [
+   "My list of excuses",
+   "My list of finished projects"
+  ]
+ ],
+ "describe": [
+  "thick book next to a thin book",
+  "huge red hardcover beside a tiny skinny one",
+  "two books one fat and one small for comparison",
+  "giant book and little book on a white background",
+  "big heavy volume compared to a slim booklet"
+ ],
+ "tags": [
+  "books",
+  "size",
+  "comparison",
+  "thick vs thin",
+  "white background",
+  "red"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "237236273",
+  "code": "3x8soh",
+  "image": "3x8soh.jpg",
+  "width": 299,
+  "height": 168,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 303,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

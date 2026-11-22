@@ -1,0 +1,52 @@
+{
+ "slug": "shrek-running",
+ "name": "Shrek Running",
+ "aka": [],
+ "look": "A blurry, low-resolution CGI still of Shrek, the green ogre, sprinting at full speed with his arms pumping, in his cream shirt and dark vest. Streaks of speed blur the trees and sky behind him.",
+ "text": [],
+ "use": "Rushing toward something exciting or away from something unwanted. The caption says who is running and why, like me running to the kitchen when I hear the snack drawer open.",
+ "slots": [
+  "who is running and where to (caption)"
+ ],
+ "examples": [
+  [
+   "Me running to the door when I hear the delivery truck"
+  ],
+  [
+   "Me leaving the party the second someone says let's play charades"
+  ]
+ ],
+ "describe": [
+  "shrek sprinting at top speed",
+  "green ogre running with his arms pumping",
+  "blurry shrek fleeing from something",
+  "ogre dashing past the trees in a hurry",
+  "shrek rushing somewhere as fast as he can"
+ ],
+ "tags": [
+  "shrek",
+  "running",
+  "hurry",
+  "ogre",
+  "speed",
+  "animated"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Shrek",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "324040475",
+  "code": "5cxb8b",
+  "image": null,
+  "width": 250,
+  "height": 140,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 188,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

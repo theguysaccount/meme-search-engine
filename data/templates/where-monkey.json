@@ -1,0 +1,63 @@
+{
+ "slug": "where-monkey",
+ "name": "Where Monkey",
+ "aka": [
+  "Where Banana"
+ ],
+ "look": "Three orangutans sit upright like TV presenters on red sofas in a bright morning news studio, around a round white table with a glass top, papers and a mug. Big windows behind them show a city skyline at sunrise.",
+ "text": [],
+ "use": "The orangutans act as a TV panel talking in simple caveman-style phrases. A caption sits beside one of them as its line, like the well-known 'where banana', often to mock a blunt, simple-minded question or demand.",
+ "slots": [
+  "top caption: the situation",
+  "line spoken by one of the orangutans"
+ ],
+ "examples": [
+  [
+   "Me opening the fridge at midnight",
+   "where snack"
+  ],
+  [
+   "The team after the server goes down",
+   "where backup"
+  ]
+ ],
+ "describe": [
+  "three orangutans sitting on a red couch in a tv news studio",
+  "monkeys hosting a breakfast news show",
+  "apes on a sofa at a talk show table with a city skyline",
+  "orangutan panel on a morning show set",
+  "three big orange apes sitting like news anchors"
+ ],
+ "tags": [
+  "orangutan",
+  "monkey",
+  "news studio",
+  "tv show",
+  "red couch",
+  "animals",
+  "monke"
+ ],
+ "kind": "render",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "316466202",
+  "code": "58eyvu",
+  "image": "58eyvu.png",
+  "width": 1113,
+  "height": 629,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "259732121",
+   "name": "where banana"
+  }
+ ],
+ "rank_all_time": 107,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

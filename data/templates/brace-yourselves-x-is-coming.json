@@ -1,0 +1,63 @@
+{
+ "slug": "brace-yourselves-x-is-coming",
+ "name": "Brace Yourselves X is Coming",
+ "aka": [
+  "Imminent Ned",
+  "Brace Yourselves Winter Is Coming"
+ ],
+ "look": "Sean Bean as Ned Stark, with shoulder-length hair and a beard, wears a thick fur cloak over leather armor and grips the pommel of his sword with both hands. He looks off to the left with a weary, stern expression against a plain white background.",
+ "text": [],
+ "use": "Warns that something annoying or predictable is about to arrive. The top caption says \"Brace yourselves\" and the bottom caption names what is coming, usually a seasonal flood of posts, people or events.",
+ "slots": [
+  "top caption: 'Brace yourselves'",
+  "bottom caption: the thing that is coming"
+ ],
+ "examples": [
+  [
+   "Brace yourselves",
+   "Pumpkin spice everything is coming"
+  ],
+  [
+   "Brace yourselves",
+   "The reply-all chain is coming"
+  ]
+ ],
+ "describe": [
+  "game of thrones guy in a fur cloak holding a sword",
+  "ned stark looking serious with his hand on a sword hilt",
+  "bearded man in a fur coat warning that something is coming",
+  "sean bean in furs on a white background",
+  "stern medieval lord gripping his sword and looking to the side"
+ ],
+ "tags": [
+  "game of thrones",
+  "ned stark",
+  "warning",
+  "fur cloak",
+  "sword",
+  "winter"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Game of Thrones",
+ "origin": "A promotional photo of Sean Bean as Ned Stark from the first season of HBO's Game of Thrones, whose house motto is \"Winter is coming.\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "61546",
+  "code": "1bhm",
+  "image": "1bhm.jpg",
+  "width": 622,
+  "height": 477,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "18552174",
+   "name": "Winter Is Coming"
+  }
+ ],
+ "rank_all_time": 62,
+ "sure": "high",
+ "added": "2026-11-22"
+}

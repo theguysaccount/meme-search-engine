@@ -1,0 +1,56 @@
+{
+ "slug": "sure-grandma-lets-get-you-to-bed",
+ "name": "Sure Grandma, Let's Get You to Bed",
+ "aka": [],
+ "look": "A stock photo in a sunny garden. An elderly woman with curly white hair, a pearl necklace and a pink cardigan leans on a walker, while a young woman with curly dark hair, in a turquoise T-shirt and jeans, gently guides her by the shoulder and arm.",
+ "text": [],
+ "use": "Someone says something outdated, delusional or wildly out of touch, and the reply humors them like a confused grandparent: \"Sure grandma, let's get you to bed.\" The grandma stands for whoever made the claim.",
+ "slots": [
+  "the outdated or delusional claim (top, said by grandma)",
+  "the humoring reply, usually \"Sure grandma, let's get you to bed\" (bottom)"
+ ],
+ "examples": [
+  [
+   "Me at 11 PM: I'll just watch one more episode",
+   "Sure grandma, let's get you to bed"
+  ],
+  [
+   "My old laptop: I can totally run this new game",
+   "Sure grandma, let's get you to bed"
+  ]
+ ],
+ "describe": [
+  "young woman helping an old lady with a walker",
+  "girl guiding her grandma on a walker in a garden",
+  "elderly woman in a pink sweater being helped to walk",
+  "caretaker humoring an old woman and taking her to bed",
+  "stock photo of a teen helping her grandmother walk outside"
+ ],
+ "tags": [
+  "grandma",
+  "walker",
+  "elderly",
+  "caregiver",
+  "stock photo",
+  "garden",
+  "out of touch"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A stock photo of a young woman helping an elderly woman walk with a walker.",
+ "people": "models",
+ "imgflip": {
+  "id": "268054898",
+  "code": "4flche",
+  "image": "4flche.jpg",
+  "width": 427,
+  "height": 381,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 225,
+ "sure": "high",
+ "added": "2026-11-22"
+}

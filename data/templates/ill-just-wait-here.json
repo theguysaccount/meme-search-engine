@@ -1,0 +1,56 @@
+{
+ "slug": "ill-just-wait-here",
+ "name": "I'll Just Wait Here",
+ "aka": [],
+ "look": "Two stacked panels in a dark room. Top: a gray-haired man in a gray uniform shirt and tie sits facing an old computer monitor, his face lit warmly as he waits. Bottom: in the same spot and uniform he is now a decayed corpse with a gaunt skull face and stringy white hair.",
+ "text": [],
+ "use": "Jokes about waiting forever for something slow or unlikely. The top caption names what someone is waiting for at the computer, and the bottom panel shows him long dead, often captioned \"I'll just wait here.\"",
+ "slots": [
+  "top panel: what he is waiting for",
+  "bottom panel: the punchline, often 'I'll just wait here'"
+ ],
+ "examples": [
+  [
+   "Waiting for my crush to text back",
+   "Still waiting"
+  ],
+  [
+   "Me after clicking \"Install updates\"",
+   "I'll just wait here"
+  ]
+ ],
+ "describe": [
+  "man at a computer turns into a skeleton waiting",
+  "old guy waiting at a monitor then decomposed",
+  "guy in a uniform waiting at an old computer until he dies",
+  "corpse sitting in front of a computer screen",
+  "two panels of a man waiting then rotting at the pc"
+ ],
+ "tags": [
+  "waiting",
+  "skeleton",
+  "computer",
+  "forever",
+  "two panel",
+  "corpse",
+  "slow"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "actor",
+ "imgflip": {
+  "id": "109765",
+  "code": "2cp1",
+  "image": "2cp1.jpg",
+  "width": 491,
+  "height": 550,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 93,
+ "sure": "high",
+ "added": "2026-11-22"
+}

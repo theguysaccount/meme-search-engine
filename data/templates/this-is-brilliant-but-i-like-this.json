@@ -1,0 +1,61 @@
+{
+ "slug": "this-is-brilliant-but-i-like-this",
+ "name": "This Is Brilliant But I Like This",
+ "aka": [
+  "This Is Brilliant, But I Like This"
+ ],
+ "look": "Two stacked frames from Top Gear outside a grand white mansion. A gray-haired presenter stands between a white Volkswagen and a red Ford Fiesta, gesturing at the red car above the subtitle \"This is brilliant.\" and at the white car above \"But I like this.\" A co-host leans on the red car.",
+ "text": [
+  "This is brilliant.",
+  "But I like this."
+ ],
+ "use": "Admits one option is objectively better while confessing a soft spot for the other. The red car gets the impressive, sensible choice, and the white car gets the one the speaker actually likes, usually something cheaper, sillier or worse.",
+ "slots": [
+  "the objectively better option (red car, top frame)",
+  "the option you secretly prefer (white car, bottom frame)"
+ ],
+ "examples": [
+  [
+   "A balanced home-cooked dinner",
+   "Cereal at midnight"
+  ],
+  [
+   "The award-winning film everyone recommends",
+   "The cartoon I've seen forty times"
+  ]
+ ],
+ "describe": [
+  "two guys comparing a red car and a white car outside a mansion",
+  "car show host says this is brilliant but i like this",
+  "british tv presenter points at a red hatchback then a white one",
+  "man admits one car is better but likes the other one",
+  "top gear guys standing between two small cars"
+ ],
+ "tags": [
+  "cars",
+  "top gear",
+  "preference",
+  "comparison",
+  "red car",
+  "white car",
+  "subtitles"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "Top Gear",
+ "origin": "Two frames from the BBC motoring show Top Gear.",
+ "people": "public",
+ "imgflip": {
+  "id": "136553931",
+  "code": "29ator",
+  "image": "29ator.jpg",
+  "width": 680,
+  "height": 702,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 300,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

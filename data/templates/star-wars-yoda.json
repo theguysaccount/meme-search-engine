@@ -1,0 +1,57 @@
+{
+ "slug": "star-wars-yoda",
+ "name": "Star Wars Yoda",
+ "aka": [
+  "Yoda"
+ ],
+ "look": "Yoda, the small green Jedi Master with long pointed ears and wispy white hair, stands in a dim green forest wearing a rough cream robe over brown clothes. He holds a short wooden walking stick with both hands and gives a faint, knowing smile.",
+ "text": [],
+ "use": "Wise advice or silly observations written in Yoda's backwards speech. The top and bottom captions flip normal word order, such as \"Clean my room, I will not,\" so the line sounds like the Jedi Master.",
+ "slots": [
+  "top caption: first half of the backwards sentence",
+  "bottom caption: second half, usually ending with the verb"
+ ],
+ "examples": [
+  [
+   "Finished my homework, I have not",
+   "Watched three seasons instead, I did"
+  ],
+  [
+   "Reply all to the company email, you must not",
+   "Regret it forever, you will"
+  ]
+ ],
+ "describe": [
+  "little green jedi master with big ears smiling",
+  "small green alien with pointy ears holding a cane",
+  "old wise green creature in a robe in a swamp",
+  "green puppet master in a brown robe looking amused",
+  "wise green guy from the space movie who talks backwards"
+ ],
+ "tags": [
+  "star wars",
+  "yoda",
+  "jedi",
+  "wisdom",
+  "green",
+  "backwards speech"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Wars",
+ "origin": "Yoda on the swamp planet Dagobah in the 1980 film Star Wars: Episode V - The Empire Strikes Back.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "14371066",
+  "code": "8k0sa",
+  "image": "8k0sa.jpg",
+  "width": 620,
+  "height": 713,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 58,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "picard-facepalm",
+ "name": "Picard Facepalm",
+ "aka": [
+  "Captain Picard Facepalm"
+ ],
+ "look": "Captain Jean-Luc Picard, played by Patrick Stewart, sits in his beige captain's chair on the starship bridge in a red and black Starfleet uniform. He buries his face in his right hand in a weary facepalm.",
+ "text": [],
+ "use": "The go-to reaction to something so dumb or obvious it hurts. The caption describes a foolish mistake, a pointless question or an embarrassing situation, and Picard buries his face in his hand.",
+ "slots": [
+  "top caption: the foolish situation",
+  "bottom caption: optional punchline"
+ ],
+ "examples": [
+  [
+   "Spent an hour debugging",
+   "Forgot to save the file"
+  ],
+  [
+   "Locked my keys in the car",
+   "With the engine running"
+  ]
+ ],
+ "describe": [
+  "star trek captain covering his face with his hand",
+  "bald man in a red uniform doing a facepalm",
+  "patrick stewart holding his head in his hand",
+  "starship captain hiding his face in embarrassment",
+  "man in a captain's chair with his hand over his face in disbelief"
+ ],
+ "tags": [
+  "star trek",
+  "picard",
+  "facepalm",
+  "embarrassment",
+  "disbelief",
+  "captain"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Star Trek",
+ "origin": "From the Star Trek: The Next Generation episode \"Deja Q,\" with Patrick Stewart as Captain Jean-Luc Picard.",
+ "people": "actor",
+ "imgflip": {
+  "id": "1509839",
+  "code": "wczz",
+  "image": "wczz.jpg",
+  "width": 500,
+  "height": 324,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 73,
+ "sure": "high",
+ "added": "2026-11-22"
+}

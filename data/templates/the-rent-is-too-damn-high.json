@@ -1,0 +1,58 @@
+{
+ "slug": "the-rent-is-too-damn-high",
+ "name": "The Rent Is Too Damn High",
+ "aka": [
+  "Too Damn High"
+ ],
+ "look": "Jimmy McMillan, with bushy white mutton chops, a mustache and glasses, raises a black-gloved fist high as he speaks. He wears a black suit and a black and white patterned tie in front of a blue curtain.",
+ "text": [],
+ "use": "Complains that something costs too much or is simply excessive. The top caption names the thing and the bottom caption declares it \"is too damn high,\" echoing McMillan's fiery campaign slogan about rent.",
+ "slots": [
+  "top caption: the thing that is excessive",
+  "bottom caption: 'is too damn high!'"
+ ],
+ "examples": [
+  [
+   "The price of concert tickets",
+   "Is too damn high!"
+  ],
+  [
+   "The number of streaming services I pay for",
+   "Is too damn high!"
+  ]
+ ],
+ "describe": [
+  "old man with white sideburns raising his fist in black gloves",
+  "man with mutton chops and glasses shouting about rent",
+  "angry guy with a gray beard fist in the air at a debate",
+  "man in black gloves and a suit protesting prices",
+  "bearded politician raising his fist in front of a blue curtain"
+ ],
+ "tags": [
+  "rent",
+  "complaint",
+  "fist raised",
+  "politics",
+  "debate",
+  "black gloves",
+  "money"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Jimmy McMillan, founder of the Rent Is Too Damn High Party, during his 2010 run for governor of New York.",
+ "people": "public",
+ "imgflip": {
+  "id": "61580",
+  "code": "1bik",
+  "image": "1bik.jpg",
+  "width": 420,
+  "height": 316,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 85,
+ "sure": "high",
+ "added": "2026-11-22"
+}

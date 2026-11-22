@@ -1,0 +1,62 @@
+{
+ "slug": "hey-internet",
+ "name": "Hey Internet",
+ "aka": [],
+ "look": "A black and white rage comic in four panels: a gleeful stick figure runs in pointing, a crowd of plain-faced figures stares back, a huge face leers with a wide toothy grin, and a horde of snarling monsters piles onto the small figure.",
+ "text": [],
+ "use": "Someone proudly shares an opinion or confession online, the crowd goes quiet, the internet grins with sinister glee, and then a mob tears them apart. Used for hot takes that get dogpiled.",
+ "slots": [
+  "top left: the announcement to the internet",
+  "top right: the crowd's silent reaction",
+  "middle: the internet's wicked grin",
+  "bottom: the mob piling on"
+ ],
+ "examples": [
+  [
+   "Hey internet! I like pineapple on pizza!",
+   "...",
+   "Oh, really?",
+   "The comment section"
+  ],
+  [
+   "Hey internet, I've never seen Star Wars",
+   "...",
+   "Interesting...",
+   "Every fan forum at once"
+  ]
+ ],
+ "describe": [
+  "rage comic guy tells everyone something and gets attacked by a mob",
+  "black and white comic with a creepy grin and a monster horde",
+  "stick figure shares his opinion and monsters pile on him",
+  "four panel comic where a crowd stares then swarms the guy",
+  "evil grinning face and then everyone attacks the poster"
+ ],
+ "tags": [
+  "rage comic",
+  "internet",
+  "mob",
+  "opinion",
+  "black and white",
+  "four panels",
+  "backlash"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "27920715",
+  "code": "gmfrf",
+  "image": "gmfrf.jpg",
+  "width": 620,
+  "height": 1097,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 377,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "dont-make-me-tap-the-sign",
+ "name": "Don't Make Me Tap The Sign",
+ "aka": [
+  "Tap The Sign"
+ ],
+ "look": "Two stacked stills from The Simpsons. Top: a stern bus driver in a blue uniform and cap grips the big steering wheel, captioned \"DON'T MAKE ME TAP THE SIGN.\" Bottom: a yellow finger taps a blank white sign posted beside him.",
+ "text": [
+  "DON'T MAKE ME TAP THE SIGN."
+ ],
+ "use": "Used when someone keeps breaking or ignoring a rule that has been stated many times. The blank sign holds that rule or obvious fact, and the driver's line warns that he is tired of repeating it.",
+ "slots": [
+  "the blank sign: the rule or obvious fact"
+ ],
+ "examples": [
+  [
+   "We are not there yet. Stop asking."
+  ],
+  [
+   "The leftovers in the blue container are not for you"
+  ]
+ ],
+ "describe": [
+  "simpsons bus driver saying don't make me tap the sign",
+  "yellow finger tapping a blank sign on a bus",
+  "annoyed bus driver threatening to point at the rules",
+  "cartoon driver in a blue cap and a hand pointing at a white sign",
+  "two panel simpsons joke with a blank notice"
+ ],
+ "tags": [
+  "the simpsons",
+  "sign",
+  "rules",
+  "bus driver",
+  "annoyed",
+  "reminder",
+  "two panel"
+ ],
+ "kind": "cartoon",
+ "format": "sign",
+ "panels": 2,
+ "franchise": "The Simpsons",
+ "origin": "From a scene in The Simpsons in which a bus driver says \"Don't make me tap the sign.\"",
+ "people": "fictional",
+ "imgflip": {
+  "id": "145699196",
+  "code": "2equ7w",
+  "image": "2equ7w.jpg",
+  "width": 640,
+  "height": 947,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 288,
+ "sure": "high",
+ "added": "2026-11-22"
+}

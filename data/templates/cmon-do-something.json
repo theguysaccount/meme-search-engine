@@ -1,0 +1,57 @@
+{
+ "slug": "cmon-do-something",
+ "name": "C'mon Do Something",
+ "aka": [
+  "Stick Poke"
+ ],
+ "look": "A crude black-and-white line drawing on a white background. A tall, thin, pale figure with a dark band across its eyes hunches over and pokes at the ground with a long stick, leaving empty space at the stick's tip on the right.",
+ "text": [],
+ "use": "Poking something lifeless or unresponsive, hoping it will react. The figure is labeled as the person, and the thing at the end of the stick is whatever refuses to do anything, such as a dead project or a quiet group chat.",
+ "slots": [
+  "who is poking (the tall figure)",
+  "the unresponsive thing being poked (at the stick's tip)"
+ ],
+ "examples": [
+  [
+   "Me",
+   "My motivation on a Monday"
+  ],
+  [
+   "Me refreshing the page",
+   "The tracking number that hasn't updated in four days"
+  ]
+ ],
+ "describe": [
+  "stick figure poking something with a stick",
+  "drawing of a guy poking a dead thing to see if it moves",
+  "tall skinny man prodding the ground with a long stick",
+  "poking it with a stick saying come on do something",
+  "crude doodle of someone jabbing at something with a stick"
+ ],
+ "tags": [
+  "poking",
+  "stick",
+  "drawing",
+  "waiting",
+  "unresponsive",
+  "doodle"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "20007896",
+  "code": "bwu6w",
+  "image": "bwu6w.jpg",
+  "width": 448,
+  "height": 519,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 157,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "live-reaction",
+ "name": "Live Reaction",
+ "aka": [
+  "Live X Reaction"
+ ],
+ "look": "A news-style graphic: a red banner across the top with white block letters, \"LIVE\" at the left and \"REACTION\" at the right with a gap between them, above a large empty black box.",
+ "text": [
+  "LIVE",
+  "REACTION"
+ ],
+ "use": "Frames a picture as breaking footage of someone's reaction. The gap in the banner gets a name, so it reads \"live [name] reaction\", and the black box gets a picture of that character or person looking shocked, smug or confused.",
+ "slots": [
+  "who is reacting, in the gap between LIVE and REACTION (red banner)",
+  "the reaction picture (black box)"
+ ],
+ "examples": [
+  [
+   "Cat",
+   "a photo of a cat staring in horror at a cucumber"
+  ]
+ ],
+ "describe": [
+  "red banner that says live reaction above a black box",
+  "breaking news style frame with a red bar and a black screen",
+  "template with a blank black screen under a red title bar",
+  "tv news bar for posting someone's reaction picture",
+  "red and black graphic for showing how someone reacted"
+ ],
+ "tags": [
+  "reaction",
+  "news banner",
+  "red",
+  "black box",
+  "graphic",
+  "live"
+ ],
+ "kind": "graphic",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "413510303",
+  "code": "6u6ylb",
+  "image": "6u6ylb.png",
+  "width": 960,
+  "height": 705,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 335,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

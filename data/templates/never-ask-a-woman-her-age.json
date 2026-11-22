@@ -1,0 +1,63 @@
+{
+ "slug": "never-ask-a-woman-her-age",
+ "name": "Never Ask a Woman Her Age",
+ "aka": [
+  "Never Ask a Woman Her Age, a Man His Salary"
+ ],
+ "look": "A plain white graphic in three rows. Top: a cartoon woman with a black bob shrugs beside \"Never Ask A Woman\" and, in red, \"Her Age\". Middle: a cartoon man in a red tie waves beside \"A Man,\" and, in red, \"His Salary\". The bottom row is empty.",
+ "text": [
+  "Never Ask A Woman",
+  "Her Age",
+  "A Man,",
+  "His Salary"
+ ],
+ "use": "Finishes the old etiquette saying with a third forbidden question. The empty bottom row gets a picture or name of someone plus the touchy subject you should never ask them about, like a student about their plans after graduation.",
+ "slots": [
+  "who you should never ask (picture or name, bottom row left)",
+  "the touchy subject (bottom row right, usually in red)"
+ ],
+ "examples": [
+  [
+   "A student",
+   "Their plans after graduation"
+  ],
+  [
+   "A gamer",
+   "How many hours they've played this week"
+  ]
+ ],
+ "describe": [
+  "never ask a woman her age a man his salary meme",
+  "cartoon woman and man with etiquette rules and an empty third row",
+  "graphic listing things you should never ask people",
+  "clip art lady and guy with red text and a blank spot",
+  "rude questions meme with a blank space for a third person"
+ ],
+ "tags": [
+  "etiquette",
+  "never ask",
+  "clip art",
+  "red text",
+  "rows",
+  "blank row",
+  "questions"
+ ],
+ "kind": "graphic",
+ "format": "other",
+ "panels": 3,
+ "franchise": null,
+ "origin": "Built on the old saying that you should never ask a woman her age or a man his salary.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "278525960",
+  "code": "4lts08",
+  "image": "4lts08.jpg",
+  "width": 216,
+  "height": 233,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 229,
+ "sure": "high",
+ "added": "2026-11-22"
+}

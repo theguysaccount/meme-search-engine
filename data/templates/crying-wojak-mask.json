@@ -1,0 +1,59 @@
+{
+ "slug": "crying-wojak-mask",
+ "name": "Crying Wojak Mask",
+ "aka": [
+  "Pretending To Be Happy, Hiding Crying Behind A Mask",
+  "Wojak Mask"
+ ],
+ "look": "A crude black-and-white Wojak drawing of a bald man wearing a plain white oval mask with a simple smiling face, held on by a strap. Behind the mask, his bloodshot red eye streams blue tears and his clenched teeth show.",
+ "text": [],
+ "use": "The smiling mask is the cheerful face someone shows the world, and the crying Wojak behind it is how they really feel. Captions set up a situation where someone acts fine while quietly falling apart.",
+ "slots": [
+  "what they say or show on the outside, on or beside the smiling mask",
+  "how they really feel or what is really going on, near the crying face"
+ ],
+ "examples": [
+  [
+   "Haha no worries, it happens to everyone!",
+   "Lost my entire save file"
+  ],
+  [
+   "Sure, I'd love to help you move this weekend",
+   "Had three plans and a nap scheduled"
+  ]
+ ],
+ "describe": [
+  "wojak holding a smiley face mask over his tears",
+  "sad drawn guy hiding tears behind a happy mask",
+  "bald doodle man pretending to smile while crying underneath",
+  "fake smile mask with tears running down behind it",
+  "feels guy putting on a happy face but sad inside"
+ ],
+ "tags": [
+  "wojak",
+  "mask",
+  "crying",
+  "fake smile",
+  "hidden pain",
+  "sadness",
+  "drawing"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "99924861",
+  "code": "1nhqil",
+  "image": "1nhqil.jpg",
+  "width": 800,
+  "height": 857,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 441,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

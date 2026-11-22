@@ -1,0 +1,52 @@
+{
+ "slug": "ben-affleck-smoking",
+ "name": "Ben Affleck Smoking",
+ "aka": [],
+ "look": "White caption space above a paparazzi photo of Ben Affleck in a blue crewneck sweater and jeans, standing in front of a black door with his eyes closed and head tilted back, exhaling wearily, one hand in his pocket and a cigarette in the other.",
+ "text": [],
+ "use": "Shows exhausted resignation after something draining, like a much-needed break to recover. The caption above describes the tiring situation he just got through.",
+ "slots": [
+  "the draining situation (white space above)"
+ ],
+ "examples": [
+  [
+   "Me after explaining to my parents how to forward an email for the fifth time"
+  ],
+  [
+   "Me after making one phone call"
+  ]
+ ],
+ "describe": [
+  "ben affleck exhausted with a cigarette outside",
+  "tired man in a blue sweater exhaling with his eyes closed",
+  "guy with a cigarette looking defeated by a black door",
+  "actor taking a long drag after a rough day",
+  "stressed man in jeans sighing with a cigarette in hand"
+ ],
+ "tags": [
+  "celebrity",
+  "smoking",
+  "exhausted",
+  "stress",
+  "sigh",
+  "paparazzi"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A paparazzi photo of Ben Affleck taking a weary drag on a cigarette.",
+ "people": "public",
+ "imgflip": {
+  "id": "166152128",
+  "code": "2qx7sw",
+  "image": "2qx7sw.jpg",
+  "width": 750,
+  "height": 858,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 423,
+ "sure": "high",
+ "added": "2026-11-22"
+}

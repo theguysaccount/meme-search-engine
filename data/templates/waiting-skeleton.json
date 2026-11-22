@@ -1,0 +1,59 @@
+{
+ "slug": "waiting-skeleton",
+ "name": "Waiting Skeleton",
+ "aka": [
+  "Skeleton Waiting",
+  "Skeleton on a Bench"
+ ],
+ "look": "A plastic skeleton sits slumped on a weathered wooden bench in a grassy yard, one bony arm draped on the armrest and its skull tilted back, as if it has been waiting there for ages. Straw bales sit behind it.",
+ "text": [],
+ "use": "The caption names something that is taking forever, like a reply, a delivery or an update, and the skeleton shows the person waited so long they died on the bench.",
+ "slots": [
+  "what you're waiting for (top)",
+  "how long or the punchline (bottom)"
+ ],
+ "examples": [
+  [
+   "Still waiting for my friend",
+   "who said he was five minutes away"
+  ],
+  [
+   "Me waiting for the game to go on sale",
+   "Any day now"
+  ]
+ ],
+ "describe": [
+  "skeleton sitting on a bench waiting forever",
+  "bones of a person on a park bench like they died waiting",
+  "skeleton slumped on a wooden bench in the grass",
+  "waited so long they turned into a skeleton",
+  "halloween skeleton chilling on an outdoor bench"
+ ],
+ "tags": [
+  "skeleton",
+  "waiting",
+  "bench",
+  "forever",
+  "impatience",
+  "outdoors",
+  "halloween"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "4087833",
+  "code": "2fm6x",
+  "image": "2fm6x.jpg",
+  "width": 298,
+  "height": 403,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 9,
+ "sure": "high",
+ "added": "2026-11-22"
+}

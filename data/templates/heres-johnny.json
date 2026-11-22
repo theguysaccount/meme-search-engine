@@ -1,0 +1,54 @@
+{
+ "slug": "heres-johnny",
+ "name": "Here's Johnny",
+ "aka": [
+  "Heeere's Johnny"
+ ],
+ "look": "A still from The Shining: Jack Nicholson as Jack Torrance pushes his face through a jagged hole hacked into a white wooden door, grinning wildly with bared teeth, wide eyes and messy dark hair.",
+ "text": [],
+ "use": "Used for someone's sudden, unwanted or unhinged arrival. The caption sets up a moment of peace or privacy, then the grinning face announces that someone has barged in anyway.",
+ "slots": [
+  "top: the situation",
+  "bottom: the unwelcome arrival"
+ ],
+ "examples": [
+  [
+   "Me hearing someone open a bag of chips in the kitchen at 2 a.m.",
+   "Heeere's Johnny!"
+  ]
+ ],
+ "describe": [
+  "jack nicholson grinning through a broken door",
+  "crazy man smiling through a hole he chopped in the door",
+  "creepy guy poking his face through a smashed wooden door",
+  "horror movie maniac with his face in the axe hole",
+  "the shining scene where he breaks down the bathroom door"
+ ],
+ "tags": [
+  "horror",
+  "the shining",
+  "door",
+  "creepy",
+  "grin",
+  "maniac",
+  "movie"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Shining",
+ "origin": "From Stanley Kubrick's 1980 film The Shining, when Jack Torrance chops through a bathroom door with an axe and shouts \"Here's Johnny!\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "309172",
+  "code": "6mk4",
+  "image": "6mk4.jpg",
+  "width": 297,
+  "height": 450,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 244,
+ "sure": "high",
+ "added": "2026-11-22"
+}

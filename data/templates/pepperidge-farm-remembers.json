@@ -1,0 +1,56 @@
+{
+ "slug": "pepperidge-farm-remembers",
+ "name": "Pepperidge Farm Remembers",
+ "aka": [],
+ "look": "A still from Family Guy, framed as if seen through a window. An elderly man in a straw boater hat, glasses, a gray vest and a string tie drives a horse-drawn wagon through green hills and holds up a white bag of bread.",
+ "text": [],
+ "use": "Nostalgia for something old, forgotten or a little embarrassing. The top caption asks 'Remember when...' about something from the past, and the bottom answers with the old man's ominous 'Pepperidge Farm remembers.'",
+ "slots": [
+  "top caption: 'Remember when...' something from the past",
+  "bottom caption: 'Pepperidge Farm remembers'"
+ ],
+ "examples": [
+  [
+   "Remember when you could call someone without texting first?",
+   "Pepperidge Farm remembers"
+  ],
+  [
+   "Remember when phones had real buttons?",
+   "Pepperidge Farm remembers"
+  ]
+ ],
+ "describe": [
+  "old man on a wagon holding up a bag of bread",
+  "family guy old guy in a straw hat remembering the old days",
+  "elderly man driving a horse cart with cookies",
+  "cartoon grandpa in a boater hat holding a bread bag",
+  "creepy nostalgic old man saying he remembers"
+ ],
+ "tags": [
+  "family guy",
+  "nostalgia",
+  "old man",
+  "remember",
+  "horse wagon",
+  "bread",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Family Guy",
+ "origin": "From a Family Guy gag parodying Pepperidge Farm's old commercials featuring a wagon driver.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "1232104",
+  "code": "qep4",
+  "image": "qep4.jpg",
+  "width": 500,
+  "height": 500,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 138,
+ "sure": "high",
+ "added": "2026-11-22"
+}

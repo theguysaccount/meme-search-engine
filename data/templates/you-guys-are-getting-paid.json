@@ -1,0 +1,63 @@
+{
+ "slug": "you-guys-are-getting-paid",
+ "name": "You Guys Are Getting Paid?",
+ "aka": [
+  "You Guys Are Getting Paid"
+ ],
+ "look": "Will Poulter as Kenny, a teen with short ginger hair, frowns and squints in puzzled disbelief. He wears a white polo shirt with red, blue and orange stripes and stands in front of a white RV with a Southwind Storm logo.",
+ "text": [],
+ "use": "A stunned reaction to learning other people get something you never got. The top caption reveals what everyone else is receiving, and the bottom caption is Kenny's baffled \"You guys are getting...?\"",
+ "slots": [
+  "top caption: what the others are getting",
+  "bottom caption: 'You guys are getting...?'"
+ ],
+ "examples": [
+  [
+   "Coworkers talking about their lunch breaks",
+   "You guys are getting lunch breaks?"
+  ],
+  [
+   "Friends mentioning they sleep eight hours",
+   "You guys are getting sleep?"
+  ]
+ ],
+ "describe": [
+  "redhead teen in a striped polo looking confused",
+  "kid in front of an rv asking if they get paid",
+  "will poulter with a puzzled frown",
+  "ginger boy shocked that everyone else gets money",
+  "teenager squinting in disbelief outside a camper van"
+ ],
+ "tags": [
+  "we're the millers",
+  "confused",
+  "unfair",
+  "teenager",
+  "rv",
+  "disbelief",
+  "striped polo"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "We're the Millers",
+ "origin": "Will Poulter as Kenny in the 2013 comedy We're the Millers, when he learns the others are getting paid.",
+ "people": "actor",
+ "imgflip": {
+  "id": "177682295",
+  "code": "2xscjb",
+  "image": "2xscjb.png",
+  "width": 520,
+  "height": 358,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "193671901",
+   "name": "You guys are getting paid template"
+  }
+ ],
+ "rank_all_time": 94,
+ "sure": "high",
+ "added": "2026-11-22"
+}

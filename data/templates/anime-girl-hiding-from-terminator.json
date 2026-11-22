@@ -1,0 +1,58 @@
+{
+ "slug": "anime-girl-hiding-from-terminator",
+ "name": "Anime Girl Hiding from Terminator",
+ "aka": [
+  "Girl Hiding from Terminator"
+ ],
+ "look": "An anime-style drawing. A brown-haired girl with a red flower clip, blue dress and red shoes sits hugging her knees and crying behind an office cubicle wall. Behind her, a metal Terminator robot skeleton carrying a large gun walks into the office.",
+ "text": [],
+ "use": "The crying girl is someone hiding from something they dread, and the Terminator is that thing hunting them down, like a deadline, a chore, a phone call or an awkward conversation.",
+ "slots": [
+  "label on the Terminator: what is coming for you",
+  "label on the girl: who is hiding"
+ ],
+ "examples": [
+  [
+   "The dentist calling to reschedule",
+   "Me with my phone on silent"
+  ],
+  [
+   "The group project",
+   "Me pretending I never saw the group chat"
+  ]
+ ],
+ "describe": [
+  "crying anime girl hiding behind a desk from a terminator",
+  "robot skeleton with a gun hunting a scared girl in an office",
+  "little girl hiding in a cubicle while a killer robot walks in",
+  "scared anime girl hugging her knees with a metal robot behind her",
+  "hiding from my responsibilities cartoon with a terminator"
+ ],
+ "tags": [
+  "anime",
+  "terminator",
+  "hiding",
+  "scared",
+  "robot",
+  "crying",
+  "office"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "224514655",
+  "code": "3po4m7",
+  "image": "3po4m7.jpg",
+  "width": 581,
+  "height": 633,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 112,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "look-at-all-these",
+ "name": "Look At All These",
+ "aka": [],
+ "look": "Film still of Julie Andrews as Maria, in a dark blue dress with a pale blue apron, spinning with her arms spread wide across a sunny meadow of yellow wildflowers, with snow-capped Alpine peaks behind her.",
+ "text": [],
+ "use": "Joyfully shows off having lots of something. The top text says \"Look at all these\" and the bottom names the thing, often something bad like bills or unread emails for irony.",
+ "slots": [
+  "\"Look at all these\" (top text)",
+  "the thing there's a lot of (bottom text)"
+ ],
+ "examples": [
+  [
+   "Look at all these",
+   "Browser tabs I'll read later"
+  ],
+  [
+   "Look at all these",
+   "Unread emails"
+  ]
+ ],
+ "describe": [
+  "woman spinning in a field of flowers with mountains behind her",
+  "julie andrews twirling with her arms out on a hill",
+  "sound of music nun spinning on an alpine meadow",
+  "happy lady in a blue dress dancing in the mountains",
+  "girl twirling in a flower meadow singing the hills are alive"
+ ],
+ "tags": [
+  "movie",
+  "musical",
+  "mountains",
+  "twirling",
+  "joy",
+  "meadow",
+  "abundance"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Sound of Music",
+ "origin": "Julie Andrews as Maria singing the title song in the opening scene of The Sound of Music (1965).",
+ "people": "actor",
+ "imgflip": {
+  "id": "516587",
+  "code": "b2ln",
+  "image": "b2ln.jpg",
+  "width": 278,
+  "height": 181,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 413,
+ "sure": "high",
+ "added": "2026-11-22"
+}

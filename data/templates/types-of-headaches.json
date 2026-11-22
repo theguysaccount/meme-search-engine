@@ -1,0 +1,60 @@
+{
+ "slug": "types-of-headaches",
+ "name": "Types of Headaches",
+ "aka": [
+  "Types of Headaches Meme"
+ ],
+ "look": "A white chart titled \"Types of Headaches\" shows four bald head profiles with red pain zones. \"Migraine\" marks the temple, \"Hypertension\" the back of the head and \"Stress\" a band around it. The fourth, unlabeled head is filled completely red.",
+ "text": [
+  "Types of Headaches",
+  "Migraine",
+  "Hypertension",
+  "Stress"
+ ],
+ "use": "A mock medical chart: the first three headaches are real types, and the fourth head, filled completely with red, gets labeled with something everyday that hurts far more, like an annoying person, sound or task.",
+ "slots": [
+  "label above the fourth, completely red head: the worst headache"
+ ],
+ "examples": [
+  [
+   "Assembling furniture with picture-only instructions"
+  ],
+  [
+   "A kid learning the recorder in the next room"
+  ]
+ ],
+ "describe": [
+  "chart of headache types with red pain areas on heads",
+  "migraine hypertension stress and a fully red head",
+  "four bald heads showing where headaches hurt",
+  "diagram where the whole head is red for the worst headache",
+  "medical chart of heads with red zones and one totally red"
+ ],
+ "tags": [
+  "headache",
+  "chart",
+  "diagram",
+  "pain",
+  "red",
+  "annoyance",
+  "medical"
+ ],
+ "kind": "graphic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "119215120",
+  "code": "1yz6z4",
+  "image": "1yz6z4.jpg",
+  "width": 483,
+  "height": 497,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 95,
+ "sure": "high",
+ "added": "2026-11-22"
+}

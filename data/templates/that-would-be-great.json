@@ -1,0 +1,59 @@
+{
+ "slug": "that-would-be-great",
+ "name": "That Would Be Great",
+ "aka": [
+  "Bill Lumbergh",
+  "Yeah, That'd Be Great"
+ ],
+ "look": "Bill Lumbergh, played by Gary Cole, stands in a cubicle office under fluorescent lights. He has slicked-back hair and large wire-rimmed glasses and wears a light blue shirt, red suspenders and a yellow patterned tie, resting one hand on his hip and holding a white coffee mug.",
+ "text": [],
+ "use": "Passive-aggressive requests from a smug boss. The top caption starts with \"Yeah, if you could...\" and names an unreasonable ask, and the bottom caption finishes with \"...that would be great.\"",
+ "slots": [
+  "top caption: 'Yeah, if you could...' plus the annoying request",
+  "bottom caption: 'that would be great'"
+ ],
+ "examples": [
+  [
+   "Yeah, if you could answer emails while on vacation",
+   "That would be great"
+  ],
+  [
+   "Yeah, if you could stop hitting reply all",
+   "That would be great"
+  ]
+ ],
+ "describe": [
+  "boss with red suspenders and a coffee mug asking you to come in saturday",
+  "office manager with glasses and suspenders holding a mug",
+  "smug boss in a blue shirt and tie with a coffee cup",
+  "annoying boss passive aggressively asking for something",
+  "guy with glasses and slicked hair standing in a cubicle office"
+ ],
+ "tags": [
+  "office space",
+  "boss",
+  "passive aggressive",
+  "office",
+  "coffee mug",
+  "suspenders",
+  "work"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Office Space",
+ "origin": "Gary Cole as the boss Bill Lumbergh in the 1999 comedy film Office Space.",
+ "people": "actor",
+ "imgflip": {
+  "id": "563423",
+  "code": "c2qn",
+  "image": "c2qn.jpg",
+  "width": 526,
+  "height": 440,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 61,
+ "sure": "high",
+ "added": "2026-11-22"
+}

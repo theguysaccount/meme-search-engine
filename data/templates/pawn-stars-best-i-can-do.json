@@ -1,0 +1,58 @@
+{
+ "slug": "pawn-stars-best-i-can-do",
+ "name": "Pawn Stars Best I Can Do",
+ "aka": [
+  "Best I Can Do"
+ ],
+ "look": "A still from the reality show Pawn Stars. Rick Harrison, a bald man in a black polo shirt, leans on a glass display counter and talks with a doubtful look, while his son Corey, in a matching shirt with tattooed arms, stands beside him.",
+ "text": [],
+ "use": "Mocks lowball offers and stingy bargaining. The top caption describes something valuable being offered or asked for, and the bottom gives Rick's insultingly small counteroffer, usually starting 'Best I can do is...'",
+ "slots": [
+  "top caption: what is being offered or asked for",
+  "bottom caption: the lowball counteroffer, 'Best I can do is...'"
+ ],
+ "examples": [
+  [
+   "I need eight hours of sleep tonight",
+   "Best I can do is four and a nap at my desk"
+  ],
+  [
+   "You want the whole weekend off?",
+   "Best I can do is Sunday afternoon"
+  ]
+ ],
+ "describe": [
+  "bald pawn shop owner making a lowball offer",
+  "two guys in black polo shirts leaning on a store counter",
+  "reality tv pawn shop haggling with a bald man",
+  "rick harrison and his son at the shop counter",
+  "bald man in a polo negotiating a really low price"
+ ],
+ "tags": [
+  "pawn stars",
+  "pawn shop",
+  "haggling",
+  "lowball",
+  "reality tv",
+  "negotiation",
+  "bald man"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Pawn Stars",
+ "origin": "From the History Channel reality show Pawn Stars, where owner Rick Harrison haggles sellers down with low offers.",
+ "people": "public",
+ "imgflip": {
+  "id": "77045868",
+  "code": "19vcz0",
+  "image": "19vcz0.jpg",
+  "width": 624,
+  "height": 352,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 115,
+ "sure": "high",
+ "added": "2026-11-22"
+}

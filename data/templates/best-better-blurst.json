@@ -1,0 +1,59 @@
+{
+ "slug": "best-better-blurst",
+ "name": "Best, Better, Blurst",
+ "aka": [],
+ "look": "Three stacked rows, each with a Winnie the Pooh picture on the left and a blank white box on the right. Top: plain Pooh in his red shirt with a neutral, half-lidded look. Middle: Pooh in a tuxedo and bow tie, smirking smugly. Bottom: Pooh with a goofy, buck-toothed derp grin.",
+ "text": [],
+ "use": "Extends Tuxedo Winnie the Pooh with a third, dumber tier. The top box holds the plain way of saying something, the middle box the fancy way, and the bottom box a ridiculous or misspelled version that somehow wins.",
+ "slots": [
+  "the plain version (top box)",
+  "the fancy, sophisticated version (middle box)",
+  "the dumb or misspelled version (bottom box)"
+ ],
+ "examples": [
+  [
+   "Spaghetti",
+   "Pasta al pomodoro",
+   "Pasghetti"
+  ],
+  [
+   "Dog",
+   "Canine companion",
+   "Doggo"
+  ]
+ ],
+ "describe": [
+  "winnie the pooh normal then fancy in a tuxedo then derpy",
+  "three pooh bears plain classy and dumb",
+  "tuxedo pooh with a third stupid looking pooh at the bottom",
+  "pooh bear getting fancy and then goofy with buck teeth",
+  "cartoon bear in three levels from sophisticated to silly"
+ ],
+ "tags": [
+  "winnie the pooh",
+  "fancy",
+  "tuxedo",
+  "derp",
+  "three panel",
+  "comparison",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "ladder",
+ "panels": 3,
+ "franchise": "Winnie the Pooh",
+ "origin": "An extended edit of Tuxedo Winnie the Pooh that adds a goofy third tier.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "205126432",
+  "code": "3e4kkg",
+  "image": "3e4kkg.jpg",
+  "width": 640,
+  "height": 731,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 334,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

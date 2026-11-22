@@ -1,0 +1,63 @@
+{
+ "slug": "imagination-spongebob",
+ "name": "Imagination Spongebob",
+ "aka": [
+  "Spongebob Rainbow",
+  "Spongebob Imagination"
+ ],
+ "look": "SpongeBob SquarePants grins with wide blue eyes and spreads both hands apart, drawing a sparkling rainbow that arcs over his head. The background is a plain brownish olive.",
+ "text": [],
+ "use": "Sarcastically points out that something only exists in your head, or cheerfully celebrates make-believe. The top caption names the thing, like a social life or a plan, and the bottom caption declares it \"Imagination.\"",
+ "slots": [
+  "top caption: the thing in question",
+  "bottom caption: usually 'Imagination'"
+ ],
+ "examples": [
+  [
+   "My plan to wake up early tomorrow",
+   "Imagination"
+  ],
+  [
+   "Where I keep my savings",
+   "Imagination"
+  ]
+ ],
+ "describe": [
+  "spongebob making a rainbow with his hands",
+  "spongebob with a rainbow over his head smiling",
+  "excited spongebob spreading his arms with sparkles",
+  "cartoon sponge showing off a magical rainbow",
+  "spongebob waving his hands like it's magic"
+ ],
+ "tags": [
+  "spongebob",
+  "rainbow",
+  "imagination",
+  "excited",
+  "sparkles",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "From the SpongeBob SquarePants episode \"Idiot Box,\" in which SpongeBob gleefully says \"Imagination\" while drawing a rainbow with his hands.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "163573",
+  "code": "3i7p",
+  "image": "3i7p.jpg",
+  "width": 500,
+  "height": 366,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "32399536",
+   "name": "spongebob rainbow"
+  }
+ ],
+ "rank_all_time": 90,
+ "sure": "high",
+ "added": "2026-11-22"
+}

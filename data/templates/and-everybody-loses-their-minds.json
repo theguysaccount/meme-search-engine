@@ -1,0 +1,58 @@
+{
+ "slug": "and-everybody-loses-their-minds",
+ "name": "And Everybody Loses Their Minds",
+ "aka": [
+  "Everyone Loses Their Minds"
+ ],
+ "look": "A widescreen film still with black bars. Heath Ledger as the Joker, in smeared white clown makeup and a white nurse's uniform with pink trim, raises both hands in an exasperated shrug while ranting at a blurred figure in the foreground, in a hospital room.",
+ "text": [],
+ "use": "Points out a double standard. The top caption describes something that nobody minds, and the bottom describes a smaller or similar thing that makes everyone lose their minds, echoing the Joker's speech.",
+ "slots": [
+  "the thing nobody minds (top)",
+  "the similar thing that makes everyone lose their minds (bottom)"
+ ],
+ "examples": [
+  [
+   "A game takes two hours to download and nobody complains",
+   "The microwave takes three minutes and everyone loses their minds"
+  ],
+  [
+   "A movie runs three hours and nobody bats an eye",
+   "A meeting runs five minutes over and everyone loses their minds"
+  ]
+ ],
+ "describe": [
+  "joker in a nurse outfit throwing his hands up",
+  "heath ledger joker ranting with both hands raised",
+  "clown villain dressed as a nurse in a hospital",
+  "joker saying nobody panics when things go according to plan",
+  "dark knight hospital scene with the joker shrugging"
+ ],
+ "tags": [
+  "joker",
+  "nurse costume",
+  "hospital",
+  "double standard",
+  "rant",
+  "movie still",
+  "villain"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Batman",
+ "origin": "Heath Ledger as the Joker, disguised as a nurse, in the hospital scene of The Dark Knight (2008), where he says everyone loses their minds.",
+ "people": "actor",
+ "imgflip": {
+  "id": "1790995",
+  "code": "12dxv",
+  "image": "12dxv.jpg",
+  "width": 620,
+  "height": 348,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 145,
+ "sure": "high",
+ "added": "2026-11-22"
+}

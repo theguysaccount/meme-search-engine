@@ -1,0 +1,54 @@
+{
+ "slug": "get-in-loser",
+ "name": "Get In Loser",
+ "aka": [
+  "Get In Loser, We're Going Shopping"
+ ],
+ "look": "A still from Mean Girls: three teenage girls in pink sit in a silver convertible. Rachel McAdams as Regina George, blonde, sits up front with a small confident smile, with Lacey Chabert's Gretchen beside her and Amanda Seyfried's Karen in the back seat.",
+ "text": [],
+ "use": "An invitation you can't refuse, in Regina's bossy tone. The caption usually follows \"get in loser, we're going...\" with an activity, and the girls stand for whoever is rounding up their friend.",
+ "slots": [
+  "\"get in loser\" (top)",
+  "where they're going, \"we're going...\" (bottom)"
+ ],
+ "examples": [
+  [
+   "Get in loser",
+   "We're going to bed at 8 p.m."
+  ]
+ ],
+ "describe": [
+  "three girls in a convertible car looking at you",
+  "mean girls in the car telling someone to hop in",
+  "blonde teen girl in a convertible with her friends",
+  "popular girls pulling up in a silver car",
+  "regina george and friends in a car wearing pink"
+ ],
+ "tags": [
+  "mean girls",
+  "car",
+  "convertible",
+  "invitation",
+  "pink",
+  "movie scene",
+  "friends"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Mean Girls",
+ "origin": "From the 2004 film Mean Girls, where Regina George pulls up in a convertible and tells Cady, \"Get in loser, we're going shopping.\"",
+ "people": "actor",
+ "imgflip": {
+  "id": "28926942",
+  "code": "h8066",
+  "image": "h8066.jpg",
+  "width": 570,
+  "height": 369,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 319,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "flex-tape",
+ "name": "Flex Tape",
+ "aka": [],
+ "look": "Two stacked infomercial stills. Top: Phil Swift, in a black polo shirt and jeans, gestures excitedly beside a large clear water tank with a gushing leak, in front of a FLEX TAPE banner. Bottom: a close-up hand presses a black strip of tape over the hole in the tank.",
+ "text": [
+  "FLEX TAPE"
+ ],
+ "use": "Shows a lazy quick fix covering up a problem instead of solving it. The gushing leak is labeled as the problem, Phil Swift as the person dealing with it, and the slapped-on tape as the cheap patch or cover-up.",
+ "slots": [
+  "label on Phil Swift: who is fixing it",
+  "label on the leak: the problem",
+  "label on the tape in the bottom panel: the quick fix or cover-up"
+ ],
+ "examples": [
+  [
+   "Me",
+   "A bug found five minutes before the demo",
+   "Hiding the button"
+  ],
+  [
+   "Dad",
+   "A strange noise coming from the car",
+   "Turning the radio up"
+  ]
+ ],
+ "describe": [
+  "guy slapping black tape on a leaking water tank",
+  "infomercial man patching a hole with tape",
+  "hand pressing tape over a gushing leak",
+  "tv pitchman excited about a leak then taping it shut",
+  "water pouring out of a tank then covered with a strip of tape"
+ ],
+ "tags": [
+  "infomercial",
+  "tape",
+  "leak",
+  "quick fix",
+  "cover up",
+  "water tank",
+  "two panel"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "Flex Tape",
+ "origin": "From a Flex Tape infomercial in which pitchman Phil Swift patches a leaking water tank with the tape.",
+ "people": "public",
+ "imgflip": {
+  "id": "166969924",
+  "code": "2reqtg",
+  "image": "2reqtg.png",
+  "width": 510,
+  "height": 572,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 89,
+ "sure": "high",
+ "added": "2026-11-22"
+}

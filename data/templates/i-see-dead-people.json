@@ -1,0 +1,56 @@
+{
+ "slug": "i-see-dead-people",
+ "name": "I See Dead People",
+ "aka": [],
+ "look": "A close-up still from The Sixth Sense: Haley Joel Osment as young Cole lies in bed with a pink knit blanket pulled up to his chin, eyes wet and wide with fear as he whispers to someone.",
+ "text": [],
+ "use": "A spin on the film's line \"I see dead people.\" The caption swaps in something the speaker keeps noticing everywhere, like typos, dying houseplants or abandoned projects, delivered in the kid's scared whisper.",
+ "slots": [
+  "top: the setup",
+  "bottom: I see ___"
+ ],
+ "examples": [
+  [
+   "Me walking into my apartment after a two-week vacation",
+   "I see dead plants"
+  ],
+  [
+   "Me opening the shared office fridge",
+   "I see expired yogurts"
+  ]
+ ],
+ "describe": [
+  "scared little boy in bed whispering a secret",
+  "haley joel osment teary eyed under a pink blanket",
+  "kid from the ghost movie saying he sees ghosts",
+  "frightened child tucked into bed looking up",
+  "boy with watery eyes confessing something creepy"
+ ],
+ "tags": [
+  "the sixth sense",
+  "scared",
+  "ghosts",
+  "child",
+  "bed",
+  "whisper",
+  "horror"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Sixth Sense",
+ "origin": "From M. Night Shyamalan's 1999 film The Sixth Sense, where Cole (Haley Joel Osment) whispers \"I see dead people\" to his psychologist.",
+ "people": "actor",
+ "imgflip": {
+  "id": "198595",
+  "code": "498j",
+  "image": "498j.jpg",
+  "width": 450,
+  "height": 276,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 254,
+ "sure": "high",
+ "added": "2026-11-22"
+}

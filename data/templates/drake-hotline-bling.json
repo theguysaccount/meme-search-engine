@@ -1,0 +1,77 @@
+{
+ "slug": "drake-hotline-bling",
+ "name": "Drake Hotline Bling",
+ "aka": [
+  "Drakeposting",
+  "Drake Yes No",
+  "Drake Approves"
+ ],
+ "look": "Two stacked photo panels on the left with empty white space on the right for text. Top: Drake, in a bright orange puffer jacket against a yellow wall, turns his head away and holds up a hand in refusal. Bottom: Drake smiles and points approvingly.",
+ "text": [],
+ "use": "The text beside the top panel is the option being turned down and the text beside the bottom panel is the preferred one, usually a lazier, sillier or more specific choice that the joke favors.",
+ "slots": [
+  "the rejected option (right of the top panel)",
+  "the preferred option (right of the bottom panel)"
+ ],
+ "examples": [
+  [
+   "Going to bed at a reasonable hour",
+   "Watching one more episode at 3 a.m."
+  ],
+  [
+   "Reading the instructions",
+   "Pressing every button until it works"
+  ]
+ ],
+ "describe": [
+  "rapper in orange jacket saying no then pointing yes",
+  "guy in red puffer coat holds hand up then smiles and points",
+  "man rejects the top option and likes the bottom option",
+  "dude turns away in disgust then approves with a finger point",
+  "yellow background orange coat no and yes reaction"
+ ],
+ "tags": [
+  "rapper",
+  "approval",
+  "rejection",
+  "preference",
+  "orange jacket",
+  "yellow background",
+  "two panels"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 2,
+ "franchise": null,
+ "origin": "Stills from Drake's 2015 music video for Hotline Bling.",
+ "people": "public",
+ "imgflip": {
+  "id": "181913649",
+  "code": "30b1gx",
+  "image": "30b1gx.jpg",
+  "width": 1200,
+  "height": 1200,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "91998305",
+   "name": "Drake Blank"
+  },
+  {
+   "id": "129315248",
+   "name": "No - Yes"
+  },
+  {
+   "id": "124276589",
+   "name": "Drake No/Yes"
+  },
+  {
+   "id": "71491297",
+   "name": "Drake Hotline approves"
+  }
+ ],
+ "rank_all_time": 1,
+ "sure": "high",
+ "added": "2026-11-22"
+}

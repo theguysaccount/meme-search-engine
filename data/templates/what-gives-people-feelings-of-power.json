@@ -1,0 +1,57 @@
+{
+ "slug": "what-gives-people-feelings-of-power",
+ "name": "What Gives People Feelings of Power",
+ "aka": [],
+ "look": "A hand-drawn bar chart titled 'WHAT GIVES PEOPLE FEELINGS OF POWER'. A short green bar is labeled MONEY, a slightly longer blue bar is labeled STATUS, and a third, much longer pink bar at the bottom has no label.",
+ "text": [
+  "WHAT GIVES PEOPLE FEELINGS OF POWER",
+  "MONEY",
+  "STATUS"
+ ],
+ "use": "The blank third bar gets something tiny and petty that gives people a ridiculous sense of power, far more than money or status, like knowing a secret or controlling the TV remote.",
+ "slots": [
+  "label for the long pink bar: the petty thing that feels most powerful"
+ ],
+ "examples": [
+  [
+   "Being the only one who knows the wifi password"
+  ],
+  [
+   "Having the aux cord on a road trip"
+  ]
+ ],
+ "describe": [
+  "bar chart of what gives people feelings of power",
+  "graph with money and status bars and a giant third bar",
+  "hand drawn chart where the last bar is way longer",
+  "power chart with money status and something petty",
+  "funny bar graph with an unlabeled huge pink bar"
+ ],
+ "tags": [
+  "bar chart",
+  "power",
+  "money",
+  "status",
+  "petty",
+  "graph",
+  "hand drawn"
+ ],
+ "kind": "graphic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "177984372",
+  "code": "2xytmc",
+  "image": "2xytmc.jpg",
+  "width": 960,
+  "height": 851,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 130,
+ "sure": "high",
+ "added": "2026-11-22"
+}

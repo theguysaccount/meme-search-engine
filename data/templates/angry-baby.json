@@ -1,0 +1,56 @@
+{
+ "slug": "angry-baby",
+ "name": "Angry Baby",
+ "aka": [],
+ "look": "A black and white close-up photo of a bald baby glaring at the camera with a deeply furrowed brow and mouth wide open in a furious scream, against a blurry background.",
+ "text": [],
+ "use": "Shows sudden, outsized rage over something small. The top text sets up a minor letdown and the bottom text delivers the furious outburst, as if from a tiny tyrant.",
+ "slots": [
+  "top: the minor letdown",
+  "bottom: the furious reaction"
+ ],
+ "examples": [
+  [
+   "Gave me the blue cup",
+   "I ASKED FOR THE RED CUP"
+  ],
+  [
+   "Mom said one more cookie",
+   "THEN BROKE IT IN HALF"
+  ]
+ ],
+ "describe": [
+  "black and white baby screaming with an angry face",
+  "furious toddler yelling with furrowed eyebrows",
+  "mad infant with mouth wide open glaring at the camera",
+  "little kid raging in a black and white photo",
+  "baby with a scowl shouting in fury"
+ ],
+ "tags": [
+  "baby",
+  "angry",
+  "screaming",
+  "rage",
+  "black and white",
+  "tantrum",
+  "reaction"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "models",
+ "imgflip": {
+  "id": "146381",
+  "code": "34y5",
+  "image": "34y5.jpg",
+  "width": 283,
+  "height": 320,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 279,
+ "sure": "high",
+ "added": "2026-11-22"
+}

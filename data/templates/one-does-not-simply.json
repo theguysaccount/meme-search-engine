@@ -1,0 +1,58 @@
+{
+ "slug": "one-does-not-simply",
+ "name": "One Does Not Simply",
+ "aka": [
+  "One Does Not Simply Walk Into Mordor"
+ ],
+ "look": "A film still of Sean Bean as Boromir in The Lord of the Rings, with long hair, a short beard and a dark leather coat, raising one hand with his fingers curled into a circle as he makes a grave point.",
+ "text": [],
+ "use": "The top line starts with One does not simply and the bottom finishes it with an everyday task that sounds easy but is surprisingly hard, echoing Boromir's warning about walking into Mordor.",
+ "slots": [
+  "the opening, usually One does not simply (top)",
+  "the deceptively hard task (bottom)"
+ ],
+ "examples": [
+  [
+   "One does not simply",
+   "eat just one chip"
+  ],
+  [
+   "One does not simply",
+   "close all 87 browser tabs"
+  ]
+ ],
+ "describe": [
+  "lord of the rings guy making a circle with his fingers",
+  "boromir explaining something with his hand raised",
+  "long haired man with a beard gesturing seriously in a meeting",
+  "sean bean hand gesture warning about mordor",
+  "medieval man with fingers pinched together making a point"
+ ],
+ "tags": [
+  "lotr",
+  "boromir",
+  "fantasy",
+  "warning",
+  "hand gesture",
+  "movie still",
+  "sean bean"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Lord of the Rings",
+ "origin": "Sean Bean as Boromir at the Council of Elrond in the 2001 film The Lord of the Rings: The Fellowship of the Ring.",
+ "people": "actor",
+ "imgflip": {
+  "id": "61579",
+  "code": "1bij",
+  "image": "1bij.jpg",
+  "width": 568,
+  "height": 335,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 10,
+ "sure": "high",
+ "added": "2026-11-22"
+}

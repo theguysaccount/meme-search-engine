@@ -20,8 +20,8 @@ for (const t of templates) {
 const evalSet = JSON.parse(readFileSync(new URL("tests/eval.json", root)));
 const index = buildIndex(records);
 
-export const MIN_TOP1 = 0.0;
-export const MIN_TOP3 = 0.0;
+export const MIN_TOP1 = 0.85;
+export const MIN_TOP3 = 0.93;
 
 test("described templates are found from plain descriptions", () => {
   const cases = evalSet.queries.filter((q) => slugOf.has(q.id));

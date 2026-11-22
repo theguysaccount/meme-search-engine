@@ -1,0 +1,56 @@
+{
+ "slug": "they-dont-know",
+ "name": "They Don't Know",
+ "aka": [],
+ "look": "A crude black-and-white line drawing of a party. A lone guy in a party hat stands against the wall in the corner holding a cup, with a small smug smile, while couples dance and laugh together in the foreground, ignoring him.",
+ "text": [],
+ "use": "The guy in the corner secretly feels superior about something trivial nobody at the party knows. The caption reads 'They don't know I...' followed by his small, often nerdy achievement or secret.",
+ "slots": [
+  "thought above the guy in the corner: 'They don't know I...'",
+  "label on the dancing partygoers (optional)"
+ ],
+ "examples": [
+  [
+   "They don't know I alphabetized my spice rack today",
+   "Everyone else at the party"
+  ],
+  [
+   "They don't know I beat this game on the hardest difficulty",
+   "People having actual fun"
+  ]
+ ],
+ "describe": [
+  "guy standing alone in the corner at a party wearing a party hat",
+  "wojak in a party hat holding a drink while everyone dances",
+  "loner at a party thinking about his secret achievement",
+  "simple drawing of people dancing and one guy by the wall",
+  "smug dude in the corner of a party nobody talks to"
+ ],
+ "tags": [
+  "wojak",
+  "party",
+  "loner",
+  "party hat",
+  "smug",
+  "dancing",
+  "drawing"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "284929871",
+  "code": "4pn1an",
+  "image": "4pn1an.png",
+  "width": 671,
+  "height": 673,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 121,
+ "sure": "high",
+ "added": "2026-11-22"
+}

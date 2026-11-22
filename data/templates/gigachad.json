@@ -1,0 +1,60 @@
+{
+ "slug": "gigachad",
+ "name": "Gigachad",
+ "aka": [
+  "Giga Chad"
+ ],
+ "look": "A moody black-and-white photo of a shirtless, extremely muscular man with a sharp jawline, a dark beard and swept-back hair. He sits on a wooden chair with his forearms resting on his knees and turns his head to gaze off to the side.",
+ "text": [],
+ "use": "Stands for the ultimate confident, unbothered person. Captions label him as someone who does a thing boldly, without shame or overthinking, often in contrast to people who agonize over the same choice.",
+ "slots": [
+  "the bold, unbothered person or choice (caption above or below)"
+ ],
+ "examples": [
+  [
+   "Me ordering the same meal every time without opening the menu"
+  ],
+  [
+   "The guy who replies to emails the same day"
+  ]
+ ],
+ "describe": [
+  "black and white photo of a super muscular man with a beard",
+  "extremely buff guy with a huge jawline sitting on a chair",
+  "chiseled alpha male bodybuilder looking to the side",
+  "grayscale shirtless strong man with a perfect jaw",
+  "ultimate confident muscle man in black and white"
+ ],
+ "tags": [
+  "muscular",
+  "beard",
+  "black and white",
+  "confident",
+  "jawline",
+  "alpha",
+  "bodybuilder"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A black-and-white photo of a muscular model, widely shared as Gigachad, the internet's ideal of a confident man.",
+ "people": "models",
+ "imgflip": {
+  "id": "190327839",
+  "code": "35bdwf",
+  "image": "35bdwf.jpg",
+  "width": 1673,
+  "height": 2160,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "338025448",
+   "name": "moving giga chad"
+  }
+ ],
+ "rank_all_time": 231,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "spongebob-yelling",
+ "name": "Spongebob Yelling",
+ "aka": [],
+ "look": "A still from SpongeBob SquarePants: SpongeBob stands in the middle of crowded bamboo bleachers, screaming with his mouth stretched wide and tongue flapping, one fist clenched, while Squidward on the left and a purple fish woman on the right stare in shock.",
+ "text": [],
+ "use": "SpongeBob is the one person shouting something far too loud at the wrong moment while everyone around him is stunned. The caption names who he is and what he's yelling, like the one fan screaming during a quiet scene.",
+ "slots": [
+  "top caption: the situation or who SpongeBob is",
+  "bottom caption: what he's yelling"
+ ],
+ "examples": [
+  [
+   "Me at the movies when the hero finally shows up",
+   "LET'S GOOOO"
+  ],
+  [
+   "The one kid when the teacher says no homework",
+   "YEAAAAAH"
+  ]
+ ],
+ "describe": [
+  "spongebob screaming in the stands while everyone stares",
+  "sponge yelling loudly in a crowd as squidward looks shocked",
+  "cartoon sponge shouting at a game from the bleachers",
+  "spongebob with mouth wide open cheering way too loud",
+  "loud fan in the audience and the people around him stunned"
+ ],
+ "tags": [
+  "spongebob",
+  "yelling",
+  "screaming",
+  "crowd",
+  "bleachers",
+  "loud",
+  "squidward"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "231672072",
+  "code": "3txjbc",
+  "image": "3txjbc.jpg",
+  "width": 1159,
+  "height": 1125,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 366,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

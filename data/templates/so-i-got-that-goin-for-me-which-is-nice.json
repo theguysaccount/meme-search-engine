@@ -1,0 +1,58 @@
+{
+ "slug": "so-i-got-that-goin-for-me-which-is-nice",
+ "name": "So I Got That Goin' For Me, Which Is Nice",
+ "aka": [
+  "So I've Got That Going For Me"
+ ],
+ "look": "A still from Caddyshack: Bill Murray as greenskeeper Carl Spackler, in a camouflage bucket hat and gray T-shirt, squints with a lopsided, satisfied pout, standing outdoors beside a doorway with a large tree behind him.",
+ "text": [],
+ "use": "The top lists something bad, embarrassing or barely positive about your life, and the bottom shrugs it off with 'so I got that goin' for me, which is nice', a deadpan way of finding a tiny silver lining.",
+ "slots": [
+  "top caption: the bad situation with a tiny upside",
+  "bottom caption: 'so I got that goin' for me, which is nice'"
+ ],
+ "examples": [
+  [
+   "Locked out in the rain, but I found a dollar",
+   "so I got that goin' for me, which is nice"
+  ],
+  [
+   "Failed the quiz but spelled my name right",
+   "so I got that goin' for me, which is nice"
+  ]
+ ],
+ "describe": [
+  "bill murray in a camo bucket hat squinting",
+  "groundskeeper guy in a camouflage hat making a smug face",
+  "golf course worker squinting with pouty lips",
+  "man in an army bucket hat and gray shirt looking pleased with himself",
+  "scruffy guy in a camo hat smirking at the camera"
+ ],
+ "tags": [
+  "bill murray",
+  "caddyshack",
+  "bucket hat",
+  "camouflage",
+  "silver lining",
+  "smug",
+  "comedy"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Caddyshack",
+ "origin": "Bill Murray as greenskeeper Carl Spackler in the 1980 comedy Caddyshack; the line comes from his story about caddying for the Dalai Lama.",
+ "people": "actor",
+ "imgflip": {
+  "id": "8774527",
+  "code": "582gv",
+  "image": "582gv.jpg",
+  "width": 620,
+  "height": 454,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 349,
+ "sure": "high",
+ "added": "2026-11-22"
+}

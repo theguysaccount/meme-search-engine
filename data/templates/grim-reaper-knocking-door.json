@@ -1,0 +1,69 @@
+{
+ "slug": "grim-reaper-knocking-door",
+ "name": "Grim Reaper Knocking Door",
+ "aka": [
+  "Death Knocking At The Door",
+  "Grim Reaper Knocking"
+ ],
+ "look": "A cartoon of a hallway with three doors. The Grim Reaper, a skeleton in a black hooded robe holding a bloodied scythe, knocks on the closed door at the right. The two doors behind him stand open, with blood spilling out across the floor.",
+ "text": [],
+ "use": "Something that wipes things out one after another, and who is next. The open doors are labeled with what it already got, the closed door with the next target, and the Grim Reaper with the thing doing the damage.",
+ "slots": [
+  "the first thing already wiped out (left door)",
+  "the second thing already wiped out (middle door)",
+  "the next target (closed door on the right)",
+  "what is wiping them out (the Grim Reaper)"
+ ],
+ "examples": [
+  [
+   "My savings",
+   "My free time",
+   "My sleep schedule",
+   "A new puppy"
+  ],
+  [
+   "The cookies",
+   "The chips",
+   "The emergency chocolate",
+   "Me at midnight"
+  ]
+ ],
+ "describe": [
+  "reaper with a bloody scythe at the last door",
+  "death with a scythe going door to door",
+  "skeleton in a black robe knocking on the next door",
+  "reaper visiting each door in a hallway",
+  "cartoon death knocking after the other rooms are bloody"
+ ],
+ "tags": [
+  "grim reaper",
+  "death",
+  "doors",
+  "scythe",
+  "next victim",
+  "hallway"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "104893621",
+  "code": "1qg8fp",
+  "image": "1qg8fp.jpg",
+  "width": 500,
+  "height": 312,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "174847904",
+   "name": "death knocking at the door"
+  }
+ ],
+ "rank_all_time": 180,
+ "sure": "high",
+ "added": "2026-11-22"
+}

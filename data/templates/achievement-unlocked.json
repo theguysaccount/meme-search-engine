@@ -1,0 +1,60 @@
+{
+ "slug": "achievement-unlocked",
+ "name": "Achievement Unlocked",
+ "aka": [
+  "Xbox Achievement Unlocked"
+ ],
+ "look": "An Xbox 360 style notification on a pale gray-green background: a dark gray rounded bar with the silver and green Xbox logo on the left and bold white letters reading \"ACHIEVEMENT UNLOCKED\".",
+ "text": [
+  "ACHIEVEMENT UNLOCKED"
+ ],
+ "use": "Celebrates a small, odd or embarrassing accomplishment as if it were a video game trophy. The caption names the everyday feat, sometimes with a made-up point value.",
+ "slots": [
+  "the trivial accomplishment (above the badge)",
+  "the points or reward earned (below the badge)"
+ ],
+ "examples": [
+  [
+   "Woke up before my alarm",
+   "10G: Early Bird"
+  ],
+  [
+   "Remembered why I walked into the room",
+   "100G: Memory Master"
+  ]
+ ],
+ "describe": [
+  "xbox popup that says achievement unlocked",
+  "gray game notification with the green x logo",
+  "video game trophy unlocked banner",
+  "console notification bar for completing something",
+  "gamer achievement popup for doing something small"
+ ],
+ "tags": [
+  "video games",
+  "xbox",
+  "notification",
+  "accomplishment",
+  "gray",
+  "gaming",
+  "reward"
+ ],
+ "kind": "graphic",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Xbox",
+ "origin": "Imitates the achievement pop-up from Microsoft's Xbox 360 console.",
+ "people": "none",
+ "imgflip": {
+  "id": "3227693",
+  "code": "1x6i5",
+  "image": "1x6i5.jpg",
+  "width": 620,
+  "height": 413,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 297,
+ "sure": "high",
+ "added": "2026-11-22"
+}

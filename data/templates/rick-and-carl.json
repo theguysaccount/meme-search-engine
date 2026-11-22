@@ -1,0 +1,59 @@
+{
+ "slug": "rick-and-carl",
+ "name": "Rick and Carl",
+ "aka": [],
+ "look": "Two stacked stills from The Walking Dead in front of a brick wall painted \"C BLOCK\". Top: Carl, a boy in a brown cowboy hat, looks down while his dad Rick, scruffy in a dirty white shirt, talks to him from the right. Bottom: Rick leans in closer with a pleading, teary face.",
+ "text": [
+  "C BLOCK",
+  "C BLOCK"
+ ],
+ "use": "Rick tells Carl a terrible pun or dad joke as if it were a heartfelt talk. In the bottom panel he delivers the punchline or pushes on, desperate for a reaction, while Carl stays silent and unamused.",
+ "slots": [
+  "top: Rick's setup line",
+  "bottom: Rick's pun or desperate follow-up"
+ ],
+ "examples": [
+  [
+   "Carl, why can't you trust stairs?",
+   "They're always up to something, Carl"
+  ],
+  [
+   "Carl, I'm reading a book about anti-gravity",
+   "It's impossible to put down, Carl"
+  ]
+ ],
+ "describe": [
+  "walking dead dad telling his son a bad joke",
+  "sheriff leaning in to a kid in a cowboy hat",
+  "boy in a cowboy hat looking down while his father pleads",
+  "rick grimes talking to carl in front of the c block wall",
+  "dad joke two panel with the zombie show father and son"
+ ],
+ "tags": [
+  "the walking dead",
+  "dad joke",
+  "father and son",
+  "cowboy hat",
+  "pun",
+  "brick wall",
+  "two panel"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Walking Dead",
+ "origin": "From AMC's The Walking Dead, with Andrew Lincoln as Rick Grimes and Chandler Riggs as his son Carl outside the prison's C Block.",
+ "people": "actor",
+ "imgflip": {
+  "id": "11557802",
+  "code": "6vq22",
+  "image": "6vq22.jpg",
+  "width": 620,
+  "height": 693,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 253,
+ "sure": "high",
+ "added": "2026-11-22"
+}

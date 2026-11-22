@@ -1,0 +1,69 @@
+{
+ "slug": "trade-offer",
+ "name": "Trade Offer",
+ "aka": [
+  "I Receive You Receive"
+ ],
+ "look": "A young man with long dark hair, a mustache and goatee, in a gray suit and tie, steeples his fingers in front of his chest and looks into the camera under purple LED lights. A red banner reads TRADE OFFER, with \"i receive:\" and \"you receive:\" below it.",
+ "text": [
+  "TRADE OFFER",
+  "i receive:",
+  "you receive:"
+ ],
+ "use": "Lays out a lopsided or absurd deal. Under \"i receive\" goes what the offerer wants, and under \"you receive\" goes the poor, funny or oddly generous thing offered in return.",
+ "slots": [
+  "label on the man: who is proposing the trade",
+  "under 'i receive:' on the left: what he gets",
+  "under 'you receive:' on the right: what you get in return"
+ ],
+ "examples": [
+  [
+   "My cat",
+   "Your entire bed",
+   "One hair on your pillow"
+  ],
+  [
+   "My little brother",
+   "Your new video game",
+   "His half-eaten sandwich"
+  ]
+ ],
+ "describe": [
+  "guy in a suit with fingers together making a deal",
+  "man with long hair and a mustache under a red warning banner",
+  "tiktok guy offering a deal with i receive and you receive",
+  "smug man in a suit steepling his fingers with purple lights",
+  "long haired dude proposing an unfair exchange"
+ ],
+ "tags": [
+  "tiktok",
+  "deal",
+  "suit",
+  "negotiation",
+  "purple lights",
+  "trade"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "From a TikTok video in which a long-haired man in a suit proposes trades, with on-screen labels for what each side receives.",
+ "people": "private",
+ "imgflip": {
+  "id": "309868304",
+  "code": "54hjww",
+  "image": "54hjww.jpg",
+  "width": 607,
+  "height": 794,
+  "boxes": 3
+ },
+ "variants": [
+  {
+   "id": "311582564",
+   "name": "i receive you receive"
+  }
+ ],
+ "rank_all_time": 64,
+ "sure": "high",
+ "added": "2026-11-22"
+}

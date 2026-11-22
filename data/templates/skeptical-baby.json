@@ -1,0 +1,55 @@
+{
+ "slug": "skeptical-baby",
+ "name": "Skeptical Baby",
+ "aka": [],
+ "look": "A close-up photo of a baby with wispy light hair, a furrowed brow and narrowed eyes, glancing sideways with pursed lips in an expression of deep suspicion. The baby wears a cream top under a brown vest, in front of a bright window.",
+ "text": [],
+ "use": "Questions something that seems too good to be true or doesn't add up. The top sets up a dubious claim, and the bottom asks the skeptical question the baby seems to be thinking.",
+ "slots": [
+  "the dubious claim or situation (top)",
+  "the skeptical question (bottom)"
+ ],
+ "examples": [
+  [
+   "You say this meeting will only take five minutes",
+   "Who are you trying to fool?"
+  ],
+  [
+   "Free trial, cancel anytime",
+   "Then why do you need my card number?"
+  ]
+ ],
+ "describe": [
+  "baby with a suspicious squinting face",
+  "toddler looking at you skeptically with a frown",
+  "little kid with a furrowed brow full of doubt",
+  "infant giving side eye with pursed lips",
+  "baby who doesn't believe what you just said"
+ ],
+ "tags": [
+  "baby",
+  "skeptical",
+  "suspicious",
+  "doubt",
+  "side eye",
+  "frown"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "101711",
+  "code": "26hb",
+  "image": "26hb.jpg",
+  "width": 253,
+  "height": 260,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 169,
+ "sure": "high",
+ "added": "2026-11-22"
+}

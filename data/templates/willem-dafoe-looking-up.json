@@ -1,0 +1,51 @@
+{
+ "slug": "willem-dafoe-looking-up",
+ "name": "Willem Dafoe Looking Up",
+ "aka": [
+  "William Dafoe Looking Up"
+ ],
+ "look": "A blurry, blue-tinted frame of a bearded Willem Dafoe in front of a rough stone wall, tilting his head back and gazing upward with wide eyes and a slightly open mouth, under a strip of empty white space at the top.",
+ "text": [],
+ "use": "A reaction of awe, wonder or dread at something looming above. The caption goes in the white space and names the overwhelming thing he's staring up at, like a mountain of chores or a giant staircase.",
+ "slots": [
+  "what he's staring up at (white space at top)"
+ ],
+ "examples": [
+  [
+   "Me at the bottom of the stairs the day after leg day"
+  ]
+ ],
+ "describe": [
+  "willem dafoe staring up in awe",
+  "man staring up at the sky with wide eyes in blue light",
+  "guy tilting his head back amazed at something huge",
+  "actor gazing upward with his mouth open",
+  "dafoe looking up at something scary or amazing"
+ ],
+ "tags": [
+  "awe",
+  "looking up",
+  "wonder",
+  "blue",
+  "reaction",
+  "actor"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "actor",
+ "imgflip": {
+  "id": "367782046",
+  "code": "62yufy",
+  "image": null,
+  "width": 250,
+  "height": 168,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 336,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

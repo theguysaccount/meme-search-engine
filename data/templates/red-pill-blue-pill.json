@@ -1,0 +1,58 @@
+{
+ "slug": "red-pill-blue-pill",
+ "name": "Red Pill Blue Pill",
+ "aka": [
+  "Matrix Red Pill Blue Pill"
+ ],
+ "look": "A close-up still from The Matrix: two open hands held out palms up against a dark background, the left holding a shiny red pill and the right a translucent blue pill.",
+ "text": [],
+ "use": "A choice between two options. The red pill stands for the hard truth or the bold, risky option and the blue pill for the comfortable illusion or the safe choice, with a label on each pill or hand.",
+ "slots": [
+  "label for the red pill (left hand)",
+  "label for the blue pill (right hand)"
+ ],
+ "examples": [
+  [
+   "Check my bank balance",
+   "Keep shopping"
+  ],
+  [
+   "Read the terms and conditions",
+   "Click I agree"
+  ]
+ ],
+ "describe": [
+  "hands holding out a red pill and a blue pill",
+  "matrix choice between red and blue capsules",
+  "morpheus offering two pills in his palms",
+  "two open hands each with a different colored pill",
+  "close up of palms holding red and blue tablets"
+ ],
+ "tags": [
+  "the matrix",
+  "pills",
+  "choice",
+  "red",
+  "blue",
+  "hands",
+  "truth"
+ ],
+ "kind": "screenshot",
+ "format": "versus",
+ "panels": 1,
+ "franchise": "The Matrix",
+ "origin": "Morpheus offers Neo a choice between a red pill and a blue pill in The Matrix (1999).",
+ "people": "actor",
+ "imgflip": {
+  "id": "84195720",
+  "code": "1e4lu0",
+  "image": "1e4lu0.jpg",
+  "width": 1600,
+  "height": 835,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 363,
+ "sure": "high",
+ "added": "2026-11-22"
+}

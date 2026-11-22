@@ -1,0 +1,65 @@
+{
+ "slug": "expanding-brain",
+ "name": "Expanding Brain",
+ "aka": [
+  "Galaxy Brain",
+  "Brain Size"
+ ],
+ "look": "Four rows with blank text boxes on the left and brain images on the right that grow brighter each step: a small dim brain in an X-ray skull, a brain with glowing sparks, a brain blazing with white light, and a radiant blue head shooting rays of light.",
+ "text": [],
+ "use": "Each row holds an idea, ranked from ordinary at the top to supposedly enlightened at the bottom, though the lower ideas are usually the most absurd, ironic or overthought takes.",
+ "slots": [
+  "the basic idea (top row)",
+  "a smarter-sounding idea (second row)",
+  "an even smarter idea (third row)",
+  "the most absurd enlightened idea (bottom row)"
+ ],
+ "examples": [
+  [
+   "Setting one alarm",
+   "Setting three alarms",
+   "Putting the phone across the room",
+   "Never sleeping so you can't oversleep"
+  ],
+  [
+   "Saying goodbye",
+   "Saying see you later",
+   "Saying catch you on the flip side",
+   "Slowly backing out of the room in silence"
+  ]
+ ],
+ "describe": [
+  "brain getting bigger and glowing brighter in each row",
+  "four levels of brains lighting up more and more",
+  "small brain to cosmic glowing brain chart",
+  "x-ray head with a brain that starts shining with light",
+  "escalating enlightenment with a head beaming light rays"
+ ],
+ "tags": [
+  "brain",
+  "intelligence",
+  "escalation",
+  "glowing",
+  "enlightenment",
+  "four rows",
+  "irony"
+ ],
+ "kind": "render",
+ "format": "ladder",
+ "panels": 4,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "93895088",
+  "code": "1jwhww",
+  "image": "1jwhww.jpg",
+  "width": 857,
+  "height": 1202,
+  "boxes": 4
+ },
+ "variants": [],
+ "rank_all_time": 11,
+ "sure": "high",
+ "added": "2026-11-22"
+}

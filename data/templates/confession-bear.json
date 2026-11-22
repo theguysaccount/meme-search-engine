@@ -1,0 +1,56 @@
+{
+ "slug": "confession-bear",
+ "name": "Confession Bear",
+ "aka": [],
+ "look": "A close-up photo of a black sun bear with a pale tan muzzle resting its chin and long curved claws on a weathered log, looking at the camera with a sad, guilty pout against a blurred background.",
+ "text": [],
+ "use": "The bear makes an embarrassing, guilty or unpopular confession. The caption admits a secret the poster would never say out loud, split across the top and bottom of the image.",
+ "slots": [
+  "top caption: the start of the confession",
+  "bottom caption: the guilty secret"
+ ],
+ "examples": [
+  [
+   "I text 'on my way' while I'm still in bed",
+   "and I've never once been on my way"
+  ],
+  [
+   "I've never seen the movie everyone quotes",
+   "I just laugh along"
+  ]
+ ],
+ "describe": [
+  "sad bear resting its head on a log",
+  "guilty looking black bear with long claws",
+  "bear with a pouty face confessing a secret",
+  "sun bear leaning on a tree trunk looking ashamed",
+  "bear meme for admitting something embarrassing"
+ ],
+ "tags": [
+  "bear",
+  "confession",
+  "guilty",
+  "secret",
+  "animal",
+  "sad",
+  "log"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "100955",
+  "code": "25wb",
+  "image": "25wb.jpg",
+  "width": 460,
+  "height": 480,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 123,
+ "sure": "high",
+ "added": "2026-11-22"
+}

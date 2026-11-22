@@ -1,0 +1,55 @@
+{
+ "slug": "and-just-like-that",
+ "name": "And Just Like That",
+ "aka": [],
+ "look": "A close-up film still of Tom Hanks as Forrest Gump, with a short haircut, a cream suit jacket and a light blue shirt, sitting outdoors and gazing off to the side with a calm, earnest expression. Green, blurry park trees fill the background.",
+ "text": [],
+ "use": "Narrates a sudden, matter-of-fact change. The caption tells a quick story in Forrest's deadpan storytelling style, ending with and just like that, followed by the abrupt outcome.",
+ "slots": [
+  "the setup (top)",
+  "and just like that, the sudden outcome (bottom)"
+ ],
+ "examples": [
+  [
+   "I said I'd check one email before bed",
+   "And just like that, it was 2 a.m."
+  ],
+  [
+   "I opened the fridge for a quick snack",
+   "And just like that, dinner was gone"
+  ]
+ ],
+ "describe": [
+  "tom hanks as forrest gump looking to the side",
+  "forrest gump in a cream suit staring off",
+  "man with a short haircut and light suit in a park thinking",
+  "forrest gump telling a story with a serious face",
+  "actor in a white jacket looking away thoughtfully outdoors"
+ ],
+ "tags": [
+  "forrest gump",
+  "storytelling",
+  "sudden change",
+  "movie still",
+  "thoughtful",
+  "park"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Forrest Gump",
+ "origin": "Tom Hanks as the title character of the 1994 film Forrest Gump.",
+ "people": "actor",
+ "imgflip": {
+  "id": "54401824",
+  "code": "we0ps",
+  "image": "we0ps.jpg",
+  "width": 1012,
+  "height": 675,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 182,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

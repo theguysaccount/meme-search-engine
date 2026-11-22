@@ -1,0 +1,59 @@
+{
+ "slug": "phoebe-teaching-joey",
+ "name": "Phoebe Teaching Joey",
+ "aka": [
+  "Phoebe Joey",
+  "Phoebe Teaching Joey French"
+ ],
+ "look": "Eight panels in four rows from Friends. In each row Phoebe, with long blonde hair and a pink cardigan, talks on the left while Joey, in a dark plaid shirt, listens on the right looking confused. In the last row Joey beams and spreads his hands confidently.",
+ "text": [],
+ "use": "Someone patiently repeats the right answer while the other person gets it more and more wrong. Phoebe's panels hold the correct version, Joey's hold his garbled tries, and the last panel is his confident, totally wrong final answer.",
+ "slots": [
+  "the correct thing Phoebe says (left panels, first three rows)",
+  "Joey's garbled attempts (right panels, first three rows)",
+  "Phoebe's last patient try (bottom left)",
+  "Joey's confident, completely wrong answer (bottom right)"
+ ],
+ "examples": [
+  [
+   "It's pronounced espresso",
+   "Expresso",
+   "Es. Pres. So.",
+   "Ex-press-oh!"
+  ]
+ ],
+ "describe": [
+  "blonde woman teaching a guy to say something and he keeps getting it wrong",
+  "friends tv show phoebe and joey repeating words",
+  "woman patiently repeats while a man looks confused eight panels",
+  "joey trying to speak french and failing",
+  "guy in a plaid shirt says it wrong with total confidence"
+ ],
+ "tags": [
+  "friends",
+  "sitcom",
+  "teaching",
+  "confusion",
+  "repetition",
+  "eight panel",
+  "mispronunciation"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 8,
+ "franchise": "Friends",
+ "origin": "From the Friends season 10 episode where Phoebe tries to teach Joey to say \"Je m'appelle Claude\" in French.",
+ "people": "actor",
+ "imgflip": {
+  "id": "231451789",
+  "code": "3tstcd",
+  "image": "3tstcd.jpg",
+  "width": 556,
+  "height": 757,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 307,
+ "sure": "high",
+ "added": "2026-11-22"
+}

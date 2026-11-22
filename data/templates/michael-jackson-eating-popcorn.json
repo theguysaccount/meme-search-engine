@@ -1,0 +1,55 @@
+{
+ "slug": "michael-jackson-eating-popcorn",
+ "name": "Michael Jackson Eating Popcorn",
+ "aka": [
+  "Michael Jackson Popcorn"
+ ],
+ "look": "A dim movie-theater still of Michael Jackson in a red leather jacket, eating popcorn with wide, glowing eyes and an eager, delighted expression. A smiling woman sits just behind him in the dark.",
+ "text": [],
+ "use": "A reaction for eagerly watching drama unfold. Posted when an argument, scandal or messy situation starts, meaning the poster is sitting back to enjoy the show instead of taking part.",
+ "slots": [
+  "caption: the drama you are settling in to watch"
+ ],
+ "examples": [
+  [
+   "When two coworkers start arguing about the thermostat in the group chat"
+  ],
+  [
+   "Me opening the comments under a post about pineapple on pizza"
+  ]
+ ],
+ "describe": [
+  "mj in a red leather jacket munching popcorn at the movies",
+  "pop star eating popcorn with an excited face",
+  "guy eating popcorn and watching the drama happen",
+  "thriller music video movie theater popcorn scene",
+  "grabbing popcorn to enjoy the fight in the comments"
+ ],
+ "tags": [
+  "michael jackson",
+  "popcorn",
+  "drama",
+  "watching",
+  "movie theater",
+  "thriller",
+  "red jacket"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A scene from the music video for Michael Jackson's Thriller (1983), where he eats popcorn in a movie theater.",
+ "people": "public",
+ "imgflip": {
+  "id": "16350739",
+  "code": "9qgb7",
+  "image": "9qgb7.jpg",
+  "width": 620,
+  "height": 465,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 458,
+ "sure": "high",
+ "added": "2026-11-22"
+}

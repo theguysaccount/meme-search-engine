@@ -1,0 +1,58 @@
+{
+ "slug": "am-i-a-joke-to-you",
+ "name": "Am I A Joke To You?",
+ "aka": [],
+ "look": "A TV still of a bald Black man in a light blue collared shirt, squinting sideways with a skeptical, offended look. A broadcaster logo sits in the top right corner, a white subtitle runs along the bottom, and a blank white space above leaves room for a caption.",
+ "text": [
+  "Am I a joke to you?"
+ ],
+ "use": "Speaks for something that gets ignored or bypassed even though it exists for exactly that purpose. The caption above sets up the snub, and the man is often labeled as the overlooked tool, button, rule or person.",
+ "slots": [
+  "the situation where something useful gets ignored, in the white space above",
+  "label on the man: the ignored thing (optional)"
+ ],
+ "examples": [
+  [
+   "People pushing a door that clearly says PULL",
+   "The PULL sign"
+  ],
+  [
+   "Me eating cereal straight from the box",
+   "The bowl"
+  ]
+ ],
+ "describe": [
+  "bald man with offended look saying am i a joke to you",
+  "guy squinting skeptically with subtitles from a tv show",
+  "black man looking insulted at being ignored",
+  "man in a blue shirt giving an offended side-eye",
+  "skeptical bald guy from south african tv"
+ ],
+ "tags": [
+  "offended",
+  "ignored",
+  "skeptical",
+  "subtitle",
+  "tv show",
+  "side-eye",
+  "reaction"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A still from a South African program broadcast on SABC 1, shown with an English subtitle.",
+ "people": "models",
+ "imgflip": {
+  "id": "156387628",
+  "code": "2l3xgs",
+  "image": "2l3xgs.jpg",
+  "width": 720,
+  "height": 793,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 451,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "uno-draw-25-cards",
+ "name": "UNO Draw 25 Cards",
+ "aka": [
+  "Draw 25",
+  "UNO Draw 25",
+  "Or Draw 25"
+ ],
+ "look": "Two side-by-side photos. Left: a hand holds up a white UNO card with a blank space above the handwritten words OR draw 25. Right: a bald man in a black sweater sits at a wooden table holding a huge fan of UNO cards, a green soda can beside him.",
+ "text": [
+  "OR draw 25"
+ ],
+ "use": "The card names something simple the person could just do, like admitting a mistake, and the man holding a giant hand of cards shows they would rather draw 25 than do it.",
+ "slots": [
+  "the simple thing to do (on the card, above OR draw 25)",
+  "who refuses (on or above the man with the cards)"
+ ],
+ "examples": [
+  [
+   "Ask someone for directions",
+   "My dad, three hours into the drive"
+  ],
+  [
+   "Read the terms and conditions",
+   "Everyone ever"
+  ]
+ ],
+ "describe": [
+  "man holding a huge stack of cards instead of doing something",
+  "uno card that says or draw 25",
+  "guy at a table with a giant hand of cards and a soda can",
+  "bald man would rather draw cards than do the easy thing",
+  "card game meme with a handwritten card on the left"
+ ],
+ "tags": [
+  "uno",
+  "card game",
+  "refusal",
+  "stubborn",
+  "playing cards",
+  "two panels",
+  "table"
+ ],
+ "kind": "photo",
+ "format": "sign",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "217743513",
+  "code": "3lmzyx",
+  "image": "3lmzyx.jpg",
+  "width": 500,
+  "height": 494,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 7,
+ "sure": "high",
+ "added": "2026-11-22"
+}

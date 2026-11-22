@@ -1,0 +1,65 @@
+{
+ "slug": "patrick-not-my-wallet",
+ "name": "Patrick Not My Wallet",
+ "aka": [
+  "Patrick's Wallet",
+  "Not My Wallet"
+ ],
+ "look": "Eight panels, four rows of two, from SpongeBob SquarePants in a dark blue cave. A blue-gloved hand holds up Patrick Star's ID card, Man Ray shows the card to a smiling Patrick, then holds up a wallet and crouches to hand it to Patrick, who stands beside him.",
+ "text": [
+  "PATRICK STAR"
+ ],
+ "use": "Man Ray shows Patrick his own ID found in a wallet. Patrick agrees the ID is his but insists the wallet isn't. Used for someone who accepts every piece of evidence yet still denies the obvious conclusion.",
+ "slots": [
+  "Man Ray shows the first piece of evidence",
+  "Patrick agrees it's his",
+  "Man Ray shows the next piece of evidence",
+  "Patrick agrees again",
+  "Man Ray states the obvious conclusion",
+  "Patrick denies it anyway (last panels)"
+ ],
+ "examples": [
+  [
+   "Is this your phone?",
+   "Yep, that's my phone.",
+   "And this 5 AM alarm is on your phone?",
+   "Uh huh.",
+   "So you set the 5 AM alarm.",
+   "I would never set a 5 AM alarm."
+  ]
+ ],
+ "describe": [
+  "man ray shows patrick his own id card",
+  "patrick admits the license is his but denies the rest",
+  "spongebob villain asks patrick if this belongs to him",
+  "patrick star id card comic with a red and blue villain",
+  "pink starfish refuses to accept obvious evidence"
+ ],
+ "tags": [
+  "spongebob",
+  "patrick",
+  "man ray",
+  "denial",
+  "logic",
+  "id card",
+  "wallet"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 8,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A scene from SpongeBob SquarePants where Man Ray tries to return a wallet to Patrick, who denies it's his.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "109894751",
+  "code": "1tffbz",
+  "image": "1tffbz.jpg",
+  "width": 1732,
+  "height": 2068,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 352,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "this-is-fine",
+ "name": "This Is Fine",
+ "aka": [
+  "This Is Fine Dog"
+ ],
+ "look": "Two comic panels. Left: a cartoon dog in a small brown bowler hat sits on a chair at a table with a coffee mug while flames fill the room and smoke covers the ceiling. Right: a close-up of the smiling dog, still surrounded by fire, saying \"THIS IS FINE.\"",
+ "text": [
+  "THIS IS FINE."
+ ],
+ "use": "Shows someone calmly pretending everything is okay while a situation falls apart around them. The flames are labeled as the mounting problem and the dog as the person or group in denial.",
+ "slots": [
+  "the disaster or chaos, placed on the flames or above the comic",
+  "the person in denial, placed on the dog"
+ ],
+ "examples": [
+  [
+   "My inbox after one day off",
+   "Me, sipping coffee"
+  ],
+  [
+   "The group project due tomorrow",
+   "Our team, still picking a font"
+  ]
+ ],
+ "describe": [
+  "cartoon dog with a hat sitting in a burning room",
+  "dog drinking coffee calmly while the house is on fire",
+  "comic dog smiling surrounded by flames pretending all is okay",
+  "dog at a table with a mug says it's fine while everything burns",
+  "two panel comic of a dog ignoring a fire"
+ ],
+ "tags": [
+  "dog",
+  "fire",
+  "denial",
+  "coffee",
+  "webcomic",
+  "calm",
+  "disaster"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "Gunshow",
+ "origin": "The first two panels of On Fire, a 2013 strip from K.C. Green's webcomic Gunshow.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "55311130",
+  "code": "wxica",
+  "image": "wxica.jpg",
+  "width": 580,
+  "height": 282,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 52,
+ "sure": "high",
+ "added": "2026-11-22"
+}

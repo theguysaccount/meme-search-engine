@@ -1,0 +1,55 @@
+{
+ "slug": "pointing-mirror-guy",
+ "name": "Pointing Mirror Guy",
+ "aka": [],
+ "look": "A soft digital illustration of a young man with brown hair and a pale yellow shirt pointing at his reflection in a wood-framed mirror. The reflection, tinted blue and looking sterner with stubble, points back so their fingertips nearly touch.",
+ "text": [],
+ "use": "The man is labeled as yourself and the caption is what you say to your reflection: a pep talk, a confession, or blame for something you did to yourself.",
+ "slots": [
+  "who is at the mirror (the man, left)",
+  "what he says or who the reflection is (the reflection, right)"
+ ],
+ "examples": [
+  [
+   "Me at 2 a.m.",
+   "You're the reason we'll be tired tomorrow"
+  ],
+  [
+   "Me",
+   "The guy who said he'd remember it without writing it down"
+  ]
+ ],
+ "describe": [
+  "guy pointing at his reflection in the mirror drawing",
+  "man in a yellow shirt points a finger at himself in a mirror",
+  "cartoon dude talking to his own reflection",
+  "wikihow style illustration of a man and his blue reflection",
+  "giving yourself a pep talk in the mirror"
+ ],
+ "tags": [
+  "mirror",
+  "reflection",
+  "self talk",
+  "wikihow",
+  "pointing",
+  "illustration"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Drawn in the style of wikiHow's how-to illustrations.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "102165628",
+  "code": "1otri4",
+  "image": "1otri4.jpg",
+  "width": 438,
+  "height": 438,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 415,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

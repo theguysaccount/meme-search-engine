@@ -1,0 +1,53 @@
+{
+ "slug": "gollum",
+ "name": "Gollum",
+ "aka": [],
+ "look": "A close-up still of Gollum from Peter Jackson's Middle-earth films: a pale, bald, CGI creature with huge, round blue-gray eyes, big ears and a few crooked teeth, flashing a creepy, eager grin against a dark, bluish background.",
+ "text": [],
+ "use": "A creepy, overexcited grin for when someone fixates on something they want or gets unsettlingly eager. The caption names the obsession, like spotting the last slice of pizza or hearing fresh gossip.",
+ "slots": [
+  "what has him so eager (caption above or below)"
+ ],
+ "examples": [
+  [
+   "Me when someone says there are leftovers in the fridge"
+  ],
+  [
+   "When the group chat finally starts spilling the drama"
+  ]
+ ],
+ "describe": [
+  "creepy pale creature grinning with big eyes",
+  "lord of the rings creature smiling excitedly my precious",
+  "bald goblin with wide eyes and crooked teeth smiling",
+  "weird eager grin from the hobbit cave creature",
+  "skinny gray creature staring with an unsettling smile"
+ ],
+ "tags": [
+  "gollum",
+  "lotr",
+  "creepy",
+  "grin",
+  "excited",
+  "big eyes",
+  "cgi"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Lord of the Rings",
+ "origin": "Gollum, the CGI character performed by Andy Serkis in Peter Jackson's Middle-earth films.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "681831",
+  "code": "em3r",
+  "image": "em3r.jpg",
+  "width": 395,
+  "height": 394,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 228,
+ "sure": "high",
+ "added": "2026-11-22"
+}

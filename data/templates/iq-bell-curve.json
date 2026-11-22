@@ -1,0 +1,80 @@
+{
+ "slug": "iq-bell-curve",
+ "name": "IQ Bell Curve",
+ "aka": [
+  "Bell Curve",
+  "Midwit Meme"
+ ],
+ "look": "A blue IQ bell curve chart with percentages over each section and IQ scores from 55 to 145 along the bottom. A grinning, simple wojak face sits at the low left end, a crying wojak in glasses at the peak in the middle, and a calm hooded figure at the high right end.",
+ "text": [
+  "34%",
+  "34%",
+  "68%",
+  "14%",
+  "14%",
+  "0.1%",
+  "2%",
+  "2%",
+  "0.1%",
+  "95%",
+  "IQ score",
+  "55",
+  "70",
+  "85",
+  "100",
+  "115",
+  "130",
+  "145"
+ ],
+ "use": "Mocks overthinking. The low-IQ character and the hooded genius say the same simple thing, while the crying average person in the middle argues a long, overcomplicated take.",
+ "slots": [
+  "the simple take (low-IQ wojak, left)",
+  "the overcomplicated, anxious take (crying wojak, middle)",
+  "the same simple take again (hooded figure, right)"
+ ],
+ "examples": [
+  [
+   "Just turn it off and on again",
+   "Actually you need to update the drivers, clear the cache and reinstall the firmware",
+   "Just turn it off and on again"
+  ],
+  [
+   "Sleep is good",
+   "Sleep is for the weak, I can grind 20 hours a day",
+   "Sleep is good"
+  ]
+ ],
+ "describe": [
+  "graph where the dumb guy and the genius agree and the middle guy is crying",
+  "iq graph with a crying nerd at the peak",
+  "low iq and high iq say the same thing",
+  "normal distribution graph with wojak faces at each end",
+  "hooded monk on the right side of an iq graph"
+ ],
+ "tags": [
+  "iq",
+  "bell curve",
+  "wojak",
+  "chart",
+  "overthinking",
+  "intelligence"
+ ],
+ "kind": "drawing",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "533936279",
+  "code": "8tw3vb",
+  "image": "8tw3vb.png",
+  "width": 675,
+  "height": 499,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 153,
+ "sure": "high",
+ "added": "2026-11-22"
+}

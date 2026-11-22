@@ -1,0 +1,64 @@
+{
+ "slug": "what-do-we-want",
+ "name": "What Do We Want",
+ "aka": [
+  "What Do We Want? When Do We Want It?"
+ ],
+ "look": "Four panels in a 2x2 grid of crude drawings. On the left, a figure with a pink shirt, a yellow tuft of hair and a huge open mouth raises one arm and waves a broom against a yellow burst. On the right, three identical figures raise their arms and shout. Both rows repeat.",
+ "text": [],
+ "use": "A protest chant in four beats. The leader asks \"What do we want?\", the crowd shouts a demand, the leader asks \"When do we want it?\", and the crowd's final answer delivers a twist that undercuts the whole demand.",
+ "slots": [
+  "the leader's question (top left)",
+  "the crowd's demand (top right)",
+  "the leader's follow-up question (bottom left)",
+  "the crowd's answer, usually a twist (bottom right)"
+ ],
+ "examples": [
+  [
+   "What do we want?",
+   "Sleep!",
+   "When do we want it?",
+   "After one more episode!"
+  ],
+  [
+   "What do we want?",
+   "To stop procrastinating!",
+   "When do we want it?",
+   "Let's discuss that next week!"
+  ]
+ ],
+ "describe": [
+  "crude drawing of a leader with a broom shouting at a crowd",
+  "four panel protest chant with a crowd yelling back",
+  "cartoon person with pink shirt yelling on yellow burst background",
+  "three identical cartoon people raising their arms and shouting",
+  "leader asks a question and followers answer in unison"
+ ],
+ "tags": [
+  "protest",
+  "chant",
+  "crowd",
+  "allie brosh",
+  "crude drawing",
+  "yellow burst",
+  "four panels"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Hyperbole and a Half",
+ "origin": "Reuses the broom-waving character from Allie Brosh's webcomic Hyperbole and a Half, the same drawing behind X All the Y.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "19209570",
+  "code": "bfq76",
+  "image": "bfq76.jpg",
+  "width": 480,
+  "height": 352,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 205,
+ "sure": "high",
+ "added": "2026-11-22"
+}

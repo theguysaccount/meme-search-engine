@@ -1,0 +1,58 @@
+{
+ "slug": "jason-momoa-henry-cavill",
+ "name": "Jason Momoa Henry Cavill",
+ "aka": [
+  "Jason Momoa Henry Cavill Meme"
+ ],
+ "look": "A red-carpet photo on a bright pink carpet. Henry Cavill, in a navy double-breasted suit and gold tie, poses with a hand in his pocket, while Jason Momoa, with long hair and a beard, crouches behind him grinning and reaching out as if to sneak up on him.",
+ "text": [],
+ "use": "Henry Cavill stands for someone calm and unaware, and the grinning Jason Momoa creeping up behind him is whatever is about to sneak up on them, like a deadline, a bill or a sudden craving.",
+ "slots": [
+  "label on Henry Cavill (the unaware one)",
+  "label on Jason Momoa (what is sneaking up)"
+ ],
+ "examples": [
+  [
+   "Me relaxing on a Sunday afternoon",
+   "The Monday morning alarm"
+  ],
+  [
+   "Me after finally finishing my taxes",
+   "The receipt I forgot to include"
+  ]
+ ],
+ "describe": [
+  "jason momoa sneaking up behind henry cavill on a pink carpet",
+  "guy in a suit posing while a long haired man creeps up behind him",
+  "aquaman actor tiptoeing up to the superman actor at a premiere",
+  "bearded man grinning and sneaking up on someone posing for photos",
+  "man about to pinch another man on the red carpet"
+ ],
+ "tags": [
+  "red carpet",
+  "sneaking",
+  "premiere",
+  "celebrities",
+  "pink",
+  "suit",
+  "photobomb"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A photo from the 2016 London premiere of Suicide Squad, where Jason Momoa crept up behind Henry Cavill as he posed for photographers.",
+ "people": "public",
+ "imgflip": {
+  "id": "137135579",
+  "code": "29nahn",
+  "image": "29nahn.jpg",
+  "width": 512,
+  "height": 768,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 255,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

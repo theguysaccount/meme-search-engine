@@ -1,0 +1,59 @@
+{
+ "slug": "say-the-line-bart",
+ "name": "Say The Line Bart",
+ "aka": [],
+ "look": "Three stacked frames from The Simpsons. Top: Principal Skinner, Mrs. Krabappel and grinning classmates including Milhouse lean in eagerly. Middle: Bart sits at his desk looking down, bored and reluctant. Bottom: the whole classroom erupts in cheers with arms in the air.",
+ "text": [],
+ "use": "A crowd demands a catchphrase and goes wild when it is delivered. The top asks someone to say the line, the middle is the tired, predictable line they always say, and the bottom is everyone cheering.",
+ "slots": [
+  "the crowd's demand: say the line (top)",
+  "the predictable catchphrase (middle, Bart)",
+  "the crowd's cheering reaction (bottom)"
+ ],
+ "examples": [
+  [
+   "Say the line, IT guy!",
+   "Have you tried turning it off and on again?",
+   "*everyone cheers*"
+  ],
+  [
+   "Say the line, Dad!",
+   "Who left all the lights on in here?",
+   "*whole family cheers*"
+  ]
+ ],
+ "describe": [
+  "simpsons class begging bart to say his catchphrase",
+  "bart looking bored then the whole class cheering",
+  "kids leaning in asking bart to say it",
+  "classroom erupts after bart says his famous words",
+  "everyone waiting for bart to repeat his catchphrase"
+ ],
+ "tags": [
+  "the simpsons",
+  "bart",
+  "catchphrase",
+  "classroom",
+  "cheering",
+  "crowd"
+ ],
+ "kind": "cartoon",
+ "format": "panels",
+ "panels": 3,
+ "franchise": "The Simpsons",
+ "origin": "From The Simpsons episode 'Bart Gets Famous' (1994), where everyone begs Bart to say his catchphrase, I didn't do it.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "72525473",
+  "code": "176h0h",
+  "image": "176h0h.jpg",
+  "width": 395,
+  "height": 650,
+  "boxes": 3,
+  "name": "say the line bart! simpsons"
+ },
+ "variants": [],
+ "rank_all_time": 174,
+ "sure": "high",
+ "added": "2026-11-22"
+}

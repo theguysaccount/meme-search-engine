@@ -1,0 +1,55 @@
+{
+ "slug": "dog-vs-werewolf",
+ "name": "Dog vs Werewolf",
+ "aka": [],
+ "look": "Photo of a smiling golden retriever with its tongue out, sitting on a gray floor beside a life-size werewolf figure on all fours. The werewolf has shaggy gray fur, glowing orange eyes, long claws and a snarling red mouth full of fangs. Antlers poke in at the left edge.",
+ "text": [],
+ "use": "The cheerful dog and the snarling werewolf are labeled as two sides of the same thing: how it seems versus how it really is, or how it acts at different times.",
+ "slots": [
+  "the harmless version (the golden retriever, left)",
+  "the scary version (the werewolf, right)"
+ ],
+ "examples": [
+  [
+   "Me after lunch",
+   "Me when I'm hungry"
+  ],
+  [
+   "My cat during the day",
+   "My cat at 3 a.m."
+  ]
+ ],
+ "describe": [
+  "happy golden retriever sitting next to a scary werewolf",
+  "friendly dog and a snarling wolf monster side by side",
+  "cute dog beside a terrifying werewolf statue",
+  "golden dog smiling while a monster growls next to it",
+  "good boy next to his evil wolf twin"
+ ],
+ "tags": [
+  "dog",
+  "werewolf",
+  "monster",
+  "cute vs scary",
+  "golden retriever",
+  "comparison"
+ ],
+ "kind": "photo",
+ "format": "versus",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "179315205",
+  "code": "2yrchx",
+  "image": "2yrchx.png",
+  "width": 602,
+  "height": 600,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 394,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

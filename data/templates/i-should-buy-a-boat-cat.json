@@ -1,0 +1,58 @@
+{
+ "slug": "i-should-buy-a-boat-cat",
+ "name": "I Should Buy A Boat Cat",
+ "aka": [
+  "I Should Buy a Boat"
+ ],
+ "look": "A cat dressed in a navy suit jacket and white shirt sits at a table by a window with sheer white lace curtains. An open newspaper and a white coffee cup on a saucer sit in front of it as it gazes off thoughtfully.",
+ "text": [],
+ "use": "A classy cat lost in thought, musing about an extravagant or impulsive idea. The classic caption reads 'I should buy' on top and 'a boat' below, and versions swap in any grand or silly plan.",
+ "slots": [
+  "top caption: the musing, often 'I should buy'",
+  "bottom caption: the extravagant idea, originally 'a boat'"
+ ],
+ "examples": [
+  [
+   "I should buy",
+   "a fifth houseplant to forget to water"
+  ],
+  [
+   "I should start",
+   "a podcast about my other podcast"
+  ]
+ ],
+ "describe": [
+  "cat in a suit reading the newspaper at breakfast",
+  "fancy cat wearing a business jacket with a cup of coffee",
+  "cat dressed like a businessman sitting at a table thinking",
+  "well dressed kitty with a newspaper by the window",
+  "classy rich cat daydreaming about a big purchase"
+ ],
+ "tags": [
+  "cat",
+  "suit",
+  "newspaper",
+  "coffee",
+  "daydreaming",
+  "rich",
+  "breakfast"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "1367068",
+  "code": "tau4",
+  "image": "tau4.jpg",
+  "width": 500,
+  "height": 367,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 111,
+ "sure": "high",
+ "added": "2026-11-22"
+}

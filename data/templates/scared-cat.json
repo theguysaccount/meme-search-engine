@@ -1,0 +1,58 @@
+{
+ "slug": "scared-cat",
+ "name": "Scared Cat",
+ "aka": [
+  "Shocked Cat"
+ ],
+ "look": "A close-up photo of a white cat with tabby patches and a pink nose, staring upward with huge wide eyes and its mouth slightly open in shock, against a blurred dark and light background.",
+ "text": [],
+ "use": "A reaction of shock, fear or alarm. The caption describes the startling realization or sudden horrifying news, like remembering a deadline or seeing a bill.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the shocking realization"
+ ],
+ "examples": [
+  [
+   "When you realize",
+   "the meeting was today, not tomorrow"
+  ],
+  [
+   "Me after checking",
+   "how much I spent on snacks this month"
+  ]
+ ],
+ "describe": [
+  "cat with huge wide eyes looking shocked",
+  "scared kitty with its mouth open staring up",
+  "startled white and tabby cat in disbelief",
+  "cat face frozen in horror",
+  "surprised cat reaction with big round eyes"
+ ],
+ "tags": [
+  "cat",
+  "shocked",
+  "scared",
+  "wide eyes",
+  "reaction",
+  "surprise",
+  "animal"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "4173692",
+  "code": "2hgfw",
+  "image": "2hgfw.jpg",
+  "width": 620,
+  "height": 463,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 135,
+ "sure": "high",
+ "added": "2026-11-22"
+}

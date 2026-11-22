@@ -1,0 +1,58 @@
+{
+ "slug": "overly-attached-girlfriend",
+ "name": "Overly Attached Girlfriend",
+ "aka": [
+  "OAG"
+ ],
+ "look": "A webcam still of a young woman with straight brown hair and a light blue T-shirt, staring at the camera with wide, unblinking eyes and a huge, intense smile. Behind her, a white wall holds a collage of snapshots and a small hand-lettered sign.",
+ "text": [],
+ "use": "Voices a clingy, possessive, overly intense partner or fan. The top caption sets up something innocent, and the bottom twists it into an obsessive, creepy follow-up delivered with that unblinking smile.",
+ "slots": [
+  "the innocent setup (top caption)",
+  "the obsessive twist (bottom caption)"
+ ],
+ "examples": [
+  [
+   "You said you'd be home at six",
+   "So I've been waiting by the door since five"
+  ],
+  [
+   "Saw you followed a new account",
+   "So I followed everyone they follow"
+  ]
+ ],
+ "describe": [
+  "girl staring wide eyed with a creepy big smile",
+  "clingy girlfriend webcam face with intense eyes",
+  "young woman in a blue shirt smiling too hard at the camera",
+  "obsessive smiling girl in front of a photo collage",
+  "crazy eyes girl meme about a possessive partner"
+ ],
+ "tags": [
+  "clingy",
+  "creepy smile",
+  "webcam",
+  "obsessive",
+  "girlfriend",
+  "wide eyes",
+  "advice animal"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A still from a 2012 YouTube song-parody video whose wide-eyed stare became the Overly Attached Girlfriend meme.",
+ "people": "private",
+ "imgflip": {
+  "id": "100952",
+  "code": "25w8",
+  "image": "25w8.jpg",
+  "width": 500,
+  "height": 370,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 239,
+ "sure": "high",
+ "added": "2026-11-22"
+}

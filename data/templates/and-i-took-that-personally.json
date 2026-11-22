@@ -1,0 +1,57 @@
+{
+ "slug": "and-i-took-that-personally",
+ "name": "And I Took That Personally",
+ "aka": [
+  "I Took That Personally"
+ ],
+ "look": "Documentary interview still: Michael Jordan, bald with a goatee, sits in a white armchair in a bright living room wearing a purple T-shirt and a necklace, spreading his hands as he talks. A drink and a cigar rest on a side table. A subtitle reads \"...and I took that personally\".",
+ "text": [
+  "...and I took that personally"
+ ],
+ "use": "The caption describes a tiny, harmless remark or slight, and the subtitle treats it as a personal insult to hold a grudge over or use as motivation.",
+ "slots": [
+  "the minor slight (caption above the image)"
+ ],
+ "examples": [
+  [
+   "My friend said my cooking was \"interesting\""
+  ],
+  [
+   "The GPS said \"recalculating\" in a judgmental tone"
+  ]
+ ],
+ "describe": [
+  "michael jordan sitting in a chair explaining something with his hands",
+  "basketball documentary subtitle and i took that personally",
+  "bald man in a purple shirt talking in an interview with a drink",
+  "holding a grudge over something small basketball legend",
+  "jordan in an armchair telling a story about being disrespected"
+ ],
+ "tags": [
+  "basketball",
+  "documentary",
+  "grudge",
+  "interview",
+  "subtitle",
+  "offended",
+  "motivation"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "The Last Dance",
+ "origin": "Michael Jordan in the 2020 ESPN documentary series The Last Dance, recalling slights he used as motivation.",
+ "people": "public",
+ "imgflip": {
+  "id": "270884147",
+  "code": "4h9zjn",
+  "image": "4h9zjn.png",
+  "width": 1600,
+  "height": 1000,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 393,
+ "sure": "high",
+ "added": "2026-11-22"
+}

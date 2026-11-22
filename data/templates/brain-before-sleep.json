@@ -1,0 +1,59 @@
+{
+ "slug": "brain-before-sleep",
+ "name": "Brain Before Sleep",
+ "aka": [],
+ "look": "A four-panel comic in a 2x2 grid in soft pink and gray tones. A pink cartoon brain with eyes speaks in a blank speech bubble, and a dark-haired woman in bed answers sleepily. Below, the brain speaks again, wide-eyed, and the woman lies wide awake staring into the dark.",
+ "text": [],
+ "use": "Your brain keeps you up at night. It asks if you are going to sleep, you answer sleepily, then it brings up an embarrassing memory, a random worry or a pointless question, and you are suddenly wide awake.",
+ "slots": [
+  "the brain's opening question (top left bubble)",
+  "your sleepy reply (top right bubble)",
+  "the brain's intrusive thought (bottom left bubble)"
+ ],
+ "examples": [
+  [
+   "Are you asleep?",
+   "Yes, finally",
+   "Remember when you waved back at someone who was waving at the person behind you?"
+  ],
+  [
+   "Hey, you sleeping?",
+   "Trying to",
+   "What if we never locked the front door?"
+  ]
+ ],
+ "describe": [
+  "brain asking if you are going to sleep then bringing up something embarrassing",
+  "cartoon brain keeping a girl awake at night",
+  "girl in bed with her brain talking to her",
+  "four panel comic of a pink brain and a woman who cant sleep",
+  "sleepy girl suddenly wide awake because of her thoughts"
+ ],
+ "tags": [
+  "brain",
+  "insomnia",
+  "sleep",
+  "bedtime",
+  "overthinking",
+  "comic",
+  "anxiety"
+ ],
+ "kind": "comic",
+ "format": "panels",
+ "panels": 4,
+ "franchise": null,
+ "origin": "A comic by Hannah Hillam for BuzzFeed, signed along the edge of the first panel.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "189601074",
+  "code": "34vt4i",
+  "image": "34vt4i.jpg",
+  "width": 318,
+  "height": 320,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 158,
+ "sure": "high",
+ "added": "2026-11-22"
+}

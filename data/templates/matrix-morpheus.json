@@ -1,0 +1,62 @@
+{
+ "slug": "matrix-morpheus",
+ "name": "Matrix Morpheus",
+ "aka": [
+  "What If I Told You"
+ ],
+ "look": "Morpheus, played by Laurence Fishburne, stares straight ahead with a calm, serious expression. He is bald and wears small oval black sunglasses that reflect light and a high-collared black leather coat, against a blurred green and brown background.",
+ "text": [],
+ "use": "Reveals a surprising or mind-bending truth. The top caption says \"What if I told you\" and the bottom caption states a fact that is obvious, counterintuitive or uncomfortable, as if it should blow your mind.",
+ "slots": [
+  "top caption: 'What if I told you'",
+  "bottom caption: the surprising truth"
+ ],
+ "examples": [
+  [
+   "What if I told you",
+   "You can close the tabs you aren't using"
+  ],
+  [
+   "What if I told you",
+   "The snooze button is not a sleep plan"
+  ]
+ ],
+ "describe": [
+  "bald man in round dark sunglasses looking serious",
+  "morpheus with tiny sunglasses and a leather coat",
+  "matrix guy about to reveal a shocking truth",
+  "laurence fishburne in reflective shades staring",
+  "man with small black sunglasses saying something mind blowing"
+ ],
+ "tags": [
+  "the matrix",
+  "morpheus",
+  "sunglasses",
+  "revelation",
+  "truth",
+  "leather coat"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Matrix",
+ "origin": "Laurence Fishburne as Morpheus in the 1999 film The Matrix.",
+ "people": "actor",
+ "imgflip": {
+  "id": "100947",
+  "code": "25w3",
+  "image": "25w3.jpg",
+  "width": 500,
+  "height": 303,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "4081988",
+   "name": "What if i told you"
+  }
+ ],
+ "rank_all_time": 75,
+ "sure": "high",
+ "added": "2026-11-22"
+}

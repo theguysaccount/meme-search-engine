@@ -1,0 +1,58 @@
+{
+ "slug": "dr-evil-laser",
+ "name": "Dr. Evil Laser",
+ "aka": [
+  "Dr Evil Laser",
+  "Dr. Evil Air Quotes"
+ ],
+ "look": "Dr. Evil, played by Mike Myers, is bald and wears a gray Nehru-collar suit. He raises both hands making air quotes with his fingers, mouth open mid-word, in front of a riveted metal wall with a small cratered moon model below him.",
+ "text": [],
+ "use": "Puts a word in sarcastic air quotes to mock how something is described. The top caption sets up the thing and the bottom caption holds the dubious word in quotes, like a \"healthy\" snack or a \"quick\" meeting.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the word or phrase in sarcastic air quotes"
+ ],
+ "examples": [
+  [
+   "Leaving work early for a",
+   "\"Doctor's appointment\""
+  ],
+  [
+   "Tonight's dinner is one",
+   "\"Small\" pizza"
+  ]
+ ],
+ "describe": [
+  "bald villain doing air quotes with both hands",
+  "dr evil making quote marks with his fingers",
+  "mike myers in a gray suit doing finger quotes",
+  "villain next to a moon model sarcastically saying a word",
+  "bald man in a nehru suit holding up two fingers on each hand"
+ ],
+ "tags": [
+  "austin powers",
+  "dr evil",
+  "air quotes",
+  "sarcasm",
+  "villain",
+  "moon"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Austin Powers",
+ "origin": "Mike Myers as Dr. Evil making air quotes around the word \"laser\" in the Austin Powers films.",
+ "people": "actor",
+ "imgflip": {
+  "id": "40945639",
+  "code": "odluv",
+  "image": "odluv.jpg",
+  "width": 500,
+  "height": 405,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 91,
+ "sure": "high",
+ "added": "2026-11-22"
+}

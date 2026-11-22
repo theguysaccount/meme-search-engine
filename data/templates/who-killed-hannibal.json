@@ -1,0 +1,61 @@
+{
+ "slug": "who-killed-hannibal",
+ "name": "Who Killed Hannibal?",
+ "aka": [
+  "Who Killed Hannibal"
+ ],
+ "look": "Two stacked stills from a talk show set. Top: Eric André, in a gray suit, points a handgun at Hannibal Buress, who is slumped in an armchair as smoke drifts. Bottom: André stands at a microphone facing the camera with a blank look while Buress lies motionless behind him.",
+ "text": [],
+ "use": "Someone causes a problem and then plays dumb. The man in the chair is labeled as the thing that got ruined, the shooter as whoever ruined it, and the bottom caption is the shooter's innocent question about who could have done it.",
+ "slots": [
+  "label on the man in the chair: what got ruined",
+  "label on the shooter: who ruined it",
+  "bottom panel: the shooter's innocent question"
+ ],
+ "examples": [
+  [
+   "My sleep schedule",
+   "Me, drinking coffee at 9 p.m.",
+   "Why can't I fall asleep?"
+  ],
+  [
+   "My phone battery",
+   "Me, gaming all morning",
+   "Why is it already at 5%?"
+  ]
+ ],
+ "describe": [
+  "talk show host shoots his cohost then asks who did it",
+  "guy shoots a man in a chair then looks at the camera innocently",
+  "man with a gun pretending he didn't do it",
+  "eric andre pointing a gun at hannibal in an armchair",
+  "host acting confused after shooting someone on set"
+ ],
+ "tags": [
+  "eric andre",
+  "talk show",
+  "gun",
+  "blame",
+  "playing dumb",
+  "adult swim",
+  "two panel"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Eric Andre Show",
+ "origin": "From The Eric Andre Show on Adult Swim: Eric André shoots co-host Hannibal Buress in a staged bit, then turns to the camera asking who killed Hannibal.",
+ "people": "public",
+ "imgflip": {
+  "id": "135678846",
+  "code": "28s2gu",
+  "image": "28s2gu.jpg",
+  "width": 1280,
+  "height": 1440,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 59,
+ "sure": "high",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "thanos-what-did-it-cost",
+ "name": "Thanos What Did It Cost",
+ "aka": [
+  "What Did It Cost? Everything"
+ ],
+ "look": "Four panels in a 2x2 grid bathed in hazy orange light. Left panels: young Gamora, a girl with red hair in a dark red dress, looks up, first from a distance, then close up. Right panels: Thanos in close-up, looking weary and then sad.",
+ "text": [],
+ "use": "Replays the film's exchange: \"Did you do it?\" \"Yes.\" \"What did it cost?\" \"Everything.\" The first panels name a goal someone reached, and the last panel reveals the huge or absurd price they paid for it.",
+ "slots": [
+  "the question, \"did you do it?\" (top left, young Gamora)",
+  "the answer, \"yes\" (top right, Thanos)",
+  "\"what did it cost?\" (bottom left, young Gamora)",
+  "the price paid (bottom right, Thanos)"
+ ],
+ "examples": [
+  [
+   "Did you finish the whole series in one weekend?",
+   "Yes",
+   "What did it cost?",
+   "Sleep, sunlight and two bags of chips"
+  ]
+ ],
+ "describe": [
+  "big purple villain talking to a little red haired girl",
+  "thanos sad after the snap talking to young gamora",
+  "four panel scene where a girl asks the purple guy if he did it",
+  "kid gamora in orange light and a tired thanos",
+  "little girl asks about the price and he answers everything"
+ ],
+ "tags": [
+  "marvel",
+  "thanos",
+  "gamora",
+  "sacrifice",
+  "four panel",
+  "orange",
+  "movie scene"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Marvel",
+ "origin": "From Avengers: Infinity War (2018), when Thanos, right after the snap, meets young Gamora in a dreamlike orange realm.",
+ "people": "actor",
+ "imgflip": {
+  "id": "146291180",
+  "code": "2f3izw",
+  "image": "2f3izw.jpg",
+  "width": 1162,
+  "height": 783,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 291,
+ "sure": "high",
+ "added": "2026-11-22"
+}

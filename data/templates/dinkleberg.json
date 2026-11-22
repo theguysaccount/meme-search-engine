@@ -1,0 +1,56 @@
+{
+ "slug": "dinkleberg",
+ "name": "Dinkleberg",
+ "aka": [],
+ "look": "A still from The Fairly OddParents: Timmy Turner's dad, with slicked black hair, squints and bares clenched teeth in a resentful snarl, shown from the chest up against a green wall, with a blue curtain and a starry night window on the left.",
+ "text": [],
+ "use": "The top caption describes some small misfortune or mystery, and the bottom blames it on 'Dinkleberg', the neighbor Timmy's dad irrationally blames for everything. Used to pin a problem on a petty scapegoat.",
+ "slots": [
+  "top caption: the misfortune or mystery",
+  "bottom caption: '...Dinkleberg' or another scapegoat"
+ ],
+ "examples": [
+  [
+   "The Wi-Fi went out right before I hit save",
+   "Dinkleberg..."
+  ],
+  [
+   "Someone ate the last slice of cake",
+   "DINKLEBERG"
+  ]
+ ],
+ "describe": [
+  "cartoon dad gritting his teeth and squinting angrily",
+  "fairly oddparents dad grumbling about his neighbor",
+  "angry dad clenching his teeth and blaming the guy next door",
+  "timmy turner's father making a suspicious angry face",
+  "cartoon man with slicked back hair snarling"
+ ],
+ "tags": [
+  "fairly oddparents",
+  "angry",
+  "blame",
+  "neighbor",
+  "grudge",
+  "cartoon dad",
+  "nickelodeon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "The Fairly OddParents",
+ "origin": "From The Fairly OddParents, where Timmy's dad blames his neighbor Dinkleberg for every misfortune.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "39633",
+  "code": "ukx",
+  "image": "ukx.jpg",
+  "width": 399,
+  "height": 296,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 345,
+ "sure": "high",
+ "added": "2026-11-22"
+}

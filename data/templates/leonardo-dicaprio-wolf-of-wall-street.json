@@ -1,0 +1,56 @@
+{
+ "slug": "leonardo-dicaprio-wolf-of-wall-street",
+ "name": "Leonardo DiCaprio Wolf of Wall Street",
+ "aka": [],
+ "look": "Two stacked stills of Leonardo DiCaprio as Jordan Belfort on a yacht deck, in dark sunglasses and a white polo shirt. Top: he grins and clenches both fists excitedly while talking to a man in a dark suit. Bottom: he leans in, laughing hard with his mouth wide open.",
+ "text": [],
+ "use": "A two-step reaction of glee. The top caption is something that gets Leo excited, and the bottom is the punchline or follow-up that makes him crack up, often at someone else's expense.",
+ "slots": [
+  "what gets him excited (top panel)",
+  "the punchline that makes him laugh (bottom panel)"
+ ],
+ "examples": [
+  [
+   "My friend: I finally bought a sports car",
+   "Me when he pulls up in a minivan"
+  ],
+  [
+   "Coworker: I'm starting my diet tomorrow",
+   "Me, who has heard that every day since January"
+  ]
+ ],
+ "describe": [
+  "leonardo dicaprio in sunglasses laughing on a boat",
+  "rich guy on a yacht pumping his fists then laughing",
+  "man in white polo and sunglasses clenching fists excitedly",
+  "two panel actor pumped up then cracking up laughing",
+  "guy on a yacht laughing at someone in a suit"
+ ],
+ "tags": [
+  "leonardo dicaprio",
+  "jordan belfort",
+  "laughing",
+  "excited",
+  "sunglasses",
+  "yacht",
+  "two panels"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": "The Wolf of Wall Street",
+ "origin": "Leonardo DiCaprio as Jordan Belfort in the yacht scene of Martin Scorsese's The Wolf of Wall Street (2013).",
+ "people": "actor",
+ "imgflip": {
+  "id": "17496002",
+  "code": "af002",
+  "image": "af002.jpg",
+  "width": 500,
+  "height": 589,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 238,
+ "sure": "high",
+ "added": "2026-11-22"
+}

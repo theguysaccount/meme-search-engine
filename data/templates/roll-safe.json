@@ -1,0 +1,68 @@
+{
+ "slug": "roll-safe",
+ "name": "Roll Safe",
+ "aka": [
+  "Roll Safe Think About It",
+  "Think About It Guy"
+ ],
+ "look": "A video still of actor Kayode Ewumi as Roll Safe, a young Black man in a black leather jacket and gold watch, smiling slyly and tapping his temple with one finger as if he has a clever idea. A shop's chalkboard sign stands behind him.",
+ "text": [],
+ "use": "The captions offer a flawed genius life hack, where the logic technically works but misses the point, such as avoiding a problem by simply never doing the thing at all.",
+ "slots": [
+  "the setup or problem (top)",
+  "the flawed clever solution (bottom)"
+ ],
+ "examples": [
+  [
+   "You can't be late for work",
+   "if you never leave the house"
+  ],
+  [
+   "You can't burn the toast",
+   "if you just eat the bread"
+  ]
+ ],
+ "describe": [
+  "black guy tapping his head with a smirk",
+  "man pointing at his temple like he's got a smart idea",
+  "guy in a leather jacket touching his forehead and smiling",
+  "dude pointing to his head like use your brain",
+  "smug man with a finger on his temple outside a store"
+ ],
+ "tags": [
+  "clever",
+  "life hack",
+  "thinking",
+  "smirk",
+  "tapping head",
+  "leather jacket",
+  "bad logic"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": null,
+ "origin": "Kayode Ewumi playing the character Roll Safe in his web comedy series Hood Documentary.",
+ "people": "actor",
+ "imgflip": {
+  "id": "89370399",
+  "code": "1h7in3",
+  "image": "1h7in3.jpg",
+  "width": 702,
+  "height": 395,
+  "boxes": 2
+ },
+ "variants": [
+  {
+   "id": "93608036",
+   "name": "Thinking Black Guy"
+  },
+  {
+   "id": "92741429",
+   "name": "black guy pointing at head"
+  }
+ ],
+ "rank_all_time": 21,
+ "sure": "high",
+ "added": "2026-11-22"
+}

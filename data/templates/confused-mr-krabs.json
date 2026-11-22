@@ -1,0 +1,57 @@
+{
+ "slug": "confused-mr-krabs",
+ "name": "Confused Mr. Krabs",
+ "aka": [
+  "Mr. Krabs Blur",
+  "Blurry Mr. Krabs"
+ ],
+ "look": "A SpongeBob SquarePants still with a heavy spinning blur. Mr. Krabs, the red crab, stands in the center with his eyes up on their stalks and his mouth open in bewilderment, while a crowd of blurry fish townspeople surrounds him.",
+ "text": [],
+ "use": "Shows feeling completely lost, overwhelmed or disoriented. The caption describes the confusing moment, like walking into an exam after skipping every lecture or opening a group chat with hundreds of unread messages.",
+ "slots": [
+  "the confusing situation (top)"
+ ],
+ "examples": [
+  [
+   "Me opening the group chat after 300 unread messages"
+  ],
+  [
+   "Me walking into the exam after skipping every lecture"
+  ]
+ ],
+ "describe": [
+  "mr krabs spinning and blurry surrounded by fish",
+  "spongebob crab lost in the middle of a crowd",
+  "dizzy crab with wide eyes in a blurred spinning shot",
+  "cartoon crab disoriented and looking around",
+  "blurred red crab who has no idea what is going on"
+ ],
+ "tags": [
+  "spongebob",
+  "mr krabs",
+  "confused",
+  "blur",
+  "lost",
+  "dizzy",
+  "crowd"
+ ],
+ "kind": "cartoon",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A blurred still of Mr. Krabs from the animated series SpongeBob SquarePants.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "61733537",
+  "code": "10r5wh",
+  "image": "10r5wh.jpg",
+  "width": 708,
+  "height": 495,
+  "boxes": null,
+  "name": "Mr Krabs Blur Meme"
+ },
+ "variants": [],
+ "rank_all_time": 276,
+ "sure": "high",
+ "added": "2026-11-22"
+}

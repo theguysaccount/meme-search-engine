@@ -1,0 +1,61 @@
+{
+ "slug": "they-hated-jesus-because-he-told-them-the-truth",
+ "name": "They Hated Jesus Because He Told Them The Truth",
+ "aka": [],
+ "look": "A black-and-white comic panel. The top caption reads \"Most people rejected His message.\" A dark silhouette of a man at left faces a crowd of scowling bearded men in striped robes and head coverings, one shouting \"Shut up!\" The bottom caption says they hated Jesus because He told them the truth, citing Gal. 4:16.",
+ "text": [
+  "Most people rejected His message.",
+  "Shut up!",
+  "They hated Jesus because He told them the truth.",
+  "Gal. 4:16"
+ ],
+ "use": "The silhouette is labeled as someone stating an unpopular but supposedly obvious truth, and the angry crowd as the people who refuse to hear it. Often used ironically for petty hot takes.",
+ "slots": [
+  "the truth-teller (dark silhouette at left)",
+  "the people who reject it (the angry crowd)"
+ ],
+ "examples": [
+  [
+   "Me saying the sequel was better than the original",
+   "The rest of the movie club"
+  ],
+  [
+   "Me pointing out the meeting could have been an email",
+   "Everyone who scheduled the meeting"
+  ]
+ ],
+ "describe": [
+  "comic where an angry crowd of bearded men yell shut up",
+  "black and white religious comic most people rejected his message",
+  "old comic panel crowd telling a silhouette guy to shut up",
+  "people hate the guy for being honest comic strip",
+  "dark silhouette facing a mob of scowling men in robes"
+ ],
+ "tags": [
+  "comic",
+  "black and white",
+  "crowd",
+  "truth",
+  "rejection",
+  "unpopular opinion",
+  "angry mob"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A panel from a Chick tract, one of the small evangelical comic booklets published by Jack Chick.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "115851124",
+  "code": "1wz3as",
+  "image": "1wz3as.jpg",
+  "width": 447,
+  "height": 447,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 388,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "disappointed-black-guy",
+ "name": "Disappointed Black Guy",
+ "aka": [],
+ "look": "White space on the left for captions, split by a horizontal line, sits beside two close-ups of a young Black man in front of an ornate patterned wall. Top: he grins broadly with bright eyes. Bottom: his smile is gone, replaced by a flat, disappointed look.",
+ "text": [],
+ "use": "Shows excitement collapsing into disappointment. The top-left caption is good news or a hopeful expectation that makes him grin, and the bottom-left caption reveals the catch that wipes the smile off his face.",
+ "slots": [
+  "left of the top photo: the exciting news or expectation",
+  "left of the bottom photo: the disappointing catch"
+ ],
+ "examples": [
+  [
+   "The restaurant has free refills",
+   "Only on water"
+  ],
+  [
+   "Your package is out for delivery",
+   "Delivery window: 8 a.m. to 9 p.m."
+  ]
+ ],
+ "describe": [
+  "guy smiling then suddenly disappointed",
+  "man laughing in the top panel and let down in the bottom",
+  "happy then sad reaction with white space for text",
+  "young man's grin fades into a disappointed look",
+  "two panel excited then deflated face"
+ ],
+ "tags": [
+  "disappointment",
+  "happy then sad",
+  "letdown",
+  "reaction",
+  "two panel",
+  "expectation"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 2,
+ "franchise": null,
+ "origin": "",
+ "people": "private",
+ "imgflip": {
+  "id": "50421420",
+  "code": "u0pf0",
+  "image": "u0pf0.jpg",
+  "width": 1172,
+  "height": 756,
+  "boxes": null
+ },
+ "variants": [
+  {
+   "id": "184152522",
+   "name": "Oh yeah! Oh no..."
+  },
+  {
+   "id": "248097807",
+   "name": "Happy / Shock"
+  },
+  {
+   "id": "24792623",
+   "name": "Disappointed Black Guy"
+  }
+ ],
+ "rank_all_time": 92,
+ "sure": "high",
+ "added": "2026-11-22"
+}

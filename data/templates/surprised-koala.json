@@ -1,0 +1,58 @@
+{
+ "slug": "surprised-koala",
+ "name": "Surprised Koala",
+ "aka": [
+  "Shocked Koala"
+ ],
+ "look": "A gray koala clinging beside a tree trunk freezes mid-chew with a green eucalyptus leaf hanging from its mouth, staring at the camera with wide, startled eyes, surrounded by leafy branches.",
+ "text": [],
+ "use": "A stunned reaction to something unexpected or outrageous. The caption describes the shocking thing the koala just saw or heard, often catching someone in the middle of eating or doing something.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the shocking moment"
+ ],
+ "examples": [
+  [
+   "When the waiter says",
+   "the kitchen just closed"
+  ],
+  [
+   "Me hearing my own voice",
+   "on a video recording"
+  ]
+ ],
+ "describe": [
+  "koala with a leaf in its mouth looking shocked",
+  "startled koala bear staring wide eyed",
+  "koala caught eating eucalyptus looking surprised",
+  "gray koala frozen mid bite next to a tree",
+  "shocked animal with food hanging out of its mouth"
+ ],
+ "tags": [
+  "koala",
+  "shocked",
+  "surprised",
+  "eucalyptus",
+  "animal",
+  "reaction",
+  "wide eyes"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "27920",
+  "code": "ljk",
+  "image": "ljk.jpg",
+  "width": 500,
+  "height": 667,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 137,
+ "sure": "high",
+ "added": "2026-11-22"
+}

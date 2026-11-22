@@ -1,0 +1,61 @@
+{
+ "slug": "laughing-wolves",
+ "name": "Laughing Wolves",
+ "aka": [
+  "Laughing Wolf"
+ ],
+ "look": "A photo of three white wolves in an autumn forest with orange leaves. The wolves on the left and right have their mouths wide open as if laughing, while the middle wolf looks straight at the camera with a calm, unamused face.",
+ "text": [],
+ "use": "Two wolves laugh while the middle one stays serious. Labels usually make the middle wolf the one who doesn't get the joke, or the butt of it, while the others laugh at a shared inside joke.",
+ "slots": [
+  "top caption: the joke everyone is laughing at",
+  "label on the laughing wolves (left and right)",
+  "label on the serious middle wolf"
+ ],
+ "examples": [
+  [
+   "The teacher's pun",
+   "My classmates",
+   "Me, who didn't hear it"
+  ],
+  [
+   "Inside joke from the trip",
+   "Everyone who went",
+   "Me, who stayed home"
+  ]
+ ],
+ "describe": [
+  "three white wolves two laughing and one serious",
+  "wolves with mouths open cracking up in a forest",
+  "middle wolf not laughing while the others crack up",
+  "arctic wolves howling with laughter in autumn leaves",
+  "pack of wolves laughing except the one in the middle"
+ ],
+ "tags": [
+  "wolves",
+  "laughing",
+  "unamused",
+  "inside joke",
+  "forest",
+  "autumn",
+  "animals"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "254336433",
+  "code": "47fb8x",
+  "image": "47fb8x.jpg",
+  "width": 720,
+  "height": 493,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 383,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

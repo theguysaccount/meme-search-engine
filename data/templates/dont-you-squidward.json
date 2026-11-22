@@ -1,0 +1,57 @@
+{
+ "slug": "dont-you-squidward",
+ "name": "Don't You Squidward",
+ "aka": [
+  "You Like Krabby Patties Don't You Squidward"
+ ],
+ "look": "SpongeBob, wearing his white and teal work hat tilted on his head, gives a sly, knowing grin with half-closed eyes and raised brows. He stands in a dim teal kitchen with a round metal door and squeeze bottles on a counter behind him.",
+ "text": [],
+ "use": "Calls someone out for secretly enjoying something they claim to dislike. The top caption states what they really like, and the bottom caption adds SpongeBob's smug tag \"don't you, Squidward?\"",
+ "slots": [
+  "top caption: 'You like...' plus what they secretly enjoy",
+  "bottom caption: 'don't you, Squidward?'"
+ ],
+ "examples": [
+  [
+   "You like the song you said was overplayed",
+   "Don't you, Squidward?"
+  ],
+  [
+   "You say you hate reality TV but you've seen every season",
+   "Don't you, Squidward?"
+  ]
+ ],
+ "describe": [
+  "spongebob smirking slyly with his hat on crooked",
+  "spongebob with a smug knowing grin",
+  "sneaky spongebob face raising his eyebrows",
+  "spongebob teasing someone for secretly liking something",
+  "yellow sponge with a sly smile in the krusty krab kitchen"
+ ],
+ "tags": [
+  "spongebob",
+  "smug",
+  "smirk",
+  "teasing",
+  "krusty krab",
+  "cartoon"
+ ],
+ "kind": "cartoon",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "A still of a smug SpongeBob from SpongeBob SquarePants, tied to his line \"You like Krabby Patties, don't you, Squidward?\"",
+ "people": "fictional",
+ "imgflip": {
+  "id": "101511",
+  "code": "26br",
+  "image": "26br.jpg",
+  "width": 500,
+  "height": 333,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 70,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

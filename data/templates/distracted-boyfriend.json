@@ -1,0 +1,62 @@
+{
+ "slug": "distracted-boyfriend",
+ "name": "Distracted Boyfriend",
+ "aka": [
+  "Man Looking at Other Woman",
+  "Guy Checking Out Another Girl"
+ ],
+ "look": "A stock photo on a city street. A man in a blue plaid shirt, walking with his girlfriend, turns to stare back at a passing woman in a red dress on the left. His girlfriend, in a light blue top on the right, glares at him in disbelief.",
+ "text": [],
+ "use": "Each of the three people gets a label. The man is whoever is tempted, the woman in red is the shiny new distraction, and the girlfriend is the responsibility or old favorite being ignored.",
+ "slots": [
+  "the tempting new thing (woman in red, left)",
+  "whoever is tempted (the man, center)",
+  "what gets neglected (the girlfriend, right)"
+ ],
+ "examples": [
+  [
+   "A brand new hobby",
+   "Me",
+   "The four hobbies I bought gear for last month"
+  ],
+  [
+   "Next year's phone",
+   "Me",
+   "My perfectly fine current phone"
+  ]
+ ],
+ "describe": [
+  "guy turning around to check out a girl in a red dress",
+  "man looks back at another woman while his girlfriend is mad",
+  "girlfriend glaring at her boyfriend who is staring at someone else",
+  "couple on a street and the dude is eyeing a passing woman",
+  "jealous girlfriend in blue top and boyfriend in plaid shirt"
+ ],
+ "tags": [
+  "stock photo",
+  "couple",
+  "jealousy",
+  "temptation",
+  "street",
+  "red dress",
+  "three people"
+ ],
+ "kind": "photo",
+ "format": "labels",
+ "panels": 1,
+ "franchise": null,
+ "origin": "A 2015 stock photo; it took off as a meme in 2017.",
+ "people": "models",
+ "imgflip": {
+  "id": "112126428",
+  "code": "1ur9b0",
+  "image": "1ur9b0.jpg",
+  "width": 1200,
+  "height": 800,
+  "boxes": 3
+ },
+ "variants": [],
+ "rank_all_time": 3,
+ "sure": "high",
+ "added": "2026-11-22"
+}

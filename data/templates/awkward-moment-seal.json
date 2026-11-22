@@ -1,0 +1,59 @@
+{
+ "slug": "awkward-moment-seal",
+ "name": "Awkward Moment Seal",
+ "aka": [
+  "Awkward Moment Sealion",
+  "Awkward Seal"
+ ],
+ "look": "A close-up photo of a young gray seal with big dark eyes and long whiskers, its head tilted as it glances sideways with an uneasy, awkward expression, against a blurred sandy background.",
+ "text": [],
+ "use": "Captures the cringe when a situation turns awkward. The caption describes the uncomfortable thing that just happened, like waving back at someone who wasn't waving at you.",
+ "slots": [
+  "top caption: the setup",
+  "bottom caption: the awkward moment"
+ ],
+ "examples": [
+  [
+   "When you wave back at someone",
+   "who was waving at the person behind you"
+  ],
+  [
+   "When the waiter says 'enjoy your meal'",
+   "and you say 'you too'"
+  ]
+ ],
+ "describe": [
+  "seal with big eyes looking awkward",
+  "uncomfortable seal glancing to the side",
+  "baby seal making a cringe face",
+  "seal pup tilting its head in an awkward moment",
+  "chubby gray seal giving side eye"
+ ],
+ "tags": [
+  "seal",
+  "awkward",
+  "cringe",
+  "side eye",
+  "animal",
+  "uncomfortable",
+  "reaction"
+ ],
+ "kind": "photo",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": null,
+ "origin": "",
+ "people": "none",
+ "imgflip": {
+  "id": "13757816",
+  "code": "86vlk",
+  "image": "86vlk.jpg",
+  "width": 620,
+  "height": 397,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 142,
+ "sure": "high",
+ "added": "2026-11-22"
+}

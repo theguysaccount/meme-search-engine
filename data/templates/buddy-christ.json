@@ -1,0 +1,55 @@
+{
+ "slug": "buddy-christ",
+ "name": "Buddy Christ",
+ "aka": [],
+ "look": "A photo of a painted statue of Jesus in a cream robe with a red sash and a golden sacred heart on his chest. He grins widely and winks, pointing at the viewer with one hand and giving a thumbs-up with the other, in front of a gray stone wall.",
+ "text": [],
+ "use": "A cheesy seal of approval. The caption names a questionable or lazy choice, and the statue's wink, point and thumbs-up cheerfully say it is totally fine.",
+ "slots": [
+  "the questionable thing being approved (top)",
+  "the cheerful approval (bottom)"
+ ],
+ "examples": [
+  [
+   "Eating cold pizza for breakfast",
+   "Totally counts as a balanced meal"
+  ],
+  [
+   "Hitting snooze five times",
+   "That's called self-care, buddy"
+  ]
+ ],
+ "describe": [
+  "jesus statue winking and giving a thumbs up",
+  "smiling jesus pointing at you with a thumbs up",
+  "cheesy religious statue that winks and points",
+  "jesus figure with a big grin and a heart on his robe",
+  "statue pointing at the camera with a goofy grin"
+ ],
+ "tags": [
+  "statue",
+  "thumbs up",
+  "wink",
+  "approval",
+  "movie prop",
+  "pointing"
+ ],
+ "kind": "photo",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Dogma",
+ "origin": "The Buddy Christ statue from Kevin Smith's 1999 film Dogma, unveiled there as part of a church's 'Catholicism Wow!' campaign.",
+ "people": "none",
+ "imgflip": {
+  "id": "17699",
+  "code": "dnn",
+  "image": "dnn.jpg",
+  "width": 400,
+  "height": 400,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 144,
+ "sure": "high",
+ "added": "2026-11-22"
+}

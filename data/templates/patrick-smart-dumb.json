@@ -1,0 +1,58 @@
+{
+ "slug": "patrick-smart-dumb",
+ "name": "Patrick Smart Dumb",
+ "aka": [
+  "Smart Patrick Dumb Patrick"
+ ],
+ "look": "Two stacked SpongeBob SquarePants stills. Top: Patrick Star in glasses, a white lab coat and red tie peers into a microscope and takes notes in a rocky lab. Bottom: Patrick sits on the sand with a wooden plank nailed to his head, holding a hammer beside a bench with a saw and scattered tools.",
+ "text": [],
+ "use": "Contrasts a smart version of something with a dumb version. The top panel gets the clever, competent take and the bottom gets the clueless reality, such as how you think you work versus how you actually work.",
+ "slots": [
+  "the smart version, on the top panel (lab Patrick)",
+  "the dumb version, on the bottom panel (plank-on-head Patrick)"
+ ],
+ "examples": [
+  [
+   "Me explaining my plan in my head",
+   "Me explaining it out loud"
+  ],
+  [
+   "Me in the first five minutes of the exam",
+   "Me in the last five minutes"
+  ]
+ ],
+ "describe": [
+  "patrick in a lab coat with a microscope then a board nailed to his head",
+  "starfish genius on top and starfish idiot on the bottom",
+  "pink starfish scientist then hitting himself with a hammer",
+  "genius patrick and clueless patrick in two panels",
+  "spongebob starfish wearing glasses looking into a microscope"
+ ],
+ "tags": [
+  "spongebob",
+  "patrick star",
+  "smart vs dumb",
+  "scientist",
+  "lab coat",
+  "hammer",
+  "contrast"
+ ],
+ "kind": "cartoon",
+ "format": "versus",
+ "panels": 2,
+ "franchise": "SpongeBob SquarePants",
+ "origin": "",
+ "people": "fictional",
+ "imgflip": {
+  "id": "183221332",
+  "code": "3132hg",
+  "image": "3132hg.jpg",
+  "width": 724,
+  "height": 1014,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 449,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "goodfellas-laughing",
+ "name": "Goodfellas Laughing",
+ "aka": [
+  "Good Fellas Hilarious",
+  "Ray Liotta Laughing"
+ ],
+ "look": "A film still from Goodfellas. Ray Liotta as Henry Hill, in a cream suit jacket, laughs hysterically with his mouth wide open and his hands clutched at his chest. Behind him on the left, a man in a dark suit and tie throws his head back laughing. Warm bar lights glow in the background.",
+ "text": [],
+ "use": "A reaction to something absurdly funny, often a friend's misfortune or a ridiculous claim. The caption sets up what is being laughed at, and the two men stand for you and your friends cracking up.",
+ "slots": [
+  "what is being laughed at (top caption)",
+  "who is laughing, such as me and my friends (bottom caption)"
+ ],
+ "examples": [
+  [
+   "My friend says he'll only stay for one drink",
+   "Everyone who has ever gone out with him"
+  ],
+  [
+   "The new guy asks if the office coffee is any good",
+   "The whole team"
+  ]
+ ],
+ "describe": [
+  "two gangsters in suits laughing hysterically at a bar",
+  "guy in a cream jacket cracking up with his mouth wide open",
+  "two men in a nightclub dying of laughter",
+  "mafia movie scene where the guys can't stop laughing",
+  "ray liotta losing it at a joke in a cream suit"
+ ],
+ "tags": [
+  "laughing",
+  "mobsters",
+  "suits",
+  "bar",
+  "movie still",
+  "hysterical",
+  "friends"
+ ],
+ "kind": "screenshot",
+ "format": "reaction",
+ "panels": 1,
+ "franchise": "Goodfellas",
+ "origin": "A still from Martin Scorsese's 1990 film Goodfellas, with Ray Liotta as Henry Hill laughing hard.",
+ "people": "actor",
+ "imgflip": {
+  "id": "47235368",
+  "code": "s4f1k",
+  "image": "s4f1k.jpg",
+  "width": 1600,
+  "height": 1150,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 143,
+ "sure": "high",
+ "added": "2026-11-22"
+}

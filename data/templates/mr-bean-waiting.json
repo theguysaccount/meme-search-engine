@@ -1,0 +1,53 @@
+{
+ "slug": "mr-bean-waiting",
+ "name": "Mr. Bean Waiting",
+ "aka": [],
+ "look": "Four panels in a 2x2 grid under an empty black band. Mr. Bean (Rowan Atkinson), in a brown tweed jacket and red tie, waits beside a field of yellow flowers: hands on hips, checking his watch, sitting on the grass, then lying flat on the ground.",
+ "text": [],
+ "use": "Shows waiting so long that impatience turns into giving up completely. The caption in the black band names whatever is taking forever, like a late reply, a slow download or a promised sequel.",
+ "slots": [
+  "the black band at the top: what you are waiting for"
+ ],
+ "examples": [
+  [
+   "Me waiting for my friend who texted \"five minutes away\" an hour ago"
+  ],
+  [
+   "Waiting for the game to finish its day-one update"
+  ]
+ ],
+ "describe": [
+  "mr bean in a yellow flower field checking his watch",
+  "rowan atkinson getting bored and lying down in a field",
+  "man waits so long he sits down then lies on the ground",
+  "four panel of a guy in a tweed jacket waiting forever",
+  "british comedian impatient by the road then gives up"
+ ],
+ "tags": [
+  "mr bean",
+  "waiting",
+  "impatient",
+  "bored",
+  "field",
+  "four panel",
+  "yellow flowers"
+ ],
+ "kind": "screenshot",
+ "format": "panels",
+ "panels": 4,
+ "franchise": "Mr. Bean",
+ "origin": "Rowan Atkinson as his character Mr. Bean, waiting beside a field of yellow flowers.",
+ "people": "actor",
+ "imgflip": {
+  "id": "123104217",
+  "code": "21ajtl",
+  "image": "21ajtl.jpg",
+  "width": 1119,
+  "height": 1375,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 249,
+ "sure": "high",
+ "added": "2026-11-22"
+}

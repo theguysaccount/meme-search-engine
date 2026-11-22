@@ -1,0 +1,59 @@
+{
+ "slug": "why-cant-you-just-be-normal",
+ "name": "Why Can't You Just Be Normal",
+ "aka": [],
+ "look": "Two stacked panels inside a car. Top: a haggard woman with messy blonde hair turns around from the front seat and yells, captioned \"Why cant you just be normal?\". Bottom: a curly-haired boy in a dark cardigan, belted into the back seat, screams back, captioned \"*Screams*\".",
+ "text": [
+  "Why cant you just be normal?",
+  "*Screams*"
+ ],
+ "use": "The mother stands for someone asking a person to act normal, and the screaming kid is whoever answers with something even stranger. Labels name the two sides, and the scream line is often swapped for a specific weird noise or habit.",
+ "slots": [
+  "label on the yelling mother (who wants normal)",
+  "label on the screaming kid"
+ ],
+ "examples": [
+  [
+   "My dog trainer",
+   "My dog when the doorbell rings"
+  ],
+  [
+   "My phone's autocorrect",
+   "Me typing a word I use every day"
+  ]
+ ],
+ "describe": [
+  "mom yelling why can't you just be normal at a kid in the car",
+  "woman screaming from the front seat and boy screaming in the back",
+  "angry mother turns around in the car and her son screams back",
+  "curly haired kid shrieking in the backseat",
+  "two panel car scene where mom and child both yell"
+ ],
+ "tags": [
+  "car",
+  "mother",
+  "child",
+  "screaming",
+  "yelling",
+  "two panel",
+  "weird"
+ ],
+ "kind": "screenshot",
+ "format": "labels",
+ "panels": 2,
+ "franchise": "The Babadook",
+ "origin": "Uses two stills from a car scene in the 2014 Australian horror film The Babadook.",
+ "people": "actor",
+ "imgflip": {
+  "id": "303873877",
+  "code": "50x2l1",
+  "image": "50x2l1.jpg",
+  "width": 450,
+  "height": 453,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 250,
+ "sure": "medium",
+ "added": "2026-11-22"
+}

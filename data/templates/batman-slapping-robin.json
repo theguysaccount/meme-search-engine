@@ -1,0 +1,59 @@
+{
+ "slug": "batman-slapping-robin",
+ "name": "Batman Slapping Robin",
+ "aka": [
+  "Batman Slaps Robin",
+  "Batman Slap"
+ ],
+ "look": "A single comic panel on a red background. Batman, on the right, slaps Robin hard across the face. Robin, seen from behind in his yellow cape and green glove, is cut off mid-sentence. Two empty speech balloons at the top hold Robin's line and Batman's reply.",
+ "text": [],
+ "use": "Robin starts to say something naive, wrong or annoying in the left balloon, and Batman cuts him off with a slap and a sharp correction in the right balloon.",
+ "slots": [
+  "what Robin starts to say (left speech balloon)",
+  "Batman's sharp reply (right speech balloon)"
+ ],
+ "examples": [
+  [
+   "Five more minutes and then I'll start my homew-",
+   "You said that an hour ago!"
+  ],
+  [
+   "The movie was better than the bo-",
+   "Don't you dare!"
+  ]
+ ],
+ "describe": [
+  "batman smacking robin in an old comic book panel",
+  "superhero smacks his sidekick across the face",
+  "caped hero hits the boy wonder mid sentence",
+  "vintage comic slap with two empty speech bubbles",
+  "red background comic where one hero slaps the other"
+ ],
+ "tags": [
+  "batman",
+  "robin",
+  "slap",
+  "comic",
+  "superhero",
+  "speech bubbles",
+  "red background"
+ ],
+ "kind": "comic",
+ "format": "labels",
+ "panels": 1,
+ "franchise": "Batman",
+ "origin": "A panel from a 1960s DC Comics Batman story.",
+ "people": "fictional",
+ "imgflip": {
+  "id": "438680",
+  "code": "9ehk",
+  "image": "9ehk.jpg",
+  "width": 400,
+  "height": 387,
+  "boxes": 2
+ },
+ "variants": [],
+ "rank_all_time": 6,
+ "sure": "high",
+ "added": "2026-11-22"
+}

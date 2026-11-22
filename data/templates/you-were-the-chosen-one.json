@@ -1,0 +1,58 @@
+{
+ "slug": "you-were-the-chosen-one",
+ "name": "You Were The Chosen One",
+ "aka": [
+  "You Were The Chosen One (Star Wars)"
+ ],
+ "look": "A film still of Obi-Wan Kenobi, played by Ewan McGregor, shouting in anguish with his mouth wide open. His face is sweaty and smudged, he wears brown Jedi robes, and glowing orange lava and flames fill the dark background.",
+ "text": [],
+ "use": "Scolds something that was supposed to solve a problem but made it worse or went over to the other side. Captions follow Obi-Wan's lines: you were the chosen one, you were supposed to do X, not Y.",
+ "slots": [
+  "top caption: the thing that let you down",
+  "bottom caption: you were supposed to do X, not Y"
+ ],
+ "examples": [
+  [
+   "Antivirus software, you were the chosen one!",
+   "You were supposed to stop the pop-ups, not become one"
+  ],
+  [
+   "Autocorrect, you were the chosen one!",
+   "You were supposed to fix my typos, not invent new words"
+  ]
+ ],
+ "describe": [
+  "obi wan screaming at anakin with lava in the background",
+  "star wars jedi yelling in anguish on a lava planet",
+  "bearded man with sweaty dirty face shouting in front of fire",
+  "ewan mcgregor crying out at his former apprentice",
+  "you were supposed to destroy them not join them star wars"
+ ],
+ "tags": [
+  "star wars",
+  "obi-wan kenobi",
+  "yelling",
+  "betrayal",
+  "disappointment",
+  "lava",
+  "anguish"
+ ],
+ "kind": "screenshot",
+ "format": "top-bottom",
+ "panels": 1,
+ "franchise": "Star Wars",
+ "origin": "Obi-Wan Kenobi (Ewan McGregor) shouting at Anakin Skywalker after their duel on Mustafar in Star Wars: Revenge of the Sith (2005).",
+ "people": "actor",
+ "imgflip": {
+  "id": "18202798",
+  "code": "au5da",
+  "image": "au5da.jpg",
+  "width": 600,
+  "height": 342,
+  "boxes": null
+ },
+ "variants": [],
+ "rank_all_time": 434,
+ "sure": "high",
+ "added": "2026-11-22"
+}
