@@ -9,4 +9,4 @@
 - Runs by itself: refresh and deploy twice a week, weekly self-test with a stale-data check and keep-alive.
 - Needs a human: content routine for new templates, domain, sponsor, analytics, Search Console (OPERATIONS.md keys).
 - Known gaps: templates that are new on Imgflip appear by name only until the routine describes them; 7 animated
-  templates without a still image were not described.
+  templates without a still image and 4 low-confidence entries were not published.

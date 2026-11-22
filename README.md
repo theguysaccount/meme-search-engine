@@ -5,7 +5,7 @@ and get the meme's name, what it means, how it's used and a link to the blank te
 
 **Live:** https://theguysaccount.github.io/meme-search-engine/ · **API:** https://theguysaccount.github.io/meme-search-engine/api/
 
-- ~450 popular templates, each described by looking at the template: what it shows, the words on it, how people use
+- 384 popular templates (plus 57 alternate uploads folded into their pages), each described by looking at the template: what it shows, the words on it, how people use
   it, and the ways people describe it when they don't know its name.
 - Search runs in your browser (BM25 over the descriptions, plus synonyms, word forms, typos and compound words).
   Nothing you type is sent anywhere.

@@ -71,7 +71,10 @@ try {
       await send("Emulation.setDeviceMetricsOverride", { width, height, deviceScaleFactor: 1, mobile }, sessionId);
       await send("Emulation.setUserAgentOverride", { userAgent: mobile ? PHONE_UA : userAgent.replace("HeadlessChrome", "Chrome") }, sessionId);
       const loaded = once("Page.loadEventFired", sessionId);
-      await send("Page.navigate", { url: base + p }, sessionId);
+      // A unique query per shot: navigating to the same URL with only a #fragment wouldn't load the page again.
+      const [pagePath, hash] = (base + p).split("#");
+      const target = pagePath + (pagePath.includes("?") ? "&" : "?") + "shot=" + label + (hash !== undefined ? "#" + hash : "");
+      await send("Page.navigate", { url: target }, sessionId);
       await loaded;
       await new Promise((r) => setTimeout(r, 1500));
       const { result } = await send("Runtime.evaluate", { expression: "document.documentElement.scrollWidth", returnByValue: true }, sessionId);

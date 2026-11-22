@@ -18,8 +18,10 @@ Defaults picked without blocking on Jack. Each can be reversed.
    `EMBED_IMAGES=0` (repository variable) switches the whole site to text links; `"embed": false` does it for one
    template (removal requests). Share cards are text only. Unreviewed trending templates never get a picture.
 5. **Content rules over completeness.** 16 popular templates were left out before captioning (slurs, ethnic
-   stereotypes, adult origins, real tragedy and violence, hate-symbol associations, utility blanks), more were
-   excluded by the captioning pass. They're listed with reasons in `data/moderation.json`.
+   stereotypes, adult origins, real tragedy and violence, hate-symbol associations, utility blanks) and 7 more by the
+   captioning pass (real violence or tragedy, a harassment joke, unidentifiable images). All 23 are listed with reasons
+   in `data/moderation.json`. 4 entries the captioners weren't sure about (Dancing Monkeys, FINALLY, Rage Table Smash,
+   Unicorn Man) are held back for review rather than published with a possibly wrong name.
 6. **Private people stay nameless.** Ordinary people who became memes are described by the meme's name only.
    Actors, characters and public figures are named, because that's how people search for them.
 7. **Versions fold into one page.** Imgflip has several uploads of some templates (Drake, Spider-Man pointing,
@@ -31,8 +33,8 @@ Defaults picked without blocking on Jack. Each can be reversed.
 10. **Money stays a slot.** GitHub Pages is non-commercial; a sponsor box hidden behind `SPONSOR_URL` is the one
     switch. A paid API (the note's "become like Giphy") needs other hosting and Stripe: a decision for Jack.
 11. **Quality is measured, not assumed.** `tests/eval.json` holds 123 descriptions written before the catalog text
-    existed; `tests/js/eval.test.mjs` fails the deploy if top-1 or top-3 accuracy falls below the floor set from
-    the first measurement.
+    existed; the first measurement was 97.5% right first and 100% in the top 3. `tests/js/eval.test.mjs` fails the
+    deploy below 85% first or 93% top 3.
 
 ## Questions for Jack (none block the site)
 
