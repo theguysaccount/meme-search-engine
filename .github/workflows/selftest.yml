@@ -31,7 +31,7 @@ jobs:
       - name: Unit tests
         run: |
           python3 -m unittest discover -s tests
-          node --test tests/js/
+          node --test tests/js/*.test.mjs
       - name: Drive the live site end to end
         run: scripts/e2e.sh "$SITE_URL/"
       - name: Every page and API file is healthy and the data is fresh

@@ -261,9 +261,15 @@ def related(templates):
 def build_hubs(templates, collections):
     """Browse pages: curated collections, formats, and any source with enough templates to be worth a page."""
     hubs = []
+
+    def tag_match(want, have):
+        """A collection tag matches a template tag exactly, or as whole words inside it ("cat" in "angry cat")."""
+        w = " " + want.lower() + " "
+        return any(w in " " + h.lower() + " " for h in have)
+
     for c in collections:
-        tags, slugs = set(c.get("tags", [])), set(c.get("slugs", []))
-        members = [t for t in templates if t["slug"] in slugs or tags & set(t["tags"])
+        slugs = set(c.get("slugs", []))
+        members = [t for t in templates if t["slug"] in slugs or any(tag_match(x, t["tags"]) for x in c.get("tags", []))
                    or (c.get("kinds") and t["kind"] in c["kinds"]) or (c.get("franchises") and t["franchise"] in c["franchises"])]
         if len(members) >= 5:
             hubs.append({"slug": c["slug"], "title": c["title"], "intro": c["intro"], "group": "Collections", "members": members})

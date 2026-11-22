@@ -1,0 +1,31 @@
+{
+ "about": "Curated browse pages. A template joins a collection when one of its tags matches a collection tag (whole tag, or a whole word inside a tag), or its kind or source matches. Pages with fewer than 5 templates are not built.",
+ "collections": [
+  {"slug": "cat-memes", "title": "Cat memes", "intro": "Meme templates starring cats: yelling, staring, crying, typing and judging.", "tags": ["cat", "cats", "kitten"]},
+  {"slug": "dog-memes", "title": "Dog memes", "intro": "Meme templates with dogs, from Doge and Cheems to the dog in the burning room.", "tags": ["dog", "dogs", "doge", "puppy", "shiba inu"]},
+  {"slug": "animal-memes", "title": "Animal memes", "intro": "Meme templates with animals other than cats and dogs: monkeys, birds, bears, seals and more.", "tags": ["monkey", "bird", "seagull", "bear", "seal", "frog", "animal", "animals", "penguin", "puffin", "wolf", "dinosaur", "koala", "raptor", "gorilla", "chimpanzee", "horse", "goose"]},
+  {"slug": "spongebob-memes", "title": "SpongeBob memes", "intro": "Every SpongeBob SquarePants template in the catalog, from Mocking SpongeBob to Squidward's window.", "franchises": ["SpongeBob SquarePants"]},
+  {"slug": "reaction-faces", "title": "Reaction faces", "intro": "Faces and moments people paste in as a reply: shock, disgust, smugness, confusion, awkward silence.", "tags": ["reaction", "reaction face", "facial expression", "shock", "surprise", "disbelief"]},
+  {"slug": "choice-and-decision-memes", "title": "Choice and decision memes", "intro": "Templates about choosing: two buttons, two paths, rejecting one thing and approving another.", "tags": ["choice", "decision", "dilemma", "choosing", "options", "preference", "approval", "rejection"]},
+  {"slug": "comparison-memes", "title": "Comparison memes", "intro": "Templates that set two or more things against each other: strong versus weak, then versus now, expectation versus reality.", "tags": ["comparison", "contrast", "versus", "before and after", "strong vs weak"]},
+  {"slug": "work-and-office-memes", "title": "Work and office memes", "intro": "Templates about bosses, meetings, coworkers and the job.", "tags": ["office", "work", "boss", "meeting", "job", "coworker", "boardroom", "business", "corporate", "workplace"]},
+  {"slug": "school-memes", "title": "School memes", "intro": "Templates set in classrooms or about teachers, students and exams.", "tags": ["school", "teacher", "student", "classroom", "exam", "class", "homework"]},
+  {"slug": "sports-memes", "title": "Sports and wrestling memes", "intro": "Templates from basketball, football, wrestling and other sports.", "tags": ["sports", "sport", "basketball", "football", "soccer", "wrestling", "athlete", "baseball", "boxing"]},
+  {"slug": "anime-memes", "title": "Anime memes", "intro": "Templates taken from anime series and films.", "tags": ["anime", "manga"]},
+  {"slug": "video-game-memes", "title": "Video game memes", "intro": "Templates from video games and gaming culture.", "tags": ["video game", "video games", "gaming", "gamer"], "kinds": ["game"]},
+  {"slug": "cartoon-memes", "title": "Cartoon memes", "intro": "Templates taken from animated shows and films.", "kinds": ["cartoon"]},
+  {"slug": "movie-and-tv-memes", "title": "Movie and TV memes", "intro": "Templates taken from live-action films and TV shows.", "kinds": ["screenshot"]},
+  {"slug": "classic-image-macros", "title": "Classic image macros", "intro": "The early-internet format: one photo, bold white text on top and bottom. Advice animals and their relatives.", "tags": ["image macro", "advice animal", "classic meme", "old meme", "rage comic"]},
+  {"slug": "wholesome-memes", "title": "Wholesome memes", "intro": "Friendly templates about support, friendship and small wins.", "tags": ["wholesome", "friendship", "support", "kindness", "celebration", "teamwork", "agreement"]},
+  {"slug": "awkward-memes", "title": "Awkward and cringe memes", "intro": "Templates for uncomfortable silences, side glances and second-hand embarrassment.", "tags": ["awkward", "cringe", "embarrassment", "uncomfortable", "nervous"]},
+  {"slug": "angry-memes", "title": "Angry and yelling memes", "intro": "Templates full of shouting, arguing and rage.", "tags": ["anger", "angry", "yelling", "argument", "rage", "shouting", "frustration"]},
+  {"slug": "sad-memes", "title": "Sad and crying memes", "intro": "Templates for disappointment, loneliness and tears.", "tags": ["sad", "sadness", "crying", "tears", "disappointment", "loneliness", "grief"]},
+  {"slug": "smug-and-confident-memes", "title": "Smug and confident memes", "intro": "Templates for feeling clever, superior or completely in control.", "tags": ["smug", "confidence", "confident", "smart", "clever", "superiority", "pride"]},
+  {"slug": "confused-memes", "title": "Confused memes", "intro": "Templates for when nothing adds up: squinting, math equations and blank stares.", "tags": ["confusion", "confused", "misunderstanding", "puzzled", "doubt", "skepticism"]},
+  {"slug": "panic-and-fear-memes", "title": "Panic and fear memes", "intro": "Templates for dread, fear and the moment things go wrong.", "tags": ["panic", "fear", "scared", "dread", "danger", "disaster", "chaos"]},
+  {"slug": "multi-panel-memes", "title": "Multi-panel story memes", "intro": "Templates told in three, four or more panels, where the last one is the punchline.", "tags": ["four panels", "4 panel", "multi panel", "comic strip"]},
+  {"slug": "superhero-memes", "title": "Superhero memes", "intro": "Templates with Spider-Man, Batman, the Avengers and other heroes.", "tags": ["superhero", "superheroes", "spider man", "batman", "marvel", "dc comics", "avengers"], "franchises": ["Marvel", "Spider-Man", "Batman", "DC Comics"]},
+  {"slug": "star-wars-memes", "title": "Star Wars memes", "intro": "Templates from the Star Wars films and shows.", "franchises": ["Star Wars"], "tags": ["star wars"]},
+  {"slug": "simpsons-memes", "title": "The Simpsons memes", "intro": "Templates from The Simpsons.", "franchises": ["The Simpsons"], "tags": ["simpsons", "the simpsons"]}
+ ]
+}

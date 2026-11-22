@@ -55,7 +55,7 @@ jobs:
       - name: Unit tests
         run: |
           python3 -m unittest discover -s tests -v
-          node --test tests/js/
+          node --test tests/js/*.test.mjs
       - name: Build
         run: REQUIRE_OG=1 python3 pipeline/build.py
       - name: Drive the built site in headless Chrome
