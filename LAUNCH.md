@@ -6,7 +6,7 @@
 
 | # | Domain | Status | Note |
 |---|---|---|---|
-| 1 | `memes.gifstudios.com` | gifstudios.com is Jack's | One CNAME; ties the search into Gif Studios, as the note asked. |
+| 1 | `memes.gifstudios.com` | gifstudios.com is Jack's | One CNAME. It would tie the search into Gif Studios, but Jack's note doesn't mention Gif Studios, so it is his call. The domain rollout left the site on github.io until he decides. |
 | 2 | `describeameme.com` | unregistered (about $11/yr) | Exactly the product name. `describeameme.org` is also free. |
 | 3 | `whatmemeisthis.com` | unregistered (about $11/yr) | Matches how people phrase the question. (`whatsthatmeme.com`, `namethatmeme.com`, `findthatmeme.com` and `memefinder.com` are taken.) |
 
